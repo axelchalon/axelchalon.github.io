@@ -2,7 +2,6 @@
 layout: post
 title:  '"Trying Not to Try" by Edward Slingerland (personal notes)'
 date:   2023-04-15 14:13:12 +0200
-categories: book-review
 ---
 
 _This is my attempt at a personal summary of Edward Slingerland's book "Trying Not to Try: Ancient China, Modern Science and The Power of Spontaneity" (insert Amazon affiliate link here)_

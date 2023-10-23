@@ -2,7 +2,6 @@
 layout: post
 title:  '"Sex Talks" by Vanessa Marin (personal notes)'
 date:   2023-06-15 14:13:12 +0200
-categories: book-review
 ---
 
 _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conversations That Will Transform Your Love Life" (insert Amazon affiliate link here)_

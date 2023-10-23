@@ -2,7 +2,6 @@
 layout: post
 title: '"Broadcast – Work and Non Work" (album review)'
 date:   2016-01-18 14:13:12 +0200
-categories: music-review
 ---
 
 This album feels like floating in space, contemplating Earth and pondering about life.

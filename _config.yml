@@ -36,6 +36,7 @@ jekyll_timeago:
 
 categories_titles:
   music-review: "Music reviews"
+  concert-review: "Concert reviews"
   poetry: "Poetry"
   motivational: "Motivational"
   blogging: "Personal and blogging"

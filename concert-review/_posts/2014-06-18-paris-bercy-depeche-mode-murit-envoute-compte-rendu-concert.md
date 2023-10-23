@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'À Paris Bercy, Depeche Mode murit et envoute (compte-rendu de concert)'
+lang: fr_FR
+excerpt: Avec leurs deux derniers albums, Depeche nous montrent leur capacité à évoluer et produire de nouveaux morceaux rafraîchissants et parfaitement exécutés.
+date:   2014-06-18 14:13:12 +0200
+---
+
+_[(Also available in English)]({% link concert-review/_posts/2014-06-18-depeche-mode-grows-graver-and-grander-bercy-paris-concert-review.md %})_
+
+Nombreux sont les groupes phares des années 80 à s'être échoués sur l'écueil des succès éphémères. Figés dans le passé, ils ont peu à peu tombé dans l'oubli, faute de renouveau.
+
+Depeche Mode, le groupe mythique nommé en l'honneur du magazine français, fait partie des quelques rares exceptions : avec leurs deux derniers albums "Sounds of the Universe" et "Delta Machine", ils nous montrent leur capacité à évoluer et produire de nouveaux morceaux rafraîchissants et parfaitement exécutés.
+
+Ainsi, "Delta Machine", sorte d'album autobiographique aux mêmes initiales que le nom du groupe, prend d'emblée un ton personnel et le maintient tout au long de l'album, en ouvrant sur "Welcome to my world" et en se refermant sur "Goodbye". Au travers des thèmes évoqués, les membres du groupe nous offrent un véritable instantané de leurs personnalités et de leurs préoccupations au moment de la composition de l'album. En effet, loin des thèmes quelque peu cocasses de leurs premiers albums, Delta Machine aborde des sujets beaucoup plus graves avec "Angel", "Soothe My Soul", "Should Be Higher" ou encore "Heaven", qui constitue pour le chanteur David Gahan "l'une des principales raisons pour lesquelles [il] continue à faire de la musique". Par conséquent, les paroles de l'album sont souvent nébuleuses, semblables à ces agglomérats de pensées troubles et troublantes qui nous envahissent à l'évocation de ces idées. La pochette de l'album préfigurait déjà cette thématique : des bâtiments rouge sang sous un ciel d'un blanc pur, divin, et, à la jonction des deux, le nom du groupe et le titre de l'album. On retrouve encore une fois ce thème dans l'instrumentation de l'album, avec notamment une basse à la fois puissante et apaisante, qui s'oppose aux arrangements plus abrasifs et industriels de "Sounds of the Universe" — très sombre dans "Corrupt" ou encore "Wrong" et son clip vidéo.
+
+Nous attendions donc confirmation de ce renouveau lors de leur double passage à Bercy le 29 et le 31 janvier, et Depeche Mode n'a pas déçu. Outre le fait d'avoir joué non moins de cinq morceaux de leur dernier album, le groupe a comblé le public avec des versions acoustiques inédites de "Slow", "But Not Tonight" et "Shake The Disease", chantés cette fois-ci non pas par Dave Gahan comme sur le disque, mais par le très talentueux Martin Gore, guitariste et claviériste du groupe. Pour quiconque souhaitait entendre davantage de sa voix angélique, quelque peu occultée en studio par la voix rauque de Dave Gahan, voilà chose faite ! Pendant plus d'un quart d'heure, Gore, seul, minuscule au milieu de la scène, canalise ses émotions et les redirige dans sa voix fragile, tremblotante et touchante au possible, vestige d'une enfance douloureuse. Dans son regard, on comprend toute la signification qu'il porte à ce qu'il chante, et même pour qui ne connaît pas les paroles, l'authenticité et la conviction de sa performance ne manquent pas de susciter affection et empathie.
+
+Cette atmosphère se retrouve également sur les vidéos obsessionnelles projetées sur l'écran géant de Bercy. Ainsi, pendant "Enjoy the Silence", on observe, tout le long du morceau, des contorsionnistes immobilisés. Dans "Heaven", les trois membres du groupe déposent chacun un triangle noir au milieu d'une route pour ensuite partir vers une destination inconnue. Enfin, dans "Halo", une jeune femme entre puis sort d'un cadre triangulaire à chaque scène, avant de finir par montrer une bague à son doigt et disparaître à tout jamais, emportant le cadre avec elle.
+
+Occassionnellement, le public participe en entonnant les refrains simples et pourtant chargés d'émotion. Ces hymnes semblent viser chaque membre du public personnellement et évoquer pour chacun d'eux des souvenirs différents. Le triangle noir, emblème du groupe, outrepasse alors la référence à sa trinité fondatrice pour s'étendre à tous ses fans, signe de ralliement, d'appartenance, de fraternité.
+
+Ayant complétement omis leur avant-dernier album de cette tournée, le groupe se doit tout de même de jouer quelques-uns de leurs anciens morceaux pour satisfaire le public. Toutefois, ils parviennent à les recouvrir, du moins en partie, d'un voile de nouveauté, avec par exemple des solos de batteries jouissifs et interminables qui viennent clore "I Feel You".
+
+Pendant près de deux heures, le groupe tour à tour surprend, conquiert puis entraîne la salle, avec Dave Gahan débordant comme toujours d'une énergie explosive sur scène, tantôt chantant torse-nu, tantôt tournant sur lui-même en brandissant le pied du microphone – l'un de ses mouvements emblématiques. Le chanteur réussit néanmoins lors des morceaux plus délicats à laisser place à sa fine gestuelle de chef d'orchestre qui vient agrémenter les mélodies, gage de sa grande sensibilité à la musique du groupe.
+
+Le spectacle terminé, quelques amis reprennent en chœur l'un des chants de la partie acoustique du concert... en vain : les légendes sont parties de la scène, et avec elles leur magie ; le flambeau s'est éteint, le feu consumé. Nous revenons à la réalité, remplis d'images et d'échos, et nous nous surprenons à espérer que leur deuxième date à Bercy ne soit pas encore complète.
+
+Depeche Mode reste et restera sublime, et, loin d'être devenu une relique du passé, le groupe en est peut-être même à son apogée.

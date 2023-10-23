@@ -2,7 +2,6 @@
 layout: post
 title:  'Ode to Berlin (an eyeglass prescription)'
 date:   2015-07-11 14:13:12 +0200
-categories: poetry
 ---
 
 Berlin will never cease to amaze me.

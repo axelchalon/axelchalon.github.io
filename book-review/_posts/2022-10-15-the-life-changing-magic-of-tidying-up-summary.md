@@ -2,7 +2,6 @@
 layout: post
 title:  '"The Life-Changing Magic of Tidying Up" (personal notes)'
 date:   2022-10-15 14:13:12 +0200
-categories: book-review
 ---
 
 _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of Tidying Up" (insert Amazon affiliate link here)_

@@ -2,7 +2,6 @@
 layout: post
 title:  'The Joy of Doing Weird Things Together'
 date:   2015-09-02 14:13:12 +0200
-categories: motivational
 ---
 
 I want to listen to dozens of bootlegs of the song "We Tigers" by Animal Collective in a row and have a tribal, energetic dance with someone else with a love for the band as astronomical as mine.

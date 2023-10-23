@@ -2,7 +2,6 @@
 layout: post
 title:  '"The New Psycho-Cybernetics" (personal notes)'
 date:   2023-08-15 14:13:12 +0200
-categories: book-review
 ---
 
 _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell Maltz and Dan S. Kennedy (insert Amazon affiliate link here)_

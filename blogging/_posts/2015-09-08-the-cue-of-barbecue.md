@@ -2,7 +2,6 @@
 layout: post
 title:  'The Cue of Barbecue'
 date:   2015-09-08 14:13:12 +0200
-categories: blogging
 ---
 
 (Shortlisted Worst Titles Awards)

@@ -2,7 +2,6 @@
 layout: post
 title:  '"Your Symphony of Selves" (personal notes)'
 date:   2023-03-15 14:13:12 +0200
-categories: book-review
 ---
 
 _Those are my personal notes on the book "Your Symphony of Selves: Discover and Understand More of Who We Are" by James Fadiman and Jordan Gruber  (insert Amazon affiliate link here)_

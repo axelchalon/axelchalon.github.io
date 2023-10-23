@@ -2,7 +2,6 @@
 layout: post
 title:  'Broadcast: Music That Speaks To You'
 date:   2015-04-14 14:13:12 +0200
-categories: music-review
 ---
 
 Trish Keenan has left this world five years ago, yet with her music she continues to speak to us, or rather, to each one of us individually.

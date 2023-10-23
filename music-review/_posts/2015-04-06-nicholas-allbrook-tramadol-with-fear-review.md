@@ -2,7 +2,6 @@
 layout: post
 title:  'Nicholas Allbrook — "Tramadol With Fear" (track review)'
 date:   2015-04-06 14:13:12 +0200
-categories: music-review
 ---
 
 "Tramadol With Fear" starts with quite possibly the most lackadaisical drum playing I've ever heard. A genius move, as it captures the lethargic and offbeat essence of the track – and of the album – in only five seconds; it is the most representative, telling introduction we could have hoped for. In the background, loose chords are being played, the last one abruptly cut off as if to make way for that shamelessly amorphous drum break... A drum breaks which incidentally begins early and encroaches on the previous, somewhat regular beat. The drums don't seem to rely on the beat or anything remotely related to time; they just come flooding in like a slow-motion barrage, like dropped balls bouncing with low gravity on the Moon and seen from the distorted faceplate of an astronaut in want of exoticism. For all throughout the album, we are offered a view at a decidedly strange world... Or maybe the world is normal, and only the lens through which we see it isn't.

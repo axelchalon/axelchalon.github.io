@@ -2,7 +2,6 @@
 layout: post
 title:  '"Improvise!" by Max Dickins (personal notes)'
 date:   2022-12-15 14:13:12 +0200
-categories: book-review
 ---
 
 _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon affiliate link here)_

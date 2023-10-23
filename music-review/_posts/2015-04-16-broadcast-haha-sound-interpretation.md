@@ -2,7 +2,6 @@
 layout: post
 title: '"Broadcast — Haha Sound" (listening notes)'
 date:   2015-04-16 14:13:12 +0200
-categories: music-review
 ---
 
 "Colour Me In". Furnishing and arranging a room. Shapes falling into place on the page. Just the idea. Delicacy in the instrumentation, and always that soothing voice. Floating, falling down in a whirlwind of abstractness and love and all things you can hold on to in life.
