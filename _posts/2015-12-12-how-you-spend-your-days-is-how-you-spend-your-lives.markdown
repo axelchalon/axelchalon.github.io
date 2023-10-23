@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'How you spend your days is how you spend your lives'
+title:  'How You Spend Your Days Is How You Spend Your Lives'
 date:   2015-12-12 14:13:12 +0200
 categories: motivational
 ---
