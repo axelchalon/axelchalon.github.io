@@ -34,12 +34,15 @@ plugins:
 jekyll_timeago:
   depth: 1
 
-categories:
-  music-review:
-  poetry:
-  motivational:
-  blogging:
-  book-review:
+categories_titles:
+  music-review: "Music reviews"
+  poetry: "Poetry"
+  motivational: "Motivational"
+  blogging: "Personal and blogging"
+  book-review: "Book notes and summaries"
+
+permalink: :title:output_ext
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

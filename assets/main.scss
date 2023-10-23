@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul.categories-list > li:not(:last-child) {
+   margin-bottom: 16px;
+}

@@ -5,8 +5,6 @@ date:   2015-07-11 14:13:12 +0200
 categories: poetry
 ---
 
-# Ode to Berlin (an eyeglass prescription)
-
 Berlin will never cease to amaze me.
 
 And I mean Berlin as a state of mind – of mine.
