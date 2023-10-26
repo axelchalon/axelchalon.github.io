@@ -5,7 +5,7 @@ excerpt: 'To mark the 25th anniversary of their album "So", the original band me
 date:   2014-02-10 14:13:12 +0200
 ---
 
-_[(Aussi disponible en français)]({% link concert-review/_posts/2014-02-10-peter-gabriel-fait-son-grand-retour-bercy-compte-rendu-concert.md %})_
+_[(Aussi disponible en français)]({% link 1-concert-review/_posts/2014-02-10-peter-gabriel-fait-son-grand-retour-bercy-compte-rendu-concert.md %})_
 
 *To mark the 25th anniversary of their album "So", the original band members gave a historical concert at Bercy on October 15th in front of a receptive and enthusiastic audience.*
 

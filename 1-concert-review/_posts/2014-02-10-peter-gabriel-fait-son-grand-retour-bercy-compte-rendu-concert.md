@@ -6,7 +6,7 @@ excerpt: "À l'occasion de la tournée des 25 ans de l'album So, le groupe origi
 date:   2014-02-10 14:13:12 +0200
 ---
 
-_[(Also available in English)]({% link concert-review/_posts/2014-02-10-peter-gabriel-makes-his-comeback-bercy-paris-concert-review.md %})_
+_[(Also available in English)]({% link 1-concert-review/_posts/2014-02-10-peter-gabriel-makes-his-comeback-bercy-paris-concert-review.md %})_
 
 *À l'occasion de la tournée anniversaire des 25 ans de l'album So, le groupe original a donné ce 15 octobre un concert historique à Bercy devant un public réceptif et enthousiaste.*
 

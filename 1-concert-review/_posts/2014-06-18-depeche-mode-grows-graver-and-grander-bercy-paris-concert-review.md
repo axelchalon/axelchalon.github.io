@@ -5,7 +5,7 @@ excerpt: 'With their two latest albums, Depeche Mode have shown that they could 
 date:   2014-06-18 14:13:12 +0200
 ---
 
-_[(Aussi disponible en français)]({% link concert-review/_posts/2014-06-18-paris-bercy-depeche-mode-murit-envoute-compte-rendu-concert.md %})_
+_[(Aussi disponible en français)]({% link 1-concert-review/_posts/2014-06-18-paris-bercy-depeche-mode-murit-envoute-compte-rendu-concert.md %})_
 
 Many bands of the '80s have foundered on the rock of ephemeral success; frozen in the past, they slowly fall into oblivion, failing to transform.
 

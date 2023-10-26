@@ -48,4 +48,4 @@ Eight years later, I am still in contact with some players — among them two 40
 
 That was my first ever experience with online multiplayer games, and there couldn't be a better one. On top of all the good things I've said about the game, it also made me practice my English daily and subconsciously bolstered my love for the language.
 
-*I also wrote an article on [my experience with Counter-Strike: Source]({% link blogging/_posts/2014-08-03-personal-experience-video-games-counter-strike-source.md %}) and its online community, in my eyes the complete opposite of Rainbow Six: Lockdown.*
+*I also wrote an article on [my experience with Counter-Strike: Source]({% link 4-blogging/_posts/2014-08-03-personal-experience-video-games-counter-strike-source.md %}) and its online community, in my eyes the complete opposite of Rainbow Six: Lockdown.*

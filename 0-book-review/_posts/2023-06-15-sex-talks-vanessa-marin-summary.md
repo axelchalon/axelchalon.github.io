@@ -74,3 +74,5 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 			* Make out with each other for at least a few seconds every time you leave for the day or go to bed at night
 		* Also as a way to keep the Sex Drive Simmer going; and as a way to count your blessings and cherish the presence of your partner, of seizing it. Nurture habits of appreciation, joy and happiness. "There are few things more capable of transforming your relationship than gratitude."
 			* Share gratitude and appreciation to each other.
+
+*See also my summary of the book ["all about love"]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}) by bell hooks*

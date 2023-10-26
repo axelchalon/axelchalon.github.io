@@ -6,7 +6,7 @@ excerpt: Avec leurs deux derniers albums, Depeche nous montrent leur capacité �
 date:   2014-06-18 14:13:12 +0200
 ---
 
-_[(Also available in English)]({% link concert-review/_posts/2014-06-18-depeche-mode-grows-graver-and-grander-bercy-paris-concert-review.md %})_
+_[(Also available in English)]({% link 1-concert-review/_posts/2014-06-18-depeche-mode-grows-graver-and-grander-bercy-paris-concert-review.md %})_
 
 Nombreux sont les groupes phares des années 80 à s'être échoués sur l'écueil des succès éphémères. Figés dans le passé, ils ont peu à peu tombé dans l'oubli, faute de renouveau.
 

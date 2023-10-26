@@ -12,7 +12,8 @@ layout: default
   <p><em>Around 30 more articles to be published in the next week or so; <del>brace yourselves</del> stay tuned!</em></p>
 
   <ul class="categories-list">
-    {% for category in site.categories %}
+    {%assign categories_sorted = site.categories | sort %}
+    {% for category in categories_sorted %}
     {%assign category_name = category | first %}
     <li><strong>{{ site.categories_titles[category_name] }}</strong>
       <ul>
