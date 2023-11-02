@@ -97,7 +97,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * Find the self that would let you be engaged with the situation, have it be enjoyable, easeful, make sense.
 	* It can be a reframe: writing as you would cook.
 * Plan for the self you will want to be in for a particular occasion.
-	* Odysseus Pact: make a decision, commit in advance, so that you stick to it when doubts arise or in difficult times
+	* Ulysses Pact: make a decision, commit in advance, so that you stick to it when doubts arise or in difficult times
 	* Getting out of a negative state is harder than just preventing going there in the first place.
 	* Visualize how happy/satisfied you will be after experiencing the event from that self.
 * Use rituals to shift selves
