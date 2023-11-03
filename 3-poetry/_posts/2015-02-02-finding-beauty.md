@@ -14,6 +14,6 @@ Voices and languages. Beauty is communicated through their innate symbiosis. Lan
 
 *
 
-Soon, void will engulf us.
+Soon, darkness will seize us.
 
 In the meantime, let us experience beauty, and want to experience it, for our eyes have to be open for the sun to shine in.
