@@ -22,4 +22,4 @@ Anyway... I haven't listened to their first album yet (saving it for a rainy day
 
 Besides that, I will be seeing them live in Paris in October (imagine how excited I am!), and I was offered a free digital download of their second album as a reward for my booking in advance — thanks!
 
-_You might be interested in my [concert review]({% link 1-concert-review/_posts/2014-10-18-hundred-waters-live-paris.md %}) of the aforementioned concert!_
+_You might be interested in my [concert review]({% link 1-concert-review/_posts/2014-10-18-hundred-waters-live-paris-concert-review.md %}) of the aforementioned concert!_
