@@ -49,3 +49,5 @@ I feel stingy having spent only 13 euro for such an outstanding performance, eve
 Now that I've seen them live, my respect for them, which was already high up, has gone right through the ceiling. They delivered a sublime performance, and I'm so glad – and lucky – to have been part of it.
 
 Hundred Waters are truly an impressive bunch. I'll be sure to keep my eyes on them... and buy my third shirt when they come back.
+
+_You might be interested in [this other post]({% link 2-music-review/_posts/2015-08-25-hundred-waters-visibly-brilliant.md %}) I wrote about the band, in which I go a bit more in-depth in their creative process!_

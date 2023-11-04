@@ -69,3 +69,5 @@ Just as I am nearing the final station and start fiddling around again with Goog
 Good. That means I know the better way back home. And it also means that the band would most likely start thirty minutes after the doors open. In other words, there is still hope for me to arrive on time.
 
 Fast forward a few minutes and here I am, at Le Trabendo, looking as if I had just come out of a concert — before it even started.
+
+_Read also: [my review of Pond's track "Sitting Up On Our Crane"]({% link 2-music-review/_posts/2014-12-25-pond-sitting-up-on-our-crane-review-commentary.md %}) and [my review of Pond frontman Nicholas Allbrook's track "Tramadol With Fear"]({% link 2-music-review/_posts/2015-04-06-nicholas-allbrook-tramadol-with-fear-review.md %})_

@@ -21,3 +21,5 @@ Finally, the guitar melody duly, gently comes to an end... but no, it has to som
 Nicholas Allbrook makes us travel spaces.
 
 [https://www.youtube.com/watch?v=jTsLBum7k0Y](https://www.youtube.com/watch?v=jTsLBum7k0Y)
+
+_Read also [my review of the track "Sitting Up On Our Crane"]({% link 2-music-review/_posts/2014-12-25-pond-sitting-up-on-our-crane-review-commentary.md %}) by Nicholas Allbrook's band Pond; as well as my [story full of twists and turns of going to a Pond concert]({% link 4-blogging/_posts/2014-07-19-epic-journey-epic-concert.md %})._
