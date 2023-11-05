@@ -7,9 +7,9 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <p>Hey.</p>
 
-  <p><em>Around 10 more articles to be published in the next week or so; <del>brace yourselves</del> stay tuned!</em></p>
+  {{ content }}
 
   <ul class="categories-list">
     {%assign categories_sorted = site.categories | sort %}
@@ -36,4 +36,5 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+
 </div>
