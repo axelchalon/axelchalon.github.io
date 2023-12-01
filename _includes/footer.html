@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading" style="float: left;">{{ site.title | escape }}</h2>
+
+    <div class="footer-col footer-col-2" style="float: right;">
+      {%- include social.html -%}
+    </div>
+
+    <div style="clear: both; height: 1px;"></div>
+
+    <div class="footer-col-wrapper">
+      <div style="text-align: center;">
+        <ul class="contact-list">
+          <li class="p-name">
+            Looks like you just got to the bottom of things.
+          </li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
