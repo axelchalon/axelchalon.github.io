@@ -78,7 +78,7 @@ The Loci method is primarily used when you need to memorise elements in a certai
 
 You might now understand why the Loci Method is also conveniently known as the "memory palace". I have heard a lot of good things about this method and I'm sure it works. It has been used by numerous distinguished mnemonists, among which is French blogger Jean-Yves Ponce, who, by the way, keeps an extremely interesting website named "Potion de vie" ("Life potion") : [http://www.potiondevie.fr/](http://www.potiondevie.fr/) .
 
-I haven't tried this exact technique yet. However, I've been toying with a similar idea to learn the gender of some German nouns I'm having trouble with. Knowing how shamelessly familiar I am with the maps of the video game [Counter-Strike]({% link 4-blogging/_posts/2014-08-03-personal-experience-video-games-counter-strike-source.md %}), I've been assigning problem words to different maps based on their gender. I will see how this works out.
+I haven't tried this exact technique yet. However, I've been toying with a similar idea to learn the gender of some German nouns I'm having trouble with. Knowing how shamelessly familiar I am with the maps of the video game [Counter-Strike]({% link 4-random/_posts/2014-08-03-personal-experience-video-games-counter-strike-source.md %}), I've been assigning problem words to different maps based on their gender. I will see how this works out.
 
 I believe that there are a lot of creative ways to use our memory, and that most of them can derive from the automatic ways we memorise in our daily life. For example, off the top of my head, I'm sure I could somehow turn to my advantage my knowing of song titles or album covers.
 
@@ -113,4 +113,4 @@ Here goes: if you can't for the life of you remember what a certain thing is cal
 // Addendum (some nine years later): Sadly the game does not work anymore on modern browsers, and none of the replacements I have found seems to do the original game justice.
 Things really were better back in the days!
 
-*For another interesting and creative web-based game drawing heavily on drawing, you might also want to check out [my article on Drawception]({% link 4-blogging/_posts/2015-04-16-telephone-game-visual-drawception.md %}). I also wrote [an article on Shiritori]({% link 4-blogging/_posts/2014-09-06-shiritori-japanese-inspired-multiplayer-word-game.md %}), an online game that lets you practice and expand your vocabulary.*
+*For another interesting and creative web-based game drawing heavily on drawing, you might also want to check out [my article on Drawception]({% link 4-random/_posts/2015-04-16-telephone-game-visual-drawception.md %}). I also wrote [an article on Shiritori]({% link 4-random/_posts/2014-09-06-shiritori-japanese-inspired-multiplayer-word-game.md %}), an online game that lets you practice and expand your vocabulary.*

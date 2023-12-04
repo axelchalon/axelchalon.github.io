@@ -38,4 +38,4 @@ Another caveat is that the CS:S community is nowhere near as active as it used t
 
 Whatever your choice may be, multiplayer video games are a great way to put your language abilities into practice while having fun. You'll make friends that speak your target language, and that's in my opinion the best kind of practice you can ask for.
 
-*You might be interested in the article I wrote about [my experience with Rainbow Six: Lockdown]({% link 4-blogging/_posts/2014-08-03-personal-experience-video-games-rainbow-six-lockdown.md %}) and its far lovelier community.*
+*You might be interested in the article I wrote about [my experience with Rainbow Six: Lockdown]({% link 4-random/_posts/2014-08-03-personal-experience-video-games-rainbow-six-lockdown.md %}) and its far lovelier community.*

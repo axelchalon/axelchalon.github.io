@@ -40,4 +40,4 @@ Mission accomplished... although at this point it's hard to remain impervious to
 
 Here is a video if you want to have an idea of what it looked like; keep in mind that it by no means does the audio justice: [http://youtu.be/5oF2PuQ3l98](http://youtu.be/5oF2PuQ3l98)
 
-_You can also read [my thoughts on the time leading up to the concert and a bit more on Swans over here]({% link 4-blogging/_posts/2014-09-12-next-week-seeing-swans-live.md %})._
+_You can also read [my thoughts on the time leading up to the concert and a bit more on Swans over here]({% link 4-random/_posts/2014-09-12-next-week-seeing-swans-live.md %})._

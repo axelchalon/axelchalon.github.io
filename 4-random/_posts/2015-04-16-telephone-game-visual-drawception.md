@@ -22,4 +22,4 @@ The game also brings to mind Dan Deacon's video for his song True Thrush: [https
 
 I find it interesting how the same basic concept can be brought to many different formats, with the idea of deliberately using error as an aid to creativity!
 
-*For another interesting and creative web-based game drawing heavily on drawing, you might also want to check out [my article on iSketch]({% link 4-blogging/_posts/2014-07-24-isketch-online-pictionary-memory-creativity.md %})!*
+*For another interesting and creative web-based game drawing heavily on drawing, you might also want to check out [my article on iSketch]({% link 4-random/_posts/2014-07-24-isketch-online-pictionary-memory-creativity.md %})!*

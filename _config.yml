@@ -38,9 +38,9 @@ categories_titles:
   0-book-review: "Book notes and summaries"
   1-concert-review: "Concert reviews"
   2-music-review: "Music reviews"
-  3-poetry: "Poetry"
-  4-blogging: "Personal and blogging"
-  5-motivational: "Motivational"
+  3-poetry-motivational: "Poetry / Motivational"
+  4-random: "Random / Wasda / Antique stuff"
+  5-old: "Old"
 
 permalink: :title:output_ext
 

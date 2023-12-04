@@ -16,7 +16,7 @@ Last month, I had an illuminating and memorable experience at the house party of
 
 It remains my most memorable evening to date, and that I've touched on what feels right or liberating to me is inspiring. That I haven't taken any action towards it since then is less inspiring.
 
-All this is to say that hitting bottles is cool, but [doing it with someone else is cooler]({% link 5-motivational/_posts/2015-09-02-the-joy-of-doing-weird-things-together.md %}).
+All this is to say that hitting bottles is cool, but [doing it with someone else is cooler]({% link 3-poetry-motivational/_posts/2015-09-02-the-joy-of-doing-weird-things-together.md %}).
 
 Collective improvisation is an interlocking of minds; giving a piece of our mind to somebody else and letting them complement it with a piece of theirs, which we do not have, all this done using such a simple and tangible yet rich language as words, dance or music.
 
