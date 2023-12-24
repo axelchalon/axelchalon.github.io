@@ -101,7 +101,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 		* "Anger is an important element of courage."
 * **Excitement can be used in any way you choose; you can direct it and transmute it any way you choose.** Excitement in itself is neutral: it's not self-confidence, panic, fear or anything else. It's just higher availability and a larger reserve of energy (just like anger or frustration comprise a reservoir of energy.)
 * "Work remains one of the best therapies and one of the best tranquilizers for a troubled spirit."
-* **Be a big potato**: on your track, brushing off minor advertisities on your way, not dealing with things personally, not self-conscious. Just a big potato on its tracks. Low self-esteem makes you very suspectible to being offended and easily jealous.
+* **Be a big potato**: on your track, brushing off minor advertisities on your way, not dealing with things personally, not self-conscious. Just a big potato on its tracks. Low self-esteem makes you very susceptible to being offended and easily jealous.
 	* **Give yourself your own golden stars**: acknowledge and appreciate your achievements, instead o showing your work (like you would to your parents) and wanting a positive reaction. Self-sufficiency.
 * Consistently open up in spite of let-downs. Do not create overly thick scar tissues; practice keeping up opening up in spite of disappointments or unreliable people.
 * **When you set yourself goals, you are then infused with life force, which is the means for you to achieve them. Life provides you with life force and energy to the extent required by your goals.** The more of Life you require, the more you get.
