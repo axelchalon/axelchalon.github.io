@@ -184,7 +184,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 * The general objectives of any business should be quality, cost, delivery, safety and morale.
 	* Let your product development be consumer-centric. Study surveys of consumer tastes. Do first-hand market research by putting yourself in the client's shoes. Meet your customers. Talk to them and listen to them. Do user tests, watching them use your product and letting them describe their thought process out loud. Use specs.
 * See your organisation as a system, and be aware that short-term improvements might lead to long-term wastes, or vice versa. Beware of short-term results motivated by money. Let everything be an input and work towards your broader vision. Have an eye for deeper changes.
-* Effective and sustainable organisations need both organic (adaptability, flexibility, self-renewal, resilience, learning, intelligence) and mechanistic attributes (standard processes); "combining the advantages of craft and mass production".
+* <span id="orga-mecha-mix">Effective and sustainable organisations need both organic (adaptability, flexibility, self-renewal, resilience, learning, intelligence) and mechanistic attributes (standard processes); "combining the advantages of craft and mass production".</span>
 	* Organic attributes are the characteristics of living beings and systems, and what will ultimately ensure the organisation's survival. Treat and view your organisation like a living system, not like a machine.
 		* The world isn't mechanistic; it's a system; thus your way of operating and dealing with it should be adaptive.
 		* Break down the system of the company into smaller autonomous systems in order to manage the whole. Let each one of your teams control their system at their level, such that the whole system can be controlled, like an organism. Explain your vision for the company and after everyone is onboard, divide and conquer.
@@ -199,7 +199,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* **"Individual success can happen only within a team. Strong teams require strong individuals."**
 	* "Every Toyota employee is expected not just excel in his current role, but to work toward higher levels of performance with enthusiasm."
 	* "We accept challenges with a creative spirit and the courage to realize our own dreams without losing drive or energy."
-* Managers should be at the "gemba" often (the place where the actual work is done, e.g. manufacturing), and be familiar with it, even be able to replace workers if necessary. Management decisions shouldn't take place in an ivory tower but very much in contact with the shop floor.
+* <span id="gemba">Managers should be at the "gemba" often (the place where the actual work is done, e.g. manufacturing), and be familiar with it, even be able to replace workers if necessary. Management decisions shouldn't take place in an ivory tower but very much in contact with the shop floor.</span>
 	* Likewise, team supervisors should spend a large amount of their time doing the work that their team is doing.
 * Talk to people, gather feedback, get their ideas and approval even before you formally propose the idea (nemawashi).
 - Respect, trust, **challenge** and grow your people.
