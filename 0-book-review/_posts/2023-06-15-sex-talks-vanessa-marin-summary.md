@@ -41,7 +41,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 		* These different sex paradigms also typically tie into different modes of initiation.
 			* For example: Seduction and feeling desired; relaxation; playfulness; love/heart/spirit; energy sex / primal play / poetry, etc.
 	* You can openly talk about the ways you like to be invited to sex.
-	* When not knowing if you want to accept an invitation to sex, you can agree on a first act (e.g. making out) and then seeing where it takes you.
+	* When not knowing if you want to accept an invitation to sex, you can agree on a first act (e.g. making out) and then see where it takes you.
 	* Keep discovering new facets of each other.
 	* How can you reincorporate your favorite sexual memories into your current life?
 	* The list of possible sex acts and whether you are a Yes/No/Maybe for them in a specific relationship is akin to the Relationship Anarchy Smorgasbord
