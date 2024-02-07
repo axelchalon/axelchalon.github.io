@@ -6,3 +6,16 @@
 ul.categories-list > li:not(:last-child) {
    margin-bottom: 16px;
 }
+
+.post-content h1 {
+   margin-top: 45px;
+}
+
+.svg-icon {
+   width: 32px;
+   height: 32px;
+   position: relative;
+   left: 6px;
+   bottom: 2px;
+   padding-right: 0;
+}

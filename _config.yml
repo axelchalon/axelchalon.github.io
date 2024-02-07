@@ -44,6 +44,10 @@ categories_titles:
 
 permalink: :title:output_ext
 
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -100,7 +100,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 * **Make errors visible**, visually easy to identify. Let humans easily see that something is out of place or non-standard.
 - A clean environment lets you detect problems or potential problems faster (× [The Life-Changing Magic of Tidying Up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %}): see clearly, think clearly). By working clean, we make defects easier to notice.
 	* "The cleaning process often acts as a form of inspection that exposes abnormal and pre-failure conditions that could hurt quality or cause machine failure."
-	* **Cleaning** is an integral part of the 5S: Sorting, organising, cleaning, standardizing (processes), sustaining (in the long run).
+	* **Cleaning** is an integral part of the 5S: Sorting (out), organising, cleaning, standardizing (processes), sustaining (in the long run).
 * Use redundancy to prevent errors (especially electronic+analog redundancy)
 
 # Waste
