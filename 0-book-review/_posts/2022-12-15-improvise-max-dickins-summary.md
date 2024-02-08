@@ -109,7 +109,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Creativity is connecting ideas. To connect ideas, you have to collect them first.
 	* **Change your ACTION habits and your THOUGHT habits. Do things you would normally never do. (Hobby, book). Act yourself into a new way of thinking. _To think differently, do different things._**
 
-# Brainstorming
+# Brainstorming <a name="Brainstorming"></a>
 * **Question-storming: brainstorm questions around a problem; to help think about it differently.** Then, pick five that you'll focus on answering.
 * Brainstorming big: "How can I 10x...?". Brainstorm for exponential results rather than an incremental one.
 * First come up with many options, then pick the best one. Focus first on coming up with many solutions rather than the "best" solutions.

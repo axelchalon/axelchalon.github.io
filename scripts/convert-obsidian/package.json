@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "get-stdin": "^9.0.0",
+    "typescript": "^5.0.4"
+  },
+  "type": "module"
+}
