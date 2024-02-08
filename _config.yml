@@ -73,4 +73,4 @@ kramdown:
 #   - vendor/ruby/
 
 exclude:
-  - scripts
+  - own-scripts
