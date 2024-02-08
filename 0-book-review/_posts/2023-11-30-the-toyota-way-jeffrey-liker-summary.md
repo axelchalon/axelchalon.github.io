@@ -175,7 +175,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Have a global vision, a 3-5-year plan and a breakthrough 1-3 year plan.
 		* ![SigmaPoint Technologies L1 top-level strategic deployment plan](/assets/toyota_314.png)
 	* To achieve the breakthrough 1-3 year plan, set 1-year goals based on the current condition with single-point accountability. Set monthly targets and compare the current condition against them on a visible dashboard.
-		- **Single-point accountability (ownership):** "one person's name goes up next to each item in the action plan"
+		- <a name="^single-point-accountability"></a> **Single-point accountability (ownership):** "one person's name goes up next to each item in the action plan"
 		* The next target condition should be a significant step beyond the current condition.
 		* ![The A3 for SigmaPoint Technologies L2 manufacturing operations](/assets/toyota_316.png)
 	* You only ever see the next step.
