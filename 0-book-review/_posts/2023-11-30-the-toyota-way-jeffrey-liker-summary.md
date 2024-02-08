@@ -21,7 +21,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Without consistency in the current processes, there is nothing to improve on, to build upon.
 	* Current processes must represent the current best method of doing something.
 	* Standardized processes should be improved on, ideally by the floor workers — the people doing the actual work and most familiar with it.
-* Document the standard way of carrying out each process in detail, explaining the reason for each step.
+* <a name="^standard-doc"></a>Document the standard way of carrying out each process in detail, explaining the reason for each step.
 	* ![Job breakdown sheet](/assets/toyota_114.png)
 	* Spend extensive time alongside your trainees when they are starting and provide them with instant feedback on deviations from the standard. Gradually spend less time at their side.
 		 * Training happens through repeated (deliberate) practice ("learning by doing") and through corrective feedback (side-coaching).

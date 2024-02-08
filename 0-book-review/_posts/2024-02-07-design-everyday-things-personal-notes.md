@@ -6,7 +6,7 @@ date:   2024-02-07 14:13:12 +0200
 
 _Those are my personal notes on Donald A. Norman’s book “The Design of Everyday Things”, about the design of everyday things._
 
-# <a name="[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)"></a>[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
+# <a name="Elegant design"></a>[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
 * **Design is the link between the intention behind a product, and its actual use.**
 	* A good product can go to waste due to bad design.
 	* Design is all about understanding people and the human mind.
