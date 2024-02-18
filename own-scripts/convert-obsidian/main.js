@@ -37,4 +37,3 @@ Object.keys(obsidianFileToWebsiteFile).forEach(async (obsFile) => {
     console.log(`Updating ${obsFile}...`);
     await fs.writeFile("../../0-book-review/_posts/" + obsidianFileToWebsiteFile[obsFile], jk);
 });
-console.log('Done!');
