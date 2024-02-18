@@ -13,7 +13,7 @@ date:   2023-08-15 14:13:12 +0200
 _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell Maltz and Dan S. Kennedy (insert Amazon affiliate link here)_
 ^
 ---
-# <a name="Self-image"></a>Self-image
+# Self-image
 * **We all have an image about ourselves** (our "self-image").
 	* The image we have about ourselves has been made up relatively arbitrarily, through experiences, upbringing and environment.
 		* In particular, **repetition**, **intense experiences** and authority figures create your self-image.
@@ -46,10 +46,10 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 		* There is an infinitude of realities happening at the same time, and you can switch channels at any moment. When reading a book, you become immersed in the reality and paradigm that it's conveying. Your relationship to reality then changes to become that of the book's paradigm.
 			* (Then, it's about staying in that paradigm after reading the book.)
 			
-# <a name="Negative self-image and blocks"></a>Negative self-image and blocks
+# Negative self-image and blocks
 * What keeps pulling you back does not exist in the physical world, it is purely inside your own mind (self-image).
 ^
-# <a name="Reprogramming, visualisation"></a>Reprogramming, visualisation
+# Reprogramming, visualisation
 * <a name="^psychoanalyse"></a>**You don't have to psycho-analyze yourself to fix your problems.** You can modify your self-image without going through an examination of your past. Understanding the origins of your current self-image is not necessary to alter it. **You can instead be result-focussed, action-focussed, proactive instead of overly introspective.**
 * Imagination is what lets you create goals. **Have visions.** Set yourself a goal, modify your self-image as necessary, and let your subconscious do the rest. You're harnessing the same internal goal-reaching mechanism used for innate goals such as survival and procreation; except you're using it to reach other goals you've decided on.
 	* "Imagination sets the goal picture that our automatic mechanism works on."
@@ -98,7 +98,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * Having a mental realignment routine or ritual prior to a certain activity lets you show up to it with consistency and intention.
 * Mental states are the soil in which thoughts and ideas grow.
 ^
-# <a name="Goal-striving"></a>Goal-striving
+# Goal-striving
 * **Humans are a goal-striving species. "When humans are functioning as goal-strivers, they tend to feel fairly happy."**
 	* When proactive, you also don't mourn over things for an excessive time. You get back on your feet and figure out the next step instead.
 * Once you've reached a goal, set the next goal.
@@ -114,7 +114,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * **When you set yourself goals, you are then infused with life force, which is the means for you to achieve them. Life provides you with life force and energy to the extent required by your goals.** The more of Life you require, the more you get.
 	* Creative people typically require more life force.
 	
-# <a name="Creativity"></a>Creativity
+# Creativity
 * Every individual is unique and incomparable. **Develop your own unique personality and accomplishments.**
 	* People are children of God: unique personalities, creative beings. See people as such.
 	* Every person is a composite of strengths and weaknesses, knowledge and ignorance, experience and naiveté, accomplishment and unrealized potential.
@@ -130,6 +130,6 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	 * **Make a habit of speaking more loudly (and more clearly) than usual** as a way to practice **expression (a better word for the converse of inhibition)**. This also lets you exert all of your strength and overcome blocks. **Let people know when you like them.** Inhibited people tend to be scared of being seen as sentimental or judged when expressing. Uninhibited people just energize through it. Get in the habit of complimenting people, of letting them know what you like. **Be direct.**
 	* Enunciate clearly, loud, with intonation and pace.
 	
-# <a name="Quotes"></a>Quotes
+# Quotes
 * "It is only fun if you make it. If someone else does it for you, it's entertainment."
 * "More life, more vitality, the stuff that youth is made of."

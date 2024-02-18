@@ -12,7 +12,7 @@ date: 2023-11-30 14:13:12 +0200
 ^
 _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Amazon affiliate link here). Don't drink and drive._
 ^
-# <a name="Continuous improvement"></a>Continuous improvement
+# Continuous improvement
 * A lean organisation is a learning organisation.
 * The Toyota Way worships at the altar of continuous improvement — taking precedence over everything else, including uptime. It is **the** guiding principle, and a paradigm shift at that. Work clean, and then work fast.
 * Continuous improvement refers to two things: reducing deviation from the standard, and improving the general efficiency of a system (by bursts — "kaizen").
@@ -22,7 +22,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 			* "Always develop a future state to strive for. Don't stop at mapping the current state and chasing waste."
 * Judge how well an organisation or organism is doing, not by how they are doing at a fixed point in time, but how much they have been improving in the recent past. Assess not based on a snapshot, but over a period of time.
 ^
-# <a name="Standardization"></a>Standardization
+# Standardization
 - Standardized processes are the sine qua non of continuous improvement.
 	* Without consistency in the current processes, there is nothing to improve on, to build upon.
 	* Current processes must represent the current best method of doing something.
@@ -46,7 +46,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Make it visually clear where something belongs (shadow board), when something is missing or when something is out of place.
 * Routines are for organisations the equivalent of habits for individuals.
 ^
-# <a name="Continuous flow"></a>Continuous flow
+# Continuous flow
 * Continuous/one-piece flow is opposed to traditional batch processing.
 	* Instead of having different departments processing items in batches for every stage of production, the idea is to have self-contained production lines with each one of these departments, and processing items sequentially, ideally one at a time, almost as they come, rather than in batches — and keeping minimal to no stock or buffer. Each line has all the work cells necessary to assemble a product. "From process islands to flow lines."
 		* Just-in-time (JIT): deliver the right items in the right amount at the right time to the next work cell, or customer; and receive your items the same way from the previous work cell, or supplier.
@@ -64,7 +64,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* In traditional batch processing, by hiding (upstream) inefficiencies, we postpone solving problems and potentially make the whole system a time bomb. **Comfort leads to complacency (ignorance).** In continuous flow, you have to fix problems right now, as they occur. There is no possible accumulation of problems.
 	* Continuous flow (and small inventory) lets you adapt to customer demand almost instantaneously.
 ^
-# <a name="Levelling"></a>Levelling
+# Levelling
 * Decide on a weekly production target rather than a daily production target. This gives you room to use knowledge of external circumstances to adjust the production each day and level the overall work/stress. You can decide on working a bit less on certain days and a bit more on other days, and still meet the production target.
 	* **Unevenness in production levels increases costs by making it necessary to have at hand the equipment, materials, and people for the highest level of production — even if the average requirements are far less.** It is a waste.
 	* Levelling prevents overburdening and idling.
@@ -81,7 +81,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
  * The production schedule is leveled and managed by the pacemaker, "pulling" (ordering) products from the assembly line.
 - Make the schedule and current status (compared to the (levelled) schedule) easily visible.
 ^
-# <a name="Error detection (jidoka & andon)"></a>Error detection (jidoka & andon)
+# Error detection (jidoka & andon)
 * Set up error-detecting mechanisms and machines that automatically interrupt processes when detecting a problem or out-of-standard condition ("jidoka"; as in the Toyota loom). This ensures that no faulty item makes it to the next work station (let alone the final customer) and builds in quality.
 * Detecting errors early and directly at their source makes it easier to understand the problems and to address them effectively, prevents the trail from getting cold.
 * This controls and reduces quality risks associated with replacing humans with machines.
@@ -110,7 +110,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* **Cleaning** is an integral part of the 5S: Sorting (out), organising, cleaning, standardizing (processes), sustaining (in the long run).
 * Use redundancy to prevent errors (especially electronic+analog redundancy)
 ^
-# <a name="Waste"></a>Waste
+# Waste
 * Value should be flowing throughout the production process until delivery, without obstacles or halts (like a "free-flowing river"). The vast majority of lead time should be spent in value-added work contributing to the final product. Any interruption to this flow of value is waste and should be eliminated.
 	* ![Waste in value stream](https://xaxel.me/assets/toyota_30.png)
 * The main wastes are: unnecessary transport (of goods or information), ineffective processing, defects, wasted time, overproduction and excess inventory.
@@ -138,7 +138,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
  * Unused employee creativity is wasteful as well; this ties in with the company culture.
  * When there doesn't seem to be any prominent waste anymore, resort to re-imagining the future state to not get stuck with the way things are currently set up.
 ^
-# <a name="Problem-solving"></a>Problem-solving
+# Problem-solving
 * **The lean mindset is scientific thinking.**
 	* Do not assume anything: conduct experiments (e.g. in a pilot) instead of directly implementing an assumed solution.
 	* Learn through experiments and trial-and-error; **put practice first**.
@@ -174,7 +174,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 			* You might be asking "wrong" questions or puzzling over dilemmas because of wrong assumptions. These assumptions make your questions nonsensical. The solution to or cause of the problem might be a lot simpler than you expect — yet impossible to uncover by only "looking at your screen".
 		* "5% of the time of NUMMI team leader is spent observing the team working in order to anticipate problems."
 ^
-# <a name="Management"></a>Management
+# Management
 * **Prioritize (long-term) survival.**
 	- Be self-reliant; independent from investors and their will; and developing in-house expertise if necessary (can be through hiring).
 		* "A strategy to deal with an uncertain future (external) should fit with the development of capabilities (internal)"
@@ -241,13 +241,13 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 * Partner up with other businesses.
 * Engineer using set-based design, rather than point-based design: come up with many possible options at first, then narrow them down based on different factors and perspectives (× [Improvise! (brainstorming)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#brainstorming)). This prevents you from having to iterate very many times on a design prematurely decided on.
 ^
-# <a name="Lean in other domains"></a>Lean in other domains
+# Lean in other domains
 * Information JIT: deliver the right information at the right time in the right amount (e.g. to workers/volunteers: handbook vs. on-site briefing).
 - Kanban-based pull systems can be applied to information flow.
 * The GM model lean office: "it created a formal kanban system for supplies, and as a result, the office rarely ran out of anything. There was a place for everything and everything in its place."
 - "Spend a little time each day learning something new." (One-piece flow applied to life.)
 ^
-# <a name="Other"></a>Other
+# Other
 - "Everyone should tackle some great project at least once in their life."
 - "Can you get it done a year earlier?"
 	* "What is your next step (next experiment) ? What do you expect? **How quickly can we go and see what we have learned** from taking that step?"

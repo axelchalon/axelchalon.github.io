@@ -12,7 +12,7 @@ date:   2022-10-15 14:13:12 +0200
 _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of Tidying Up" (insert Amazon affiliate link here)_
 ^
 ---
-# <a name="life advice"></a>life advice
+# life advice
 * **practicing the technique can gradually infuse you with the mindset.** practice first, mindset second; "fake it 'till you make it."
 * **start somewhere small, let the feeling pervade you and let it spread to all other areas.**
 	* tidy up your home, and before you know it you're tidying up your mental space
@@ -33,7 +33,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * your home and material possessions give you unconditional love.
 * identify fear as an indicator for growth. when you know something is the right thing to do but it's difficult to do it, it's usually a sign of attachment to the past or fear for the future.
 ^
-# <a name="on tidying up"></a>on tidying up
+# on tidying up
 * a tidy space lets you see clearly and encourages you to look inwards. tidy to make space (for what is truly essential). by putting things in order, you recognize what your priorities are.
 * a room is not messy by itself. a room is just a room. a room is what you make of it.
 	* as with rooms, so with:
@@ -41,7 +41,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 		* your body. what you feed it, do with it and of it.
 		* your life; "life's what you make it."
 ^
-# <a name="discarding"></a>discarding
+# discarding
 * **only possess what you love**. _are you happy wearing clothes that don't give you pleasure?_
 	* take each item in your hands and ask yourself if it sparks joy
 		* identifying what sparks joy and what doesn't is a skill to hone, a habit to acquire. knowing what you like. _develop the instinct for what really inspires joy_ (in terms of experiences as well!)
@@ -55,7 +55,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * sort your photos (& notes) now for looking back on later. _you will enjoy the photos far more when you are old if they are already in an album than if you have to move and sort through a heavy box full of them_
 	* in going through pictures and deciding which ones to keep, you're making visible what's really important to you. _tidying is a way of taking stock that shows us what we really like_
 ^
-# <a name="storing items"></a>storing items
+# storing items
 * finish discarding completely before starting to order
 	* **don't organize mess. organize what you cherish.** an organized mess only gives the illusion of order. (bureaucracy – introducing order around non-essential things)
 * store similar items in the same place to prevent redundancy. by not knowing what you already have, you expend energy to acquire them again. **by knowing what you have, you prevent redundancy.**
@@ -70,7 +70,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * group bags by type, put them inside each other, let the straps dangle out. fold totes.
 * empty your bag and pockets every day.
 ^
-# <a name="cherishing items"></a>cherishing items
+# cherishing items
 * **cherish what you have**, what you have deliberately decided to keep and have in your custody. decide to keep based on whether you can cherish. use what you have decided to keep. use what you have. own less, cherish more. regularly thank your belongings and express appreciation and gratitude, treat them as being alive.
 	* contentment and joy can be achieved by cherishing more.
 	* regularly go through your belongings, even off-season ones.
@@ -81,5 +81,5 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * wear only clothes you love (even at home). you can wear clothes inside that you don't dare to wear outside, but that you still love. ask yourself "do I love this?" for each part of your appearance.
 	* use your new clothes more often to convert them from product to possession.
 ^
-# <a name="semantics"></a>semantics
+# semantics
 * "order" can be seen as arrangement or as sequence. there is an interplay between spatial ordering and sequential ordering. by **creating order**, one can **establish priorities**. (same with "rank": either to rank first, second; or to rank something among ..., i.e. categorize)

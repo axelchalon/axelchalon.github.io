@@ -15,7 +15,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 * **"In the form and function of play, man's consciousness that he is embedded in a sacred order of things finds its first, highest, and holiest expression.**"
 * "Hot" (uninhibited, spontaneous) vs "cold" cognition
 ^
-# <a name="Wu-wei"></a>Wu-wei
+# Wu-wei
 * Wu-wei as spontaneous flow, with the conscious mind stepping in during hiccups. The situational awareness is present in the background, ready to call on cold consciousness if needed.
 * Getting into flow: a small effort to switch selves, and then you flow. "You cannot attain absolute calmness of mind without any effort. You must make some effort, then forget about yourself in it."
 * Spontaneity can be shaped first by cold cognition; you can make a spontaneous habit out of something. (× "A training is complete when it has become automatic, without thought or effort.")
@@ -29,7 +29,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 * Remaining relaxed and realizing it's no big stakes. 
 	* Otherwise, "by the time you start betting for gold, you're completely petrified."
 ^
-# <a name="Spontaneity and authenticity, heartfulness"></a>Spontaneity and authenticity, heartfulness
+# Spontaneity and authenticity, heartfulness
 * × Don't second-guess yourself; spontaneity in improvisation.
 * Effortless and unselfconscious behaviour acts like a window into our true character.
 	* Spontaneous behaviour is hard to fake, indicates that your behaviour is not precalculated, but that it is authentic and that you are being transparent. When acting spontaneously, people know you are being authentic, and automatically trust you.
@@ -45,7 +45,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 	* "The artificial, temporary suppression of our conscious mind given to us by intoxicants may, in some situations, be precisely the little jump start that we need to push through the paradox of wu-wei in social situations." (Could also be dancing, etc.)
 	* Spontaneity as being natural
 ^
-# <a name="Life"></a>Life
+# Life
 * "You need to apply fertilizer at the right times, weed when necessary, and ensure proper irrigation."
 	* Identify small sprouts and nurture them. Remember them, remember the glimpses you've had.
 * **A training is complete when it has become automatic, without thought or effort.** (Habits.)

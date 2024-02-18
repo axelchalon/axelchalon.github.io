@@ -10,7 +10,7 @@ date:   2024-02-07 14:13:12 +0200
 ^
 _Those are my personal notes on Donald A. Norman’s book “The Design of Everyday Things”, about the design of everyday things._
 ^
-# <a name="[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)"></a>[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
+# [Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
 * **Design is the link between the intention behind a product, and its actual use.**
 	* A good product can go to waste due to bad design.
 	* Design is all about understanding people and the human mind.
@@ -61,7 +61,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 ^
 * "Design is a powerful equalizing tool: all that is needed is observation, creativity and hard work — anyone can do it."
 ^
-# <a name="Design by accident (or by design)"></a>Design by accident (or by design)
+# Design by accident (or by design)
 * **Signifiers convey information regardless of intentionality (accidental signifiers).** Objects, people, places, systems can unwittingly give information about things ("clues", e.g. trailing). "Once I interpret a flag's motion to indicate wind direction, it does not matter why it was placed there."
 	* **Interpretation is intelligence.** Seeing clues that others do not see, and being able to derive from objects and artifacts an understanding about the environment they are situated in, is a sign of intelligence.
 ^
@@ -73,7 +73,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* Invisible affordances (duress codes, panic passwords), just like fake anti-affordances, require extra knowledge "in the head" of the operator.
 		* Duress codes are only noticed by people with extra knowledge "in the head" (× steganography; secret handshakes; in-groups).
 ^
-# <a name="Knowledge in the world, knowledge in the head"></a>Knowledge in the world, knowledge in the head
+# Knowledge in the world, knowledge in the head
 * **Knowledge can be "in the world" or "in the head".**
 	* **Knowledge in the head is faster to deploy and more efficient, at the cost of requiring prior learning.** Knowledge in the head doesn't require searching or interpreting in the moment.
 	* **Knowledge in the world lets anyone use the product, without prior knowledge.**
@@ -83,7 +83,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* **Note-taking and self-organization is knowledge in the world,** "externalized" knowledge.
 	* **People typically only ever learn the minimum required knowledge** (for using a tool, performing an operation).
 ^
-# <a name="^conceptual-models"></a><a name="Conceptual models ^conceptual-models"></a>Conceptual models
+# <a name="^conceptual-models"></a>Conceptual models
 * **Everybody has conceptual models about everything, more or less detailed, more or less right.
 	* Every person has a conceptual model of every object they use — more or less detailed, more or less right.
 		* A device acting in an unexpected way often points to a faulty conceptual model and calls for revising it.
@@ -99,7 +99,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* **Start with simplified mental models and un-simplify them as the circumstances demand.**
 		* Simplified conceptual models founder when the situation gets more complex, requiring an updated un-simplification of the mental model, i.e. one degree of abstraction less, or one degree of depth more (× incremental reading; "... explained in 5 levels of difficulty").
 ^
-# <a name="Reducing errors"></a>Reducing errors
+# Reducing errors
 * **Blame the product (or designer), not the user.** Unless the user is the designer.
 	- Human error is usually a result of poor design.
 	* **Instead of finding someone to blame, find something to blame.**
@@ -153,7 +153,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * **An unlikely event is way more likely to occur if the factors are already present.**
 * **Less ownership or shared ownership means less vigilance.** Have somebody be responsible (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability), single-point accountability).
 ^
-# <a name="^incremental-radical"></a><a name="Incremental improvements, radical improvements ^incremental-radical"></a>Incremental improvements, radical improvements
+# <a name="^incremental-radical"></a>Incremental improvements, radical improvements
 * Incremental improvements are "safe" whereas radical improvements are "risky", as the market might not be ready for the product yet.
 	* Radical improvements take time (often decades, centuries) before being adopted.
 	* People and culture do not change at the pace of technology. "It can take months to go from invention to product, but decades for the product to get accepted."
@@ -162,7 +162,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * **"Hill-climbing": the "local best" might still be low. Sometimes it is necessary to change hills.** Incremental improvements bring you to the local best (highest point in the hill), but a radical change of circumstances is required to go beyond this. Radical improvements represent a change of paradigm or reference point and let you change the scenery (for better or for worse). "Find another hill."
 * Radical improvement looks at the true need behind the product (root cause analysis, five whys) and comes up with creative, novel solutions addressing the root problem.
 ^
-# <a name="Stakeholders and business interests"></a>Stakeholders and business interests
+# Stakeholders and business interests
 - Marketing vs design
 	* Marketing is about convincing people to purchase the product; design is about giving them a great experience using the product.
 	* Marketing is knowing what people will buy; design is knowing what people actually need.
@@ -180,7 +180,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 - **Disinterest in durability**: Selling durable, quality products is not in the business interest of companies. Companies profit from purchases, not from use.
 		- The subscription model is a business solution to the problem of disinterest in durability.
 ^
-# <a name="360 out-of-scope"></a>360 out-of-scope
+# 360 out-of-scope
 * Executing tasks towards a goal initiates a two-way communication between the goal and the world; letting you learn more about the world in doing so.
 	* A lack of feedback provokes (a feeling of) helplessness; because you are not gathering new information and so are not progressing. **"Clear results of clear actions enlighten the path."** Only by going for things clearly, do you learn more about the world. (× Decisiveness ([Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %})) (× Failure, [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}), [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %})), × "All feedback is just information", [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}))
 * Formulate sub-goals when encountering blocks to your big goal.

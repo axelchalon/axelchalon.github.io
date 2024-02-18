@@ -8,29 +8,10 @@ title:  '"Measure What Matters" by John Doerr (personal notes)'
 date:   2024-02-18 14:13:12 +0200
 ---
 ^
-2024/02/09 — 2024/09/13 : Read
-2024/02/14 — : Notes into
+_Those are my personal notes on John Doerr's book “Measure What Matters — OKRs: The Simple Idea that Drives 10x Growth"._
 ^
-**POINTERS!!**
-^
-Toyota: find a way to not bork the images when I replace (protip: add images links to xaxel to my obsidian)
-Replace Toyota Way (check if [ [ toyota way ] ] also works directly)
-Re-up New Psycho Cyber // set up better system
-Check if [ [ toyota way # ^ x y z | overburden ] ] works fine by the parser.
-Check if all anchor links work
-^
-Check if "the genius" was escaped correctly.
-^
-check trying not to try + design of everyday things
-^
-Clear the comments at the bottom
-Remove comments at end of file
-^
----
-^
-*Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadline, along with measurable steps necessary to reach it.*
-^
-# <a name="Core values, mission statement"></a>Core values, mission statement
+Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadline, along with measurable steps necessary to reach it.
+# Core values, mission statement
 * A company's mission statement, vision, and core values are a general guideline for behaviour and decision-making.
 	* Examples of mission statements:
 		* "We envision a world where anyone, anywhere, can transform their lives by accessing the world's best learning experience."
@@ -42,7 +23,7 @@ Remove comments at end of file
 		* "Care for teammates and be human, be humble."
 		* "Do good, do well: Experiment and develop a sustainable business model."
 ^
-# <a name="Culture"></a>Culture
+# Culture
 * **OKRs might need a culture change before being implemented.** "We didn't want bureaucratic compliance. We wanted enthusiastic compliance."
 	* Culture makes unnecessary the bureaucratic enforcing of standards. Culture replace rules with shared principles.
 	* A great culture yields great results. By providing a culture of trust, risk-taking is not judged, but instead encouraged, which yields to more engagement and exceptional results.
@@ -50,7 +31,7 @@ Remove comments at end of file
 * Deliberately create a culture where the CEO can be challenged in their decisions by the employees.
 	* **Feedback needs to be immediate to be helpful.** Favour direct feedback (over delayed feedback, e.g. annual review). Delayed feedback can make it too late to adjust. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) ; [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^feedback))
 ^
-# <a name="OKRs & benefits"></a>OKRs & benefits
+# OKRs & benefits
 * **Objectives and key results (goals and action plan) are yin & yang** (and one needing the other.) Goals come from a place of inspiration, are "passive"; while the action plan is an "effecting onto the world", aggressive.
 * **Vision needs to be followed by execution.** "If the heart doesn't find a perfect rhyme with the head, then your passion means nothing."
 	* "**The OKR frameworks cultivates the madness** \[(the genius)\], the chemistry \[in the band\]."
@@ -67,7 +48,7 @@ Remove comments at end of file
 	* Clear OKRs help coordinate team.
 	* Meaning arises when you know what your work is for.
 ^
-# <a name="Open OKRs"></a>Open OKRs
+# Open OKRs
 * **OKR platforms are a knowledge platform.** Akin to books, open-access OKR platforms let employees draw from the wisdom and experience of other teams having faced similar objectives — and discover which key results they set, and with which outcome. (x [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): recording experiments, expected outcomes and ultimate results for future reference; with protocol.)
 - **Transparency and openness facilitate mutual support.** By transparently sharing our goals, we can understand and support each other better; we can love better (× "nurturing people's (spiritual) growth", [All About Love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^love-nurture-growth))
 	* Imagine a world where people walk around with their current goals printed on their face.
@@ -83,7 +64,7 @@ Remove comments at end of file
 	* Open OKRs prevent wasteful redundancy; prevents different teams from unwittingly doing the same thing. 
 	* Open OKRs remove suspicion as to what other people are working on (if on anything at all).
 	
-# <a name="Goal setting"></a>Goal setting
+# Goal setting
 * **Goals should be set with "rigor and imagination".**
 * Decisiveness / Clear, structured goal-setting
 	- "If we try to focus on everything, we focus on nothing."
@@ -126,7 +107,7 @@ Remove comments at end of file
 * **Pair quantity KRs with quality KRs.** Setting quality KRs adjacent to quantity KRs safeguards against reaching a KR for the sake of reaching the KR without heeding quality, effectively defeating the initial purpose of the KR.
 * **Ask for the resources needed to accomplish your OKR.** (Time, money, experts, guidance, information, etc.)
 ^
-# <a name="Stretch goals"></a>Stretch goals
+# Stretch goals
 - **Stretch goals are about testing our limits.** Stretch goals are about checking if our limits are where we think they are.
 	* **Stretch goals yield greater output**, compared to more comfortable goals.
 	* **Stretch objectives call for stretch KRs.**
@@ -143,7 +124,7 @@ Remove comments at end of file
 * Massive turnarounds in a short time, are very much possible.
 	* "Within three months of launch, Zune had achieved 10 percent market share in its local trade area."
 	
-# <a name="Continuous performance management"></a>Continuous performance management
+# Continuous performance management
 * **Have regular one-on-ones with the employees, for exchanging information and providing support.** (CFRs.) The meeting should aim at exchanging information, understanding, coaching and feedback.
 	* The meeting's agenda should be set by the employee.
 	* Ones-on-ones are a place to discuss individual OKRs and ask for guidance or support.
@@ -157,12 +138,12 @@ Remove comments at end of file
 	* For example, failed OKRs require a post-mortem (and a new action plan).
 	* "We do not learn from our mistakes, but from reflecting on our mistakes.".
 	
-# <a name="Reviewing"></a>Reviewing
+# Reviewing
 * Score objectives and KRs first objectively, then subjectively through self-assessment (was the goal too easy?)
 * Reflect on your meta-learnings about goal setting.
 * "And then after ten milliseconds of celebration we have to set ourselves another set of highly difficult-to-reach objectives and we have to meet them. **And the reward or having met one of these challenging goals is that you get to play again.**"
 ^
-# <a name="People"></a>People
+# People
 * **OKRs bring insight into who you need to hire** — which necessary skills for the OKRs you are missing in the company. OKRs also give greater clarity to the future hire as to what their mission will be.
 	* **"We hire smart people not to tell them what to do, but so they can tell us what to do."** (Steve Jobs)
 * **[Don't lay off; relocate.]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^dont-lay-off-relocate)** if somebody is not managing at their job, find a better fit for them, within the company (human-first). × [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): [job safety]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^job-safety); [humans are the most flexible resource you have]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^people-are-the-most-flexible-resource). (Internal turnover)
@@ -189,11 +170,11 @@ Remove comments at end of file
 - **Conferring a name on a process or project bolsters its existence**, makes it something tangible and that people can reason about.
 * **Intelligence is more valuable than knowledge.** By being intelligent, you can learn what you don't know yet. (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^intelligence-over-knowledge): Recruiting people with the potential to learn, who can learn the necessary skills on the job.)
 ^
-# <a name="Marketing"></a>Marketing
+# Marketing
 * Marketing (e.g. offline ads) are a way to ingrain a certain conceptual model (view) (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conceptual-models)) of the product.
 	* "In March, we embarked on a "Chrome Fast" marketing campaign."
 	
-# <a name="Quotes and unquotes"></a>Quotes and unquotes
+# Quotes and unquotes
 * "Entrepreneurs do more than anyone thinks possible, with less than anyone thinks possible. (By contrast with bureaucrats, who do less than anyone thinks possible with more than anyone thinks possible.)"
 * **At the end of the day, relationships are what matters the most.**
 	* "Finally, I offer my undying gratitude to my wife, Ann, and daughters, Mary and Esther, whose patience, encouragement, and love kept me going through this long and challenging project. **Each and every day, they remind me of what matters the most.**"

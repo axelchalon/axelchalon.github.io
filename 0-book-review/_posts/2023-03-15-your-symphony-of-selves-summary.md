@@ -11,7 +11,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 ^
 * **Awareness heals.**
 * **Mental health is being in the right self at the right time.**
-# <a name="Understanding selves"></a>Understanding selves
+# Understanding selves
 * We are made up of different selves, with each having its own personality, physiology, desires, goals, vision, values; each self is a whole person.
 	* You are all of your selves. People are all of their selves.
 	* Each self is at its core a pattern of neuronal activity.
@@ -36,7 +36,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * An identity can be a bundle of certain selves.
 * Micros: behavioural units that can be addressed without targetting any one self.
 ^
-# <a name="Getting along and communicating with selves"></a>Getting along and communicating with selves
+# Getting along and communicating with selves
 * Your inner voices are the voices of your different selves.
 * "The fundamental task of life is to track down the various selves, observe them, acknowledge them, get to know them, assign them tasks and reach consensus over a shared direction"
 * Understand your selves
@@ -72,7 +72,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * Appreciate being in a self at all, instead of being in no self, and nowhere. Embrace the self.
 * Make your life decisions from your bravest, highest-potential self.
 ^
-# <a name="Interpersonally"></a>Interpersonally
+# Interpersonally
 * Talk to others as you would talk to one of your selves.
 	* Acknowledge, appreciate, see their good intention. (e.g. parental advice meaning well, even though turning out oppressing)
 * See others as having multiple selves as well. Distinguish between them.
@@ -89,7 +89,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * Speech can be seen as out-loud thinking, making transparent what our inner state is, what our thoughts are (e.g. a child saying "I don't want that"); as a parallel to body language.
 * Niches, for meeting people with a very specific common self
 ^
-# <a name="Shifting"></a>Shifting
+# Shifting
 * "Switching" self when triggered; "shifting" selves when it's a deliberate decision.
 	* Run your selves. Don't let the switches happen automatically, unconsciously. 
 * **Mental health is being in the right state at the right time**
@@ -107,9 +107,9 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * It can be a very subtle environmental cue that lets you shift selves.
 * **Center** (ground, breath, inquiry, conscience, analyzing and deciding in which self to shift, intimacy with oneself, home; a place) and **Presence** (engagement, life force; a quality of being)
 ^
-# <a name="Miscellaneous"></a>Miscellaneous
+# Miscellaneous
 * Pragmatism: that philosophical ideas or theories should be viewed as instruments, not absolute truths, and their validity judged by their practical consequences in our lives.
 * "If you don't know where you're going, any road will take you there."
 ^
-# <a name="Quotes"></a>Quotes
+# Quotes
 * Alice: "I must me Mabel after all, and I shall have to go and live in that poky little house and have next to no toys to play with... [...] No, I've made up my mind about it; if I'm Mabel, I'll stay down here! [...] Who am I then? Tell me that first, and then, if I like being that person, I'll come up; if not, I'll stay down here till I'm somebody else." (Who do you want to be?)

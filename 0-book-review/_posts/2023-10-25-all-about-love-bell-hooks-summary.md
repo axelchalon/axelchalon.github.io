@@ -10,7 +10,7 @@ date:   2023-10-25 14:13:12 +0200
 ^
 _Here are my takeaways from bell hook's book "all about love: new visions" (insert Amazon affiliate link here)._
 ^
-# <a name="On loving"></a>On loving
+# On loving
 * People have a difficult time wrapping their head around loving, mostly because they do not have a clear definition of love.
 	* Having a clear definition of love lets us make clear sense of it and know which steps to take to access it.
 	* if we do not define love, if we do not know what love is, we cannot practice it. Knowing what we are searching for or setting out to, is the starting point.
@@ -79,7 +79,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* Love includes relinquishing power.
 * We must acknowledge how little we know of love in both theory and practice.
 ^
-# <a name="Self-love and action"></a>Self-love and action
+# Self-love and action
 * Personal integrity, setting boundaries, or making decisions aiding your spiritual growth are all acts of self-love.
 	* Self-assertiveness leads to self-esteem. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 	* Only from the stable base of self-love can you extend this love to others, and relate to others as you relate to yourself.
@@ -92,7 +92,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * Creating domestic bliss is a first step towards self-love (× [The Life-Changing Magic of Tidying up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %}))
 * A lack of self-worth/self-esteem prevents us from seeing our needs as valid and worthy to be met. As a consequence, we do not voice them, as we deem ourselves unworthy to have our needs met. This gets in the way of love and creates shame, and secrecy and shame stifle love.
 ^
-# <a name="Work"></a>Work
+# Work
 * Doing a job well, even if it's not one that you like or enjoy, bolsters your self-esteem. "It's not what you do, but how you do it."
 	* "Bringing love into the work environment can create the necessary transformation that can make any job we do, no matter how menial, a place where workers can express the best of themselves."
 	* "When we work with love, we create a loving working environment."
@@ -102,7 +102,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	 * Solitude lets us appreciate others more. "Solitude allows us to respect others in their uniqueness and to create community."
 * "Doing what they want to do."
 ^
-# <a name="Friendships"></a>Friendships
+# Friendships
 * Friendships are the one area, besides their family of origin, where children can experience and learn love. 
 	* We are often told that love is to be experienced in one's family of origin, or in one's family of choice, but friendships get forgotten.
 * Learning and practicing love in friendships lets us become a better lover in our family and romantic bonds. The love in friendships can be seen as a stepping stone to the love in romantic relationships, with romantic relationships building upon, an extension of that love in friendships — just as the love in friendships is an extension of our self-love.
@@ -118,7 +118,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* **"Serving others is as fruitful a path to the heart as any other therapeutic practice."**
 * Sharing time, attention, material objects, skills, money are also ways to express love.
 ^
-# <a name="Community"></a>Community
+# Community
 * To make community more prevalent in this world, you don't have to self-organize towards a widespread change, you can just start leading by example and creating a community wherever you are.
 * Small towns are places where a strong love ethic and sense of community still prevails. "I like living in small towns precisely because they are most often the places in our nation where basic principles underlying a love ethic exist and are the standards by which most people try to live their lives. In the small town where I live there is a spirit of neighborliness — of fellowship, care, and respect."
 	* A village is a self-contained community where every person has a role; a miniature society.
@@ -126,7 +126,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 		* Many cultures around the world have a stronger sense of community and love than we have in our modern world.
 		* "Western travelers journey to the poorest countries and are astounded by the level of communion between people who, though not materially rich, have full hearts." 
   
-# <a name="Romantic love"></a>Romantic love
+# Romantic love
 * Talk about love. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}): acknowledge it, talk about it, communicate about it.)
 	* Mass media wants us to picture love as mysterious, tacit, silent; while in fact these characteristics do not fuel love, but do the opposite. Love thrives on communication and knowledge, not on silence and ignorance.
 		* "We see movies in which people are represented as being in love who never talk with one another; who fall into bed without ever discussing their bodies, their sexual needs, their likes and dislikes. Indeed, the message received from the mass media is that knowledge makes love less compelling; that it is ignorance that gives love its erotic and transgressive edge."
@@ -157,16 +157,16 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * True, romantic love still is not easy or simple, and takes work.
 * "Genuine love requires a recognition of the autonomy of ourselves and the other person."
 ^
-# <a name="Dysfunctions"></a>Dysfunctions
+# Dysfunctions
 * It is possible to describe something (e.g. your family, or a person) as dysfunctional, not knowing how to give and receive love; and do so objectively, descriptively, and without any judgment. Many people have difficulty acknowledging dysfunctions because of the stigma associated with it.
 ^
-# <a name="Shame"></a>Shame
+# Shame
 * Shame makes us feel divided with ourselves, separated from ourselves, split. Shame divides us both from ourselves and from others.
 * **A wound is nothing to be ashamed of.** It is just the mark of something we have experienced. We are not to blame for it, and have no reason to be ashamed of it. It is simply an admission of (past) vulnerability.
 	* Identify wounds (in yourself and in the other) without judgment. By recognizing a wound, you can tend it.
 * Love knows no shame. When we practice forgiveness, we let go of shame.
 ^
-# <a name="Death"></a>Death
+# Death
 * Before coming into the world (while still in the womb), we were still "dead". Just as death springs from life, life springs from death. "Our first experience of living is a moment of resurrection." Life and death are intricately linked.
 * We can face death without fear.
 * Death reminds you to love. Being confronted with the imminent possibility of dying, we reflect on the place love has had in our life.
@@ -176,7 +176,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * Wholesome grief is an expression of appreciation and love. 
 * Talk about death; un-taboo death, just like you un-taboo love, just like you un-taboo sex (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
 ^
-# <a name="Forgiveness"></a>Forgiveness
+# Forgiveness
 * "True forgiveness requires that we understand the negative actions of another."
 * Forgiveness is a creative, positive force. Forgiveness lets us see humans as a creative force, capable of renewal ("who can choose to lovingly create"), rather than a destructive force ("selfish, destructive, sinners"). Forgiveness is life-affirming, a celebration of re-creation. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}), [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
 * "Forgiveness is an act of generosity. It requires that we place releasing someone else from the prison of their guilt or anguish over our feelings of outrage or anger." 
@@ -184,7 +184,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
  * Practice forgiveness as leaving the door open on your side. "She still has a place in my heart, should she wish to claim it."
  * Distinguishing the person from your relationship to the person, and distinguishing between the different selves of the person (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})) can help you forgive.
 ^
-# <a name="Honesty"></a>Honesty
+# Honesty
 * Openness and truth-telling, honesty, is a prerequisite for trust, a prerequisite for love.
 	* "Practically every mental health care practitioner, from the most erudite psychoanalysts to untrained self-help gurus, tell us that it is infinitely more fulfulling and we are all saner if we tell the truth."
 	* You cannot nurture someone's spiritual growth if the core of their being and identity is shrouded in secrecy.
@@ -198,21 +198,21 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 		* Truth and openness, sharing, fosters understanding and prevents judgment. Judgment increases our alienation. When people share openly about their thoughts and feelings, it is more difficult for you to project stuff onto them. Hence the importance of a culture of openness and communication.
 * When declining invites, omit giving a reason instead of giving a false one (white lies). "Either tell the truth or simply decline."
 ^
-# <a name="Justice"></a>Justice
+# Justice
 * "The heart of justice is truth telling, seeing ourselves and the world the way it is rather than the way we want it to be."
   
-# <a name="Religion"></a>Religion
+# Religion
 * Religious tolerance is the understanding that though our paths are many, our objective is the same; we are all after the same thing.
 	* All churches want to foster love.
 * You can embrace and practice multiple religions at the same time; find community in different churches. Non-exclusive religious practice.
 ^
-# <a name="Humans"></a>Humans
+# Humans
 * Each person's way is different. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})) Talk about your wisdom as applying to you only. "I had to find a way to talk about my choices that did not imply that they would be the correct or right choices for someone else."
 * "The light of love is always in us, no matter how cold the flame. It is always present, waiting for the spark to ignite, waiting for the heart to awaken and call us back to the first memory of being the life force inside a dark place waiting to be born — waiting to see the light."
 * One can see or train to see the light of love in all living spirits, the humanness in every person.
 * We have many examples in our lives of gifts of love and compassion from people, freely given. These are people who infuse us with a sense of hope. We can pay it forward.
 ^
-# <a name="Vision, mission and activism"></a>Vision, mission and activism
+# Vision, mission and activism
 * We have to see, and know, how we wish the future to be; have a vision.
 	* "A vision articulates a future that someone deeply wants, and does it so clearly and compellingly that it summons up" what is needed to make that vision happen.
 * Our mission should be to work towards bringing humanity to a state of radical love to each other, a state of symbiosis and harmony, "for love to become a social and not a highly individualistic, marginal phenomenon.", "for ours to become a culture where love's sacred presence can be felt everywhere."
@@ -229,13 +229,13 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * We have power as consumers, and we can exercise that power all the time by choosing what we use, what we give our attention, time, energy and funds — and by boycotting products and companies not in line with our ethics and with life-enhancing values.
 * To catch on, change has to come from within the mainstream, and not remain in an enclave (which is the reason that the '70s hippie movement fizzled away). Working towards your vision from within the mainstream is more work but is further-reaching, more in-depth and longer lasting.
 ^
-# <a name="Domination and power structures"></a>Domination and power structures
+# Domination and power structures
 * "Cultures of domination (as opposed to cultures of love) rely on the cultivation of fear as a way to ensure obedience. Fear is the primary force upholding structures of domination. It promotes the desire for separation, the desire not to be known. When we are taught that safety lies always with sameness, then difference, of any kind, will appear as a threat."
 ^
-# <a name="Other"></a>Other
+# Other
  * Being an outsider can be a place of creativity and possibility
 ^
-# <a name="Quotes"></a>Quotes
+# Quotes
 * "There is a realm of mystery that cannot be explained by human intellect of will. We all experience this mystery in our daily lives in some ways, however small, whether we see ourselves as "spiritual" or not. Often we look at events retrospectively and can trace a pattern, one that allows us to intuitively recognize the presence of an unseen spirit guiding and directing our path."
 ^
 *See also my summary of the book [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) by Vanessa Marin*
