@@ -1,15 +1,20 @@
 ---
+publish-status: published
+aliases:
+  - Sex Talks
 layout: post
 title:  '"Sex Talks" by Vanessa Marin (personal notes)'
 date:   2023-06-15 14:13:12 +0200
 ---
-
+^
 _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conversations That Will Transform Your Love Life" (insert Amazon affiliate link here)_
-
+^
+---
+^
 * Acknowledge that you're having sex. This is the first step in creating a culture of communication (incl. outside the bedroom) and being comfortable talking and communicating about sex.
 	* Do so by:
 		* Making a reference to a past experience, e.g. "had a great time last night!"
-		* Compliment e.g. during the act (practice SPEAKING), express appreciation
+		* Compliment e.g. during the act (practice SPEAKING), express appreciation 
 		* Talking about sex first more in general, not specifically about the sex in your relationship; then about your own history, beliefs and relationship to sex; then about the sex within that relationship.
 			* Talk about sex with friends and potential partners.
 	* The goal is to be able to have relaxed and productive conversations about sex with your partner; where you feel comfortable suggesting new things to try out or giving feedback.
@@ -19,7 +24,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 * Turn-offs, turn-ons
 	* To increase the sexual desire within a relationship, first reduce your turn-offs, THEN double in on your turn-ons.
 		* Turn-offs can be linked to circumstances, energy levels, moods, etc.
-	* Turn-offs: Compliment the opposite of what you don't like, to encourage the opposite behaviour
+	* Turn-offs: Compliment the opposite of what you don't like, to encourage the opposite behaviour 
 	* When not liking something, make a request for something different. When brought to provide actual negative feedback, offer a replacement behaviour, something to do instead.
 	* Compliments can be a way to make covert requests for repeats.
 	* By creating a culture of compliments and communicating appreciation, you get to discover what your partner likes. Feedback is essential in getting to know what your partner likes or doesn't like.
@@ -29,7 +34,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* Some people first need touch to become aroused.
 	* "The minute you finish having sex is the minute you begin foreplay for the next time."
 		* You can openly talk about how to keep that "Sex Drive Simmer" going on, keeping a state of constant flirt
-* Exploration, flavours, initiation
+* Exploration, flavours, initiation 
 	* Throw the idea out there, mention it.
 	* When sharing fantasies or suggesting something new to try, tell your partner why you want to do it specifically with them.
 	* Ask your partner about things they are curious about, would like to try in the bedroom.
@@ -50,7 +55,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 		* All of your issues can be resolved (and most of them are shared by many people). You can create an incredible sex life for yourself.
 	* Consider that your and your partner's stories are put together, and that it's your common responsibility to make sense of this whole together. "We all have baggage when it comes to sex. You have your stuff, and your partner has their stuff."
 		* "There's an opportunity to bond over the crap you're both carrying."
-	* "Without vulnerability, there is no intimacy." (Brené Brown) "Intimacy is letting our partner see our internal world, even when it's not a pretty picture. Not keeping our guard up, like we do strangers."
+	* "Without vulnerability, there is no intimacy." (Brené Brown) "Intimacy is letting our partner see our internal world, even when it's not a pretty picture. Not keeping our guard up, like we do strangers." 
 		* Bring your fears out into the light of day. Create a safe space with your partner to share your fears and struggles.
 	* Shame needs secrecy and judgement to thrive. (Brené Brown)
 	* Focus on your feelings and needs and on communicating them, rather than mulling about what's going on in your partner's head.
@@ -74,5 +79,3 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 			* Make out with each other for at least a few seconds every time you leave for the day or go to bed at night
 		* Also as a way to keep the Sex Drive Simmer going; and as a way to count your blessings and cherish the presence of your partner, of seizing it. Nurture habits of appreciation, joy and happiness. "There are few things more capable of transforming your relationship than gratitude."
 			* Share gratitude and appreciation to each other.
-
-*See also my summary of the book ["all about love"]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}) by bell hooks*

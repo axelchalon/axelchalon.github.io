@@ -1,7 +1,12 @@
 ---
+publish-status: published
+aliases:
+  - The Toyota Way
 layout: post
-title:  '"The Toyota Way" by Jeffrey Liker (personal notes)'
-date:   2023-11-30 14:13:12 +0200
+title: '"The Toyota Way" by Jeffrey Liker (personal notes)'
+date: 2023-11-30 14:13:12 +0200
+---
+^
 ---
 ^
 _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Amazon affiliate link here). Don't drink and drive._

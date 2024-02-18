@@ -1,10 +1,13 @@
 ---
+publish-status: published
 layout: post
 title:  '"all about love" by bell hooks (personal notes)'
 date:   2023-10-25 14:13:12 +0200
 ---
 ^
 _Here are my takeaways from bell hook's book "all about love: new visions" (insert Amazon affiliate link here)_
+^
+---
 ^
 # <a name="On loving"></a>On loving
 * People have a difficult time wrapping their head around loving, mostly because they do not have a clear definition of love.
@@ -24,7 +27,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* We can distinguish the action of love from feelings of care, affection, respect, cathexis (emotional investment), etc.
 	* We can view the action of love as engendering feelings, rather than the other way around.
 	* Love is fundamentally a verb and not a noun; an action, rather than a concept.
-	* Love is an art; something that one can practice and become better at.
+	* Love is an art; something that one can practice and become better at. 
 	* "Love in action is always about service, what we do to enhance spiritual growth."
 		* "The choice of love is a choice to connect, and to find ourselves in the other."
 * **Love is the intention** (to nurture someone's spiritual growth) **and the subsequent act.**
@@ -40,15 +43,15 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 		* This can take the form of raising the child within a larger community, for example with more family members involved or within a voluntary community (as things used to be).
 	* With this "enlightened witness" that the child can turn to, he understands that his parents do not know it all, that they can make mistake; and that the way things are done in his family are not necessarily the norm.
 		* "In a loving household where there are several parental caregivers, when a child feels one parent is being unjust, that child can appeal to another adult for mediation, understanding or support."
-		* It is equally insightful to the child when a parent turns personally to this "enlightened witness" for mediation and for seeking counsel for conflicts within the family, thereby conceding that they are not infallible or omniscient — and by the same token, serving as a model for the child by revealing their willingness to accept criticism and their capacity to reflect on their behaviour and to change.
+		* It is equally insightful to the child when a parent turns personally to this "enlightened witness" for mediation and for seeking counsel for conflicts within the family, thereby conceding that they are not infallible or omniscient — and by the same token, serving as a model for the child by revealing their willingness to accept criticism and their capacity to reflect on their behaviour and to change. 
 	* Diversity in the community around the child increases the likelihood of finding someone sane that the child can confide in or get advice from; someone showing that the family's interactions are not the norm. An "enlightened witness": "someone whose kindness, tenderness and concern restore their sense of hope"
 * Do not fantasize or sermonize at length about love. Practice love first-hand, experience it first-hand and learn from it first-hand.
-* Love takes **work, commitment, and trust**.
+* Love takes **work, commitment, and trust**. 
 	* "One can only foster growth through a relationship of constancy."
 		* Do not treat relationships as Dixie cups. If it's not working, power into it, be proactive, make it work. Talk.
 		* "In the case of romantic relationships, many people fear getting trapped in a bond that is not working, so they flee at the onset of conflict. [...] They flee from love before they feel its grace." Instead, commit first, commit to the action of loving, and work through the conflict.
 			* Commit and stick through experiences until the end; until you have found or understood their meaning. Only when committing and doing things completely, do you have a clear result and acquire clear insight on whether or not this is something for you. Do things with intention, reason, purpose and meaning. Intention yields reason yields meaning. Know the meaning in what you're doing. "What is this experience teaching me?" Go all the way through the end, through the meaning and on to the other side.
-		* Respond to tension, conflict or estrangement not with distancing, but with a will to reconnect. "Whenever I hear friends talk about estrangement from family members, I encourage them to seek a path of healing, to seek the restoration of bonds."
+		* Respond to tension, conflict or estrangement not with distancing, but with a will to reconnect. "Whenever I hear friends talk about estrangement from family members, I encourage them to seek a path of healing, to seek the restoration of bonds." 
 	* Love is not about providing us with safety and a steady state of bliss. Rather, love is about transforming us and making us grow (and experiencing beauty along the way).
 		* "Love does not lead to an end to difficulties, it provides us with the means to cope with our difficulties in ways that enhance our growth."
 			* "Difficult and down times are not a lack of love, but part of the process. In actuality, true love thrives on the difficulties. The foundation of such love is the assumption that we want to grow and expand, to become more fully ourselves."
@@ -99,7 +102,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * "Doing what they want to do."
 ^
 # <a name="Friendships"></a>Friendships
-* Friendships are the one area, besides their family of origin, where children can experience and learn love.
+* Friendships are the one area, besides their family of origin, where children can experience and learn love. 
 	* We are often told that love is to be experienced in one's family of origin, or in one's family of choice, but friendships get forgotten.
 * Learning and practicing love in friendships lets us become a better lover in our family and romantic bonds. The love in friendships can be seen as a stepping stone to the love in romantic relationships, with romantic relationships building upon, an extension of that love in friendships — just as the love in friendships is an extension of our self-love.
 	* The foundation of all love is the same (especially when considering our definition of love).  "The values that inform our behaviour, when rooted in a love ethic, are always the same for any interaction."
@@ -120,8 +123,8 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* A village is a self-contained community where every person has a role; a miniature society.
 	* This state of interdependency and close daily contact with one another is the standard for many places in the world.
 		* Many cultures around the world have a stronger sense of community and love than we have in our modern world.
-		* "Western travelers journey to the poorest countries and are astounded by the level of communion between people who, though not materially rich, have full hearts."
-^
+		* "Western travelers journey to the poorest countries and are astounded by the level of communion between people who, though not materially rich, have full hearts." 
+  
 # <a name="Romantic love"></a>Romantic love
 * Talk about love. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}): acknowledge it, talk about it, communicate about it.)
 	* Mass media wants us to picture love as mysterious, tacit, silent; while in fact these characteristics do not fuel love, but do the opposite. Love thrives on communication and knowledge, not on silence and ignorance.
@@ -169,13 +172,13 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* Use death as a compass for your decisions, and for your decisions about your life. When putting things off (or declining life-affirming invitations), remember that "life is not promised".
 * "You have to trust that every friendship has no end, that a communion of saints exists among all those living and dead, who have truly loved God and one another. Those who have loved deeply and who have died live on in you, not just as memories but as real presences."
 	* People leave a trace, a mark on you, even after they are no longer here, and live on within you and the other people they have met, interacted with, influenced. Having transformed us, they live on in our brains, our soul, our spirit, as a result of our interrelational colliding with them.
-* Wholesome grief is an expression of appreciation and love.
+* Wholesome grief is an expression of appreciation and love. 
 * Talk about death; un-taboo death, just like you un-taboo love, just like you un-taboo sex (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
 ^
 # <a name="Forgiveness"></a>Forgiveness
 * "True forgiveness requires that we understand the negative actions of another."
 * Forgiveness is a creative, positive force. Forgiveness lets us see humans as a creative force, capable of renewal ("who can choose to lovingly create"), rather than a destructive force ("selfish, destructive, sinners"). Forgiveness is life-affirming, a celebration of re-creation. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}), [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
-* "Forgiveness is an act of generosity. It requires that we place releasing someone else from the prison of their guilt or anguish over our feelings of outrage or anger."
+* "Forgiveness is an act of generosity. It requires that we place releasing someone else from the prison of their guilt or anguish over our feelings of outrage or anger." 
 	* Have a ritual for clearing the slate, for example leaving the room and entering it again. "Let's start again." (x [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
  * Practice forgiveness as leaving the door open on your side. "She still has a place in my heart, should she wish to claim it."
  * Distinguishing the person from your relationship to the person, and distinguishing between the different selves of the person (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})) can help you forgive.
@@ -196,7 +199,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 ^
 # <a name="Justice"></a>Justice
 * "The heart of justice is truth telling, seeing ourselves and the world the way it is rather than the way we want it to be."
-^
+  
 # <a name="Religion"></a>Religion
 * Religious tolerance is the understanding that though our paths are many, our objective is the same; we are all after the same thing.
 	* All churches want to foster love.
@@ -212,11 +215,11 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * We have to see, and know, how we wish the future to be; have a vision.
 	* "A vision articulates a future that someone deeply wants, and does it so clearly and compellingly that it summons up" what is needed to make that vision happen.
 * Our mission should be to work towards bringing humanity to a state of radical love to each other, a state of symbiosis and harmony, "for love to become a social and not a highly individualistic, marginal phenomenon.", "for ours to become a culture where love's sacred presence can be felt everywhere."
-	* "We must live for the day, and work for the day, when human society realigns itself with the radical love of God."
+	* "We must live for the day, and work for the day, when human society realigns itself with the radical love of God." 
 	* "Culturally, all spheres of American life could and should have as their foundation a love ethic. If all public policy was created in the spirit of love, we would not have to worry about unemployment, homelessness, schools failing to teach children, or addiction."
 * Radical action is needed for such drastic, far-reaching, extensive changes; for a movement to be created and to catch on.
 * **Change is possible. The state we have reached in this world is a proof of it; and it happened through all the people who have worked hard towards it**, towards the world we currently live in. Just as we currently benefit from all of the fighting of our ancestors; so can future generations benefit from the result of fights we are conducting now. "Exceptional individuals [...] who lived the truth of their values."
-	* By working hard towards our vision for the future, we will make the change.
+	* By working hard towards our vision for the future, we will make the change. 
 * Do not wallow in your privilege but also assist people in more disadvantageous situations to enjoy it as well. Level things up.
 	* Help people with human rights violations (e.g. LGBTQ+ in oppressive countries) enjoy the same rights and freedom as you do in your country.
 		* Be proud and happy of the society you live in, and support other societies to reach this state.

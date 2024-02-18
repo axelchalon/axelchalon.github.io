@@ -1,4 +1,7 @@
 ---
+publish-status: published
+aliases:
+  - Improvise!
 layout: post
 title:  '"Improvise!" by Max Dickins (personal notes)'
 date:   2022-12-15 14:13:12 +0200
@@ -6,6 +9,7 @@ date:   2022-12-15 14:13:12 +0200
 ^
 _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon affiliate link here)_
 ^
+---
 # <a name="What improvisation is"></a>What improvisation is
 * Improvisation is a higher-level mindset for navigating life.
 	* Life also is, improvisation. In that sense it makes sense to learn to be better at improvising. (e.g. with what you currently have etc.; nurturing improvisation skills.)
@@ -13,7 +17,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Improv is a future-proof skill, as it teaches you to adapt however things will turn out.
 * Improvisation principles are a set of beliefs, mindsets, worldview and assumptions that offer an alternative way of interpreting and responding to your surroundings.
 	* For example, the "Trust" principle: trusting that everyone has a good intention.
-* **Improvisation is about creating something out of everything; not out of nothing.**
+* **Improvisation is about creating something out of everything; not out of nothing.** 
 	 * Improvisation is about doing the best you can with what is at hand.
 		* This requires you noticing what you actually have, and **what you might ignore you have; or what is already here in the environment** ("Listening".) Be aware of your resources.
 	  * You improvise on something; not on nothing.
@@ -81,7 +85,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		 * Struggling with commitment is a classic fear response. A lot of beginner improvisers struggle with this.
 	* **Know when to end a scene.**
 		* **If something is not working, end it. People tend to be more afraid of change than of unhappiness, of stagnation.**
-			* × *"When we play, we we simply live in a reality until it stops being useful or fun."*
+			* × *"When we play, we we simply live in a reality until it stops being useful or fun."* 
 		* By ending a scene, you are able to create a new one.
 		* Have a ritual to end a scene. Improvisers do "the sweep", where they jog across the front of the stage to mark the end of a scene.
 		* **You're in constant control of the reality you're creating. By sweeping, you don't get stuck in any one of the realities you've created.**
@@ -101,14 +105,14 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * **It's not about you, it's about the scene. Focus on the scene.**
 	* We get nervous when we give a presentation because we think it's about us, but actually it's not. It's about what you're presenting.
 	* Focus on making the other player look good (rather than focussing on yourself).
-^
+ 
 # <a name="Creativity"></a>Creativity
-* Innovation is most likely to occur when people from diverse backgrounds, thinking styles and perspectives collide.
+* *Innovation is most likely to occur when people from diverse backgrounds, thinking styles and perspectives collide.
 * Team up with people on projects to bring in more creativity.
 * To be creative, be curious. Be exposed to a lot of things, and be curious about them. Think a thought you never thought before. Learn about how things work.
 	* Creativity is connecting ideas. To connect ideas, you have to collect them first.
 	* **Change your ACTION habits and your THOUGHT habits. Do things you would normally never do. (Hobby, book). Act yourself into a new way of thinking. _To think differently, do different things._**
-^
+ 
 # <a name="Brainstorming"></a>Brainstorming
 * **Question-storming: brainstorm questions around a problem; to help think about it differently.** Then, pick five that you'll focus on answering.
 * Brainstorming big: "How can I 10x...?". Brainstorm for exponential results rather than an incremental one.
@@ -129,14 +133,14 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Read books, talk to people, try stuff, go to workshops. Exchange with people, try stuff out with them. Take a leap.
 * The world is fraught with offers. Pay attention. (× Improvisation out of everything: notice your environment.)
 * **Experience supplies us with intellectual baggage.**
-	* The more you know about something, the quicker you are to judge and be critical, instead of potentially exploring.
+	* The more you know about something, the quicker you are to judge and be critical, instead of potentially exploring. 
 	* "How would I interact with the world if I were naive and not encumbered by past experiences?"
  * Faced with a problem, ask yourself **"What's the wrong answer?"** This then lets you see the right path more clearly.
 	* "When we define what we don't want, what we do want becomes clearer."
 * **Use mediums other than words to access your subconscious mind.** Draw, symbolize, visualize, use the space.
 * **Do things fast, try things fast, rather than think too much about it.**
 	* ***If you don't know what to do, you should keep trying stuff until you find the answer.***
-* You are the master of your experience.
+* You are the master of your experience. 
 	* *When we play, we we simply live in a reality until it stops being useful or fun.*
 		 * Try different paradigms, see what they bring you.
 * To approach a problem differently: in one column, list all assumptions and beliefs you have about it; in the other column, break them all.

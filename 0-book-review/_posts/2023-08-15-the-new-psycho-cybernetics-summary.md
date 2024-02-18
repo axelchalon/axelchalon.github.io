@@ -1,4 +1,7 @@
 ---
+publish-status: published
+aliases:
+  - Psycho-Cybernetics
 layout: post
 title:  '"The New Psycho-Cybernetics" (personal notes)'
 date:   2023-08-15 14:13:12 +0200
@@ -6,6 +9,7 @@ date:   2023-08-15 14:13:12 +0200
 ^
 _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell Maltz and Dan S. Kennedy (insert Amazon affiliate link here)_
 ^
+---
 # <a name="Self-image"></a>Self-image
 * **We all have an image about ourselves** (our "self-image").
 	* The image we have about ourselves has been made up relatively arbitrarily, through experiences, upbringing and environment.
@@ -22,7 +26,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 		 * Our internal controlling mechanisms make sure that the way we behave or the results we reach be **always consistent** with our self-image.
 			* "I can't" beliefs are most often self-imposed limits, not actual limits.
 		* **"We "act like" the person we conceive ourselves to be.** We act and perform, always, in accordance with what we believe to be true about ourselves and the environment.
-		* Hypnosis is a prime example: as we change what we believe about ourselves or our environment, our behaviour changes radically. We behave in conformity with what we are led to believe, even when we consciously know that it does not make sense.
+		* Hypnosis is a prime example: as we change what we believe about ourselves or our environment, our behaviour changes radically. We behave in conformity with what we are led to believe, even when we consciously know that it does not make sense. 
 			* Through thinking differently, we also behave differently — and the results are also drastically different.
 			* **Hypnosis is our default state of being:** **"People are hypnotized by their own self-image."** "Clients visit me hoping that I will put them in a trance and fix their lives. In fact many of them live in a trance and need a dose of reality."
 		* Dreams are another example of behaving without questioning your beliefs. **Life is analogous to a dream, with the difference that you can program it, you can program your beliefs.**
@@ -38,7 +42,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 		* "Men are disturbed not by the things that happen, but by their opinion on the things that happen.". Reframe and take action.
 		* There is an infinitude of realities happening at the same time, and you can switch channels at any moment. When reading a book, you become immersed in the reality and paradigm that it's conveying. Your relationship to reality then changes to become that of the book's paradigm.
 			* (Then, it's about staying in that paradigm after reading the book.)
-^
+			
 # <a name="Negative self-image and blocks"></a>Negative self-image and blocks
 * What keeps pulling you back does not exist in the physical world, it is purely inside your own mind (self-image).
 ^
@@ -50,7 +54,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 			* You do not have to micromanage your automatic success mechanism. Set your mind on a goal, adjust your self-image accordingly and your behaviour will take care of itself.
 	* **Imagination is an exploratory force, letting you know what is possible.**
 	* **Imagination is a creative force, letting you define what you wish to create and call into this world.**
-* By rehearsing in your mind, reality will just be about re-enacting, and letting things unfold the way you have already seen them in your mind. By creating and viewing the storyline in your mind, reality will just be a re-watch, a realization, a déjà-vu.
+* By rehearsing in your mind, reality will just be about re-enacting, and letting things unfold the way you have already seen them in your mind. By creating and viewing the storyline in your mind, reality will just be a re-watch, a realization, a déjà-vu. 
 	* **Your mind is a safe space for rehearsing situations and practicing how you will want to behave, respond, act in them.**
 		 * **Your brain and nervous system cannot tell the difference between an imagined situation and real life.** For all intents and purposes, visualised rehearsal is tantamount to real-life rehearsal — with the advantage of being constantly available, letting you practice however much, however often you like.
 			* Hence also the effectiveness of role-play, also in professional settings. Role-playing is total practicing without the consequences.
@@ -67,7 +71,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * You want to let your subconscious do its automatic job and consciously intervene only when **course-correcting** from time to time. You do not adjust when things are going well, you only adjust when things are headed the wrong way. (Negative feedback — the same way guided missiles work.)
 * **Identify the problems that you are not actively working on solving because you have assumed that they cannot be solved.** Reconsider them and take action.
 	* Be willing to see the truth. Be objective about the state of things, and then be willing to acknowledge it and do something about it. When we cannot see and accept the truth, we cannot fix it.
-	 * **"Only by moving aggressively toward reality, ­which means uncovering hiden truths about yourself, ­can you truly have peace of mind."**
+	 * **"Only by moving aggressively toward reality, ­which means uncovering hiden truths about yourself, ­can you truly have peace of mind."** 
 		* ENGAGE!
 	* **"All problems become smaller when you don't dodge them, but confront them."**
 		* Difficulties or challenges bring up strength when reacted to aggressively rather than passively.
@@ -96,17 +100,17 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	* When proactive, you also don't mourn over things for an excessive time. You get back on your feet and figure out the next step instead.
 * Once you've reached a goal, set the next goal.
 * **"Aggressiveness and emotional steam are very necessary in reaching a goal. We must go out after what we want in an aggressive rather than in a defensive or tentative manner. We must grapple with problems aggressively."**
-	* **Sublime, redirect "negative" feelings; let them serve a purpose, use them to advance and reach goals.** "The answer to aggression is not to eradicate it but to understand it, and **to provide proper and appropriate channels for its expression**." Channel anger, frustration and other "negative" emotions (yet having a lot of energy with them) into Light and towards something constructive. **Use aggression the way it was intended to be used: to work towards some goal.**
+	* <a name="^sublime-feelings"></a>**Sublime, redirect "negative" feelings; let them serve a purpose, use them to advance and reach goals.** "The answer to aggression is not to eradicate it but to understand it, and **to provide proper and appropriate channels for its expression**." Channel anger, frustration and other "negative" emotions (yet having a lot of energy with them) into Light and towards something constructive. **Use aggression the way it was intended to be used: to work towards some goal.**
 		 - Aggression/frustration/anger is a natural response to not reaching a goal, to getting off course; and is a motor to correct course, to reach your goals.
 		* "Anger is an important element of courage."
 * **Excitement can be used in any way you choose; you can direct it and transmute it any way you choose.** Excitement in itself is neutral: it's not self-confidence, panic, fear or anything else. It's just higher availability and a larger reserve of energy (just like anger or frustration comprise a reservoir of energy.)
 * "Work remains one of the best therapies and one of the best tranquilizers for a troubled spirit."
-* **Be a big potato**: on your track, brushing off minor advertisities on your way, not dealing with things personally, not self-conscious. Just a big potato on its tracks. Low self-esteem makes you very susceptible to being offended and easily jealous.
+* **Be a big potato**: on your track, brushing off minor advertisities on your way, not dealing with things personally, not self-conscious. Just a big potato on its tracks. Low self-esteem makes you very susceptible to being offended and easily jealous. 
 	* **Give yourself your own golden stars**: acknowledge and appreciate your achievements, instead o showing your work (like you would to your parents) and wanting a positive reaction. Self-sufficiency.
 * Consistently open up in spite of let-downs. Do not create overly thick scar tissues; practice keeping up opening up in spite of disappointments or unreliable people.
 * **When you set yourself goals, you are then infused with life force, which is the means for you to achieve them. Life provides you with life force and energy to the extent required by your goals.** The more of Life you require, the more you get.
 	* Creative people typically require more life force.
-^
+	
 # <a name="Creativity"></a>Creativity
 * Every individual is unique and incomparable. **Develop your own unique personality and accomplishments.**
 	* People are children of God: unique personalities, creative beings. See people as such.
@@ -122,7 +126,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	* If you tend to be inhibited: practicing disinhibition. "Yes, the world needs a certain amount of inhibition, **but not you.**" Know which precepts do not apply to you, or you will be like a hypothermic person refusing heating: "but surely, you do not want to overheat!" Deliberately ignore those precepts, make a clear point of it.
 	 * **Make a habit of speaking more loudly (and more clearly) than usual** as a way to practice **expression (a better word for the converse of inhibition)**. This also lets you exert all of your strength and overcome blocks. **Let people know when you like them.** Inhibited people tend to be scared of being seen as sentimental or judged when expressing. Uninhibited people just energize through it. Get in the habit of complimenting people, of letting them know what you like. **Be direct.**
 	* Enunciate clearly, loud, with intonation and pace.
-^
+	
 # <a name="Quotes"></a>Quotes
 * "It is only fun if you make it. If someone else does it for you, it's entertainment."
 * "More life, more vitality, the stuff that youth is made of."
