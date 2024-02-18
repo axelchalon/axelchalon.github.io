@@ -1,5 +1,9 @@
 ---
 publish-status: published
+intentions:
+ - Room organisation
+ - Journaling, personal wisdom, notes organisation
+ - Sex, seduction, and skill acquisition in general
 layout: post
 title:  '"The Life-Changing Magic of Tidying Up" (personal notes)'
 date:   2022-10-15 14:13:12 +0200

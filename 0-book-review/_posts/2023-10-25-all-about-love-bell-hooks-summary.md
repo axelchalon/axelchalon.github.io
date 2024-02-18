@@ -1,13 +1,14 @@
 ---
 publish-status: published
+intentions:
+ - No-bs love
+ - Better understanding of love
 layout: post
 title:  '"all about love" by bell hooks (personal notes)'
 date:   2023-10-25 14:13:12 +0200
 ---
 ^
-_Here are my takeaways from bell hook's book "all about love: new visions" (insert Amazon affiliate link here)_
-^
----
+_Here are my takeaways from bell hook's book "all about love: new visions" (insert Amazon affiliate link here)._
 ^
 # <a name="On loving"></a>On loving
 * People have a difficult time wrapping their head around loving, mostly because they do not have a clear definition of love.

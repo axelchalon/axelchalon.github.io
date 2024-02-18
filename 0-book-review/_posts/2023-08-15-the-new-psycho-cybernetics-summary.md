@@ -1,5 +1,8 @@
 ---
 publish-status: published
+intentions:
+ - Unlocking paradigms of interest, learning, curiosity. Rewiring the brain around such paradigms, and culture, general knowledge, engagement.
+ - Sexuality beliefs and behaviour
 aliases:
   - Psycho-Cybernetics
 layout: post

@@ -9,8 +9,6 @@ date:   2023-03-15 14:13:12 +0200
 ^
 _Those are my personal notes on the book "Your Symphony of Selves: Discover and Understand More of Who We Are" by James Fadiman and Jordan Gruber  (insert Amazon affiliate link here)_
 ^
----
-^
 * **Awareness heals.**
 * **Mental health is being in the right self at the right time.**
 # <a name="Understanding selves"></a>Understanding selves

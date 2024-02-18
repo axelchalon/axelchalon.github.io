@@ -1,16 +1,20 @@
 ---
+publish-status: published
+intentions:
+ - Real-life UX
+ - Crowd psychology
 layout: post
 title:  '"The Design of Everyday Things" by Donald A. Norman (personal notes)'
 date:   2024-02-07 14:13:12 +0200
 ---
-
+^
 _Those are my personal notes on Donald A. Norman’s book “The Design of Everyday Things”, about the design of everyday things._
-
-# <a name="Elegant design"></a>[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
+^
+# <a name="[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)"></a>[Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
 * **Design is the link between the intention behind a product, and its actual use.**
 	* A good product can go to waste due to bad design.
 	* Design is all about understanding people and the human mind.
-	* Engineers are notoriously bad designers.
+	* Engineers are notoriously bad designers. 
 		* Engineers tend to understand technology very well, people very poorly.
 		* Engineers think very logically and assume everyone else does as well; the truth is, most people don't, and we have to design for that.
 	* **"Design for people the way they really are, not the way you would like them to be."**
@@ -50,7 +54,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 - **Activity-based organization:** Instead of grouping objects or controls by similarity, grouping them by activity is sometimes more convenient.
 	* However, **activity-based organization makes edge cases and custom needs more difficult to handle**: for example going beyond the presets, or retrieving an item similar yet pertaining to a different activity.
 ^
-* **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize.
+* **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize. 
 	* **Design everything the same way, so people only have to learn once.** Standardization makes skills transferrable across products.
 * **The legacy problem: after widespread acceptance, a standard is difficult to change, however inefficient or inelegant it is**, even when the design was made to address issues now irrelevant.
 * **Mixed systems are confusing to everyone.** "if there is to be a change, everybody has to change."
@@ -79,7 +83,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* **Note-taking and self-organization is knowledge in the world,** "externalized" knowledge.
 	* **People typically only ever learn the minimum required knowledge** (for using a tool, performing an operation).
 ^
-# <a name="Conceptual models"></a>Conceptual models
+# <a name="^conceptual-models"></a><a name="Conceptual models ^conceptual-models"></a>Conceptual models
 * **Everybody has conceptual models about everything, more or less detailed, more or less right.
 	* Every person has a conceptual model of every object they use — more or less detailed, more or less right.
 		* A device acting in an unexpected way often points to a faulty conceptual model and calls for revising it.
@@ -106,7 +110,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 - Humans are bad at giving precise, accurate, consistent input to machines; and machines are bad at evaluating input with common sense, being smart and critical about it. (A match made in heaven)
 	* × [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): use machines to support humans; humans are the most flexible resource of a company.
 	* **"The combination of human plus machine can beat the best human and the best machine."**
-* **Automation makes errors less likely to be noticed.** Automation reduces attention, which makes errors less directly noticeable.
+* **Automation makes errors less likely to be noticed.** Automation reduces attention, which makes errors less directly noticeable. 
 * **Automation makes errors more laborious to understand and correct.** When an error happens, the person is "out of the loop" and has to take time to get up-to-speed with the environment first; only then be able to troubleshoot the error and remedy it.
 * **A good system needs error prevention, detection and correction.**
 	* Prevention
@@ -149,12 +153,12 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * **An unlikely event is way more likely to occur if the factors are already present.**
 * **Less ownership or shared ownership means less vigilance.** Have somebody be responsible (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability), single-point accountability).
 ^
-# <a name="Incremental improvements, radical improvements"></a>Incremental improvements, radical improvements
+# <a name="^incremental-radical"></a><a name="Incremental improvements, radical improvements ^incremental-radical"></a>Incremental improvements, radical improvements
 * Incremental improvements are "safe" whereas radical improvements are "risky", as the market might not be ready for the product yet.
 	* Radical improvements take time (often decades, centuries) before being adopted.
 	* People and culture do not change at the pace of technology. "It can take months to go from invention to product, but decades for the product to get accepted."
 	* Facilitate adoption of radical innovations by making them "look" or "feel" like the old. By giving new things the appearance of old things, we decrease the cognitive load/burden of change.
-* **Incremental innovation starts with an existing product and looks at how it can be improved. Radical innovation starts fresh.** Incremental improvements are based on the present, while radical improvements are based on a vision for the future ( x Toyota: vision)
+* **Incremental innovation starts with an existing product and looks at how it can be improved. Radical innovation starts fresh.** Incremental improvements are based on the present, while radical improvements are based on a vision for the future (x The Toyota Way: [vision]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^future-state))
 * **"Hill-climbing": the "local best" might still be low. Sometimes it is necessary to change hills.** Incremental improvements bring you to the local best (highest point in the hill), but a radical change of circumstances is required to go beyond this. Radical improvements represent a change of paradigm or reference point and let you change the scenery (for better or for worse). "Find another hill."
 * Radical improvement looks at the true need behind the product (root cause analysis, five whys) and comes up with creative, novel solutions addressing the root problem.
 ^
@@ -185,3 +189,134 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * Our (physical) actions and interactions with the world lead to emotions, which is why much of language is based on physical metaphors, whereby we actually refer to the emotions associated with that physical activity.
 ^
 * Multiple minds can be harnessed together to remember things (or wisdom); with each mind contributing complementary pieces (collaborative memory, collaborative wisdom).
+^
+<!--
+^
+	* Being able to perceive clues and derive from them an understanding of the environment is a sign of intelligence.
+^
+	* **The rigidity of activity-based organization is rarely accommodating of edge cases and custom needs**.
+^
+Approximate models let you minimize thought.
+^
+* Science needs accurate measurements and absoute truths; the practical world is fine with approximate models. 
+	* "Practictioners don't need truth: they need results relatively quickly that ,although inaccurate, are "good enough" for the purpose to which they will be applied.".
+^
+	* **Conceptual models need revision as the individual gets exposed to situations unaccountable by their current model.** By being exposed to things we do not understand, we are forced to upgrade our conceptual model thereof, and thereby learn.
+^
+* We do not understand ourselves, and we understand others even less.
+^
+* "Cognition attemps to make sense of the world: emotion assigns value."
+^
+- Incremental improvements are based on what can be improved on the existing product; whereas radical improvement is vision-based (× Toyota Way), dig deep to uncover the true need of the user 
+^
+ — the power of inertia; the problem of legacy; the slowness of change. 
+^
+* **"Hill-climbing": incremental improvements bring you to the local (possible) best, which might still be low.** Radical improvements let you change the scenery (for better or for worse) ("finding another hill"; change of paradigm or reference point).
+^
+
+^
+
+^
+	* Use a sensory medium different from the main one (to provide feedback, error reporting, etc.) to minimize interference (e.g. auditory information for driving, which is visual). 
+^
+* Error detection: make a memory lapse, or something that has not been executed, VERY VISIBLE (× Toyota Way). Make it very visible that something was not done. × Shadow-board. Make the lack of action trigger something visible.
+^
+
+* Sterile Cockpit Configuration: limiting all communication to only what is relevant to the current situation. To prevent interruptions or loss of concentration, provoking slips. Especially during critical phases. "Sterile periods."
+^
+
+^
+
+* If an operation requires multiple steps, implement a forcing mechanism ensuring they are completed in the right order ("interlock" — "an interlock forces operations to take place in proper sequence")
+- Lock-outs prevent people from (accidentally) doing something, starting an operation.
+* Lock-ins prevent people from (prematurely) leaving, stopping an ongoing operation.
+^
+ "Multiple events that, had any one of them not occured, would have prevented the accident."
+^
+*   more layers, fewer "holes" in the existing layers, or layers set up such that they each provide redundancy. "lines of defence" "An accident being permitted by an element (or that element being the final trigger) doesn't mean it is the cause of it, only that it was a contributing factor. Do not confuse a factor w/ the (root) cause."
+^
+
+	* When trying to future-proof / post-mortem, focus on the whole system, the sequence of events, and not only the root cause. (ggf)
+^
+
+* The chances of something happening is not the chance of something being a false positive. Bayesian. Just because something is very unlikely; because something has now already happened, this drasticaly increases the chance of this very unlikely thing actually happening.
+^
+
+^
+
+When many people experience the same struggle and assume others are okay, they do not share their struggle; therefore nobody realizes everyone has the same problem, and this prevents people from teaming up and support one another.
+^
+When many people experience the same struggle
+^
+Because everybody assumes others are okay, and they are to blame for it
+Because everybody thinks they're alone in that
+Because everyone perceives the fault to be their own
+^
+They do not share their struggle
+They keep for themselves
+They do not want to admit to having trouble
+^
+Thereby nobody realizes everyone hsa the same problem
+This creates a conspiracy of silence
+^
+This prevents people from teaming up (and relating)
+They miss a chance to support one another
+^
+
+when many people experience the same struggle but perceive the fault to be their own, nobody wants to admit to having trouble, everybody keeps for themselves, and nobody realizes everyone has the problem, and thereby miss a chance to support on eanother.
+^
+* When many people experience the same struggle (with a product) but assume others are okay and think they are to blame for it, they do not share their struggle, even though everyone is going through the same struggle. This creates a "conspiracy of silence" and prevents people from teaming up (and relating.) (× Brené Brown: "Shame needs judgment and secrecy" (Sex Talks))
+^
+	
+	* "Because everybody thinks thy're alone in that, nobody shares, everybody keeps for themselves, and nobody realizes everyone has the same problem, and thereby miss a chance to support one another."
+	
+	 Because everyone perceives the fault to be his or her own, nobody want sot admit to having trouble. This creates a conspiracy of silence." (× Relationships, sex.)"
+^
+	""Suppose the fault really lies in the device, so that lots of people have th esame problems."
+* Mistakes (wrong goals) vs slips (wrong execution). Within slips, lapses (forgetting to do something); or action-based (doing the wrong thing).
+^
+
+^
+
+	* Capture slips: similar sequence / same start. As a designer, exacerbate the differences to prevent conflation. **Exacerbate differences**: make things that can easily be mistaken for one another more different; increase the difference of what tells them apart.
+	* Object slip: similar object (of action). As a designer, exacerbate the differences to prevent conflation.
+^
+	* Memory-lapse slip: forgetting to do something. They can be prevented by forcing functions (fool-proofing); making all relevant information continuously available. Checklists. Checklists are a good way to deal with interruptions.
+^
+
+^
+* Invisible affordances such as duress codes can provide extra information to people with extra knowledge "in the head".
+^
+or panic passwords
+^
+
+^
+
+* Bad design is prevalent due to them often being designed by engineers, with a great understanding of technology, but a poor understanding of people. Design is all about understanding people. It is necessary to understand people / the human mind deeply in order t odesign well.
+	* Engineers think very logically and assume everyone does as well; the truth is, most people don't act that way, and we have to design for that. 
+^
+ Requirements too strong become counterproductive.
+^
+
+^
+
+* Marketing is about convincing the customer to purchase the product, while design is about providing the customer with a good experience when they are using it; the two can be at odds.
+	* Marketing is about knowing what people will buy; design is abou tknowing what people really need and how they will use the product. "Designers understand what people really need. Marketing understands what people actually buy. Design vs marketing: what people need vs what people buy. Both are necessary and valuable.
+^
+* One can design for the purchaser, or the end user
+* There are multiple groups one can design for; the buyer and end user can be different ("the distributor" "the purchaser", who is the real customer)
+^
+
+	- Different professions will have a different conceptual model of the same product, as so many ways to look at it. (Engineering, usability, etc.)
+^
+
+^
+	* The teams of a company correspond to the various stakeholders of the outside world, and each team corresponds to a specific demand of the customer (price, usability, enjoyment, prestige, etc.).
+		* Management is about having the big picture in mind, prioritizing and finding a consens
+^
+
+* The attempt to match the competition causes all products to become the same. Focus on strenths, not weaknesses. (× Self) If the product has rea lstrengths, it can afford to just be "good enough" in other areas. **Capitalize on your strengths instead of constantly trying to catch up with your shortcomings**. 
+^
+	* Design requires a deep understanding of people and the human mind.
+^
+-->

@@ -1,5 +1,10 @@
 ---
 publish-status: published
+intentions:
+ - Bigness Highness
+ - Openness; communicating about it, breaking the wall of silence
+ - Positivity
+ - Relaxation
 aliases:
   - Sex Talks
 layout: post
@@ -8,8 +13,6 @@ date:   2023-06-15 14:13:12 +0200
 ---
 ^
 _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conversations That Will Transform Your Love Life" (insert Amazon affiliate link here)_
-^
----
 ^
 * Acknowledge that you're having sex. This is the first step in creating a culture of communication (incl. outside the bedroom) and being comfortable talking and communicating about sex.
 	* Do so by:
