@@ -6,13 +6,16 @@ const obsidianFileToWebsiteFile = {
     "Sex Talks": "2023-06-15-sex-talks-vanessa-marin-summary.md",
     "Your Symphony of Selves": "2023-03-15-your-symphony-of-selves-summary.md",
     "All About Love": "2023-10-25-all-about-love-bell-hooks-summary.md",
-    "The Life-Changing Magic of Tidying up": "2022-10-15-the-life-changing-magic-of-tidying-up-summary.md"
+    "The Life-Changing Magic of Tidying up": "2022-10-15-the-life-changing-magic-of-tidying-up-summary.md",
+    "Measure What Matters": "2024-02-18-measure-what-matters-john-doerr-summary.md",
+    "Trying Not to Try": "2023-04-15-trying-not-to-try-slingerland-summary.md",
+    "The Design of Everyday Things": "2024-02-07-design-everyday-things-personal-notes.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;
     result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
     result = result.replace(/[\r\n]{2}/g, '\n^\n');
-    result = result.replace(/^(.*?[*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');
+    result = result.replace(/^(.*?[#*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');
     result = result.replace(/\[\[#\^(.+?)\|(.+?)\]\]/g, '<a href="#^$1">$2</a>');
     Object.keys(obsidianFileToWebsiteFile).forEach(key => {
         var regex = new RegExp("\\[\\[" + key + "\\]\\]", "g");
