@@ -95,7 +95,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 * **When OKRs are collaborative, assign key results to individuals — and hold them accountable.**
 	- **Co-ownership weakens accountability.** (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability))
 * **Give people autonomy on how to solve problems.** "Micromanagement is mismanagement."
-	* **Insight into the way to reach an objective often stems from the gemba** (frontline workers) (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}).
+	* **Insight into the way to reach an objective often stems from the gemba** (frontline workers) (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})).
 	* **Contributors should write their own key results** to achieve the objective.
 * Roughly half the OKRs should come from frontline workers.
 	* "Autonomy", as setting your own goals.
