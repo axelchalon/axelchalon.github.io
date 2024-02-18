@@ -34,19 +34,21 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 # OKRs & benefits
 * **Objectives and key results (goals and action plan) are yin & yang** (and one needing the other.) Goals come from a place of inspiration, are "passive"; while the action plan is an "effecting onto the world", aggressive.
 * **Vision needs to be followed by execution.** "If the heart doesn't find a perfect rhyme with the head, then your passion means nothing."
-	* "**The OKR frameworks cultivates the madness** \[(the genius)\], the chemistry \[in the band\]."
-- **OKRs train everyone to think like managers** (before they become one).
-* **OKRs clarify what you need to be doing, at any given moment,** by providing clear priorities.
-	* **OKRs let you "default to what matters"** when things get hectic or when faced with difficult decisions.
-	* **OKRs make things objective**, therefore easier to reason about and discuss.
-		* **OKRs simplify and expedite decision making**, both individual and collaborative.
+	* "**The OKR framework cultivates the madness** \[(the genius)\], the chemistry \[in the band\]."
+- **Top-level OKRs are based on the company's mission statement, vision.**
+	* Letting everybody know: "There were close to one hundred people at the meeting. The message penetrated two levels of managers off the bat, and to a third level within twenty-four hours."
 * **Day-to-day activities (and OKRs) should be aligned with, contributing towards top-level OKRs (alignment).**
 	* OKRs are a cooperative social contract to establish priorities.
 		* **Concentrate efforts: agree on a shared objective and way of reaching it.** 
 	* Clear top-level OKRs enable voluntary, aligned initiatives among frontline workers.
 	* Clear top-level OKRs simplify deciding if a new project or initiative fits into the big picture or not.
-	* Clear OKRs help coordinate team.
+	* Clear OKRs help coordinate teams.
 	* Meaning arises when you know what your work is for.
+- **OKRs train everyone to think like managers** (before they become one).
+* **OKRs clarify what you need to be doing, at any given moment,** by providing clear priorities.
+	* **OKRs let you "default to what matters"** when things get hectic or when faced with difficult decisions.
+	* **OKRs make things objective**, therefore easier to reason about and discuss.
+		* **OKRs simplify and expedite decision making**, both individual and collaborative.
 ^
 # Open OKRs
 * **OKR platforms are a knowledge platform.** Akin to books, open-access OKR platforms let employees draw from the wisdom and experience of other teams having faced similar objectives — and discover which key results they set, and with which outcome. (x [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): recording experiments, expected outcomes and ultimate results for future reference; with protocol.)
@@ -70,19 +72,17 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	- "If we try to focus on everything, we focus on nothing."
 	* **Any decision is better than no decision.** "Wrong decisions can be corrected once results begin to roll in. Nondecisions — or hastily abandoned ones — teach us nothing."
 	* **There are often several right answers.** The leader's job is to pick one.
-			* "Just make a decision." "Are you moving forward? Are you breaking ties? Let's keep rolling."
+		* "Just make a decision." "Are you moving forward? Are you breaking ties? Let's keep rolling."
 	- "The biggest risk of all is not taking one."
 ^
-* **Make time to brainstorm on what matters most**, what the OKRs should be for the next period.
+* **Make time to brainstorm on what matters most**; what the OKRs should be for the next period.
 	* **Start brainstorming on the next OKRs way ahead of time.**
-* **Deciding ahead gives room to adjust.** Make the OKR official ahead of the kick-off, so you have time to already prepare and fine-tune it.
+* <a name="^set-okrs-in-advance"></a>**Deciding ahead gives room to adjust.** Make the OKR official ahead of the kick-off, so you have time to already prepare and fine-tune it.
 * **Different OKRs can have different priorities.**
 ^
 - **Dual-tracking: have both long-term and short-term OKRs**.
 	- **Actual work is driven by short-term goals**, even in the context of annual OKRs and long-term plans.
 ^
-- **Top-level OKRs are based on the company's mission statement, vision.**
-	* Letting everybody know: "There were close to one hundred people at the meeting. The message penetrated two levels of managers off the bat, and to a third level within twenty-four hours."
 * **OKRs should focus on impact, not activity**; OKRs should focus on direct economic or end-user benefits.
 	* Not "Launch X" but "Double fleet-wide Y by launching X to 90+ percent of borg cells."
 	* Not "Launch X" but "Launch X to improve sign-ups by 25 percent" (or "Improve sign-ups by 25 percent.")
@@ -120,23 +120,23 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* "Picture Everest, then describe how difficult the climb is. Then describe how we're going to reach the summit."
 	* Put very ambitious goals in perspective, in context, to make it seem less crazy (e.g. by changing the reference point: +500% vs 50% of competitor's performance).
 * **Chunking makes ambitious goals doable.** "By chunking a problem, quarter by quarter, moonshots become more doable."
-* When you know the stretch goal in advance, you can prepare for it in all its aspects (you can prepare all areas.)
+* When you know the stretch goal in advance, you can prepare for it in all its aspects (you can prepare all areas.) (× <a href="#^set-okrs-in-advance">set OKRs ahead of kickoff</a>)
 * Massive turnarounds in a short time, are very much possible.
 	* "Within three months of launch, Zune had achieved 10 percent market share in its local trade area."
 	
 # Continuous performance management
+* **Transfer an OKR to a different person or team if they can do it more efficiently**; if they have the expertise and bandwidth.
 * **Have regular one-on-ones with the employees, for exchanging information and providing support.** (CFRs.) The meeting should aim at exchanging information, understanding, coaching and feedback.
 	* The meeting's agenda should be set by the employee.
 	* Ones-on-ones are a place to discuss individual OKRs and ask for guidance or support.
 * **Regular OKR check-ins allow for extra support and possible escalation** (of the goal). They make possible providing extra support to teams struggling with their OKRs, or OKRs lagging behind ("escalation": putting more attention, effort and emphasis on an OKR at risk, enlisting lateral support).
 	* Regular check-ins let you adjust to meet a goal before it's too late. 
-	* "Selling and buying OKRs": taking turns to ask for help for OKRs at risk, almost competing with the other teams
+	* "Selling and buying OKRs": taking turns to ask for help for OKRs at risk, almost competing with the other teams.
 		* "Little time is spent on people's greens. Instead, they "sell" their reds. The team votes on the most important at-risk OKRs for the company as a whole, then brainstorms together as long as it takes to get the objectives back on track. In the spirit of cross-departmental solidarity, individuals volunteer to "buy" their colleagues' reds."
-* **Transfer an OKR to a different person or team if they can do it more efficiently**; if they have the expertise and bandwidth.
 * **Elevate KRs to objectives if they require extra attention** (for the next period).
 * **Fails require a post-mortem.**
 	* For example, failed OKRs require a post-mortem (and a new action plan).
-	* "We do not learn from our mistakes, but from reflecting on our mistakes.".
+	* "We do not learn from our mistakes, but from reflecting on our mistakes."
 	
 # Reviewing
 * Score objectives and KRs first objectively, then subjectively through self-assessment (was the goal too easy?)
@@ -154,7 +154,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* CFRs: Conversations, Feedback (bi-directional), Recognition.
 * "**A manager's first role is the personal one**. It's the relationship with people, the development of mutual confidence, the creation of a community."
 	* "Not everything that can be counted counts, and not everything that counts can be counted." (Albert Einstein) (× [Broadcast](https://xaxel.me/broadcast-music-that-speaks-to-you.html): "We've got what numbers cannot count.")
-	* Have regular, deep conversations with people, "not talking about work" (e.g. assisting them in, or learning about their life goals).
+	* Have regular, deep conversations with people, "not talking about work" (e.g. assisting them in, or learning about, their life goals).
 		* "In talking about people's pursuit of personal goals, you end up learning a lot about what moves them forward — or holds them back — in their careers."
 			- "What makes you very happy? What saps your energy? How would you describe your dream job?"
 			* Know why the people are here, what they want.
