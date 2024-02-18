@@ -3,10 +3,10 @@ layout: post
 title:  '"Improvise!" by Max Dickins (personal notes)'
 date:   2022-12-15 14:13:12 +0200
 ---
-
+^
 _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon affiliate link here)_
-
-# What improvisation is
+^
+# <a name="What improvisation is"></a>What improvisation is
 * Improvisation is a higher-level mindset for navigating life.
 	* Life also is, improvisation. In that sense it makes sense to learn to be better at improvising. (e.g. with what you currently have etc.; nurturing improvisation skills.)
 		 * Life is made of small-scale improv moments every day; by being more creative in each one of these moments, you generate more joy.
@@ -26,13 +26,13 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * Improvisation is a mode of encounter; you can meet the "play" part of another person with your own "play" part.
 * Improvisation has its own community.
 	* The culture of improv is very inclusive and celebrates the individuality of each person.
-
-# How improvisation happens
+^
+# <a name="How improvisation happens"></a>How improvisation happens
 * Improvisation happens within a structure, a frame, a set of rules. Improvisation requires the right balance between freedom and structure. *The rules set us free. They provide a structure within which we can play.*
 * Improvisation does not preclude planning; rather, it supports its execution.
 * Improvisation can be encouraged by creating a culture fostering, cheering, celebrating and rewarding creativity, and providing positive feedback.
-
-# Principles of improvisation
+^
+# <a name="Principles of improvisation"></a>Principles of improvisation
 * Trust
 	* Assume that your fellow players have good intentions. **Feel safe.**
 	* Create a culture of safety.
@@ -89,8 +89,8 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * Celebrate mistakes
 	* Acknowledge and transform them
 * Play
-
-# Practical tools
+^
+# <a name="Practical tools"></a>Practical tools
 * Listen with your body to the other improviser's body, and improvise with this. Body and body-language-based improv.
 * Call out the emotions in the scene. Make them explicit by talking about them.
 * Respond with STRONG EMOTIONS.
@@ -101,15 +101,15 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * **It's not about you, it's about the scene. Focus on the scene.**
 	* We get nervous when we give a presentation because we think it's about us, but actually it's not. It's about what you're presenting.
 	* Focus on making the other player look good (rather than focussing on yourself).
-
-# Creativity
-* *Innovation is most likely to occur when people from diverse backgrounds, thinking styles and perspectives collide.
+^
+# <a name="Creativity"></a>Creativity
+* Innovation is most likely to occur when people from diverse backgrounds, thinking styles and perspectives collide.
 * Team up with people on projects to bring in more creativity.
 * To be creative, be curious. Be exposed to a lot of things, and be curious about them. Think a thought you never thought before. Learn about how things work.
 	* Creativity is connecting ideas. To connect ideas, you have to collect them first.
 	* **Change your ACTION habits and your THOUGHT habits. Do things you would normally never do. (Hobby, book). Act yourself into a new way of thinking. _To think differently, do different things._**
-
-# Brainstorming <a name="Brainstorming"></a>
+^
+# <a name="Brainstorming"></a>Brainstorming
 * **Question-storming: brainstorm questions around a problem; to help think about it differently.** Then, pick five that you'll focus on answering.
 * Brainstorming big: "How can I 10x...?". Brainstorm for exponential results rather than an incremental one.
 * First come up with many options, then pick the best one. Focus first on coming up with many solutions rather than the "best" solutions.
@@ -118,13 +118,13 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* "Foam pits": safe spaces to try ideas out, e.g. at a smaller scale
 * Encourage wild ideas.
 * Shift your environment to inspire you and give you ideas.
-
-# Improv games
+^
+# <a name="Improv games"></a>Improv games
 * Last word, first word (listening practice)
 	* Have a conversation for 90 seconds, where the first word of your reply is the last word of what was just said.
 	* Practices listening until the end, and practices thinking on the spot because you don't know what the last word is going to be.
-
-# Life
+^
+# <a name="Life"></a>Life
 * **We can only use information we've heard.**
 	* Read books, talk to people, try stuff, go to workshops. Exchange with people, try stuff out with them. Take a leap.
 * The world is fraught with offers. Pay attention. (× Improvisation out of everything: notice your environment.)
@@ -152,16 +152,16 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* _"We rip out so much of ourselves to be cured of things faster than we go bankrupt by the age of 30 and have less to offer each time we start with someone new. But to make yourself feel nothing so as to not feel anything - what a waste. It is easy when we are foiled by disaster, broken by life, to stop desiring things, to narrow our horizons and flatten our emotional landscape. To do so might make us feel safe. After all, if we don't try, we cannot fail, and if we don't fail, we cannot hurt. Yet if we don't feel sorrow and pain, we cannot feel joy either. And without joy, what's left?"_
 * On aliveness
 	* _"I felt alive. Of course, I'd been alive before the improv class too, ­biologically speaking. But it turns out I wasn't really, not in the sense that makes you want to dance, do shots and look up in awe at the bright full moon. [...] I had a giddy optimism that was so unusual it was actually making me feel self-conscious. I couldn't wait to go back the next week and do another class. That presence, that connection with others, that spontaneity: it was addictive. It's like that feeling when you're in a long-term relationship that hasn't really worked for a while, but you think you still love them anyway, and then you accidentally happen to meet someone else and realise you don't love your partner at all, because *this* is what love is and how did you ever forget?"_
-
-# Fear
+^
+# <a name="Fear"></a>Fear
 * Fear
 	* Follow the fear. Admit that you are feeling it, and follow it.
 		 * Fear shows us our attachment, for example to safety. Following the fear can thus be transformative.
 	* **Team up with other people to do things you're afraid of doing.**
 	* Your rational and emotional minds are at odds. Your emotional mind (your "chimp") wants safety, while your rational mind wants growth. Deliberately take risks, break patterns. You are not your chimp: don't identify with your chimp, see it for what it is. It gives you suggestions, but you still get to decide.
 		* You can distract your "chimp" (emotional center, fear center) by focussing on a task (e.g. being engaged, playful)
-
-# Coaching, improvement, learning, feedback
+^
+# <a name="Coaching, improvement, learning, feedback"></a>Coaching, improvement, learning, feedback
 * *The antidote to shame is not sympathy or pity — "Poor you"; it is empathy — "Me too."*
 * Improvement
 	* You can simply focus on becoming better every day. This lets you improve without comparing yourself to others constantly.
@@ -198,7 +198,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 					* "How can I use my strengths more often?"
 					* **"In what other areas might I apply this strength?"**
 					* **"How can I dedicate more of my time and other resources to developing this strength?"**
-* Feedback / Coaching
+* <a name="^feedback"></a>Feedback / Coaching
 	* Feedback transforms our experience into knowledge and expertise; and lets you improve your intuition and spontaneous decisions.
 	* Side coaching (moment-to-moment coaching) lets you notice your mistakes in context. In side-coaching, a coach is on the side and interrupts you when you make a mistake, points it out, and gives you an alternative "better choice".
 		* Real-time feedback lets you have all the context and circumstances fresh in your mind, as opposed to periodical check-ins.

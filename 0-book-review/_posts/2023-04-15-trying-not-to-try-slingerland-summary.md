@@ -3,19 +3,19 @@ layout: post
 title:  '"Trying Not to Try" by Edward Slingerland (personal notes)'
 date:   2023-04-15 14:13:12 +0200
 ---
-
+^
 _This is my attempt at a personal summary of Edward Slingerland's book "Trying Not to Try: Ancient China, Modern Science and The Power of Spontaneity" (insert Amazon affiliate link here)_
-
+^
 * **See the world in terms of the power and grace of spontaneity**
 * **"In the form and function of play, man's consciousness that he is embedded in a sacred order of things finds its first, highest, and holiest expression.**"
 * "Hot" (uninhibited, spontaneous) vs "cold" cognition
-
-# Wu-wei
+^
+# <a name="Wu-wei"></a>Wu-wei
 * Wu-wei as spontaneous flow, with the conscious mind stepping in during hiccups. The situational awareness is present in the background, ready to call on cold consciousness if needed.
 * Getting into flow: a small effort to switch selves, and then you flow. "You cannot attain absolute calmness of mind without any effort. You must make some effort, then forget about yourself in it."
 * Spontaneity can be shaped first by cold cognition; you can make a spontaneous habit out of something. (× "A training is complete when it has become automatic, without thought or effort.")
 * Social effectiveness is moving through the human world with ease and grace
-	* "Being in the world, but not of it."
+	* <a name="^in-the-world-not-of-it"></a>"Being in the world, but not of it." (Bible)
 	* "If you want to be in front of the people, you must, in your actions, put yourself behind them. [...] Because he does not contend with others, there is no one in the world who is able to contend with him." "By putting themselves below, they end up on top."
 	* "The sage has the outward physical appearance of a human being but lacks the human essence (vices). Because he looks like a human, he flocks together with other people. Lacking the human essence, though, he does not allow right and wrong to get to him."
 	* Doing the opposite (e.g. the opposite of effort; or of what the other person is doing; interpersonally). Giving way in martial arts such that your adversary has nothing to push against. Wrong-footing.
@@ -23,8 +23,8 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 * Trying & Not Trying: both work, and it's about switching back and forth.
 * Remaining relaxed and realizing it's no big stakes.
 	* Otherwise, "by the time you start betting for gold, you're completely petrified."
-
-# Spontaneity and authenticity, heartfulness
+^
+# <a name="Spontaneity and authenticity, heartfulness"></a>Spontaneity and authenticity, heartfulness
 * × Don't second-guess yourself; spontaneity in improvisation.
 * Effortless and unselfconscious behaviour acts like a window into our true character.
 	* Spontaneous behaviour is hard to fake, indicates that your behaviour is not precalculated, but that it is authentic and that you are being transparent. When acting spontaneously, people know you are being authentic, and automatically trust you.
@@ -39,8 +39,8 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 * **"INTERPERSONAL ANXIETY OR AWKWARDNESS — AN INABILITY TO ENTER WU-WEI AROUND OTHER PEOPLE"**
 	* "The artificial, temporary suppression of our conscious mind given to us by intoxicants may, in some situations, be precisely the little jump start that we need to push through the paradox of wu-wei in social situations." (Could also be dancing, etc.)
 	* Spontaneity as being natural
-
-# Life
+^
+# <a name="Life"></a>Life
 * "You need to apply fertilizer at the right times, weed when necessary, and ensure proper irrigation."
 	* Identify small sprouts and nurture them. Remember them, remember the glimpses you've had.
 * **A training is complete when it has become automatic, without thought or effort.** (Habits.)

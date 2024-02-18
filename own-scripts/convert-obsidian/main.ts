@@ -9,20 +9,26 @@ interface pr {
 }
 
 const obsidianFileToWebsiteFile: pr = {
-  "The Toyota Way \\(XJACK\\)":
+  "The Toyota Way":
   "2023-11-30-the-toyota-way-jeffrey-liker-summary.md",
 
-  "Improvise \\(XJACK\\)":
+  "Improvise":
   "2022-12-15-improvise-max-dickins-summary.md",
 
-  "The New Psycho-Cybernetics \\(XJACK\\)":
+  "The New Psycho-Cybernetics":
     "2023-08-15-the-new-psycho-cybernetics-summary.md",
 
-  "Sex Talks \\(XJACK\\)":
+  "Sex Talks":
   "2023-06-15-sex-talks-vanessa-marin-summary.md",
 
-  "Your Symphony of Selves \\(XJACK\\)":
-  "2023-03-15-your-symphony-of-selves-summary.md"
+  "Your Symphony of Selves":
+  "2023-03-15-your-symphony-of-selves-summary.md",
+
+  "All About Love":
+  "2023-10-25-all-about-love-bell-hooks-summary.md",
+
+  "The Life-Changing Magic of Tidying up":
+  "2022-10-15-the-life-changing-magic-of-tidying-up-summary.md"
 };
 
 result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
@@ -43,7 +49,7 @@ Object.keys(obsidianFileToWebsiteFile).forEach(key => {
 
 var unparsedWikilinks = result.match(/\[\[.+\]\]/);
 
-if (unparsedWikilinks !== null && false) {
+if (unparsedWikilinks !== null) {
 console.error("Unparsed Wikilinks:",unparsedWikilinks);
 } else {
 console.log(result);
