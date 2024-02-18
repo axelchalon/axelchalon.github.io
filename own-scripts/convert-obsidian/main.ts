@@ -1,9 +1,6 @@
 import getStdin from 'get-stdin';
 import { promises as fs } from "fs";
 
-var result: string = await getStdin() || (await fs.readFile(process.argv[2])).toString();
-
-
 interface pr {
   [key: string]: any;
 }
@@ -16,7 +13,7 @@ const obsidianFileToWebsiteFile: pr = {
   "2022-12-15-improvise-max-dickins-summary.md",
 
   "The New Psycho-Cybernetics":
-    "2023-08-15-the-new-psycho-cybernetics-summary.md",
+  "2023-08-15-the-new-psycho-cybernetics-summary.md",
 
   "Sex Talks":
   "2023-06-15-sex-talks-vanessa-marin-summary.md",
@@ -31,26 +28,40 @@ const obsidianFileToWebsiteFile: pr = {
   "2022-10-15-the-life-changing-magic-of-tidying-up-summary.md"
 };
 
-result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
-result = result.replace(/[\r\n]{2}/g, '\n^\n');
-result = result.replace(/^(.*?[*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');
-result = result.replace(/\[\[#\^(.+?)\|(.+?)\]\]/g, '<a href="#^$1">$2</a>');
 
-Object.keys(obsidianFileToWebsiteFile).forEach(key => {
-  var regex = new RegExp("\\[\\[" + key + "\\]\\]","g")
-  result = result.replace(regex, "[" + key + "]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %})");
+function obsidianToJekyll(obsidian: string) {
+  var result = obsidian;
+  result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
+  result = result.replace(/[\r\n]{2}/g, '\n^\n');
+  result = result.replace(/^(.*?[*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');
+  result = result.replace(/\[\[#\^(.+?)\|(.+?)\]\]/g, '<a href="#^$1">$2</a>');
 
-  var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z]+)\\|(.+?)\\]\\]","g")
-  result = result.replace(regex, "[$2]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %}$1)");
+  Object.keys(obsidianFileToWebsiteFile).forEach(key => {
+    var regex = new RegExp("\\[\\[" + key + "\\]\\]","g")
+    result = result.replace(regex, "[" + key + "]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %})");
 
-  var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g")
-  result = result.replace(regex, "[$1]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");
+    var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z]+)\\|(.+?)\\]\\]","g")
+    result = result.replace(regex, "[$2]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %}$1)");
+
+    var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g")
+    result = result.replace(regex, "[$1]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");
+  });
+
+  var unparsedWikilinks = result.match(/\[\[.+\]\]/);
+
+  if (unparsedWikilinks !== null) {
+  console.error("Unparsed Wikilinks:",unparsedWikilinks);
+  throw new Error("Parse error");
+  } else {
+  return result;
+  }
+}
+
+Object.keys(obsidianFileToWebsiteFile).forEach(async obsFile => {
+  var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Books/Book notes/" + obsFile + ".md")).toString();
+  var jk = obsidianToJekyll(obs);
+  console.log(`Updating ${obsFile}...`);
+  await fs.writeFile("../../0-book-review/_posts/" + obsidianFileToWebsiteFile[obsFile],jk);
 });
 
-var unparsedWikilinks = result.match(/\[\[.+\]\]/);
-
-if (unparsedWikilinks !== null) {
-console.error("Unparsed Wikilinks:",unparsedWikilinks);
-} else {
-console.log(result);
-}
+console.log('Done!');
