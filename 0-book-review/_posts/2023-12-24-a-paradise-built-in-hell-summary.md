@@ -1,16 +1,20 @@
 ---
+publish-status: published
+intentions:
+ - Challenges to love and sticking to love (as a higher principle) in spite of adversity.
+ - Motivation to work in charities
 layout: post
 title:  '"A Paradise Built in Hell" by Rebecca Solnit (personal notes)'
-date:   2023-12-24 14:13:12 +0200
+date: 2023-12-24 14:13:12 +0200
 ---
 ^
-_Those are my personal notes on Rebecca Solnit's book "A Paradise Built in Hell" about communities arising in disasters._
+_Those are my personal notes on Rebecca Solnit’s book “A Paradise Built in Hell” about communities arising in disasters._
 ^
 * Generally, the people furthest away from the disaster tend to panic the most, be the most emotionally affected, and have the most distorted view of its actualities.
 	* People directly affected by the disasters most often look back positively on them and their local response.
 	* People at the epicentre (ideally, typically) live through the disaster collectively, as a bonding experience, **creating community**.
 		* **Collective suffering redeems.** (Isolated suffering is the true bane.)
-		* Disasters unite (through the common fighting against an exogenous adversary.)
+		* <a name="^disasters-unite"></a>Disasters unite (through the common fighting against an exogenous adversary.)
 	* At the heart of the disaster, there is often very little doubt on the right, natural, instinctual thing to do. "There is no time for fear."
 		* Disasters, disaster utopias let societies operate alternatively, focussed on immediateness and generosity rather than transactions, calculation and profit.
 			* "No long-term plans, just the immediate demands of survival."
@@ -71,8 +75,8 @@ _Those are my personal notes on Rebecca Solnit's book "A Paradise Built in Hell"
 			* The belief that social change and utopia is possible lets people act in ways that shape the world for the better — sometimes even making the original vision a reality.
 			* Initiatives, disasters and other events imperceptibly set things in motion with snowballing effects down the line, for example through a transformed individual.
 		 * Meaning is in working towards the paradise, not being in it.
-^
-# <a name="Other"></a>Other
+   
+# Other
 * Celebrations (anniversaries) are about reconnecting to the sense of possibility and exhilaration that were felt during the original event, landmark or encounter — reconnecting to what potential and possibilities they hold and what they symbolize; reconnecting to the high hopes and visions for the future they carry with them; it is an instance of realignment, an unmuddling of the mind and a regular reset to start off from the right place again. "Letting ties again become enchantments rather than obligations."
 	* "When the connections were made, the possibilities were exciting, and joy came readily afterward. Memory of such moments becomes a resource to tap into through recollecting and invocation, and celebrating those moments revives and reaffirms the emotions. [...] **The enchanted time can be reclaimed and renewed by memory and celebration.**"
 		 * Celebrations let you reconnect to the sense of possibility and magic of a connection.
@@ -80,8 +84,8 @@ _Those are my personal notes on Rebecca Solnit's book "A Paradise Built in Hell"
 * Dorothy Day: not making a distinction between falling in love with things and falling in love with people.
 * Carnivals (just like role-playing) are a "temporary liberation from the prevailing truth".
 	* Carnivals historically happened outside of time: "Some ancient calendars had three hundred sixty days, the five at the end of the year were categorically outside time, so that the ordinary rules did not apply."
-	* Carnivals (just like psychotropics) let you return to ordinary life with a newfound sense of possibility, not accepting the current reality as is but understanding that things can be different.
+	* Carnivals (just like psychotropics) let you return to ordinary life with a newfound sense of possibility, not accepting the current reality as is but understanding that things can be different. 
 * Community projects: "working with, rather than for".
-	* "Sweat equity" (New Orleans): the future homeowners must work on the houses.
+	* "Sweat equity" (New Orleans): the future homeowners must work on the houses. 
 * "After that I had twenty dollars, Sharon put up thirty dollars, and with that we financed Common Ground."
 * **"It is when people deviate from the script that exciting things happen."**

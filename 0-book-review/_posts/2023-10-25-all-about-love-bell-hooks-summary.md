@@ -93,7 +93,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * A lack of self-worth/self-esteem prevents us from seeing our needs as valid and worthy to be met. As a consequence, we do not voice them, as we deem ourselves unworthy to have our needs met. This gets in the way of love and creates shame, and secrecy and shame stifle love.
 ^
 # Work
-* Doing a job well, even if it's not one that you like or enjoy, bolsters your self-esteem. "It's not what you do, but how you do it."
+* <a name="^do-job-well-with-love"></a>Doing a job well, even if it's not one that you like or enjoy, bolsters your self-esteem. "It's not what you do, but how you do it."
 	* "Bringing love into the work environment can create the necessary transformation that can make any job we do, no matter how menial, a place where workers can express the best of themselves."
 	* "When we work with love, we create a loving working environment."
 * Doing a job that you don't like is a big threat to your self-esteem, hence the need to be particularly vigilant there, and to do it well, or find a better job — otherwise there is a loss of meaning. "Sometimes we learn what we need to avoid by doing it" (clearly, until the end.)

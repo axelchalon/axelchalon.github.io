@@ -55,7 +55,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* However, **activity-based organization makes edge cases and custom needs more difficult to handle**: for example going beyond the presets, or retrieving an item similar yet pertaining to a different activity.
 ^
 * **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize. 
-	* **Design everything the same way, so people only have to learn once.** Standardization makes skills transferrable across products.
+	* <a name="^standardize-to-learn-once"></a>**Design everything the same way, so people only have to learn once.** Standardization makes skills transferrable across products.
 * **The legacy problem: after widespread acceptance, a standard is difficult to change, however inefficient or inelegant it is**, even when the design was made to address issues now irrelevant.
 * **Mixed systems are confusing to everyone.** "if there is to be a change, everybody has to change."
 ^
@@ -128,7 +128,8 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 			* **Use lock-ins to prevent people from leaving or stopping an operation prematurely.**
 		* <a name="^make-small-differences-big"></a>**Make small differences big:** as a designer, accentuate the differences (or make new ones) between two similar things easily confused.
 			* This helps prevent:
-				* **Capture slips: mistaking two things because they share a similar sequence**
+				* **Sequence slips: mistaking two things because they share a similar sequence** (Capture slips.)
+				* **Function slips: using the wrong object because it serves a similar purpose** (e.g. putting the water kettle on a stovetop instead of the kettle base, "to heat it up")
 				* **Object slips: mistaking two objects because of their association with the same action**
 		* **To prevent memory lapses, use checklists, constraints, and current state information.**
 			* **Checklists can be well or badly designed.**
@@ -159,7 +160,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* People and culture do not change at the pace of technology. "It can take months to go from invention to product, but decades for the product to get accepted."
 	* Facilitate adoption of radical innovations by making them "look" or "feel" like the old. By giving new things the appearance of old things, we decrease the cognitive load/burden of change.
 * **Incremental innovation starts with an existing product and looks at how it can be improved. Radical innovation starts fresh.** Incremental improvements are based on the present, while radical improvements are based on a vision for the future (x The Toyota Way: [vision]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^future-state))
-* **"Hill-climbing": the "local best" might still be low. Sometimes it is necessary to change hills.** Incremental improvements bring you to the local best (highest point in the hill), but a radical change of circumstances is required to go beyond this. Radical improvements represent a change of paradigm or reference point and let you change the scenery (for better or for worse). "Find another hill."
+* <a name="^hill-climbing"></a>**"Hill-climbing": the "local best" might still be low. Sometimes it is necessary to change hills.** Incremental improvements bring you to the local best (highest point in the hill), but a radical change of circumstances is required to go beyond this. Radical improvements represent a change of paradigm or reference point and let you change the scenery (for better or for worse). "Find another hill."
 * Radical improvement looks at the true need behind the product (root cause analysis, five whys) and comes up with creative, novel solutions addressing the root problem.
 ^
 # Stakeholders and business interests
@@ -175,7 +176,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* All teams should operate in close contact with one another and understand each other; this should be ensured and facilitated by management.
 	* Management is about having the big picture in mind and prioritizing, reaching a consensus across the different teams. (× the "orchestrating" self in [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}); the self with the big picture in mind)
 	* "It is often possible to reach satisfactory solutions for all the needs."
-* **Capitalize on your strengths instead of constantly trying to catch up with your shortcomings**. If the product has real strengths, it can afford to just be "good enough" in other areas (× Self). **The attempt to match the competition causes all products to become the same.**
+* <a name="^capitalize-on-strengths"></a>**Capitalize on your strengths instead of constantly trying to catch up with your shortcomings**. If the product has real strengths, it can afford to just be "good enough" in other areas (× Self). **The attempt to match the competition causes all products to become the same.** 
 	* Focus on the people, not the competition.
 - **Disinterest in durability**: Selling durable, quality products is not in the business interest of companies. Companies profit from purchases, not from use.
 		- The subscription model is a business solution to the problem of disinterest in durability.

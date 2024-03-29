@@ -34,7 +34,16 @@ const obsidianFileToWebsiteFile: pr = {
   "2023-04-15-trying-not-to-try-slingerland-summary.md",
 
   "The Design of Everyday Things":
-  "2024-02-07-design-everyday-things-personal-notes.md"
+  "2024-02-07-design-everyday-things-personal-notes.md",
+
+  "A Splendid Exchange":
+  "2024-03-29-a-splendid-exchange-personal-notes.md",
+
+  "The Sirens of Titan":
+  "2023-10-05-kurt-vonnegut-sirens-of-titan-thoughts-notes-review.md",
+
+  "A Paradise Built In Hell":
+  "2023-12-24-a-paradise-built-in-hell-summary.md"
 };
 
 

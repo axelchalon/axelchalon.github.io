@@ -9,7 +9,10 @@ const obsidianFileToWebsiteFile = {
     "The Life-Changing Magic of Tidying up": "2022-10-15-the-life-changing-magic-of-tidying-up-summary.md",
     "Measure What Matters": "2024-02-18-measure-what-matters-john-doerr-summary.md",
     "Trying Not to Try": "2023-04-15-trying-not-to-try-slingerland-summary.md",
-    "The Design of Everyday Things": "2024-02-07-design-everyday-things-personal-notes.md"
+    "The Design of Everyday Things": "2024-02-07-design-everyday-things-personal-notes.md",
+    "A Splendid Exchange": "2024-03-29-a-splendid-exchange-personal-notes.md",
+    "The Sirens of Titan": "2023-10-05-kurt-vonnegut-sirens-of-titan-thoughts-notes-review.md",
+    "A Paradise Built In Hell": "2023-12-24-a-paradise-built-in-hell-summary.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;

@@ -63,7 +63,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* Shame needs secrecy and judgement to thrive. (Brené Brown)
 	* Focus on your feelings and needs and on communicating them, rather than mulling about what's going on in your partner's head.
 	* Films mistakenly portray sex as happening organically and very smoothly, while in fact sex most of the time can be quite goofy, awkward or a bit funny. You can call it out!
-	* Normalize sex. Laugh about it. At the end, it's just sex. Practice thinking and talking about sex openly and honestly every day to let fears, shame and hang-ups about sex dissolve, and have it be a normal, natural part of life. Make it "no big deal".
+	* Normalize sex. Laugh about it. In the end, it's just sex. Practice thinking and talking about sex openly and honestly every day to let fears, shame and hang-ups about sex dissolve, and have it be a normal, natural part of life. Make it "no big deal".
 		* "There's something truly special that happens when you talk about sex every day. The shame and embarrassment slowly peel away, and sex becomes a normal and natural part of your life - as it should be. All the things that used to feel so awkward now feel lighter — even downright funny at times." "Challenge yourselves to talk about sex on a daily basis."
 * (Difficult) sex talks
 	* Remind yourself of your partner's positive intentions; that you're in the same team and both want to remove obstacles in the way of a great sex life.
@@ -82,3 +82,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 			* Make out with each other for at least a few seconds every time you leave for the day or go to bed at night
 		* Also as a way to keep the Sex Drive Simmer going; and as a way to count your blessings and cherish the presence of your partner, of seizing it. Nurture habits of appreciation, joy and happiness. "There are few things more capable of transforming your relationship than gratitude."
 			* Share gratitude and appreciation to each other.
+^
+---
+^
+* Language lessons check-ins and check-outs at the beginning and end of the lesson are tools for intentionality and feedback and can be applied to relationships.

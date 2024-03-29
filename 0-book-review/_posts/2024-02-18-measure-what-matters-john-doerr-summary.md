@@ -83,7 +83,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 - **Dual-tracking: have both long-term and short-term OKRs**.
 	- **Actual work is driven by short-term goals**, even in the context of annual OKRs and long-term plans.
 ^
-* **OKRs should focus on impact, not activity**; OKRs should focus on direct economic or end-user benefits.
+* <a name="^impact-not-activity"></a>**OKRs should focus on impact, not activity**; OKRs should focus on direct economic or end-user benefits.
 	* Not "Launch X" but "Double fleet-wide Y by launching X to 90+ percent of borg cells."
 	* Not "Launch X" but "Launch X to improve sign-ups by 25 percent" (or "Improve sign-ups by 25 percent.")
 * **To maximize productivity, focus on output instead of activity,** Busy-ness does not equate efficiency ("**the activity trap**"). "There are so many people working so hard and achieving so little." Don't work hard, work smart. Focus on the value steam instead of surface processes ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^value-stream-not-surface-processes)). [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): (excessive) busy-ness can lead to [over-burdening]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^overburden-is-detrimental) and other wastes (e.g. [over-production]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^continuous-use)).

@@ -15,7 +15,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 # Continuous improvement
 * A lean organisation is a learning organisation.
 * The Toyota Way worships at the altar of continuous improvement — taking precedence over everything else, including uptime. It is **the** guiding principle, and a paradigm shift at that. Work clean, and then work fast.
-* Continuous improvement refers to two things: reducing deviation from the standard, and improving the general efficiency of a system (by bursts — "kaizen").
+* **Continuous improvement refers to two things: reducing deviation from the standard, and improving the general efficiency of a system (by bursts — "kaizen").**
 	* As you reduce deviation from standard, you can focus more and more on improving the general effectivity of the system and work towards KPI targets, "make leaps".
 	* The Toyota Way includes both radical transformation and incremental improvements: "Some large leaps, and many small steps"; big CI and small CI.
 		* <a name="^future-state"></a>**Re-imagine the future state** (for radical transformation): rather than starting with improving current processes, you might want to start with developing a future ideal vision for the whole process (customer-centric; design thinking), relieving you from any biases associated with the way things are currently set up.
@@ -110,7 +110,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* **Cleaning** is an integral part of the 5S: Sorting (out), organising, cleaning, standardizing (processes), sustaining (in the long run).
 * Use redundancy to prevent errors (especially electronic+analog redundancy)
 ^
-# Waste
+# <a name="^waste"></a>Waste
 * Value should be flowing throughout the production process until delivery, without obstacles or halts (like a "free-flowing river"). The vast majority of lead time should be spent in value-added work contributing to the final product. Any interruption to this flow of value is waste and should be eliminated.
 	* ![Waste in value stream](https://xaxel.me/assets/toyota_30.png)
 * The main wastes are: unnecessary transport (of goods or information), ineffective processing, defects, wasted time, overproduction and excess inventory.

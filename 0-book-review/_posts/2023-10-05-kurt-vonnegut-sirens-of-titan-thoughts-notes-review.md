@@ -1,11 +1,14 @@
 ---
+publish-status: published
+intentions:
+- (NL, and meaning, humanism impactful insight conveyed through art)
 layout: post
 title:  '"The Sirens of Titan" by Kurt Vonnegut (personal notes)'
 date:   2023-10-05 14:13:12 +0200
 ---
-
+^
 Would not recommend reading in Dutch.
-
+^
 - Everything has always been and will always be the same; telling the future is no big feat and is actually pretty simple, if you look at the current state of things.
 * Once you know how things will turn out (e.g. that you are going to marry that one person), you try way less hard as you trust (know) the way it will all end up.
 * A revelation can bring about drastic changes and decisions in very little time; once you know or have been shown the way and now just scurry to follow it as quickly as you can. "Within two months' time, when Rumfoord appeared again, quite a bit had changed, Constant had sold all of his galactical possessions..."
