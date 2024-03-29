@@ -83,6 +83,5 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 		* Also as a way to keep the Sex Drive Simmer going; and as a way to count your blessings and cherish the presence of your partner, of seizing it. Nurture habits of appreciation, joy and happiness. "There are few things more capable of transforming your relationship than gratitude."
 			* Share gratitude and appreciation to each other.
 ^
----
-^
+
 * Language lessons check-ins and check-outs at the beginning and end of the lesson are tools for intentionality and feedback and can be applied to relationships.

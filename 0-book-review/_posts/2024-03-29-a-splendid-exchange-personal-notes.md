@@ -202,7 +202,7 @@ date: 2024-03-29 14:13:12 +0200
 - **Peace as the more profitable option.** (Peace through diplomacy.) Providing safe conduct but taxing passer-bys was more profitable than raiding ever-shrinking caravanes around Mecca. The Quraish sheikh Qussay took over Mecca and convinced his people and nearby tribes to tax passerbys instead of raiding them. (500-600 AD)
 	* e.g. [hunter-gatherers and farmers peacefully trading]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^peaceful-hunter-farmer)
 	* × [silent trade]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^silent-trade)
-- One can be valued for providing a link to God(s); e.g. Mecca's Kaaba; priests. #valued
+- One can be valued for providing a link to God(s); e.g. Mecca's Kaaba; priests.
 * **Cargo cult.** When Abraha (Christian Abyssinian) unsuccessfully attacked Mecca with elephants, Meccans had never seen elephants before and credited divine intervention for their appearance and defeat (Q105, "with pebbles dropped by birds"), calling that year **"The Year of The Elephant"**
 	* The Year of the Elephant, 571 AD, was used as epoch in the Islamic world until Muhammad left Mecca for Medina in 622 AD (Hijrah) <cite>(622 sans Muhammad à Mecca)</cite>, marking the beginning of the Hijrah calendar (before returning in 630 AD and replacing the idols of the Kaaba, replacing the Quraish rulers)
 	- **Big creatures must be divine.** Meccans mythologizing of elephants was akin to (later) Chinese association of giraffes with the qilin, a chimera from Chinese folklore.
@@ -218,7 +218,7 @@ date: 2024-03-29 14:13:12 +0200
 	* The Islamic victory over the Tang Chinese at the Battle of Talas in 751 gave them access to papermaking, thereby setting foundations for the beginning of the Islamic Golden Age (~700-1300 AD) (while not severing ties with the Tang dynasty)
 		* Later transfers include gunpowder, printing, the magnetic compass.
 		* The "inner" Middle Ages (700-1300 AD) were dominated by the Muslims ("Islamic Golden Age"), with the Abbasid caliphate. <cite>The Middle Ages were internally Islamic.</cite>
-			* The Islamic Golden Age akin to the Pax Romana (~ 0-200 AD, heralded by Octavian) <cite>0 to 200... years of peace (Gabriel Romana Marquez)</cite> #peace
+			* The Islamic Golden Age akin to the Pax Romana (~ 0-200 AD, heralded by Octavian) <cite>0 to 200... years of peace (Gabriel Romana Marquez)</cite>
 			* The Islamic Golden Age finished with the invasion of Mongols in the 13th century, plague in the 14th (Black Death <cite>The Black Death struck while not even being legal yet</cite>), and Vasco da Gama's in the 15th and 16th century bypassing the Red Sea area by circumventing Africa around the Cape of Good Hope.  
 * Islam was a religion of trade (Muhammad was a trader).
 - **Perquisities of an echelon can defeat its purpose.** Mamluk slaves (soldier slaves) would rise to power based on merit and loyalty, before slowly getting corrupted by the perks of their position and eventually be replaced, by force or nature, by a new generation of rulers.
@@ -236,7 +236,7 @@ date: 2024-03-29 14:13:12 +0200
 	* Sugarcane was the deadliest of crops — with hordes of slaves dying — all of this for the enjoyment of the aristocracy and population of England.
 ^
 # That Pink Floyd album
-* Medieval pigs were valued for transforming resources (fodder into human-consumable proteins) and being a store (of redeemable proteins). #valued
+* Medieval pigs were valued for transforming resources (fodder into human-consumable proteins) and being a store (of redeemable proteins).
 	* In a way, pigs were playing a part (middleman) in the value chain of fodder-to-human-proteins.
 		 * Pigs as fodder refiners.
 	* **Pigs were data analysts.** Pigs were valued for their ability to produce something valuable out of something we humans cannot directly use.
