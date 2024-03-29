@@ -20,7 +20,7 @@ date: 2024-03-29 14:13:12 +0200
 		* <a name="^discern-appreciate"></a>Discernment and appreciation elevate their objects — however mundane or widespread — to preciousness.
 			* By discerning and appreciating fully for oneself, we untangle our taste from the vagaries of trends and history — setting our own standards for what is to be appreciated, regardless of preciousness or mundaneness.
 			* The abundance of riches in the modern world has desensitized us and led to a desacralization of goods, a loss of appreciation  — though expensive items are still prized as objects of prestige.
-	* Though a universally liked drug, sugar used to be rare and only picked up from the 15th century with slave-worked plantations in the New World (South America & Carribeans), with many Westerners emigrating to take advantage of the boon.
+	* Though a universally liked drug, sugar used to be rare and only picked up from the 15th century with slave-worked plantations in the New World (South America & Caribbeans), with many Westerners emigrating to take advantage of the boon.
 	* Barley was the common grain in Greece, as wheat was harder to cultivate in dry soils (and was thus reserved only for festive days) (× [once precious, now common]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^once-precious-now-common))
 * **As in time, so in space.** Just like different things get valued at different times, different things get valued in different places — and at the different scales (× Communities; chosen family; people)
 	* In China, silver was worth its weight in gold (and then some). The Chinese didn't think much of gold and were more fond of silver.
@@ -32,10 +32,10 @@ date: 2024-03-29 14:13:12 +0200
 ^
 # Brokers not broke
 * **Middlemanship (intermediation) has always been very popular (and lucrative).**
-	* **Passing the baton, very many times.** Just like now, ancient trade covered long distances, made of very many segments operated by very many midlemen (× Internet's peer-to-peer addressing protocol (IP Routing))
+	* **Passing the baton, very many times.** Just like now, ancient trade covered long distances, made of very many segments operated by very many middlemen (× Internet's peer-to-peer addressing protocol (IP Routing))
 		* Physical trade routes exist today in part as infrastructure (e.g. the Internet infrastructure (for trading of bits)).
 		* The Chinese would only bring their silk to the first middlemen (in the Bay of Bengal), the first stage in a long journey to Rome.
-	* **Each new intermediary marks an increase in price.** (Also for the end-consumer, for whom the process might be less apparent.) With each subsequent leg of the jouney, the price of the commodity would increase.
+	* **Each new intermediary marks an increase in price.** (Also for the end-consumer, for whom the process might be less apparent.) With each subsequent leg of the journey, the price of the commodity would increase.
 		* The intrinsic value of a product (if there exists such a thing) becomes combined with the (aggregated) value of its history (Point of view of the object.)
 			* Value and price are fundamentally subjective, based on guesstimating something's value or price for oneself, and negotiation skills. Value and price are dependent on the buyer and the seller (producer).
 		* Every reseller (middleman) adds their own margin, tantamount to the value of their effort (and then some). (Point of view of the (re)seller.)
@@ -45,14 +45,14 @@ date: 2024-03-29 14:13:12 +0200
 ^
 # Places be getting rich
 * **Locales also profit from trade.**
-	* **Life deals everyone random cards to start from.** (Wheel of Fortune.) The geographical/geopolitcal luck of the draw (for the states — happening to be located in a strategic or resource-laden location).
+	* **Life deals everyone random cards to start from.** (Wheel of Fortune.) The geographical/geopolitical luck of the draw (for the states — happening to be located in a strategic or resource-laden location).
 		* [Change hills]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^hill-climbing) to go to more strategic places, even if they have become so by stroke of fate. Go to the interesting places to evolve — even if they have no merit in that.
 		* <a name="^character-building"></a>The luck of the draw gives different people different assets (that they can develop) (× RPG character building). For example, the Chinese with silk and spices; the Roman empire with minerals (through advanced mining techniques).
 			* <a name="^camel-environmental-advantage"></a>**Be like the camel: develop your unique environmental advantage**: e.g. camels w/ storing water for surviving in the desert away from the oases with their large predators.
 				- The spacing of caravanserais was determined by the maximum distance camels could travel (safely) without water (three days) (Natural reasons for things.)
 				* (× hone in on your assets; **double down on your strong points** instead of putting too much energy into trying to "catch up" with the rest: [capitalize on your strengths (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^capitalize-on-strengths))		
 		* <a name="^irrelevant-lessons"></a>**Lessons you do not have to learn (because they do not concern you).** Some face setbacks that are completely out of the picture for others.
-			* The narrow West needed control over maritime choke points and improved at it (especially Greece), while the East generally didn't need to worry about it, what with the vast expanse of Indian Ocean — which also made the East more vulnerable to maritime attacks or attacks on sealanes.
+			* The narrow West needed control over maritime choke points and improved at it (especially Greece), while the East generally didn't need to worry about it, what with the vast expanse of Indian Ocean — which also made the East more vulnerable to maritime attacks or attacks on sea lanes.
 			* (× other people struggling with things you do not struggle with)
 		* **Periodical random event (from Providence)** (chaotic divine intervention): asteroid triggering the ice age and (slowly) extincting dinosaurs (K-Pg event) (× [Improv]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}) routine "CHAOS!" element).
 ^
@@ -91,7 +91,7 @@ date: 2024-03-29 14:13:12 +0200
 - **Union of two paradigms through the union of two people.** Two people can unite personally and thereby bridge two families or paradigms. King João I of Portugal married Philippa of Lancaster (from the English Royal family), thereby creating an alliance between the two kingdoms. Marriages between rulers.
 	* **England & Portugal: the oldest still ongoing bilateral alliance.** (From the depths of the Black Death) The alliance between England and Portugal through the Treaty of Windsor (14th century (Philippa later fell to the Plague)) is the oldest still ongoing bilateral alliance — having as an effect that England and Portugal since then never waged war against each other, not even indirectly. #peace 
 * **Abundance trumps competition.** The endless stretches of land made rivalry between Spain and Portugal secondary, encouraging them to find a quick amiable agreement. (× Polyamory)
-	* **Agreements prior to imminent breakthroughs**: the Treaty of Tordesillas preemptively bissected the world, as the Spanish and Portuguese were actively about to explore new territories. This was done by the Pope, the great arbiter and overlord of European powers.
+	* **Agreements prior to imminent breakthroughs**: the Treaty of Tordesillas preemptively bisected the world, as the Spanish and Portuguese were actively about to explore new territories. This was done by the Pope, the great arbiter and overlord of European powers.
 		* Territories West of the Tordesillas line would belong to the Spaniards; territories East of the line would belong to the Portuguese.
 			* The Treaty of Tordesillas was later complemented by the Treaty of Zaragoza, for the Eastern delimitation.
 * **Two enemies can be on friendly terms with a third party.** China & Japan both trading with Portugal around the 16th century, though they had some strifes.
@@ -115,17 +115,17 @@ date: 2024-03-29 14:13:12 +0200
 	* The interdependence of trade reduces the likelihood of conflict (European Union). #peace 
 * **The law of comparative advantage** (Ricardo) lets two subjects decide on what to produce, respectively, in order to maximize global output.
 	* Applied to societies: this would mean letting everyone do what they do best (what has the most value for society, among all the things the person can do) (ideal world).
-	* The law of comparative avantage as a behavioural guideline makes intuitive sense: it lets everybody do what they do best, and "pay" with it, things other people do best.
+	* The law of comparative advantage as a behavioural guideline makes intuitive sense: it lets everybody do what they do best, and "pay" with it, things other people do best.
 	* Money (credit) lets you receive a product or service in exchange of something you offered somebody else. (System of credits) (× the blessing of italki). Money (credit) lets you benefit from the services of somebody (good at their trade) without having to offer them something of direct value to them.
 	* **Money as common currency simplifies trade.** Money simplified commerce by only needing to set a price for a single pair for each type of goods (as opposed to having to set a price for every possible combination of what is being sold and what can be bought for it).
-* By forbidding imports and encouraging national production (of a good that the nation is not actually efficient at making), a law can actually make a nation less productive (than it would otherwise, in the big picture; by virtue of the law of comparative advantage). **Instead, focus and double down on what you do best.** × [capitalize on your stengths (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^capitalize-on-strengths)
+* By forbidding imports and encouraging national production (of a good that the nation is not actually efficient at making), a law can actually make a nation less productive (than it would otherwise, in the big picture; by virtue of the law of comparative advantage). **Instead, focus and double down on what you do best.** × [capitalize on your strengths (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^capitalize-on-strengths)
 	- **Autarky — "a condition in which nations achieve self-sufficiency in all products, no matter how inept they are at producing them."**
 * **Stolper/Samuelson**: protectionism favours owners of a scarce factor, free trade favours owners of an abundant factor; factors being labor, land and capital. The winning policy usually favours at least two of the three factors.
 - Protection(ism) invites retaliation: **refusing imports harms exports**.
 	* **× Relationships: When you protect yourself or get defensive, the other does as well. If you get more vulnerable, you invite in more vulnerability from the other as well.** If you do not share, you cannot receive. Intimacy is a two-way road.
 * Modern-day Jordan as an example of protectionism: when employing foreigners, employers need to prove to the government that they couldn't have found a local to do the job.
 - The VOC (Netherlands) and EIC (England) were given monopoly by the State, to simplify taxation, for consolidation of power, military support and aims, and financial support.
-- The mercantilist ideal: importing raw produits and exporting finished manufactured products.
+- The mercantilist ideal: importing raw products and exporting finished manufactured products.
 * Prohibition triggers increased desirability and smuggling ("forbidden fruit") — 1701 English Act banning imported cotton (calico) in favour of local wool; Prohibition era. Protectionist acts backfiring.
 	* Likewise, high tariffs encourage smuggling.
 		* **Made popular through smuggling**: tea smuggling made it more popular as tea was sold for more affordable prices.
@@ -148,7 +148,7 @@ date: 2024-03-29 14:13:12 +0200
 	* As a method of learning: be confronted with a problem to look up solutions with a purpose. Challenging yourself.
 	* Long-distance navigation propelled advancement in time-keeping devices.
 		* **By using precise time-keeping devices (and the position of the sun), sailors could deduct their exact location.** Longitude aboard a ship was measured using time clocks (comparing local noon to noon of a known longitude ­— effectively (empirically) comparing timezones.) (Noon-sight navigation)
-			* **Bad visibility meant bad navigation.** Overcast wheather prevented shipmen from using celestial navigation.
+			* **Bad visibility meant bad navigation.** Overcast weather prevented shipmen from using celestial navigation.
 * **Opposing technology and progress (Luddites, Ned Ludd)** (18th, 19th century — Industrial Age). Textile-processing machines putting weavers and spinners out of work. Fears around AI replacing current-day employees.
 	* "Resisting change": with imports (⇒ protectionism), as with technological innovations (⇒ luddism). Instead, adapting to change.
 	- Things always get replaced, made obsolete, as all is impermanent. Be flexible. Your core profession is not going to stay.
@@ -171,7 +171,7 @@ date: 2024-03-29 14:13:12 +0200
 * Military victories are akin to personal milestones in one's cognitive journey — unlocking new territories, strengthening one's position.
 	- Securing one's empire's position/foothold is akin to settling and grounding oneself, building stability. The amassing (importing) of riches as acquiring so many skills and assets (for oneself, thereby developing oneself, one's base — enriching oneself.)
 * **Now as before, people raid for resources.** Herders use to raid Sumerian farmers for resources.
-	* **Nomads or travellers have access to a broader range of resources. Heders and Sumerian farmers' arm race.** Herders and Sumerian farmers were engaging in an arms' race; with herders gaining the upper hand through protecting themselves from the farmers' maces (a piece of stone attached to a stick of wood) with headgear made of copper obtained from neighbouring traders.
+	* **Nomads or travellers have access to a broader range of resources. Herders and Sumerian farmers' arm race.** Herders and Sumerian farmers were engaging in an arms' race; with herders gaining the upper hand through protecting themselves from the farmers' maces (a piece of stone attached to a stick of wood) with headgear made of copper obtained from neighbouring traders.
 	* <a name="^peaceful-hunter-farmer"></a>This being said, in general, farmers and hunter-gatherer tribes co-existed peacefully, sometimes traded (copper-grain trade)
 * **Invasion squelches culture** (by imposing one's own). Monoculture of European crops displaced the existing ecosystem. The new replaces the existing, for better and for worse. Things get lost. **Replacement (change) is both a gain and a loss.**
 - **Poor people might get poorer even though society as a whole is getting richer.** Though the means/median might be increasing, the low end might become even lower due to increased variance. Free trade makes society richer but disparities bigger. **A rising means or median can still concur with the worst-offs becoming even worse off.**
@@ -191,7 +191,7 @@ date: 2024-03-29 14:13:12 +0200
 	* **Securing access to resources.** (× Personal finance.) By securing access to the port of Piraeus (with the Long Walls), Athens made itself able to resist overland siege (and successfully did so (second Persian invasion and the better part of the Peloponnesian war). (Innovative defence strategies, × [radical innovation]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^incremental-radical)) (Pericles)
 	* Little did you know that Athenian patrols of the Black Sea (against piracy) are akin to [regularly cleaning one's lodgings and decluttering]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})
 	* **Attack resources** (rather than the fort) (Achille's heel; scorched earth). Spartans intercepted ships from the Black Sea in a critical period, instead of going for Athens directly.
-		* **What worked in the past might not work in the future.** The Long Walls of Athens defended them against Persians, but didn't help agains the Spartans. 
+		* **What worked in the past might not work in the future.** The Long Walls of Athens defended them against Persians, but didn't help against the Spartans. 
 		* **Realize your dependence on your resources.**
 			* Dependence can easily be forgotten, though it is very dangerous.
 				* Realize what (systems, institutions) you are dependent on.
@@ -199,7 +199,7 @@ date: 2024-03-29 14:13:12 +0200
 		* After their victory of Athens, Spartans ordered the dismantling of the Long Walls in 404 BC <cite>(-404 Long Walls Not Found)</cite>
 ^
 # Islam, Mecca, folklore
-- **Peace as the more profitable option.** (Peace through diplomacy.) Providing safe conduct but taxing passer-bys was more profitable than raiding ever-shrinking caravanes around Mecca. The Quraish sheikh Qussay took over Mecca and convinced his people and nearby tribes to tax passerbys instead of raiding them. (500-600 AD)
+- **Peace as the more profitable option.** (Peace through diplomacy.) Providing safe conduct but taxing passer-bys was more profitable than raiding ever-shrinking caravans around Mecca. The Quraish sheikh Qussay took over Mecca and convinced his people and nearby tribes to tax passers-by instead of raiding them. (500-600 AD)
 	* e.g. [hunter-gatherers and farmers peacefully trading]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^peaceful-hunter-farmer)
 	* × [silent trade]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^silent-trade)
 - One can be valued for providing a link to God(s); e.g. Mecca's Kaaba; priests.
@@ -221,7 +221,7 @@ date: 2024-03-29 14:13:12 +0200
 			* The Islamic Golden Age akin to the Pax Romana (~ 0-200 AD, heralded by Octavian) <cite>0 to 200... years of peace (Gabriel Romana Marquez)</cite>
 			* The Islamic Golden Age finished with the invasion of Mongols in the 13th century, plague in the 14th (Black Death <cite>The Black Death struck while not even being legal yet</cite>), and Vasco da Gama's in the 15th and 16th century bypassing the Red Sea area by circumventing Africa around the Cape of Good Hope.  
 * Islam was a religion of trade (Muhammad was a trader).
-- **Perquisities of an echelon can defeat its purpose.** Mamluk slaves (soldier slaves) would rise to power based on merit and loyalty, before slowly getting corrupted by the perks of their position and eventually be replaced, by force or nature, by a new generation of rulers.
+- **Perquisites of an echelon can defeat its purpose.** Mamluk slaves (soldier slaves) would rise to power based on merit and loyalty, before slowly getting corrupted by the perks of their position and eventually be replaced, by force or nature, by a new generation of rulers.
 * **Rearing populations for war:** Mamluk slaves would be acquired as boys, then be converted and trained for war — they made excellent warriors.
 * With the victory of the Ottoman Empire of the Mamluk sultanate, Mamluk slaves over time got replaced by Janissaries (during the whole of the Ottoman Empire, ~1400-1900), also slave soldiers, but Janissaries were conscripted (as boys) within the Ottoman Empire's Christian villages and towns. (Also, Mamluks were cavalry soldiers while Janissaries were infantry.)
 * **Internal strifes make more vulnerable to external attacks.** (In the case that external threats did not call forth unity (× A Paradise Built in Hell: [external conflicts unite]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %}#^disasters-unite))) Christian Crusaders' victory over Jerusalem was made easier by internal conflicts between the Fatimid caliphate and the Seljuk Turks (1099 AD — the First Crusade, following Pope Urban II's call to regain control over the Holy Land. <cite>Urban II almost eleven hundred (1099 AD)</cite>)
