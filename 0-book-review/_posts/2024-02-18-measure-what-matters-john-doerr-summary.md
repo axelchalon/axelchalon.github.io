@@ -28,7 +28,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* Culture makes unnecessary the bureaucratic enforcing of standards. Culture replace rules with shared principles.
 	* A great culture yields great results. By providing a culture of trust, risk-taking is not judged, but instead encouraged, which yields to more engagement and exceptional results.
 * Shape the culture as early as possible, at its inception. Later is harder (cost of change).
-* Deliberately create a culture where the CEO can be challenged in their decisions by the employees.
+* <a name="^challenge-ceo"></a>Deliberately create a culture where the CEO can be challenged in their decisions by the employees.
 	* **Feedback needs to be immediate to be helpful.** Favour direct feedback (over delayed feedback, e.g. annual review). Delayed feedback can make it too late to adjust. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) ; [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^feedback))
 ^
 # OKRs & benefits

@@ -43,7 +43,10 @@ const obsidianFileToWebsiteFile: pr = {
   "2023-10-05-kurt-vonnegut-sirens-of-titan-thoughts-notes-review.md",
 
   "A Paradise Built In Hell":
-  "2023-12-24-a-paradise-built-in-hell-summary.md"
+  "2023-12-24-a-paradise-built-in-hell-summary.md",
+
+  "Nudge":
+  "2024-03-30-nudge-summary.md"
 };
 
 

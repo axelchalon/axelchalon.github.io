@@ -99,12 +99,12 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* **Start with simplified mental models and un-simplify them as the circumstances demand.**
 		* Simplified conceptual models founder when the situation gets more complex, requiring an updated un-simplification of the mental model, i.e. one degree of abstraction less, or one degree of depth more (× incremental reading; "... explained in 5 levels of difficulty").
 ^
-# Reducing errors
+# <a name="^errors"></a>Reducing errors
 * **Blame the product (or designer), not the user.** Unless the user is the designer.
 	- Human error is usually a result of poor design.
 	* **Instead of finding someone to blame, find something to blame.**
 	* People tend to only report glitches or bugs as opposed to human-made errors, even though the latter might be caused by faulty design.
-		* **Conspiracy of silence:** when many people experience the same struggle and assume others are okay, they do not openly share their struggle; therefore nobody realizes everyone has the same problem, and people miss a chance to team up and support one another. (× Brené Brown: "Shame needs judgment and secrecy", × [my summary of Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) (shameless plug))
+		* <a name="^conspiracy-of-silence"></a>**Conspiracy of silence:** when many people experience the same struggle and assume others are okay, they do not openly share their struggle; therefore nobody realizes everyone has the same problem, and people miss a chance to team up and support one another. (× Brené Brown: "Shame needs judgment and secrecy", × [my summary of Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) (shameless plug))
 	* **Reporting errors is a prerequisite for reducing errors.** (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}), culture of error reporting, andon cord)
 		* **Report errors to an independent third party if the culture isn't ready.** The third party can feed back to the organisation.
 - Humans are bad at giving precise, accurate, consistent input to machines; and machines are bad at evaluating input with common sense, being smart and critical about it. (A match made in heaven)
@@ -121,16 +121,18 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 		* **Make it harder to do what cannot be reversed.**
 		* **Sterile Cockpit Configuration:** momentarily limit all communication to only what is relevant to the current situation, to prevent slips. "Sterile periods."
 			-  Create a system that minimizes or altogether precludes interruptions.
+			* <a name="^too-sterile"></a>**Too Sterile Cockpit Configuration:** planes crashed because the copilot didn't dare question pilot's decision.
 		* **Use constraints to guide action.** Constraints are knowledge in the world.
 			* For example, epics are made easier to memorize through the constraints of semantics and rhyme.
 			* **Use lock-outs to prevent people from (accidentally) doing something or starting an operation** (an enforced form of <a href="#^anti-affordances">anti-affordances</a>).
 			* **Use interlocks to impose that steps be completed in the right order.**
 			* **Use lock-ins to prevent people from leaving or stopping an operation prematurely.**
 		* <a name="^make-small-differences-big"></a>**Make small differences big:** as a designer, accentuate the differences (or make new ones) between two similar things easily confused.
-			* This helps prevent:
+			* <a name="^slips-mistakes"></a>This helps prevent:
 				* **Sequence slips: mistaking two things because they share a similar sequence** (Capture slips.)
 				* **Function slips: using the wrong object because it serves a similar purpose** (e.g. putting the water kettle on a stovetop instead of the kettle base, "to heat it up")
 				* **Object slips: mistaking two objects because of their association with the same action**
+			* Make different sets of objects incompatible (drugs in a hospital; cables and connectors)
 		* **To prevent memory lapses, use checklists, constraints, and current state information.**
 			* **Checklists can be well or badly designed.**
 	* Detection (× Jidoka, [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}) (automatic stopping mechanisms))
@@ -190,134 +192,3 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * Our (physical) actions and interactions with the world lead to emotions, which is why much of language is based on physical metaphors, whereby we actually refer to the emotions associated with that physical activity.
 ^
 * Multiple minds can be harnessed together to remember things (or wisdom); with each mind contributing complementary pieces (collaborative memory, collaborative wisdom).
-^
-<!--
-^
-	* Being able to perceive clues and derive from them an understanding of the environment is a sign of intelligence.
-^
-	* **The rigidity of activity-based organization is rarely accommodating of edge cases and custom needs**.
-^
-Approximate models let you minimize thought.
-^
-* Science needs accurate measurements and absoute truths; the practical world is fine with approximate models. 
-	* "Practictioners don't need truth: they need results relatively quickly that ,although inaccurate, are "good enough" for the purpose to which they will be applied.".
-^
-	* **Conceptual models need revision as the individual gets exposed to situations unaccountable by their current model.** By being exposed to things we do not understand, we are forced to upgrade our conceptual model thereof, and thereby learn.
-^
-* We do not understand ourselves, and we understand others even less.
-^
-* "Cognition attemps to make sense of the world: emotion assigns value."
-^
-- Incremental improvements are based on what can be improved on the existing product; whereas radical improvement is vision-based (× Toyota Way), dig deep to uncover the true need of the user 
-^
- — the power of inertia; the problem of legacy; the slowness of change. 
-^
-* **"Hill-climbing": incremental improvements bring you to the local (possible) best, which might still be low.** Radical improvements let you change the scenery (for better or for worse) ("finding another hill"; change of paradigm or reference point).
-^
-
-^
-
-^
-	* Use a sensory medium different from the main one (to provide feedback, error reporting, etc.) to minimize interference (e.g. auditory information for driving, which is visual). 
-^
-* Error detection: make a memory lapse, or something that has not been executed, VERY VISIBLE (× Toyota Way). Make it very visible that something was not done. × Shadow-board. Make the lack of action trigger something visible.
-^
-
-* Sterile Cockpit Configuration: limiting all communication to only what is relevant to the current situation. To prevent interruptions or loss of concentration, provoking slips. Especially during critical phases. "Sterile periods."
-^
-
-^
-
-* If an operation requires multiple steps, implement a forcing mechanism ensuring they are completed in the right order ("interlock" — "an interlock forces operations to take place in proper sequence")
-- Lock-outs prevent people from (accidentally) doing something, starting an operation.
-* Lock-ins prevent people from (prematurely) leaving, stopping an ongoing operation.
-^
- "Multiple events that, had any one of them not occured, would have prevented the accident."
-^
-*   more layers, fewer "holes" in the existing layers, or layers set up such that they each provide redundancy. "lines of defence" "An accident being permitted by an element (or that element being the final trigger) doesn't mean it is the cause of it, only that it was a contributing factor. Do not confuse a factor w/ the (root) cause."
-^
-
-	* When trying to future-proof / post-mortem, focus on the whole system, the sequence of events, and not only the root cause. (ggf)
-^
-
-* The chances of something happening is not the chance of something being a false positive. Bayesian. Just because something is very unlikely; because something has now already happened, this drasticaly increases the chance of this very unlikely thing actually happening.
-^
-
-^
-
-When many people experience the same struggle and assume others are okay, they do not share their struggle; therefore nobody realizes everyone has the same problem, and this prevents people from teaming up and support one another.
-^
-When many people experience the same struggle
-^
-Because everybody assumes others are okay, and they are to blame for it
-Because everybody thinks they're alone in that
-Because everyone perceives the fault to be their own
-^
-They do not share their struggle
-They keep for themselves
-They do not want to admit to having trouble
-^
-Thereby nobody realizes everyone hsa the same problem
-This creates a conspiracy of silence
-^
-This prevents people from teaming up (and relating)
-They miss a chance to support one another
-^
-
-when many people experience the same struggle but perceive the fault to be their own, nobody wants to admit to having trouble, everybody keeps for themselves, and nobody realizes everyone has the problem, and thereby miss a chance to support on eanother.
-^
-* When many people experience the same struggle (with a product) but assume others are okay and think they are to blame for it, they do not share their struggle, even though everyone is going through the same struggle. This creates a "conspiracy of silence" and prevents people from teaming up (and relating.) (× Brené Brown: "Shame needs judgment and secrecy" (Sex Talks))
-^
-	
-	* "Because everybody thinks thy're alone in that, nobody shares, everybody keeps for themselves, and nobody realizes everyone has the same problem, and thereby miss a chance to support one another."
-	
-	 Because everyone perceives the fault to be his or her own, nobody want sot admit to having trouble. This creates a conspiracy of silence." (× Relationships, sex.)"
-^
-	""Suppose the fault really lies in the device, so that lots of people have th esame problems."
-* Mistakes (wrong goals) vs slips (wrong execution). Within slips, lapses (forgetting to do something); or action-based (doing the wrong thing).
-^
-
-^
-
-	* Capture slips: similar sequence / same start. As a designer, exacerbate the differences to prevent conflation. **Exacerbate differences**: make things that can easily be mistaken for one another more different; increase the difference of what tells them apart.
-	* Object slip: similar object (of action). As a designer, exacerbate the differences to prevent conflation.
-^
-	* Memory-lapse slip: forgetting to do something. They can be prevented by forcing functions (fool-proofing); making all relevant information continuously available. Checklists. Checklists are a good way to deal with interruptions.
-^
-
-^
-* Invisible affordances such as duress codes can provide extra information to people with extra knowledge "in the head".
-^
-or panic passwords
-^
-
-^
-
-* Bad design is prevalent due to them often being designed by engineers, with a great understanding of technology, but a poor understanding of people. Design is all about understanding people. It is necessary to understand people / the human mind deeply in order t odesign well.
-	* Engineers think very logically and assume everyone does as well; the truth is, most people don't act that way, and we have to design for that. 
-^
- Requirements too strong become counterproductive.
-^
-
-^
-
-* Marketing is about convincing the customer to purchase the product, while design is about providing the customer with a good experience when they are using it; the two can be at odds.
-	* Marketing is about knowing what people will buy; design is abou tknowing what people really need and how they will use the product. "Designers understand what people really need. Marketing understands what people actually buy. Design vs marketing: what people need vs what people buy. Both are necessary and valuable.
-^
-* One can design for the purchaser, or the end user
-* There are multiple groups one can design for; the buyer and end user can be different ("the distributor" "the purchaser", who is the real customer)
-^
-
-	- Different professions will have a different conceptual model of the same product, as so many ways to look at it. (Engineering, usability, etc.)
-^
-
-^
-	* The teams of a company correspond to the various stakeholders of the outside world, and each team corresponds to a specific demand of the customer (price, usability, enjoyment, prestige, etc.).
-		* Management is about having the big picture in mind, prioritizing and finding a consens
-^
-
-* The attempt to match the competition causes all products to become the same. Focus on strenths, not weaknesses. (× Self) If the product has rea lstrengths, it can afford to just be "good enough" in other areas. **Capitalize on your strengths instead of constantly trying to catch up with your shortcomings**. 
-^
-	* Design requires a deep understanding of people and the human mind.
-^
--->

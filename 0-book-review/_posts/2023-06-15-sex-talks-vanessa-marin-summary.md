@@ -53,7 +53,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* Keep discovering new facets of each other.
 	* How can you reincorporate your favorite sexual memories into your current life?
 	* The list of possible sex acts and whether you are a Yes/No/Maybe for them in a specific relationship is akin to the Relationship Anarchy Smorgasbord
-* Stories
+* <a name="^stories"></a>Stories
 	* See your sex life objectively, for what it is. Consider your satisfaction with it objectively. Take action steps, be proactive, objective.
 		* All of your issues can be resolved (and most of them are shared by many people). You can create an incredible sex life for yourself.
 	* Consider that your and your partner's stories are put together, and that it's your common responsibility to make sense of this whole together. "We all have baggage when it comes to sex. You have your stuff, and your partner has their stuff."

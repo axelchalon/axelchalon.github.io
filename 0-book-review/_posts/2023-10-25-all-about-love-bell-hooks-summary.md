@@ -184,7 +184,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
  * Practice forgiveness as leaving the door open on your side. "She still has a place in my heart, should she wish to claim it."
  * Distinguishing the person from your relationship to the person, and distinguishing between the different selves of the person (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})) can help you forgive.
 ^
-# Honesty
+# <a name="^honesty"></a>Honesty
 * Openness and truth-telling, honesty, is a prerequisite for trust, a prerequisite for love.
 	* "Practically every mental health care practitioner, from the most erudite psychoanalysts to untrained self-help gurus, tell us that it is infinitely more fulfulling and we are all saner if we tell the truth."
 	* You cannot nurture someone's spiritual growth if the core of their being and identity is shrouded in secrecy.

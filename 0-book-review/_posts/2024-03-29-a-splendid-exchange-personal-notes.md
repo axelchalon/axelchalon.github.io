@@ -8,7 +8,7 @@ title: '"A Splendid Exchange" by William Berstein (personal notes)'
 date: 2024-03-29 14:13:12 +0200
 ---
 ^
-*Here are some notes I've taken after reading A Splendid Exchange by William Bernstein, a superbly written book on the history of trade.*
+*Here are some notes I've taken after reading "A Splendid Exchange" by William Bernstein, a superbly written book on the history of trade.*
 ^
 # Nothing new under the sun / Many different suns
 * **Things are as they were / History repeats itself.** Things have always been the same: merchandising, "luxury-loving women", entrepreneurs, corruption, globalization, interdependence (as early as the Stone Age). Our current world runs on the same underpinnings as past worlds.
@@ -55,6 +55,7 @@ date: 2024-03-29 14:13:12 +0200
 			* The narrow West needed control over maritime choke points and improved at it (especially Greece), while the East generally didn't need to worry about it, what with the vast expanse of Indian Ocean — which also made the East more vulnerable to maritime attacks or attacks on sea lanes.
 			* (× other people struggling with things you do not struggle with)
 		* **Periodical random event (from Providence)** (chaotic divine intervention): asteroid triggering the ice age and (slowly) extincting dinosaurs (K-Pg event) (× [Improv]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}) routine "CHAOS!" element).
+			* (× Drugs)
 ^
 # General Trade
 * **Nature used to dictate trade.** (Monsoon) seasons would drive the cadence of ships going East to China (summer monsoon) or back West to Rome (winter monsoon).
@@ -122,7 +123,7 @@ date: 2024-03-29 14:13:12 +0200
 	- **Autarky — "a condition in which nations achieve self-sufficiency in all products, no matter how inept they are at producing them."**
 * **Stolper/Samuelson**: protectionism favours owners of a scarce factor, free trade favours owners of an abundant factor; factors being labor, land and capital. The winning policy usually favours at least two of the three factors.
 - Protection(ism) invites retaliation: **refusing imports harms exports**.
-	* **× Relationships: When you protect yourself or get defensive, the other does as well. If you get more vulnerable, you invite in more vulnerability from the other as well.** If you do not share, you cannot receive. Intimacy is a two-way road.
+	* **× Relationships: When you protect yourself or get defensive, the other does as well. If you get more vulnerable, you invite in more vulnerability from the other as well.** If you do not share, you cannot receive. Intimacy is a two-way road. (Following suit; × A)
 * Modern-day Jordan as an example of protectionism: when employing foreigners, employers need to prove to the government that they couldn't have found a local to do the job.
 - The VOC (Netherlands) and EIC (England) were given monopoly by the State, to simplify taxation, for consolidation of power, military support and aims, and financial support.
 - The mercantilist ideal: importing raw products and exporting finished manufactured products.
@@ -149,7 +150,7 @@ date: 2024-03-29 14:13:12 +0200
 	* Long-distance navigation propelled advancement in time-keeping devices.
 		* **By using precise time-keeping devices (and the position of the sun), sailors could deduct their exact location.** Longitude aboard a ship was measured using time clocks (comparing local noon to noon of a known longitude ­— effectively (empirically) comparing timezones.) (Noon-sight navigation)
 			* **Bad visibility meant bad navigation.** Overcast weather prevented shipmen from using celestial navigation.
-* **Opposing technology and progress (Luddites, Ned Ludd)** (18th, 19th century — Industrial Age). Textile-processing machines putting weavers and spinners out of work. Fears around AI replacing current-day employees.
+* <a name="^luddites"></a>**Opposing technology and progress (Luddites, Ned Ludd)** (18th, 19th century — Industrial Age). Textile-processing machines putting weavers and spinners out of work. Fears around AI replacing current-day employees.
 	* "Resisting change": with imports (⇒ protectionism), as with technological innovations (⇒ luddism). Instead, adapting to change.
 	- Things always get replaced, made obsolete, as all is impermanent. Be flexible. Your core profession is not going to stay.
 ^

@@ -39,7 +39,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 * Use clear, concise wording.
 * Write A3s to present project (proposals) clearly, including timeline and numbers.
 	* ![Purchasing card plan for Toyota Technical Center](https://xaxel.me/assets/toyota_300.png)
-* "Enabling vs disabling (red-tape) bureaucracy": enabling bureaucracy most often comes from the workers themselves, designing the standards (for themselves).
+* <a name="^disabling-bureaucracy"></a>"Enabling vs disabling (red-tape) bureaucracy": enabling bureaucracy most often comes from the workers themselves, designing the standards (for themselves).
 * By standardizing work (and knowing the time that each standard process takes), you can predict how much time an operation will take and can communicate this to the customer and plan around it.
  * Inventory organisation: visually standardize the quantities and locations.
 	* Make lack of supplies or surplus of supplies visually easy to identify.
@@ -103,7 +103,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* This bears witness to the radicality of quality control and continuous improvement at Toyota.
 		* Have the system and procedures already set up. Know what to do in the case of a quality emergency (just as you would in a safety emergency)
 	* Stopping the line is not penalized or seen negatively in Toyota (the opposite would); rather, it is the attention to quality that is celebrated.
-* Make errors physically impossible or very unintuitive to make (error-proofing).
+* <a name="^error-proofing"></a>Make errors physically impossible or very unintuitive to make (error-proofing).
 * **Make errors visible**, visually easy to identify. Let humans easily see that something is out of place or non-standard.
 - A clean environment lets you detect problems or potential problems faster (× [The Life-Changing Magic of Tidying Up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %}): see clearly, think clearly). By working clean, we make defects easier to notice.
 	* "The cleaning process often acts as a form of inspection that exposes abnormal and pre-failure conditions that could hurt quality or cause machine failure."
