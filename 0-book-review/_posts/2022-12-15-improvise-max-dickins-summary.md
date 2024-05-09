@@ -181,7 +181,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 			* **Learn from your failures.** Use them as a tool to learn from, and not just as an unfortunate event. Analyze them, review them. Failure is only valuable if we learn from it.
 		* To move from failure to success as quickly as possible, you have to fail faster.
 		* You have to get it wrong first in order to get it right. **But if you give up, you'll never get it right. (!)**
-		* "Foam pits" (× Prototyping): you can practice in areas where it's safer to fail, where the failures are less "hard". (Safe spaces, experimental spaces, trial areas.)
+		* <a name="^foam-pits"></a>"Foam pits" (× Prototyping): you can practice in areas where it's safer to fail, where the failures are less "hard". (Safe spaces, experimental spaces, trial areas.)
 			* You can set a "foam pit" goal equivalent of a goal you have (thereby also letting you prototype fast), for example starting a blog before writing a book, or going to Toastmasters meetings before doing public speaking, etc.
 		* Be neither terrified nor ashamed of failure. See it as a learning experience (not as something about yourself). Fail more.
 		* Differentiate between the process and the outcome. You can celebrate the process even if it resulted in a failure.

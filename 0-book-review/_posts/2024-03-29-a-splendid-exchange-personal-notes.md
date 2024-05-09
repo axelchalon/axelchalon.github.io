@@ -14,6 +14,7 @@ date: 2024-03-29 14:13:12 +0200
 * **Things are as they were / History repeats itself.** Things have always been the same: merchandising, "luxury-loving women", entrepreneurs, corruption, globalization, interdependence (as early as the Stone Age). Our current world runs on the same underpinnings as past worlds.
 	* <a name="^romans-two-chinas"></a>**Now as before, people use products without knowing how they are made or work.** "The Romans knew Chinese silk but not China" (Internet, infrastructure) ; Romans thought silk grew on trees (faulty [conceptual models]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conceptual-models)), and hailing from two different countries (due to coming to Rome from two different routes — one overland and one overseas — though they actually both stemmed from China; brain's instinct to see patterns and make sense of things).
 		* **"Fog of war"**: Romans only knew part of the map. Only when you see all of the map, do you realize that everything is interconnected, on the other end. (× Good and Evil; Yin and Yang).
+		* **External tools are replacing ancestral know-how.** As civilizations evolve, people increasingly delegate activites they used to do themselves, thereby progresively losing the ability to perform these activities themselves, unaided. 
 - **Different things get prized at different times.** Romans used to prize Chinese silk.
 * <a name="^once-precious-now-common"></a>**Things once precious are now common** (black pepper). Things precious today might become common tomorrow.
 	* Likewise, things common today might become precious tomorrow. Hence: cull and confer (value) ([discern and appreciate]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^discern-appreciate))
@@ -132,7 +133,8 @@ date: 2024-03-29 14:13:12 +0200
 		* **Made popular through smuggling**: tea smuggling made it more popular as tea was sold for more affordable prices.
 		* When it comes to smuggling, locals know best.
 - Encourage what you like rather than discourage what you don't like. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %})) 
-- **Covert targeted laws:** The English Navigation Law of 1651 restricted trading to English ships or ships from the exporting country, effectively targeting the Dutch (who would import foreign spices into England).
+- <a name="^covert-targetting"></a>**Covert targeted laws:** The English Navigation Law of 1651 restricted trading to English ships or ships from the exporting country, effectively targeting the Dutch (who would import foreign spices into England).
+	- The measures later festered into the more explicit Anglo-Dutch wars.
 	* **Anglo-Dutch proxy wars (Denmark), akin to relationship conflicts, "we're not really fighting about this / this is not what the fight is fundamentally about".** (× conflicts) (but also its counterpoint: ["we're doing this on the surface but we're actually doing something else, at a more fundamental level"]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^any-activity))
 * **EIC used fashion to increase sales of cotton.** The royal family would wear cotton, mimicked by the aristocracy, the minor nobility, all the way down to the peasants. Artificial increasing of demand by manipulation of desires. Leveraging human psychology.
 	* Cotton was focussed on by the EIC since losing the Spice Islands to the Dutch (17th century)
@@ -147,7 +149,7 @@ date: 2024-03-29 14:13:12 +0200
 # Progress
 * **Need expedites progress.**
 	* As a method of learning: be confronted with a problem to look up solutions with a purpose. Challenging yourself.
-	* Long-distance navigation propelled advancement in time-keeping devices.
+	* <a name="^maritime-timekeeping"></a>Long-distance navigation propelled advancement in time-keeping devices.
 		* **By using precise time-keeping devices (and the position of the sun), sailors could deduct their exact location.** Longitude aboard a ship was measured using time clocks (comparing local noon to noon of a known longitude ­— effectively (empirically) comparing timezones.) (Noon-sight navigation)
 			* **Bad visibility meant bad navigation.** Overcast weather prevented shipmen from using celestial navigation.
 * <a name="^luddites"></a>**Opposing technology and progress (Luddites, Ned Ludd)** (18th, 19th century — Industrial Age). Textile-processing machines putting weavers and spinners out of work. Fears around AI replacing current-day employees.
@@ -175,7 +177,7 @@ date: 2024-03-29 14:13:12 +0200
 	* **Nomads or travellers have access to a broader range of resources. Herders and Sumerian farmers' arm race.** Herders and Sumerian farmers were engaging in an arms' race; with herders gaining the upper hand through protecting themselves from the farmers' maces (a piece of stone attached to a stick of wood) with headgear made of copper obtained from neighbouring traders.
 	* <a name="^peaceful-hunter-farmer"></a>This being said, in general, farmers and hunter-gatherer tribes co-existed peacefully, sometimes traded (copper-grain trade)
 * **Invasion squelches culture** (by imposing one's own). Monoculture of European crops displaced the existing ecosystem. The new replaces the existing, for better and for worse. Things get lost. **Replacement (change) is both a gain and a loss.**
-- **Poor people might get poorer even though society as a whole is getting richer.** Though the means/median might be increasing, the low end might become even lower due to increased variance. Free trade makes society richer but disparities bigger. **A rising means or median can still concur with the worst-offs becoming even worse off.**
+- <a name="^means-variance"></a>**Poor people might get poorer even though society as a whole is getting richer.** Though the means/median might be increasing, the low end might become even lower due to increased variance. Free trade makes society richer but disparities bigger. **A rising means or median can still concur with the worst-offs becoming even worse off.**
 * Poor people might get rich less fast than the rich — thereby increasing disparity (variance).
 * Means vs median: "When Bill gates walks into a room, their mean income skyrockets while their median changes hardly at all."
 * **Moral corruption & vanity**: the East-West trade precipitated the fall of the Roman Empire by letting them live "above their means" and depleting them of their riches. "Italy was spending more than it was producing." Sustainability.

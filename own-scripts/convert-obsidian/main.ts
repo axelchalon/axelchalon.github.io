@@ -46,7 +46,10 @@ const obsidianFileToWebsiteFile: pr = {
   "2023-12-24-a-paradise-built-in-hell-summary.md",
 
   "Nudge":
-  "2024-03-30-nudge-summary.md"
+    "2024-03-30-nudge-summary.md",
+
+  "Money":
+    "2024-05-09-money-unauthorized-biography-felix-martin-summary.md"
 };
 
 

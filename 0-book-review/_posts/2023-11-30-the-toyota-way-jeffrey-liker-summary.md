@@ -22,7 +22,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 			* "Always develop a future state to strive for. Don't stop at mapping the current state and chasing waste."
 * Judge how well an organisation or organism is doing, not by how they are doing at a fixed point in time, but how much they have been improving in the recent past. Assess not based on a snapshot, but over a period of time.
 ^
-# Standardization
+# <a name="^standard"></a>Standardization
 - Standardized processes are the sine qua non of continuous improvement.
 	* Without consistency in the current processes, there is nothing to improve on, to build upon.
 	* Current processes must represent the current best method of doing something.

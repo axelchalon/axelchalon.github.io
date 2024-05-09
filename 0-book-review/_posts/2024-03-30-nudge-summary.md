@@ -58,9 +58,10 @@ date: 2024-03-30 14:13:12 +0200
 	* The more local and, secondarily, specific (identity conscience), the more effective.
 	* We pick up cues from our environment (on what is (seemingly) deemed best to do) (social influence)
 	* We do not want to face the disapproval of others (peer pressure)
-* **Leverage identity conscience** For exaple, the "Proud to be Texan" / "Don't mess with Texas" anti-littering campaign
+	* **Leverage conformity with (imposed) self-image / Imposed self-confomity**: "Are you ok? You're never late!" ("Oh, that's true, I'm the kind of person who's never late...")
+* **Leverage identity conscience** For example, the "Proud to be Texan" / "Don't mess with Texas" anti-littering campaign
 	* Combining identity conscience and social influence: "Montanans always wear masks"
-* **Create clubs.** Agree on measures to take together and on "in-group" privileges, in order to tackle problems that need global synchronized action (e.g. climate change).
+* <a name="^create-clubs"></a>**Create clubs.** Agree on measures to take together and on "in-group" privileges, in order to tackle problems that need global synchronized action (e.g. climate change).
 * **Disclose others' thoughts and opinions**; provide a sharing platform for people, breeding grounds.
 	* "Pluralistic ignorance": not knowing what the rest of the population is thinking or feeling (though we would act differently if we did) (× [All about love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^honesty); "everybody struggling but nobody knowing that everybody else is also struggling — if people knew, they would support each other"; [Sex talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^stories); conspiracy of silence ([The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conspiracy-of-silence)); not knowing that the exact same person you're talking to is facing the exact same problem as you) (× fall of Soviet communism as people realized other people also disapproved of the regime; \#metoo; BLM)
 * **Require and disclose information; enable self-regulation through transparency and publicity.**

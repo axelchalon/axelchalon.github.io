@@ -227,7 +227,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	  * Be courageous enough to be radical. Have faith and let faith overcome the fear; the faith in the possibility; the hope and vision.
 * At the dinner party among abusive parents: "I was a lone voice speaking out for the rights of children". There are different activisms.
 * We have power as consumers, and we can exercise that power all the time by choosing what we use, what we give our attention, time, energy and funds — and by boycotting products and companies not in line with our ethics and with life-enhancing values.
-* To catch on, change has to come from within the mainstream, and not remain in an enclave (which is the reason that the '70s hippie movement fizzled away). Working towards your vision from within the mainstream is more work but is further-reaching, more in-depth and longer lasting.
+* <a name="^enclave-fail"></a>To catch on, change has to come from within the mainstream, and not remain in an enclave (which is the reason that the '70s hippie movement fizzled away). Working towards your vision from within the mainstream is more work but is further-reaching, more in-depth and longer lasting.
 ^
 # Domination and power structures
 * "Cultures of domination (as opposed to cultures of love) rely on the cultivation of fear as a way to ensure obedience. Fear is the primary force upholding structures of domination. It promotes the desire for separation, the desire not to be known. When we are taught that safety lies always with sameness, then difference, of any kind, will appear as a threat."

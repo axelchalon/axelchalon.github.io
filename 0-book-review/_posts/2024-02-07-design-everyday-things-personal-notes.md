@@ -73,7 +73,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* Invisible affordances (duress codes, panic passwords), just like fake anti-affordances, require extra knowledge "in the head" of the operator.
 		* Duress codes are only noticed by people with extra knowledge "in the head" (× steganography; secret handshakes; in-groups).
 ^
-# Knowledge in the world, knowledge in the head
+# <a name="^knowledge-world-head"></a>Knowledge in the world, knowledge in the head
 * **Knowledge can be "in the world" or "in the head".**
 	* **Knowledge in the head is faster to deploy and more efficient, at the cost of requiring prior learning.** Knowledge in the head doesn't require searching or interpreting in the moment.
 	* **Knowledge in the world lets anyone use the product, without prior knowledge.**
