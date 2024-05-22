@@ -14,7 +14,8 @@ const obsidianFileToWebsiteFile = {
     "The Sirens of Titan": "2023-10-05-kurt-vonnegut-sirens-of-titan-thoughts-notes-review.md",
     "A Paradise Built In Hell": "2023-12-24-a-paradise-built-in-hell-summary.md",
     "Nudge": "2024-03-30-nudge-summary.md",
-    "Money": "2024-05-09-money-unauthorized-biography-felix-martin-summary.md"
+    "Money": "2024-05-09-money-unauthorized-biography-felix-martin-summary.md",
+    "At the Existentialist Café": "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;

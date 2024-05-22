@@ -23,11 +23,11 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	  * You improvise on something; not on nothing.
  * Improvisation is a skill that you can train. You can practice improvisation.
  * Improvisation is closely connected to creativity, imagination, play and presence, the present moment.
- * Improvisation lets you "lose yourself in ..."
+ * <a name="^improvisation-flow"></a>Improvisation lets you "lose yourself in ..."
 	 * **Improvisation is a flow state**, where the rest of the world disappears and everything else is suspended.
 	 * **Improvisation is an opportunity to step into a different self or character**
 		* **Playing a role knowing you're playing a role.** Temporarily suppose that you're a character and act the way that character would act. *Instead, for me to convincingly play a milkman, I just need to temporarily suppose that I am one. I simply act as if it were true that I am indeed a milkman. So, I ask myself: What would I do, think and feel in this situation if I were, in fact, a milkman?*
-* Improvisation is a mode of encounter; you can meet the "play" part of another person with your own "play" part.
+* <a name="^play-selves"></a>Improvisation is a mode of encounter; you can meet the "play" part of another person with your own "play" part.
 * Improvisation has its own community.
 	* The culture of improv is very inclusive and celebrates the individuality of each person.
 ^
@@ -57,11 +57,11 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		* e.g. "—I came to the hospital as early as I could. —We had a boy! He's beautiful, Derek."
 	* **Move the action forward.**
 	* "What does the scene need here?"
-* Spontaneity.
+* <a name="^spontaneity"></a>Spontaneity.
 	* **Don't censor or second-guess yourself.** Trust your instincts. Act before you are ready, don't think about it. Start your sentence before you know how you will finish them.
 	* **There is no perfect moment.** "Improvisers are biased to action over preparation." If you stop to consider whether this would be the perfect moment, the moment is gone.
 	* When being spontaneous and fully in the now, you shut down a part of your brain (the controlling part) and activate another. Creativity/Spontaneity <→ Self-censoring (parts of brain)
-	* **Our inner critic is the voice of others, that others actually don't have.**
+	* <a name="^voice-of-others"></a>**Our inner critic is the voice of others, that others actually don't have.**
 	* Focus on a game to trick your mind out of its habits. Free yourself from the mind and its habits.
 	* Exploration is a happy consequence of play.
 		* Use play to come up with creative solutions.
@@ -102,7 +102,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * Take notes of the laughs and what triggered them; double down on what provoked them.
 * **Alternate between giving and taking focus.** At times supporting the other improviser, at times taking the focus.
 * Use the "heads, hearts, pirates" model to balance a scene: level-headedness & coherent storyline ; emotions, feelings and heat ; chaos, randomness and shaking things up.
-* **It's not about you, it's about the scene. Focus on the scene.**
+* <a name="^focus-on-the-scene"></a>**It's not about you, it's about the scene. Focus on the scene.**
 	* We get nervous when we give a presentation because we think it's about us, but actually it's not. It's about what you're presenting.
 	* Focus on making the other player look good (rather than focussing on yourself).
  
