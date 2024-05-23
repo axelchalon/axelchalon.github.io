@@ -24,3 +24,13 @@ ul.categories-list > li:not(:last-child) {
 cite {
    display: none !important;
 }
+
+em small {
+   display: block;
+   text-align: right;
+}
+
+blockquote {
+   letter-spacing: inherit !important;
+   font-style: normal;
+}
