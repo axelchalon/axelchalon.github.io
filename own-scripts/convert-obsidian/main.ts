@@ -58,7 +58,7 @@ const obsidianFileToWebsiteFile: pr = {
 
 function obsidianToJekyll(obsidian: string) {
   var result = obsidian;
-  // result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
+  // (Add ^ at the end of h1s etc. in the source file instead) result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
   result = result.replace(/[\r\n]{2}/g, '\n^\n');
   result = result.replace(/ #[a-zA-Z0-9-]+$ ?/gm, '');
   result = result.replace(/^(.*?[#*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');

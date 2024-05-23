@@ -7,7 +7,7 @@ date:   2024-05-23 14:13:12 +0200
 ![Talk](https://xaxel.me/assets/stresspattern_talk.jpg)
 
 <em><small>
-You first have to produce bad ideas to come to good ones[*](https://xaxel.me/improvise-max-dickins-summary.html#Brainstorming)
+You first have to produce bad ideas to come to good ones[*](https://xaxel.me/improvise-max-dickins-summary.html#brainstorming)
 </small></em>
 
 

@@ -19,7 +19,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 		* Engineers think very logically and assume everyone else does as well; the truth is, most people don't, and we have to design for that.
 	* **"Design for people the way they really are, not the way you would like them to be."**
 	*  **Excessive measures are often counterproductive.** Unreasonable requirements leads to defeated purposes (through workarounds).
-- Brainstorm the (actual) problem; then brainstorm the solution. For each phase, first diverge, and then converge. (Human-centered design "double diamond model") (× [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#Brainstorming))
+- Brainstorm the (actual) problem; then brainstorm the solution. For each phase, first diverge, and then converge. (Human-centered design "double diamond model") (× [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#brainstorming))
 * Just like relationships, elegant design requires no labels.
 	* Use label-less signifiers
 		* Place the controls on their object; otherwise next to it.
