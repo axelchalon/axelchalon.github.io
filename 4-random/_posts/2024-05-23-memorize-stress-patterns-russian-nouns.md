@@ -43,7 +43,7 @@ We can know the stress for all declensions of a given noun (as well as the noun'
 
 We want to have to memorize as little information as possible when learning words with the most common stress patterns. We want the most common stress patterns to be our "default" — to be what is assumed when we are not providing any extra information.
 
-The most common patterns being *a*, *b*, *c* and *d* (in the first picture) — that is, with the stress falling on the same place for all singular cases, and on the same place for all plural cases — we can decide that memorizing the singular nominative form and the plural nominative form, when no piece of information is added to what we are memorizing, means that all singular cases follow the same stress as the singular nominative, and all plural cases follow the same stress as the plural nominative
+The most common patterns being *a*, *b*, *c* and *d* (in the first picture) — that is, with the stress falling on the same place for all singular cases, and on the same place for all plural cases — we can decide that memorizing the nominative singular form and the nominative plural form, when no piece of information is added to what we are memorizing, means that all singular cases follow the same stress as the nominative singular, and all plural cases follow the same stress as the nominative plural
 
 In that case, we would for example memorize **`учи́тель,учителя́`** as the back of a flashcard reading "teacher". This would mean that all singular forms follow the same stress as the nominative singular (in this case, stem), and all plural forms follow the same stress as the nominative plural (in this case, ending).
 
@@ -57,7 +57,7 @@ I do the same to override our rule about assuming the same stress across all cas
 
 This brings us to the *b'*, *d'* and *f''* stress patterns, which each have, for a given grammatical number, a specific case (other than nominative) with a stress different from the other cases. In that case, I like to memorize the edge case also just after the nominative form. I can tell this exceptional form apart from a form used to inform us of the standard stress pattern for a given grammatical number (as in the last example) because the exceptional form is not in the prepositional — as exceptional stress cases only occur in the accusative singular or instrumental plural. An example to memorize a word with such an exceptional declension would then be **`душа́(ду́шу),ду́ши`**, which means that the stress is on the ending for all singular cases, except ду́шу (accusative); and the stress is on the stem for all plural cases. Likewise, **`гру́дь(гру́дью,груди́),гру́ди(грудя́х)`** means that the stress is on the stem for nominative singular, instrumental singular, and on the ending for all other singular cases; on the stem for the nominative plural, and on the ending in all other plural cases.
 
-We have now covered all stress pattern types. It could be useful as this point to summarize how to deduct a stress pattern from the memorized forms.
+We have now covered all stress pattern types. It could be useful at this point to summarize how to deduce a stress pattern from the memorized forms.
 
 # Useful summary
 Here is a key to interpret the syntax we have come up with. The syntax is formally `<nominative singular declension>(<?exceptional singular case declension>)(<?prepositional singular declension>), <nominative plural declension>(<?exceptional plural case declension>)(<?prepositional plural declension>)>` where "?" marks an optional item.
