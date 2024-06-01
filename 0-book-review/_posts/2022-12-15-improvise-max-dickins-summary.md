@@ -50,7 +50,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* **Alternate between giving and taking focus.**
 	* Pause before answering.
 	* Meet people where they are, understand them, talk to them from their point of view.
-* Yes, and.
+* <a name="^yes-and"></a>Yes, and.
 	* Acknowledge, then build upon. Create a world.
 * Adding value
 	* **Contribute information, make statements, build the world further, add offers.**
@@ -124,7 +124,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * Shift your environment to inspire you and give you ideas.
 ^
 # Improv games
-* Last word, first word (listening practice)
+* <a name="^last-word-first-word"></a>Last word, first word (listening practice)
 	* Have a conversation for 90 seconds, where the first word of your reply is the last word of what was just said.
 	* Practices listening until the end, and practices thinking on the spot because you don't know what the last word is going to be.
 ^
@@ -187,7 +187,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		* Differentiate between the process and the outcome. You can celebrate the process even if it resulted in a failure.
 		* Rejections are a good sign, a sign that you're taking risks (and are polarizing). **If you are only collecting (relative) successes, it means you are not taking enough risks.** Go fail!
 			* **"Where in your life would you benefit from getting more rejections?"**
-		* Acknowledge failures and mistakes and laugh about it. The "failure bow" is an ironic improvisation ritual whereby one vainly bows after doing a mistake. Rewire your response to failures.
+		* <a name="^laugh-about-failures"></a>Acknowledge failures and mistakes and laugh about it. The "failure bow" is an ironic improvisation ritual whereby one vainly bows after doing a mistake. Rewire your response to failures.
 			* (Semaphores; agreed-upon gestures conveying a specific meaning.)
 		* See failures as milestones on the way to success. Celebrate them by writing a failure résumé.
 		* Comedy and improvisation have a strong culture of celebrating failures. Not taking oneself too seriously.

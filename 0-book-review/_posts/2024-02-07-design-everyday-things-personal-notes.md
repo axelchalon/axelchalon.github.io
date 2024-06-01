@@ -13,7 +13,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 # [Elegant design](https://www.youtube.com/watch?v=EXi2ttQ-Vow)
 * **Design is the link between the intention behind a product, and its actual use.**
 	* A good product can go to waste due to bad design.
-	* Design is all about understanding people and the human mind.
+	* <a name="^understand-people"></a>Design is all about understanding people and the human mind.
 	* Engineers are notoriously bad designers. 
 		* Engineers tend to understand technology very well, people very poorly.
 		* Engineers think very logically and assume everyone else does as well; the truth is, most people don't, and we have to design for that.
@@ -70,7 +70,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 	* The emergent signifiers give the illusion of norm.
 * <a name="^anti-affordances"></a>**Anti-affordances**: let the object exhibit a feature making unwanted actions counter-intuitive, impossible, or seemingly impossible.
 	* **Anti-affordances can be fake**: anti-affordances don't have to make the action impossible, only make it seem impossible. This can be used to advantage by a knowing personnel (**fake anti-affordances are a means of authorization**).
-	* Invisible affordances (duress codes, panic passwords), just like fake anti-affordances, require extra knowledge "in the head" of the operator.
+	* Invisible affordances (duress codes, panic passwords), just like fake anti-affordances, require extra knowledge "in the head" of the operator (× experiencing one's surroundings as a handyman — knowing the innerworkings of everything — a new dimension)
 		* Duress codes are only noticed by people with extra knowledge "in the head" (× steganography; secret handshakes; in-groups).
 ^
 # <a name="^knowledge-world-head"></a>Knowledge in the world, knowledge in the head
@@ -165,7 +165,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * <a name="^hill-climbing"></a>**"Hill-climbing": the "local best" might still be low. Sometimes it is necessary to change hills.** Incremental improvements bring you to the local best (highest point in the hill), but a radical change of circumstances is required to go beyond this. Radical improvements represent a change of paradigm or reference point and let you change the scenery (for better or for worse). "Find another hill."
 * Radical improvement looks at the true need behind the product (root cause analysis, five whys) and comes up with creative, novel solutions addressing the root problem.
 ^
-# Stakeholders and business interests
+# <a name="^stakeholders"></a>Stakeholders and business interests
 - Marketing vs design
 	* Marketing is about convincing people to purchase the product; design is about giving them a great experience using the product.
 	* Marketing is knowing what people will buy; design is knowing what people actually need.

@@ -15,11 +15,12 @@ const obsidianFileToWebsiteFile = {
     "A Paradise Built In Hell": "2023-12-24-a-paradise-built-in-hell-summary.md",
     "Nudge": "2024-03-30-nudge-summary.md",
     "Money": "2024-05-09-money-unauthorized-biography-felix-martin-summary.md",
-    "At the Existentialist Café": "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md"
+    "At the Existentialist Café": "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md",
+    "Never Split the Difference": "2024-06-01-never-split-the-difference-summary.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;
-    // result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
+    // (Add ^ at the end of h1s etc. in the source file instead) result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
     result = result.replace(/[\r\n]{2}/g, '\n^\n');
     result = result.replace(/ #[a-zA-Z0-9-]+$ ?/gm, '');
     result = result.replace(/^(.*?[#*-] )(.+)[^#"]\^(.+)$/gm, '$1<a name="^$3"></a>$2');
@@ -42,7 +43,7 @@ function obsidianToJekyll(obsidian) {
     }
 }
 Object.keys(obsidianFileToWebsiteFile).forEach(async (obsFile) => {
-    var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Books/Book notes/" + obsFile + ".md")).toString();
+    var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Notes and archives/Notes/Book notes/" + obsFile + ".md")).toString();
     var jk = obsidianToJekyll(obs);
     console.log(`Updating ${obsFile}...`);
     await fs.writeFile("../../0-book-review/_posts/" + obsidianFileToWebsiteFile[obsFile], jk);

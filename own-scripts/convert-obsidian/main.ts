@@ -52,7 +52,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2024-05-09-money-unauthorized-biography-felix-martin-summary.md",
 
   "At the Existentialist Café":
-    "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md"
+    "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md",
+
+  "Never Split the Difference":
+    "2024-06-01-never-split-the-difference-summary.md"
 };
 
 
@@ -86,7 +89,7 @@ function obsidianToJekyll(obsidian: string) {
 }
 
 Object.keys(obsidianFileToWebsiteFile).forEach(async obsFile => {
-  var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Books/Book notes/" + obsFile + ".md")).toString();
+  var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Notes and archives/Notes/Book notes/" + obsFile + ".md")).toString();
   var jk = obsidianToJekyll(obs);
   console.log(`Updating ${obsFile}...`);
   await fs.writeFile("../../0-book-review/_posts/" + obsidianFileToWebsiteFile[obsFile],jk);
