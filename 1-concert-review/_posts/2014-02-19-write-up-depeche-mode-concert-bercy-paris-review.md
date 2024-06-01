@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Write-up on Depeche Mode's concert at Bercy, Paris (concert review)"
+title:  "Write-up on **Depeche Mode**'s concert at Bercy, Paris (concert review)"
 date:   2014-02-19 14:13:12 +0200
 ---
 

@@ -3,7 +3,7 @@ publish-status: published
 aliases:
   - Your Symphony of Selves
 layout: post
-title:  '"Your Symphony of Selves" (personal notes)'
+title:  '**"Your Symphony of Selves"** (personal notes)'
 date:   2023-03-15 14:13:12 +0200
 ---
 ^
@@ -21,7 +21,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 	* Selves are like multiple resources you have at your disposal.
 		* Selves can be a way to deal with life and its various circumstances.
 	* Your selves are your potentialities.
-	* No one self knows it all. 
+	* No one self knows it all.
 * We can group and categorize selves in a myriad different ways. (e.g. selves as feelings)
 * Your selves have had varying amounts of "stage time"/"life time", life experience.
 	* You do not have to consider your self that has had the most "stage time" as your "real self".
@@ -91,7 +91,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 ^
 # Shifting
 * "Switching" self when triggered; "shifting" selves when it's a deliberate decision.
-	* Run your selves. Don't let the switches happen automatically, unconsciously. 
+	* Run your selves. Don't let the switches happen automatically, unconsciously.
 * **Mental health is being in the right state at the right time**
 	* Identify the core of what is needed at this very moment; the rest is superfluous or constructed and can be changed.
 	* "Which self would let me gain the most productivity from this situation?"

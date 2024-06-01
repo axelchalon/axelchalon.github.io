@@ -2,10 +2,10 @@
 publish-status: published
 intentions:
 - Within sex, not trying into sex (within sex)
-- Social ease and naturalness 
+- Social ease and naturalness
 - UNINHIBITION, SPONTANEITY
 layout: post
-title:  '"Trying Not to Try" by Edward Slingerland (personal notes)'
+title:  '**"Trying Not to Try"** by Edward Slingerland (personal notes)'
 date:   2023-04-15 14:13:12 +0200
 ---
 ^
@@ -26,7 +26,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 	* Doing the opposite (e.g. the opposite of effort; or of what the other person is doing; interpersonally). Giving way in martial arts such that your adversary has nothing to push against. Wrong-footing.
 	* "The goal of the Zhuangzian sage is to empty his boat, so he can collide with others without arousing any animosity."
 * Trying & Not Trying: both work, and it's about switching back and forth.
-* Remaining relaxed and realizing it's no big stakes. 
+* Remaining relaxed and realizing it's no big stakes.
 	* Otherwise, "by the time you start betting for gold, you're completely petrified."
 ^
 # Spontaneity and authenticity, heartfulness

@@ -4,7 +4,7 @@ intentions:
  - Real-life UX
  - Crowd psychology
 layout: post
-title:  '"The Design of Everyday Things" by Donald A. Norman (personal notes)'
+title:  '**"The Design of Everyday Things"** by Donald A. Norman (personal notes)'
 date:   2024-02-07 14:13:12 +0200
 ---
 ^
@@ -14,7 +14,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * **Design is the link between the intention behind a product, and its actual use.**
 	* A good product can go to waste due to bad design.
 	* <a name="^understand-people"></a>Design is all about understanding people and the human mind.
-	* Engineers are notoriously bad designers. 
+	* Engineers are notoriously bad designers.
 		* Engineers tend to understand technology very well, people very poorly.
 		* Engineers think very logically and assume everyone else does as well; the truth is, most people don't, and we have to design for that.
 	* **"Design for people the way they really are, not the way you would like them to be."**
@@ -54,7 +54,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 - **Activity-based organization:** Instead of grouping objects or controls by similarity, grouping them by activity is sometimes more convenient.
 	* However, **activity-based organization makes edge cases and custom needs more difficult to handle**: for example going beyond the presets, or retrieving an item similar yet pertaining to a different activity.
 ^
-* **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize. 
+* **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize.
 	* <a name="^standardize-to-learn-once"></a>**Design everything the same way, so people only have to learn once.** Standardization makes skills transferrable across products.
 * **The legacy problem: after widespread acceptance, a standard is difficult to change, however inefficient or inelegant it is**, even when the design was made to address issues now irrelevant.
 * **Mixed systems are confusing to everyone.** "if there is to be a change, everybody has to change."
@@ -110,7 +110,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 - Humans are bad at giving precise, accurate, consistent input to machines; and machines are bad at evaluating input with common sense, being smart and critical about it. (A match made in heaven)
 	* × [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): use machines to support humans; humans are the most flexible resource of a company.
 	* **"The combination of human plus machine can beat the best human and the best machine."**
-* **Automation makes errors less likely to be noticed.** Automation reduces attention, which makes errors less directly noticeable. 
+* **Automation makes errors less likely to be noticed.** Automation reduces attention, which makes errors less directly noticeable.
 * **Automation makes errors more laborious to understand and correct.** When an error happens, the person is "out of the loop" and has to take time to get up-to-speed with the environment first; only then be able to troubleshoot the error and remedy it.
 * **A good system needs error prevention, detection and correction.**
 	* Prevention

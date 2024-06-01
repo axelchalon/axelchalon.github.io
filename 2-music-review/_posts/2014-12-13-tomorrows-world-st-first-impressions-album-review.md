@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tomorrow's World – s/t (first impressions) (album review)"
+title:  "**Tomorrow's World** – s/t (first impressions) (album review)"
 date:   2014-12-13 14:13:12 +0200
 ---
 

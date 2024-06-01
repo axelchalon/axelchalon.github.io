@@ -4,7 +4,7 @@ intentions:
  - Understanding of main points of main existentialist thinkers
  - Landing upon new ways of thinking about life and how to live
 layout: post
-title:  '"At the Existentialist Café" by Sarah Bakewell (personal notes)'
+title:  '**"At the Existentialist Café"** by Sarah Bakewell (personal notes)'
 date:   2024-05-22 14:13:12 +0200
 ---
 ^
@@ -57,14 +57,14 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 * Each revolution brings about a new status quo, which over time develops its own excesses and calls for another revolution. "Each generation has a fresh duty to revolt against them, and this will be the case forever." (Camus)
 * Distances tunes us out of injustice and suffering (out of sight, out of mind) (× Italian government conscripting soldiers from Southern Italy during Friuli/Yugoslava tensions post-WWII — in order for them not have existing ties) "The blood of people conveniently far away"
 * Community spaces are especially important in terms of conflict or civil unrest. (× Café de Flore during WWII)
- 
+^
 * **Create a network of self-sufficiency.** Create your distributed village. De Beauvoir and other people were relying on friends in the countryside to send them fresh produce during WWII ("in-group" [(nudge)]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}#^create-clubs); internal trade networks ([Money]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}): banks; [in-group vouchers]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^vouchers-in-group); villages/alternative communities))
 ^
 * Encountering a new culture makes one aware of one's own culture and its contingency — that it is not beyond question, or has to remain one's orthodoxy. (× considering our place in the universe)
 	* The Greeks' exchanges with other cultures (e.g. through trade) (combined with their introspection) might have sparked their interest in philosophy. (Heidegger)
 ^
 * <a name="^the-look"></a>"The Looker looked at" (Sartre, Being and Nothingness, "The Look")
-	* When we become aware we are observed, we shift from seeing to being seen; from being a subject (immersed, lost in the world, in the scene we're peeping), to being an object in another's consciousness; we shift from a "consciousness for itself" to a "consciousness in the presence of others" (hence how intimate moments with ourselves can be — as we are then fully subject, unswayed — × intimacy of diaries; intimacy w/ self as a level of intimacy to tend towards interpersonally). 
+	* When we become aware we are observed, we shift from seeing to being seen; from being a subject (immersed, lost in the world, in the scene we're peeping), to being an object in another's consciousness; we shift from a "consciousness for itself" to a "consciousness in the presence of others" (hence how intimate moments with ourselves can be — as we are then fully subject, unswayed — × intimacy of diaries; intimacy w/ self as a level of intimacy to tend towards interpersonally).
 	* As we shift to being an object, being seen by others, we try to control how others see us — in vain, as we have no control over others' consciousness and how they perceive us. This helplessness makes us feel uneasy. (Self-consciousness (makes us act inauthentically); × [Improvise: our self-critic is the voice of others, that others actually don't have]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^voice-of-others))
 		* "The privacy of other minds": "In the very fact of recognizing that there is another consciousness behind those alien eyes, you recognize that there is another point of view on things, a point of view that ON PRINCIPLE you can never occupy."
 	* The cure is to not pay too much attention to the other's look, to not let it bring us out of the direct experience of the world. ⇒ Uninhibitedness; un-self-consciousness. (× [Trying Not to Try]({% link 0-book-review/_posts/2023-04-15-trying-not-to-try-slingerland-summary.md %}); ["Improvisation is a flow state" (Improvise)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^improvisation-flow); [spontaneity (Improvise)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^spontaneity); [focus on the scene (Improvise)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^focus-on-the-scene))

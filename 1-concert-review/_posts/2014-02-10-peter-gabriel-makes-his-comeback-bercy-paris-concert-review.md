@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Peter Gabriel makes his comeback at Bercy, Paris (concert review)'
+title:  '**Peter Gabriel** makes his comeback at Bercy, Paris (concert review)'
 excerpt: 'To mark the 25th anniversary of their album "So", the original band members gave a historical concert in front of a receptive and enthusiastic audience.'
 date:   2014-02-10 14:13:12 +0200
 ---

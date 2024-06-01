@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Jib Kidder and Panda Bear at La Gaîté Lyrique: a holistic approach (concert review)'
+title:  '**Jib Kidder** and Panda Bear at La Gaîté Lyrique: a holistic approach (concert review)'
 date:   2015-04-30 14:13:12 +0200
 ---
 

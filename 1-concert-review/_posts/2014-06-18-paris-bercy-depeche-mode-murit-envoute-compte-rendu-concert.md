@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'À Paris Bercy, Depeche Mode murit et envoute (compte-rendu de concert)'
+title:  'À Paris Bercy, **Depeche Mode** murit et envoute (compte-rendu de concert)'
 lang: fr_FR
 excerpt: Avec leurs deux derniers albums, Depeche nous montrent leur capacité à évoluer et produire de nouveaux morceaux rafraîchissants et parfaitement exécutés.
 date:   2014-06-18 14:13:12 +0200

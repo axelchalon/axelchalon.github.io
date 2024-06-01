@@ -6,7 +6,7 @@ intentions:
 aliases:
   - The Toyota Way
 layout: post
-title: '"The Toyota Way" by Jeffrey Liker (personal notes)'
+title: '**"The Toyota Way"** by Jeffrey Liker (personal notes)'
 date: 2023-11-30 14:13:12 +0200
 ---
 ^

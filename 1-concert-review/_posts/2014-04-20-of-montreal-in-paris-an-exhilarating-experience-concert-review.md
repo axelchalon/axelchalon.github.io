@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "of Montreal in Paris: an exhilarating experience (concert review)"
+title:  "**of Montreal** in Paris: an exhilarating experience (concert review)"
 date:   2014-04-20 14:13:12 +0200
 ---
 

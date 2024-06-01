@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Girlpool, complicity on show (concert review)'
+title: '**Girlpool**, complicity on show (concert review)'
 date:   2015-07-12 14:13:12 +0200
 ---
 

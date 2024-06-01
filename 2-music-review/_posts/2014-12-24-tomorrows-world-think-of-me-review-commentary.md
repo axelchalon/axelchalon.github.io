@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tomorrow's World – Think of Me (track review)"
+title:  "**Tomorrow's World** – Think of Me (track review)"
 date:   2014-12-24 14:13:12 +0200
 ---
 

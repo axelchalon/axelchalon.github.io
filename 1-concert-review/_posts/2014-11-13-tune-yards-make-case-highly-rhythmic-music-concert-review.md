@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'tUnE-yArDs make the case for highly rhythmic music (concert review)'
+title:  '**tUnE-yArDs** make the case for highly rhythmic music (concert review)'
 date:   2014-11-13 14:13:12 +0200
 ---
 

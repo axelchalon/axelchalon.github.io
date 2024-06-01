@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Depeche Mode grows graver and grander at Bercy, Paris (concert review)'
+title:  '**Depeche Mode** grows graver and grander at Bercy, Paris (concert review)'
 excerpt: 'With their two latest albums, Depeche Mode have shown that they could evolve and provide content that is both refreshing and interesting.'
 date:   2014-06-18 14:13:12 +0200
 ---

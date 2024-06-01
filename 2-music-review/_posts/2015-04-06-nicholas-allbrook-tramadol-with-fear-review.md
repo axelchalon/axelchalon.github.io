@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Nicholas Allbrook — "Tramadol With Fear" (track review)'
+title:  '**Nicholas Allbrook** — "Tramadol With Fear" (track review)'
 date:   2015-04-06 14:13:12 +0200
 ---
 

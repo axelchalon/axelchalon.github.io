@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Broadcast – Work and Non Work" (album review)'
+title: '"**Broadcast** – Work and Non Work" (album review)'
 date:   2016-01-18 14:13:12 +0200
 ---
 

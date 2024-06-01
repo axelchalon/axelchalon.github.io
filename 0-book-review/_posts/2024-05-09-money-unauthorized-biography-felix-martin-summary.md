@@ -4,7 +4,7 @@ intentions:
  - GK and history
  - Understanding money, history of money, problems solved
 layout: post
-title:  '"Money: The Unauthorized Biography" by Felix Martin (personal notes)'
+title:  '**"Money: The Unauthorized Biography"** by Felix Martin (personal notes)'
 date:   2024-05-09 12:13:12 +0200
 ---
 ^
@@ -25,7 +25,7 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 *  Money reduces everything to a single dimension: economic value.
 	* The simplicity of this worldview makes it compelling. Society can be readily organized based on this one criterion.
 	* **Pursuing the wrong things.** **When you switch to a paradigm, you come up with goals or possible "achievements" for that paradigm and pursue them — though they might be completely fickle, because you have the wrong paradigm.**
-		* For example, rich aristocrats in Bologna competing with each other to build the tallest tower in the 13th/14th century; delusions of grandeur (≠ essentialism).		
+		* For example, rich aristocrats in Bologna competing with each other to build the tallest tower in the 13th/14th century; delusions of grandeur (≠ essentialism).
 	* Because money extends beyond the physical, money lets one assign objective value to non-physical things.
 		* Setting a price to non-physical things is not new: Catholics atoned for sins first through penitence, but later through financial contributions (Catholic indulgences) — one of the reasons for Protestantism.
 * Money transcended its initial field of application (the buying and selling of goods) to govern the whole of life: "what is the price of a life?"

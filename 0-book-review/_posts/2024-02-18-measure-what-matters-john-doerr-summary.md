@@ -4,7 +4,7 @@ intentions:
  - TTF
  - Personal goal setting
 layout: post
-title:  '"Measure What Matters" by John Doerr (personal notes)'
+title:  '**"Measure What Matters"** by John Doerr (personal notes)'
 date:   2024-02-18 14:13:12 +0200
 ---
 ^
@@ -39,7 +39,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* Letting everybody know: "There were close to one hundred people at the meeting. The message penetrated two levels of managers off the bat, and to a third level within twenty-four hours."
 * **Day-to-day activities (and OKRs) should be aligned with, contributing towards top-level OKRs (alignment).**
 	* OKRs are a cooperative social contract to establish priorities.
-		* **Concentrate efforts: agree on a shared objective and way of reaching it.** 
+		* **Concentrate efforts: agree on a shared objective and way of reaching it.**
 	* Clear top-level OKRs enable voluntary, aligned initiatives among frontline workers.
 	* Clear top-level OKRs simplify deciding if a new project or initiative fits into the big picture or not.
 	* Clear OKRs help coordinate teams.
@@ -57,15 +57,15 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* Every person manages the business of themselves.
 	* An open OKR culture requires others' OKRs to be viewed and used, not just accessible. "If you share a goal that nobody sees, is the system truly transparent?" Theoretical vs practical open OKR.
 	* **It is easier to communicate a "no" when people know your priorities.**
-		* Open OKRs facilitate "nos" by having a person's priorities laid out in public. 
+		* Open OKRs facilitate "nos" by having a person's priorities laid out in public.
 	* Open OKRs facilitate communication and understanding between teams. Open OKRs are the shared language between different teams each speaking a different "language".
 	* Open OKRs encourage (spontaneous) collaboration. **OKRs create networks.** Vertically, horizontally, diagonally. "**Connected goal-setting.**"
 		* "People cannot connect with what they cannot see. Networks cannot blossom in silos." And networks are more resilient!
 		* **Collaboration is an engine of growth and innovation.**
 	* Open OKR platforms promote internal networking.
-	* Open OKRs prevent wasteful redundancy; prevents different teams from unwittingly doing the same thing. 
+	* Open OKRs prevent wasteful redundancy; prevents different teams from unwittingly doing the same thing.
 	* Open OKRs remove suspicion as to what other people are working on (if on anything at all).
-	
+^
 # Goal setting
 * **Goals should be set with "rigor and imagination".**
 * Decisiveness / Clear, structured goal-setting
@@ -123,21 +123,21 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 * When you know the stretch goal in advance, you can prepare for it in all its aspects (you can prepare all areas.) (× <a href="#^set-okrs-in-advance">set OKRs ahead of kickoff</a>)
 * Massive turnarounds in a short time, are very much possible.
 	* "Within three months of launch, Zune had achieved 10 percent market share in its local trade area."
-	
+^
 # Continuous performance management
 * **Transfer an OKR to a different person or team if they can do it more efficiently**; if they have the expertise and bandwidth.
 * **Have regular one-on-ones with the employees, for exchanging information and providing support.** (CFRs.) The meeting should aim at exchanging information, understanding, coaching and feedback.
 	* The meeting's agenda should be set by the employee.
 	* Ones-on-ones are a place to discuss individual OKRs and ask for guidance or support.
 * **Regular OKR check-ins allow for extra support and possible escalation** (of the goal). They make possible providing extra support to teams struggling with their OKRs, or OKRs lagging behind ("escalation": putting more attention, effort and emphasis on an OKR at risk, enlisting lateral support).
-	* Regular check-ins let you adjust to meet a goal before it's too late. 
+	* Regular check-ins let you adjust to meet a goal before it's too late.
 	* "Selling and buying OKRs": taking turns to ask for help for OKRs at risk, almost competing with the other teams.
 		* "Little time is spent on people's greens. Instead, they "sell" their reds. The team votes on the most important at-risk OKRs for the company as a whole, then brainstorms together as long as it takes to get the objectives back on track. In the spirit of cross-departmental solidarity, individuals volunteer to "buy" their colleagues' reds."
 * **Elevate KRs to objectives if they require extra attention** (for the next period).
 * **Fails require a post-mortem.**
 	* For example, failed OKRs require a post-mortem (and a new action plan).
 	* "We do not learn from our mistakes, but from reflecting on our mistakes."
-	
+^
 # Reviewing
 * Score objectives and KRs first objectively, then subjectively through self-assessment (was the goal too easy?)
 * Reflect on your meta-learnings about goal setting.
@@ -173,12 +173,8 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 # Marketing
 * Marketing (e.g. offline ads) are a way to ingrain a certain conceptual model (view) (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conceptual-models)) of the product.
 	* "In March, we embarked on a "Chrome Fast" marketing campaign."
-	
+^
 # Quotes and unquotes
 * "Entrepreneurs do more than anyone thinks possible, with less than anyone thinks possible. (By contrast with bureaucrats, who do less than anyone thinks possible with more than anyone thinks possible.)"
 * **At the end of the day, relationships are what matters the most.**
 	* "Finally, I offer my undying gratitude to my wife, Ann, and daughters, Mary and Esther, whose patience, encouragement, and love kept me going through this long and challenging project. **Each and every day, they remind me of what matters the most.**"
-^
-<!--
-	* "The point of the meeting is mutual teaching and exchange of information."
--->

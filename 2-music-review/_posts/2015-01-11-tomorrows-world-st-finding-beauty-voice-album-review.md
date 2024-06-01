@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tomorrow's World – s/t (finding beauty in a voice) (album review)"
+title:  "**Tomorrow's World** – s/t (finding beauty in a voice) (album review)"
 date:   2015-01-11 14:13:12 +0200
 ---
 

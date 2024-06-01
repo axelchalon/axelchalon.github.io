@@ -5,7 +5,7 @@ intentions:
  - Journaling, personal wisdom, notes organisation
  - Sex, seduction, and skill acquisition in general
 layout: post
-title:  '"The Life-Changing Magic of Tidying Up" (personal notes)'
+title:  '**"The Life-Changing Magic of Tidying Up"** (personal notes)'
 date:   2022-10-15 14:13:12 +0200
 ---
 ^
@@ -23,7 +23,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 		* life-changing experiences come from sudden change and completely new experiences.
 * certain skills are a given for some but need to be deliberately trained for others.
 * desired skills become less daunting to acquire when broken down into simple parts.
-	* you can then aim for perfection, since you know how to reach it 
+	* you can then aim for perfection, since you know how to reach it
 * what is commonly being told or taught might not be true.
 * connect to your reasons before starting a process. do things with vision in mind; the purpose served by what you are about to do. envision the lifestyle you're going for with great detail, write it down.
 	* go "vision-shopping", get exposed to people's lifestyle, see the spectrum of life experiences, choose which ones to experience
@@ -45,7 +45,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * **only possess what you love**. _are you happy wearing clothes that don't give you pleasure?_
 	* take each item in your hands and ask yourself if it sparks joy
 		* identifying what sparks joy and what doesn't is a skill to hone, a habit to acquire. knowing what you like. _develop the instinct for what really inspires joy_ (in terms of experiences as well!)
-	* choose what to keep and discard the rest. rather than choosing what to discard and keeping the rest. there are often no compelling reasons for discarding things, leading them to accumulate even though they don't bring value to your life. 
+	* choose what to keep and discard the rest. rather than choosing what to discard and keeping the rest. there are often no compelling reasons for discarding things, leading them to accumulate even though they don't bring value to your life.
 	* to live w/ things we do not love or need, is an aberration, is unnatural.
 		* (hence, choose to live in a city that you will truly inhabit, not one that is too big for you and whose offers are lost on you; leave it to someone else instead who will appreciate it more; and cherish the city where you decide to live. the connection between choosing what one truly wants and being able to cherish it.)
 * going through one's possessions is a way of taking stock of one's past and achieving closure. introspection through belongings. every belonging has a unique story personal to you.

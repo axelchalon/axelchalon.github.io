@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Broadcast — Haha Sound" (listening notes)'
+title: '"**Broadcast** — Haha Sound" (listening notes)'
 date:   2015-04-16 14:13:12 +0200
 ---
 

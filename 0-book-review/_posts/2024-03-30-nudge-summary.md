@@ -1,7 +1,7 @@
 ---
 publish-status: published
 layout: post
-title: '"Nudge" by Richard Thaler & Cass R. Sunstein (personal notes)'
+title: '**"Nudge"** by Richard Thaler & Cass R. Sunstein (personal notes)'
 date: 2024-03-30 14:13:12 +0200
 ---
 ^
@@ -72,7 +72,7 @@ date: 2024-03-30 14:13:12 +0200
 	* Tracking also lets you subsequently regulate.
 * **Integrate the desired action to the daily routine.**
 	* **Every time is better than every nth time.** Doing something every day is easier to remember than doing something every other day.
-	
+^
 # Beyond nudging
 * **Do a raffle.**
 	* To fight tax evasion, the Chinese government set up a lottery system for consumers based on receipt tickets from shops; as a strategy to encourage clients to ask for the receipts; and for the transaction to have thereby been recorded.
@@ -97,7 +97,7 @@ date: 2024-03-30 14:13:12 +0200
 * Simplify/Minimalism: More stuff to control means a less thorough control. Instead, minimize and manage well.
 * Patients should not have to pay for their medication (US); some skimp on them and die.
 * Nudge, and boost (educate) as well! The two are not incompatible.
-	
+^
 # Errors
 * Reducing errors: **authorize people to remind absentminded offenders** (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^errors); culture of error reporting ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}); culture of calling out CEO's errors ([Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^challenge-ceo)))
 * Post-completion mistakes: forgetting about tasks related to the previous steps because the main goal was accomplished (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^slips-mistakes)) (=> ATMs "taking the card out first" (× enforcing a sequence (interlocking) [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}))

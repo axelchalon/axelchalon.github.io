@@ -4,7 +4,7 @@ intentions:
  - Analogies to interpersonal exchanges, secondarily intercultural exchanges
  - Learning about history, insights from history
 layout: post
-title: '"A Splendid Exchange" by William Berstein (personal notes)'
+title: '**"A Splendid Exchange"** by William Berstein (personal notes)'
 date: 2024-03-29 14:13:12 +0200
 ---
 ^
@@ -14,7 +14,7 @@ date: 2024-03-29 14:13:12 +0200
 * **Things are as they were / History repeats itself.** Things have always been the same: merchandising, "luxury-loving women", entrepreneurs, corruption, globalization, interdependence (as early as the Stone Age). Our current world runs on the same underpinnings as past worlds.
 	* <a name="^romans-two-chinas"></a>**Now as before, people use products without knowing how they are made or work.** "The Romans knew Chinese silk but not China" (Internet, infrastructure) ; Romans thought silk grew on trees (faulty [conceptual models]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conceptual-models)), and hailing from two different countries (due to coming to Rome from two different routes — one overland and one overseas — though they actually both stemmed from China; brain's instinct to see patterns and make sense of things).
 		* **"Fog of war"**: Romans only knew part of the map. Only when you see all of the map, do you realize that everything is interconnected, on the other end. (× Good and Evil; Yin and Yang).
-		* **External tools are replacing ancestral know-how.** As civilizations evolve, people increasingly delegate activites they used to do themselves, thereby progresively losing the ability to perform these activities themselves, unaided. 
+		* **External tools are replacing ancestral know-how.** As civilizations evolve, people increasingly delegate activites they used to do themselves, thereby progresively losing the ability to perform these activities themselves, unaided.
 - **Different things get prized at different times.** Romans used to prize Chinese silk.
 * <a name="^once-precious-now-common"></a>**Things once precious are now common** (black pepper). Things precious today might become common tomorrow.
 	* Likewise, things common today might become precious tomorrow. Hence: cull and confer (value) ([discern and appreciate]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^discern-appreciate))
@@ -51,7 +51,7 @@ date: 2024-03-29 14:13:12 +0200
 		* <a name="^character-building"></a>The luck of the draw gives different people different assets (that they can develop) (× RPG character building). For example, the Chinese with silk and spices; the Roman empire with minerals (through advanced mining techniques).
 			* <a name="^camel-environmental-advantage"></a>**Be like the camel: develop your unique environmental advantage**: e.g. camels w/ storing water for surviving in the desert away from the oases with their large predators.
 				- The spacing of caravanserais was determined by the maximum distance camels could travel (safely) without water (three days) (Natural reasons for things.)
-				* (× hone in on your assets; **double down on your strong points** instead of putting too much energy into trying to "catch up" with the rest: [capitalize on your strengths (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^capitalize-on-strengths))		
+				* (× hone in on your assets; **double down on your strong points** instead of putting too much energy into trying to "catch up" with the rest: [capitalize on your strengths (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^capitalize-on-strengths))
 		* <a name="^irrelevant-lessons"></a>**Lessons you do not have to learn (because they do not concern you).** Some face setbacks that are completely out of the picture for others.
 			* The narrow West needed control over maritime choke points and improved at it (especially Greece), while the East generally didn't need to worry about it, what with the vast expanse of Indian Ocean — which also made the East more vulnerable to maritime attacks or attacks on sea lanes.
 			* (× other people struggling with things you do not struggle with)
@@ -68,7 +68,7 @@ date: 2024-03-29 14:13:12 +0200
 	* **"Lost with all hands"**: human loss has always been trivialized, in wars then as in wars now, in expeditions then as in expeditions now (× migrant boats to Spain/Italy/Greece).
 	- **Traders in the Muslim world used to always travel with a (trader) companion ("rafiq") to help ensure each other's safety.** (x [The Sirens of Titan]({% link 0-book-review/_posts/2023-10-05-kurt-vonnegut-sirens-of-titan-thoughts-notes-review.md %})) (buddy system) (× military)
 		* External pressures onto the bond made it even tighter. (If one person disappeared or died, the other person would be tortured or executed by the state under suspicion of theft.) From socially constructed to actually paramount.
-* **The Columbian Exchange involved trading crops** between the Old World and the New World. 
+* **The Columbian Exchange involved trading crops** between the Old World and the New World.
 	* Trading crops across different cultures and geographies is akin to trading ideas between peoples, between people (e.g. acquiring knowledge from books).
 	- <a name="^stone-dissemination-from-quarry"></a>**Dissemination.** Stone materials used to spread far away from their original quarry; just like ideas spread from the source.
 	* **Trade makes us both prosperous and vulnerable (interdependent)** — richer (of insights, × relationships) and more dependent (for better and for worse).
@@ -91,7 +91,7 @@ date: 2024-03-29 14:13:12 +0200
 * <a name="^couple-best-both"></a>**Couples as the best of both worlds, and surpassing any one of their parts** (African dromedary and Asian Bactrian crossbreeding into a "F1 hybrid super camel"); **as an entity able to navigate the world with the best assets of each of their parts.**
 	* Mules are hybrid usually of a female horse and a male donkey; as a female donkey would have difficulty delivering the oversized foal.
 - **Union of two paradigms through the union of two people.** Two people can unite personally and thereby bridge two families or paradigms. King João I of Portugal married Philippa of Lancaster (from the English Royal family), thereby creating an alliance between the two kingdoms. Marriages between rulers.
-	* **England & Portugal: the oldest still ongoing bilateral alliance.** (From the depths of the Black Death) The alliance between England and Portugal through the Treaty of Windsor (14th century (Philippa later fell to the Plague)) is the oldest still ongoing bilateral alliance — having as an effect that England and Portugal since then never waged war against each other, not even indirectly. #peace 
+	* **England & Portugal: the oldest still ongoing bilateral alliance.** (From the depths of the Black Death) The alliance between England and Portugal through the Treaty of Windsor (14th century (Philippa later fell to the Plague)) is the oldest still ongoing bilateral alliance — having as an effect that England and Portugal since then never waged war against each other, not even indirectly.
 * **Abundance trumps competition.** The endless stretches of land made rivalry between Spain and Portugal secondary, encouraging them to find a quick amiable agreement. (× Polyamory)
 	* **Agreements prior to imminent breakthroughs**: the Treaty of Tordesillas preemptively bisected the world, as the Spanish and Portuguese were actively about to explore new territories. This was done by the Pope, the great arbiter and overlord of European powers.
 		* Territories West of the Tordesillas line would belong to the Spaniards; territories East of the line would belong to the Portuguese.
@@ -114,7 +114,7 @@ date: 2024-03-29 14:13:12 +0200
 # Economics and politics of trading
 * **Trade is a levelling mechanism** (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})), in that external suppliers can make up for episodic dearth.
 	* At the same time, free trade makes local farmers more vulnerable, as they lose the agency to raise prices in case of bad crops (due to the ongoing supply of foreign produce from foreign farms at a competitive price), and as the low prices from imported goods might force them to lower their prices (due for example to economies of scale or heavy subsidies in the foreign country).
-	* The interdependence of trade reduces the likelihood of conflict (European Union). #peace 
+	* The interdependence of trade reduces the likelihood of conflict (European Union).
 * **The law of comparative advantage** (Ricardo) lets two subjects decide on what to produce, respectively, in order to maximize global output.
 	* Applied to societies: this would mean letting everyone do what they do best (what has the most value for society, among all the things the person can do) (ideal world).
 	* The law of comparative advantage as a behavioural guideline makes intuitive sense: it lets everybody do what they do best, and "pay" with it, things other people do best.
@@ -132,7 +132,7 @@ date: 2024-03-29 14:13:12 +0200
 	* Likewise, high tariffs encourage smuggling.
 		* **Made popular through smuggling**: tea smuggling made it more popular as tea was sold for more affordable prices.
 		* When it comes to smuggling, locals know best.
-- Encourage what you like rather than discourage what you don't like. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %})) 
+- Encourage what you like rather than discourage what you don't like. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
 - <a name="^covert-targetting"></a>**Covert targeted laws:** The English Navigation Law of 1651 restricted trading to English ships or ships from the exporting country, effectively targeting the Dutch (who would import foreign spices into England).
 	- The measures later festered into the more explicit Anglo-Dutch wars.
 	* **Anglo-Dutch proxy wars (Denmark), akin to relationship conflicts, "we're not really fighting about this / this is not what the fight is fundamentally about".** (× conflicts) (but also its counterpoint: ["we're doing this on the surface but we're actually doing something else, at a more fundamental level"]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^any-activity))
@@ -159,7 +159,7 @@ date: 2024-03-29 14:13:12 +0200
 # Finance
 * **Split risk enables big ventures.** ("Dutch finance"; crowdfunding) Substantial projects with high risk are enabled by the big risk being **split** in many small portions (carried by many people)
 - **Futures markets as future-proofing agreements.** Futures markets are a way for a buyer and seller to agree on a transaction with the present circumstances (effectively freezing them), for a commodity needing time to get acquired and delivered (e.g. a travel to the East Indies). This protected the buyer from price increases and the seller from price drops.
-	
+^
 # Ideology, military and politics
 * <a name="^any-activity"></a>**Any activity can be practice grounds for your ideology.** ("It's not what you do, it's how you do it".) Muslims spread their religion through their practice of trading. (× All about Love: [do any job well, and with love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^do-job-well-with-love)) (× Café Zart ; De Sering: "this is what we do on the surface — that is what we are actually about").
 	 * Deliberately chosen, activities can simply be a means to an end. (× S)
@@ -194,7 +194,7 @@ date: 2024-03-29 14:13:12 +0200
 	* **Securing access to resources.** (× Personal finance.) By securing access to the port of Piraeus (with the Long Walls), Athens made itself able to resist overland siege (and successfully did so (second Persian invasion and the better part of the Peloponnesian war). (Innovative defence strategies, × [radical innovation]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^incremental-radical)) (Pericles)
 	* Little did you know that Athenian patrols of the Black Sea (against piracy) are akin to [regularly cleaning one's lodgings and decluttering]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})
 	* **Attack resources** (rather than the fort) (Achille's heel; scorched earth). Spartans intercepted ships from the Black Sea in a critical period, instead of going for Athens directly.
-		* **What worked in the past might not work in the future.** The Long Walls of Athens defended them against Persians, but didn't help against the Spartans. 
+		* **What worked in the past might not work in the future.** The Long Walls of Athens defended them against Persians, but didn't help against the Spartans.
 		* **Realize your dependence on your resources.**
 			* Dependence can easily be forgotten, though it is very dangerous.
 				* Realize what (systems, institutions) you are dependent on.
@@ -222,7 +222,7 @@ date: 2024-03-29 14:13:12 +0200
 		* Later transfers include gunpowder, printing, the magnetic compass.
 		* The "inner" Middle Ages (700-1300 AD) were dominated by the Muslims ("Islamic Golden Age"), with the Abbasid caliphate. <cite>The Middle Ages were internally Islamic.</cite>
 			* The Islamic Golden Age akin to the Pax Romana (~ 0-200 AD, heralded by Octavian) <cite>0 to 200... years of peace (Gabriel Romana Marquez)</cite>
-			* The Islamic Golden Age finished with the invasion of Mongols in the 13th century, plague in the 14th (Black Death <cite>The Black Death struck while not even being legal yet</cite>), and Vasco da Gama's in the 15th and 16th century bypassing the Red Sea area by circumventing Africa around the Cape of Good Hope.  
+			* The Islamic Golden Age finished with the invasion of Mongols in the 13th century, plague in the 14th (Black Death <cite>The Black Death struck while not even being legal yet</cite>), and Vasco da Gama's in the 15th and 16th century bypassing the Red Sea area by circumventing Africa around the Cape of Good Hope.
 * Islam was a religion of trade (Muhammad was a trader).
 - **Perquisites of an echelon can defeat its purpose.** Mamluk slaves (soldier slaves) would rise to power based on merit and loyalty, before slowly getting corrupted by the perks of their position and eventually be replaced, by force or nature, by a new generation of rulers.
 * **Rearing populations for war:** Mamluk slaves would be acquired as boys, then be converted and trained for war — they made excellent warriors.
@@ -230,7 +230,7 @@ date: 2024-03-29 14:13:12 +0200
 * **Internal strifes make more vulnerable to external attacks.** (In the case that external threats did not call forth unity (× A Paradise Built in Hell: [external conflicts unite]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %}#^disasters-unite))) Christian Crusaders' victory over Jerusalem was made easier by internal conflicts between the Fatimid caliphate and the Seljuk Turks (1099 AD — the First Crusade, following Pope Urban II's call to regain control over the Holy Land. <cite>Urban II almost eleven hundred (1099 AD)</cite>)
 * **Mystic origins of coffee.** The spread of coffee was facilitated by its regular use by Sufis, who were not hermits but rather active "in the world"
 	* Coffee as a social lubricant.
-	
+^
 # Slavery
 * Human slaves were bought in Central Asia and sold against spices by Italians to the Muslims.
 * **Humans in exchange for spices.** Slaves from Central Asia were bought by Muslims against spices, to fight as soldiers — Italians being the middlemen slave traders. (1200-1500 AD)
@@ -254,7 +254,7 @@ date: 2024-03-29 14:13:12 +0200
 			* Australians introduced a century later a pathogen uniquely lethal to rabbits (the myxoma virus), in an attempt to curb their development; successfully killed 99.8% of rabbits, before natural selection of mutations kicked in and made the new generations of rabbits immune to the virus.
 				* **Natural selection of pathogens:** not only did the rabbits become immune, but the virus mutated as well to favour strands that would make for a slower death of a host (and of the virus, allowing it to multiply more effectively) — thereby getting less effective in killing the population over time. (Disease equilibration)
 	* Too much of one thing damages the other. (× [Every policy...]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^every-policy))
-* **Rescued because of one's value.** (× Linchpin) Camels were rescued from the brink of extinction through domestication because of their value as pack animal, the only way humans could transport freight over long distances in the desert. (× [camel's environmental advantage]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^camel-environmental-advantage)) #valued 
+* **Rescued because of one's value.** (× Linchpin) Camels were rescued from the brink of extinction through domestication because of their value as pack animal, the only way humans could transport freight over long distances in the desert. (× [camel's environmental advantage]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^camel-environmental-advantage))
 - Danes were hogging hogs and making for the lion's share of pork exports — not the most vegan country.
 ^
 # Another header

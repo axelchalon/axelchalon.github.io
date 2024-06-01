@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Hundred Waters live in Paris (concert review)'
+title:  '**Hundred Waters** live in Paris (concert review)'
 date:   2014-10-18 14:13:12 +0200
 ---
 

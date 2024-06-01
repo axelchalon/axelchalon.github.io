@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"Minim" by Broadcast: words as music, and vice versa (track review)'
+title:  '"Minim" by **Broadcast**: words as music, and vice versa (track review)'
 date:   2014-07-22 14:13:12 +0200
 ---
 

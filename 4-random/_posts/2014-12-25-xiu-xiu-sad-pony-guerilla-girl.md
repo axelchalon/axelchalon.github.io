@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Xiu Xiu - Sad Pony Guerilla Girl (creative writing)'
+title:  '**Xiu Xiu** - Sad Pony Guerilla Girl (creative writing)'
 date:   2014-12-25 14:13:12 +0200
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Pharmakon live in Paris (opening act for Swans) (concert review)'
+title:  '**Pharmakon** live in Paris (opening act for Swans) (concert review)'
 date:   2014-10-12 14:13:12 +0200
 ---
 

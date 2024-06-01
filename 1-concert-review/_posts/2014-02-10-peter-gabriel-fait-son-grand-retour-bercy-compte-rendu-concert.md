@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Peter Gabriel fait son grand retour à Bercy (compte-rendu de concert)'
+title: '**Peter Gabriel** fait son grand retour à Bercy (compte-rendu de concert)'
 lang: fr_FR
 excerpt: "À l'occasion de la tournée des 25 ans de l'album So, le groupe original a donné un concert historique devant un public réceptif et enthousiaste."
 date:   2014-02-10 14:13:12 +0200

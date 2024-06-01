@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"Stay With Me" by Spiritualized: a love song that strikes a chord (track review)'
+title:  '"Stay With Me" by **Spiritualized**: a love song that strikes a chord (track review)'
 date:   2014-06-28 14:13:12 +0200
 ---
 

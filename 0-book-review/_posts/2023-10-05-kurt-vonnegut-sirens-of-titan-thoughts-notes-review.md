@@ -3,7 +3,7 @@ publish-status: published
 intentions:
 - (NL, and meaning, humanism impactful insight conveyed through art)
 layout: post
-title:  '"The Sirens of Titan" by Kurt Vonnegut (personal notes)'
+title:  '**"The Sirens of Titan"** by Kurt Vonnegut (personal notes)'
 date:   2023-10-05 14:13:12 +0200
 ---
 ^

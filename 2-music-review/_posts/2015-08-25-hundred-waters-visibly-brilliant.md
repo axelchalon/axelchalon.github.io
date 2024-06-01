@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Hundred Waters: visibly brilliant'
+title:  '**Hundred Waters**: visibly brilliant'
 date:   2014-08-25 14:13:12 +0200
 ---
 
