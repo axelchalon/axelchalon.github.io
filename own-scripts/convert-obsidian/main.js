@@ -16,7 +16,10 @@ const obsidianFileToWebsiteFile = {
     "Nudge": "2024-03-30-nudge-summary.md",
     "Money": "2024-05-09-money-unauthorized-biography-felix-martin-summary.md",
     "At the Existentialist Café": "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md",
-    "Never Split the Difference": "2024-06-01-never-split-the-difference-summary.md"
+    "Never Split the Difference": "2024-06-01-never-split-the-difference-summary.md",
+    //  "Shopclass as Soulcraft":
+    //    "#",
+    "The Almanack of Naval Ravikant": "2024-07-25-almanack-naval-ravikant-summary.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;

@@ -1,5 +1,8 @@
 ---
 publish-status: published
+intentions: 
+- Strong boundaries life
+- Negotiations / job itws / rels
 layout: post
 title: '**"Never Split the Difference"** by Christopher Voss and Tahl Raz (personal notes)'
 date: 2024-06-01 12:13:12 +0200
@@ -14,7 +17,7 @@ This one goes out to my future employer.
 # Understanding
 * Ask **how** you are supposed to do it. Ask the other person to solve your problems. For example: "How can I know he's alive ?" (vs "Can you show me he's alive?"). **Ask for a solution,** especially when there is none. By asking "how", we shift from a "confrontational showdown to a joint problem-solving session" (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^same-team))
 	* Focus on "how's" and "what's", avoid "why's", as "why's" put people on the defensive.
-* **Don't focus on what the other person is asking for, but on why they are asking for it.** Focus on their interest, understand what is important to them.
+* <a name="^understand"></a>**Don't focus on what the other person is asking for, but on why they are asking for it.** Focus on their interest, understand what is important to them.
 	- Understand what is important to each other in order to create win-win situations. Understand each other's paradigm; what brings meaning to each other (in the deal to be made, experience to be had.)
 		* **No deal is better than a bad deal.** Compromising is often a lose-lose based on not correctly understanding what is at stake or important for the other person. (Goes both ways.) Prefer no deal to a bad deal (e.g. getting scammed).
 	* Once you understand your counterpart, you can also offer, or ask for [low-effort, high-value extras]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}#^non-cash-extras).
@@ -60,4 +63,4 @@ This one goes out to my future employer.
 			* The corollary: **When you cannot ask for more money, ask for more perks or services**, based on the assets of your counterpart (e.g. ask for a training, an article in their magazine, etc.)
 ^
 # Quotes
-- **"Hope is not a strategy."** (It's a tactic.) (Just kidding.)
+- **"Hope is not a strategy."** (~~It's a tactic.~~)

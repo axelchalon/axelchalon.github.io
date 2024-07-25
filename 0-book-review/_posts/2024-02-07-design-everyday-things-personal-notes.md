@@ -87,7 +87,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 * **Everybody has conceptual models about everything, more or less detailed, more or less right.
 	* Every person has a conceptual model of every object they use — more or less detailed, more or less right.
 		* A device acting in an unexpected way often points to a faulty conceptual model and calls for revising it.
-			- **Learning by being exposed to things we do not understand — in order to upgrade our conceptual model thereof.**
+			- <a name="^be-exposed-then-understand"></a>**Learning by being exposed to things we do not understand — in order to upgrade our conceptual model thereof.**
 		* The (right) conceptual models play an essential role in how intuitive or logical something seems.
 			- The product is the only point of contact between the designer and the end user; the only place where the designer's (accurate) conceptual model of the product can be conveyed to the end user.
 				* It is the designer's responsibility to convey an accurate conceptual model of the product to the user, by means e.g. of intuitive interface design.

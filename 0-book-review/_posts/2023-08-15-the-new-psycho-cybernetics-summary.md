@@ -73,7 +73,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * You can pause and visualise right before an event as well. For example, just before doing an interview, clearing your mind then visualising having a great time there, the audience laughing, and everyone in the team congratulating each other for another great show at the end.
 * You want to let your subconscious do its automatic job and consciously intervene only when **course-correcting** from time to time. You do not adjust when things are going well, you only adjust when things are headed the wrong way. (Negative feedback — the same way guided missiles work.)
 * **Identify the problems that you are not actively working on solving because you have assumed that they cannot be solved.** Reconsider them and take action.
-	* Be willing to see the truth. Be objective about the state of things, and then be willing to acknowledge it and do something about it. When we cannot see and accept the truth, we cannot fix it.
+	* <a name="^acknowledge"></a>Be willing to see the truth. Be objective about the state of things, and then be willing to acknowledge it and do something about it. When we cannot see and accept the truth, we cannot fix it.
 	 * **"Only by moving aggressively toward reality, ­which means uncovering hiden truths about yourself, ­can you truly have peace of mind."**
 		* ENGAGE!
 	* **"All problems become smaller when you don't dodge them, but confront them."**

@@ -55,7 +55,13 @@ const obsidianFileToWebsiteFile: pr = {
     "2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md",
 
   "Never Split the Difference":
-    "2024-06-01-never-split-the-difference-summary.md"
+    "2024-06-01-never-split-the-difference-summary.md",
+
+//  "Shopclass as Soulcraft":
+//    "#",
+  
+  "The Almanack of Naval Ravikant":
+    "2024-07-25-almanack-naval-ravikant-summary.md"
 };
 
 
