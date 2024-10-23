@@ -55,7 +55,7 @@ This one goes out to my future employer.
 - Start by setting yourself a target (e.g. how much you are willing to pay)
 	* Implicit opening offer/anchoring: Quote the standard market price range. ("People pay that much for...")
 	* Offer a range whereby the lower boundary is your target.
-	* Make bids for, successively: 65%; 85; 95%; and finally 100% of your target using a precise number (e.g. 4655.50€) along with a non-monetary gift for that last offer.
+	* Make bids for, successively: 65%; 85%; 95%; and finally 100% of your target using a precise number (e.g. 4655.50€) along with a non-monetary gift for that last offer.
 		* The decreasing increments suggest you are getting closer to your limit.
 		* The precise final offer suggests you came to this number through deliberate calculation; it sounds non-arbitrary, and final.
 		* The non-monetary extra added to the last offer suggests you truly reached your limit.

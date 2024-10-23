@@ -19,7 +19,7 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 		* "The demands our particular historical situation is making onto us": our Being is not universal but local; contingent on a time and place (Heidegger)
 	* We often mistake the things (situational variables) that enable us to be free (to exercise our freedom) for things that take away our freedom.
 	* "Human existence is thus ambiguous: at once boxed in by borders and yet transcendent and exhilarating" ("passionately involved in personal projects of all kinds"): because there is actually a lot of wiggle room (!)
-- Because we are free, we are responsible for our actions and our impact in the world. (Sartre)
+- **With freedom comes responsibility.** Because we are free, we are responsible for our actions and our impact in the world. (Sartre)
 ^
 * Maxims have limited use.
 	* Maxims have a tendency to be too general and thus ambiguous in their interpretation and implementation.
@@ -43,7 +43,7 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 * **Clearing the language slate:** Existing words come with their connotations, assumptions and associations. To think clearly about something, use your own new words as you go along — giving them precise definitions as you go.
 	* Heidegger rejected familiar terms (around being, consciousness) to start from scratch.
 ^
-* **Responsibility in the small things.**
+* <a name="^responsibility"></a>**Responsibility in the small things.**
 	* Refusing integrity or responsibility in the small things primes one's consciousness to being run over; sets you off on a slippery slope.
 		* If you do not act now, you will still have to act in the future — and you are just postponing it.
 		* Certain outcomes (or means) are inevitable, and if history doesn't reach it one way, it will reach it another way. (Deaths; use of violence; etc.)
@@ -54,10 +54,10 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 * **One has a responsibility to call on people and confront them on things.** (× Jasper's regrets of not having confronted Heidegger on his Nazi affiliation)
 	* Calling on people is made of the same "stuff" as acts of resistance, acting responsibly.
 * **Not acting is as bad as acting wrongly.** (× failure to assist) Failing to act is as reprehensible as acting wrongly. There is danger in not acting when the times demand it (× Arendt, Banality of Evil): **"We slip into banality, failing to think.** (instead of using our freedom, and acting responsibly.)
-* Each revolution brings about a new status quo, which over time develops its own excesses and calls for another revolution. "Each generation has a fresh duty to revolt against them, and this will be the case forever." (Camus)
-* Distances tunes us out of injustice and suffering (out of sight, out of mind) "The blood of people conveniently far away"
+* **The revolution cycle.** (flip-side: [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}) kaizens; [Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^goal-setting) goal-setting) Each revolution brings about a new status quo, which over time develops its own excesses and calls for another revolution. "Each generation has a fresh duty to revolt against them, and this will be the case forever." (Camus)
+* <a name="^conveniently-far-away"></a>**Distances tunes us out** of injustice and suffering (out of sight, out of mind) "The blood of people conveniently far away"
 	* **Outsiders make the best soldiers.** The Italian government conscripted soldiers from Southern Italy during Friuli/Yugoslava tensions post-WWII — in order for them not have existing ties to local people — to provent "conflicted loyalties".
-* Community spaces are especially important in terms of conflict or civil unrest. (× Café de Flore during WWII)
+* Community spaces are especially important in times of conflict or civil unrest. (× Café de Flore during WWII)
 ^
 * **Create a network of self-sufficiency.** Create your distributed village. De Beauvoir and other people were relying on friends in the countryside to send them fresh produce during WWII ("in-group" [(nudge)]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}#^create-clubs); internal trade networks ([Money]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}): banks; [in-group vouchers]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^vouchers-in-group); villages/alternative communities))
 ^

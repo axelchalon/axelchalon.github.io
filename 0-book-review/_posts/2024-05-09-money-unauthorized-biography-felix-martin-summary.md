@@ -22,7 +22,7 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 		- **Property uses the same mechanisms as money.** They rely entirely on people (repeatedly) affirming its validity. If people reject the model, the whole thing crumbles. Money, just as property, relies on people's arbitrarily agreeing on its validity and sustaining it.
 			* "Money exists not by nature but by convention, and it is in our power to change it and make it useless." (Aristotle)
 	* Holocaust as bureaucracy
-*  Money reduces everything to a single dimension: economic value.
+* <a name="^reducing"></a> Money reduces everything to a single dimension: economic value.
 	* The simplicity of this worldview makes it compelling. Society can be readily organized based on this one criterion.
 	* **Pursuing the wrong things.** **When you switch to a paradigm, you come up with goals or possible "achievements" for that paradigm and pursue them — though they might be completely fickle, because you have the wrong paradigm.**
 		* For example, rich aristocrats in Bologna competing with each other to build the tallest tower in the 13th/14th century; delusions of grandeur (≠ essentialism).

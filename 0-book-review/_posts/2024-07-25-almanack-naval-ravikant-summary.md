@@ -4,6 +4,8 @@ intentions:
  - Book club
  - General advice on life
  - General advice on money/wealth
+aliases:
+  - Naval
 layout: post
 title:  '**"The Almanack of Naval Ravikant"** by Eric Jorgenson (personal notes)'
 date:   2024-07-25 14:13:12 +0200
@@ -32,13 +34,13 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 	* **Build your brand in preparation for the moment when an opportunity will arise.** Create a reputation for yourself.
 - **Be paid for your output, not your input.** What you produce — not how many hours you put in. This lets you focus on results (× [Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %})) rather than "busy-work"; motivates you to be more efficient. "If you do something incredible to move the needle on the business, they have to pay you."
 	- Financial freedom can only be achieved through wealth (passive income — equity, investments, ownership in business), not salaried or wage labour. "Having assets that earn while you sleep."
-- **Develop your special knowledge** — something born out of a personal obsession, that feels like play, and that cannot be directly taught.
-	* Specific knowledge comes from your uniqueness, from being you; "each one is the best at being themselves."
+- <a name="^special-knowledge"></a>**Develop your special knowledge** — something born out of a personal obsession, that feels like play, and that cannot be directly taught.
+	* <a name="^uniqueness"></a>Specific knowledge comes from your uniqueness, from being you; "each one is the best at being themselves."
 		* Everyone has something unique they can offer. Celebrate people's uniqueness, encourage them to be the full expression of themselves (× [All About Love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %})) "You can make people happy just by uniquely expressing yourself on the Internet."
 			* "Most of life is a search of who and what needs you the most." Find your people.
 			* "Escape competition through authenticity."
 		* **Remember what you were good at as a kid, what you did effortlessly** — or things people around you noticed about you.
-	* "When specific knowledge is taught, it's through apprenticeships, not schools." (× Mentorship; Shopclass as Soulcraft)
+	* <a name="^apprenticeships"></a>"When specific knowledge is taught, it's through apprenticeships, not schools." (× Mentorship; [Shop Class as Soulcraft]({% link 0-book-review/_posts/2024-10-23-shop-class-as-soulcraft-summary.md %}))
 	- **Become the best in the world at what you do — redefine what you do until this is true.**
 		- "Productize **yourself**"
 	- **Special knowledge can be formed by building a team — where the combination of skills is the special knowledge.**
@@ -49,7 +51,8 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 ^
 # General life 
 * "Almost all biases or time-saving heuristics. For important decisions, discard memory and identity, and focus on the problem."
-* Be mindful of who you live with, who you surround yourself with and spend time with, and **which company you work for.** **"The single most important thing about a company is the alumni network you're going to build."**
+- Favour choices with short-term pain, by default (they are the ones with the long-term benefits)
+* <a name="^alumni"></a>Be mindful of who you live with, who you surround yourself with and spend time with, and **which company you work for.** **"The single most important thing about a company is the alumni network you're going to build."**
 * You can only make progress and change when you're starting with the truth; when you're being honest with yourself. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^acknowledge))
 * "The greatest superpower is the ability to change yourself." Do not cling to your identity too much.
 * "**You can almost always be both honest and positive** — not blunt"

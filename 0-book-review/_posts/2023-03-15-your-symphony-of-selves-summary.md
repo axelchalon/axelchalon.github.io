@@ -82,7 +82,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 	* Honoring past moments even though the person might be different now.
 * Any one interaction is one of your selves interacting with one of the other's selves. (× [Improvise: letting one's playful self meet another's playful self]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-selves))
 	* Make a deliberate ritual for arriving with somebody and synchronizing selves, for meeting another's specific self from one specific self.
-* Some environments draw out certain of your selves more and can be safe spaces for them.
+* Some environments draw out some of your selves more and can be safe spaces for them.
 	* One person deeply embodying a state can help your self find resonance in it and feel more comfortable coming out.
 	* Hang out with people with whom you are an interesting self.
 * Self-talk, internal talk can be to someone we know, have known or would wish to know.
@@ -110,6 +110,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 # Miscellaneous
 * Pragmatism: that philosophical ideas or theories should be viewed as instruments, not absolute truths, and their validity judged by their practical consequences in our lives.
 * "If you don't know where you're going, any road will take you there."
+- Sending different CVs for different roles, as choosing which identity you wish to present. (× Zeus's transformations for his conquests.)
 ^
 # Quotes
 * Alice: "I must me Mabel after all, and I shall have to go and live in that poky little house and have next to no toys to play with... [...] No, I've made up my mind about it; if I'm Mabel, I'll stay down here! [...] Who am I then? Tell me that first, and then, if I like being that person, I'll come up; if not, I'll stay down here till I'm somebody else." (Who do you want to be?)

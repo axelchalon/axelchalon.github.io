@@ -3,6 +3,8 @@ publish-status: published
 intentions:
  - TTF
  - Personal goal setting
+aliases:
+  - OKR
 layout: post
 title:  '**"Measure What Matters"** by John Doerr (personal notes)'
 date:   2024-02-18 14:13:12 +0200
@@ -66,7 +68,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* Open OKRs prevent wasteful redundancy; prevents different teams from unwittingly doing the same thing.
 	* Open OKRs remove suspicion as to what other people are working on (if on anything at all).
 ^
-# Goal setting
+# <a name="^goal-setting"></a>Goal setting
 * **Goals should be set with "rigor and imagination".**
 * Decisiveness / Clear, structured goal-setting
 	- "If we try to focus on everything, we focus on nothing."

@@ -45,8 +45,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * **only possess what you love**. _are you happy wearing clothes that don't give you pleasure?_
 	* take each item in your hands and ask yourself if it sparks joy
 		* identifying what sparks joy and what doesn't is a skill to hone, a habit to acquire. knowing what you like. _develop the instinct for what really inspires joy_ (in terms of experiences as well!)
-	* choose what to keep and discard the rest. rather than choosing what to discard and keeping the rest. there are often no compelling reasons for discarding things, leading them to accumulate even though they don't bring value to your life.
-	* to live w/ things we do not love or need, is an aberration, is unnatural.
+	* <a name="^inhabit"></a>choose what to keep and discard the rest. rather than choosing what to discard and keeping the rest. there are often no compelling reasons for discarding things, leading them to accumulate even though they don't bring value to your life.
 		* (hence, choose to live in a city that you will truly inhabit, not one that is too big for you and whose offers are lost on you; leave it to someone else instead who will appreciate it more; and cherish the city where you decide to live. the connection between choosing what one truly wants and being able to cherish it.)
 * going through one's possessions is a way of taking stock of one's past and achieving closure. introspection through belongings. every belonging has a unique story personal to you.
 	* **ask yourself whether an item** (or relationship) **has fulfilled its role.** acknowledge the meaning items had in your past, thank them and let them go. "free the souls" and make peace with your past. bring closure.
@@ -71,7 +70,7 @@ _Those are my personal notes on Marie Kondo's book "The Life-Changing Magic of T
 * empty your bag and pockets every day.
 ^
 # cherishing items
-* **cherish what you have**, what you have deliberately decided to keep and have in your custody. decide to keep based on whether you can cherish. use what you have decided to keep. use what you have. own less, cherish more. regularly thank your belongings and express appreciation and gratitude, treat them as being alive.
+* <a name="^cherish"></a>**cherish what you have**, what you have deliberately decided to keep and have in your custody. decide to keep based on whether you can cherish. use what you have decided to keep. use what you have. own less, cherish more. regularly thank your belongings and express appreciation and gratitude, treat them as being alive.
 	* contentment and joy can be achieved by cherishing more.
 	* regularly go through your belongings, even off-season ones.
 	* **make your possessions visible**, give them a spot that honors them, makes them shine. _things stored out of sight are dormant._ dormant items slowly die. you probably do not treasure the things that you forget you own because they are hidden away.

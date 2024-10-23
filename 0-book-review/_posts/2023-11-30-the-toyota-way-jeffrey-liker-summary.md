@@ -89,7 +89,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	- **When using automated systems, you should always know what they are doing under the hood, and be capable of performing their work should circumstances call for it.** This fosters deep knowledge of the processes.
 	* Technology should support and assist people and processes; be subservient to them, and not the other way around.
 	* <a name="^people-are-the-most-flexible-resource"></a>Be conservative in favouring machines over humans: **"People are the most flexible resource you have. Automation is a fixed investment."**
-		* **"People, not computers, can continually improve processes."**
+		* <a name="^99bbdd"></a>**"People, not computers, can continually improve processes."**
 			* View (floor) workers not as replaceable machines but as intelligent agents, able to identify, understand and solve problems on the spot.
 		* People processes are easier to kaizen than machines.
 		* You can redeploy people to work on other tasks; you cannot do so with machines.
