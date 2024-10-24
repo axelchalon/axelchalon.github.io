@@ -27,7 +27,7 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 	* e.g. Sartre's general rule of thumb of taking the side of the most oppressed in any one situation. (What if two groups are unfavoured, with incompatible claims?)
 	* e.g. "Do good onto others..." (Christianity): what when we have to decide between two parties to do good to?
 ^
-* Phenomenology is a deeply humanist philosophy, as it is entirely concerned with individuals' own direct subjective experience — beyond (or ahead of) (even their own) lenses, paradigms and interpretations ("époché" — suspension (of habits of minds)). Phenomenology focusses on the reality of each and every one's experience. (× Interpersonal meditation; authentic relating; circling; radical honesty)
+* [Phenomenology](https://www.youtube.com/watch?v=f-T6h-RqnCA) is a deeply humanist philosophy, as it is entirely concerned with individuals' own direct subjective experience — beyond (or ahead of) (even their own) lenses, paradigms and interpretations ("époché" — suspension (of habits of minds)). Phenomenology focusses on the reality of each and every one's experience. (× Interpersonal meditation; authentic relating; circling; radical honesty)
 	* **Each person is a treasure guard**; a guard of their own experience, treasures.
 		* (The counterpoint: others' consciousnesses are inaccessible and we are helpless objects in their face (Sartre, [The Look]({% link 0-book-review/_posts/2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md %}#^the-look)))
 - **The mind as stage for beautiful things.** "A clearing in the forest, where things can bask for a moment." (post-Kehre Heidegger)
