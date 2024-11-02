@@ -59,7 +59,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * Fully develop & integrate each self.
 	* Do not try to suppress a self. Give each self its moment, however small.
 	* Trying to be a single "self"/person the whole time, does not work and will be a source of frustration.
-	* **"More roles better played"**
+	* <a name="^more-roles-better-played"></a>**"More roles better played"**
 	* Splitting-off of selves happen as a result of stressful experiences
 		 * Bring back memories and events, integrate them.
 			* Some memories are only accessible through certain selves
