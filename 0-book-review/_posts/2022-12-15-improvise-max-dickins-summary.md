@@ -27,7 +27,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	 * **Improvisation is a flow state**, where the rest of the world disappears and everything else is suspended.
 	 * **Improvisation is an opportunity to step into a different self or character**
 		* **Playing a role knowing you're playing a role.** Temporarily suppose that you're a character and act the way that character would act. *Instead, for me to convincingly play a milkman, I just need to temporarily suppose that I am one. I simply act as if it were true that I am indeed a milkman. So, I ask myself: What would I do, think and feel in this situation if I were, in fact, a milkman?*
-* <a name="^play-selves"></a>Improvisation is a mode of encounter; you can meet the "play" part of another person with your own "play" part.
+* <a name="^play-selves"></a>Improvisation is a mode of encounter; you can meet the "play" part of another person with your own "play" part. (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^self-to-self)
 * Improvisation has its own community.
 	* The culture of improv is very inclusive and celebrates the individuality of each person.
 ^
@@ -216,4 +216,4 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Feedback is difficult to get. Encourage getting feedback by:
 		* **Proactively seeking it out; asking for feedback.**
 		* Responding positively to feedback.
-	* See feedback as a gift.
+	* **See feedback as a gift.**

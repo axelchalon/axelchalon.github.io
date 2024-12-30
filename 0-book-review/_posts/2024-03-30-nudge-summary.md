@@ -38,7 +38,7 @@ date: 2024-03-30 14:13:12 +0200
 		* People are action-averse and will typically stick to past choices — which can work against them.
 			* Herein lies the sneakiness and effectiveness of opt-out schemes.
 * **To encourage a certain behaviour, make it easy.** Make the action steps concrete. Make it fun.
-	* "And if you dont' know what fun is, then you are not having enough of it."
+	* "And if you don't know what fun is, then you are not having enough of it."
 		* ✝
 * And its counterpart: **to discourage a behaviour, make it hard.**
 	* Piggy banks are an example of error-proofing ([The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^errors); [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^error-proofing)) ([Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)); making it difficult to do the consequential action
@@ -59,6 +59,7 @@ date: 2024-03-30 14:13:12 +0200
 	* We pick up cues from our environment (on what is (seemingly) deemed best to do) (social influence)
 	* We do not want to face the disapproval of others (peer pressure)
 	* **Leverage conformity with (imposed) self-image / Imposed self-confomity**: "Are you ok? You're never late!" ("Oh, that's true, I'm the kind of person who's never late...")
+	- Belgian busses: "96 of 100 people let others step out before they step in. It's almost perfect."
 * **Leverage identity conscience** For example, the "Proud to be Texan" / "Don't mess with Texas" anti-littering campaign
 	* Combining identity conscience and social influence: "Montanans always wear masks"
 * <a name="^create-clubs"></a>**Create clubs.** Agree on measures to take together and on "in-group" privileges, in order to tackle problems that need global synchronized action (e.g. climate change).

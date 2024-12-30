@@ -23,7 +23,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 	* <a name="^in-the-world-not-of-it"></a>"Being in the world, but not of it." (Bible)
 	* "If you want to be in front of the people, you must, in your actions, put yourself behind them. [...] Because he does not contend with others, there is no one in the world who is able to contend with him." "By putting themselves below, they end up on top."
 	* "The sage has the outward physical appearance of a human being but lacks the human essence (vices). Because he looks like a human, he flocks together with other people. Lacking the human essence, though, he does not allow right and wrong to get to him."
-	* Doing the opposite (e.g. the opposite of effort; or of what the other person is doing; interpersonally). Giving way in martial arts such that your adversary has nothing to push against. Wrong-footing.
+	* <a name="^do-the-opposite"></a>Doing the opposite (e.g. the opposite of effort; or of what the other person is doing; interpersonally). Giving way in martial arts such that your adversary has nothing to push against. Wrong-footing.
 	* "The goal of the Zhuangzian sage is to empty his boat, so he can collide with others without arousing any animosity."
 * Trying & Not Trying: both work, and it's about switching back and forth.
 * Remaining relaxed and realizing it's no big stakes.

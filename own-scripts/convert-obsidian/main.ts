@@ -61,7 +61,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2024-10-23-shop-class-as-soulcraft-summary.md",
   
   "The Almanack of Naval Ravikant":
-    "2024-07-25-almanack-naval-ravikant-summary.md"
+    "2024-07-25-almanack-naval-ravikant-summary.md",
+
+  "The Art of Gathering":
+    "2024-12-30-priya-parker-art-of-gathering-summary.md"
 };
 
 

@@ -33,7 +33,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 			* Through thinking differently, we also behave differently — and the results are also drastically different.
 			* **Hypnosis is our default state of being:** **"People are hypnotized by their own self-image."** "Clients visit me hoping that I will put them in a trance and fix their lives. In fact many of them live in a trance and need a dose of reality."
 		* Dreams are another example of behaving without questioning your beliefs. **Life is analogous to a dream, with the difference that you can program it, you can program your beliefs.**
-	* Our behaviour in the world derives from how we view it. The brain's reaction to the environment is the brain's reaction to what it says the environment is; not to the environment itself, but to the brain's interpretation of the environment, to the brain's "made-up" environment. The brain tells us, declares on what the environment is; then that same brain reacts to it. **You decide how you view and construe your environment, what you make it to be.**
+	* Our behaviour in the world derives from how we view it. The brain's reaction to the environment is the brain's reaction to what it says the environment is; not to the environment itself, but to the brain's interpretation of the environment, to the brain's "made-up" environment. The brain tells us, declares on what the environment is; then that same brain reacts to it. **You decide how you view and construe your environment, what you make it to be.** (× Subjective reality, Steve Pavlina)
 		* Your expectation model of reality illustrates this perfectly. When something happens that doesn't match what you were expecting, you are being made aware that your mental model of reality differs from the actual reality, and that you were holding false beliefs — and with this all of the mental limitations it imposes.
 			* You can identify beliefs about yourself and reveal your self-image with sentences such as "I am the kind of person who...", "who doesn't..."
 			* People can point things out to you about yourself and in doing so make you more aware of yourself. You can become aware of aspects of your self-image that way and subsequently decide to alter them.
@@ -51,7 +51,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 ^
 # Reprogramming, visualisation
 * <a name="^psychoanalyse"></a>**You don't have to psycho-analyze yourself to fix your problems.** You can modify your self-image without going through an examination of your past. Understanding the origins of your current self-image is not necessary to alter it. **You can instead be result-focussed, action-focussed, proactive instead of overly introspective.**
-* Imagination is what lets you create goals. **Have visions.** Set yourself a goal, modify your self-image as necessary, and let your subconscious do the rest. You're harnessing the same internal goal-reaching mechanism used for innate goals such as survival and procreation; except you're using it to reach other goals you've decided on.
+* <a name="^envision"></a>Imagination is what lets you create goals. **Have visions.** Set yourself a goal, modify your self-image as necessary, and let your subconscious do the rest. You're harnessing the same internal goal-reaching mechanism used for innate goals such as survival and procreation; except you're using it to reach other goals you've decided on.
 	* "Imagination sets the goal picture that our automatic mechanism works on."
 		 * Think in terms of and visualise your end result; start from there, and the means will take care of themselves..
 			* You do not have to micromanage your automatic success mechanism. Set your mind on a goal, adjust your self-image accordingly and your behaviour will take care of itself.
@@ -83,7 +83,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * <a name="^unproductive-resentment"></a>Unproductive resentment: **To be resentful is to deny responsibility and proactiveness. Resentment is martyrdom, an "attempt to make our own failure palatable by explaining it in terms of unfair treatment, injustice", trying to prove this unfairness to the "court of life" and expecting the damage to be paid back if we manage to make our point.** (Etymologically, to 'resent' is to "feel again", to rehash.) Resentment is living in the past; it is resistance and non-acceptance of something that has happened. Instead, you want to acknowledge it, take the matter into your own hands and take action.
 * **"Acting out new action patterns is no more difficult than "deciding", then following through."**
 	* Untangle facts from beliefs. Then get proactive.
-		 * Insanity is doing the same thing but expecting different results. If it's not yielding results, change it.
+		 * **Insanity is doing the same thing but expecting different results.** If it's not yielding results, change it.
 	* Make decisions, then stop worrying about them.
 		* "You can always correct a poor decision, but if you do nothing, you can never get the time back."
 			* If you are standing still, you cannot correct your course, you cannot gather feedback.
@@ -93,7 +93,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	- Confidence comes from experiencing success.
 		* Self-confidence is "positive worrying"; already rejoicing and being excited at what's about to happen.
 * Catch yourself early on when on unproductive tracks and reprogram yourself. When you get into the habit of interrupting unhelpful patterns of thought or behaviour early on, over time your subconscious will not bother dredging them up anymore as it will know the patterns will be interrupted.
-	* Don't concentrate on the negatives when they arrive; instead, replace them with something positive, wholesome, constructive. Don't let the house be vacant (sweeping your mind clean of a demon will let seven new ones in; instead, overcome and replace the evil with good.)
+	* Don't concentrate on the negatives when they arrive; instead, replace them with something positive, wholesome, constructive. Don't let the house be vacant (sweeping your mind clean of a demon will let seven new ones in; instead, overcome and replace the evil with good.) (Matthew 12:43-45)
 * Have a mental resting place (conjured up visually or aurally, for example with music) that you can go to, when your nervous system needs a rest or a reset. If necessary, use this reset before starting a new program.
 * Having a mental realignment routine or ritual prior to a certain activity lets you show up to it with consistency and intention.
 * Mental states are the soil in which thoughts and ideas grow.

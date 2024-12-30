@@ -56,7 +56,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 ^
 * **When all else fails, standardize.** If no good design solution can be found to make a product intuitive to use, standardize.
 	* <a name="^standardize-to-learn-once"></a>**Design everything the same way, so people only have to learn once.** Standardization makes skills transferrable across products.
-* **The legacy problem: after widespread acceptance, a standard is difficult to change, however inefficient or inelegant it is**, even when the design was made to address issues now irrelevant.
+* <a name="^legacy-problem"></a>**The legacy problem: after widespread acceptance, a standard is difficult to change, however inefficient or inelegant it is**, even when the design was made to address issues now irrelevant.
 * **Mixed systems are confusing to everyone.** "if there is to be a change, everybody has to change."
 ^
 * "Design is a powerful equalizing tool: all that is needed is observation, creativity and hard work — anyone can do it."

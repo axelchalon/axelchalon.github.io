@@ -80,7 +80,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 	* You can find the gold (e.g. the deeply human) in any one person.
 * Selves are changing. Appreciate and acknowledge people's past selves.
 	* Honoring past moments even though the person might be different now.
-* Any one interaction is one of your selves interacting with one of the other's selves. (× [Improvise: letting one's playful self meet another's playful self]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-selves))
+* <a name="^self-to-self"></a>Any one interaction is one of your selves interacting with one of the other's selves. (× [Improvise: letting one's playful self meet another's playful self]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-selves))
 	* Make a deliberate ritual for arriving with somebody and synchronizing selves, for meeting another's specific self from one specific self.
 * Some environments draw out some of your selves more and can be safe spaces for them.
 	* One person deeply embodying a state can help your self find resonance in it and feel more comfortable coming out.
