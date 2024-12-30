@@ -20,7 +20,7 @@ date:   2024-12-30 11:10:09 +0200
 	- Go beyond templates & tradition (× [legacy problem]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^legacy-problem); Conflict Communication). **Make the gathering unique.**
 	* If co-hosting, align clearly on the purpose.
 - Name well and in alignment with your purpose. Invent a name to remove associations & connotations.
-- **Format a gathering of friends as a gathering of strangers** to discover new facets of your friends and und unearth stories.
+- **Format a gathering of friends as a gathering of strangers** to discover new facets of your friends and unearth stories.
 ^
 # Logistics
 - **All logistical decisions should follow from the gathering's purpose.**
