@@ -7,7 +7,7 @@ date:   2025-03-03 03:02:01 +0200
 ^
 *A delightful, informative and insightful exposé on female pleasure – from soup to nuts.*
 ^
-*Here's my summary of Emily Nagoski's Come As You Are – that one was a long time coming.*
+*Here's my summary of Emily Nagoski's* Come As You Are *– that one was a long time coming.*
 ^
 * **Metaphor of [the garden](https://youtube.com/watch?v=GGLXlrwf0rk):** you have a plot of land with unique [soil](https://youtube.com/playlist?list=OLAK5uy_n9bums7wOPiKOPpa7eZGJCdXNNypnathU), and [plants](https://youtube.com/watch?v=NUo9VUuVOsw) grown for you by your family and culture. Some are good, some are not so great. You can unroot the bad ones, plant new ones.
 ^
