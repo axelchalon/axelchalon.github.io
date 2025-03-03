@@ -239,7 +239,7 @@ date: 2024-03-29 14:13:12 +0200
 	* Sugarcane was the deadliest of crops — with hordes of slaves dying — all of this for the enjoyment of the aristocracy and population of England.
 ^
 # That Pink Floyd album
-* Medieval pigs were valued for transforming resources (fodder into human-consumable proteins) and being a store (of redeemable proteins).
+* Medieval pigs were valued both for being a store (of redeemable proteins) and a processor ( transforming resources – fodder into human-consumable proteins).
 	* In a way, pigs were playing a part (middleman) in the value chain of fodder-to-human-proteins.
 		 * Pigs as fodder refiners.
 	* **Pigs were data analysts.** Pigs were valued for their ability to produce something valuable out of something we humans cannot directly use.
@@ -253,6 +253,7 @@ date: 2024-03-29 14:13:12 +0200
 			* Predators as a (population) regulating mechanism (systems thinking).
 			* Australians introduced a century later a pathogen uniquely lethal to rabbits (the myxoma virus), in an attempt to curb their development; successfully killed 99.8% of rabbits, before natural selection of mutations kicked in and made the new generations of rabbits immune to the virus.
 				* **Natural selection of pathogens:** not only did the rabbits become immune, but the virus mutated as well to favour strands that would make for a slower death of a host (and of the virus, allowing it to multiply more effectively) — thereby getting less effective in killing the population over time. (Disease equilibration)
+			- (Counterpoint: Overfishing causing an industry collapse, e.g. herring industry at Siglufjordur)
 	* Too much of one thing damages the other. (× [Every policy...]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^every-policy))
 * **Rescued because of one's value.** (× Linchpin) Camels were rescued from the brink of extinction through domestication because of their value as pack animal, the only way humans could transport freight over long distances in the desert. (× [camel's environmental advantage]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^camel-environmental-advantage))
 - Danes were hogging hogs and making for the lion's share of pork exports — not the most vegan country.

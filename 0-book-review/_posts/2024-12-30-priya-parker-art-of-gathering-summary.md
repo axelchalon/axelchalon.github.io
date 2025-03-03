@@ -20,7 +20,7 @@ date:   2024-12-30 11:10:09 +0200
 	- Go beyond templates & tradition (× [legacy problem]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^legacy-problem); Conflict Communication). **Make the gathering unique.**
 	* If co-hosting, align clearly on the purpose.
 - Name well and in alignment with your purpose. Invent a name to remove associations & connotations.
-- **Format a gathering of friends as a gathering of strangers** to discover new facets of your friends and unearth stories.
+- **Design a gathering of friends as a gathering of strangers** to discover new facets of your friends and unearth stories.
 ^
 # Logistics
 - **All logistical decisions should follow from the gathering's purpose.**
@@ -31,8 +31,7 @@ date:   2024-12-30 11:10:09 +0200
 			* Brainstorm idea: Do the opposite (× [Trying Not to Try]({% link 0-book-review/_posts/2023-04-15-trying-not-to-try-slingerland-summary.md %}#^do-the-opposite)). Think of where your gathering ought not to take place; do it there.
 		* Once there, **design the space.** Rearrange it — it's not fixed.
 			- Let it match the scale of your event.
-				* Density reference (m²/person):
-					* ![Event density reference](https://xaxel.me/assets/artofgathering_density.png)
+				* Density reference (m²/person): ![Event density reference](https://xaxel.me/assets/artofgathering_density.png)
 			* Delineate it & close it. Contain the gathering.
 - **Generous exclusion: exclude to the benefit of your guests.**
 	- **No Bobs.**

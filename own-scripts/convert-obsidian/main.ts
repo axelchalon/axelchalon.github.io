@@ -64,7 +64,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2024-07-25-almanack-naval-ravikant-summary.md",
 
   "The Art of Gathering":
-    "2024-12-30-priya-parker-art-of-gathering-summary.md"
+    "2024-12-30-priya-parker-art-of-gathering-summary.md",
+
+  "Come As You Are":
+    "2025-03-03-emily-nagoski-come-as-you-are-summary.md"
 };
 
 

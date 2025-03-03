@@ -68,7 +68,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 * The visualisation must be in line with your self-image; when they are in conflict, the visualisation won't work.
 * For dramatic results, you want to use **concentrated imagination**, just like sunrays can concentrate on a single point through a magnifying glass.
 * **Follow visualisation with action.** Convert the try. Bring it to real life.
-* Symbolic rituals are a way to communicate with your subconscious and change your beliefs. For example, writing down beliefs you want to get rid of on a piece of paper and then burning it, seeing it burn down to ashes.
+* <a name="^symbolic-rituals"></a>Symbolic rituals are a way to communicate with your subconscious and change your beliefs. For example, writing down beliefs you want to get rid of on a piece of paper and then burning it, seeing it burn down to ashes.
 * You can hypnotize yourself in the moment, imagining that you are speaking to a single person instead of an entire audience, that you are having food at your parents' instead of a fancy luncheon, or that you are already friends with your conversation partner.
 * You can pause and visualise right before an event as well. For example, just before doing an interview, clearing your mind then visualising having a great time there, the audience laughing, and everyone in the team congratulating each other for another great show at the end.
 * You want to let your subconscious do its automatic job and consciously intervene only when **course-correcting** from time to time. You do not adjust when things are going well, you only adjust when things are headed the wrong way. (Negative feedback — the same way guided missiles work.)
