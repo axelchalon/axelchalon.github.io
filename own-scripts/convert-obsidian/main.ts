@@ -67,7 +67,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2024-12-30-priya-parker-art-of-gathering-summary.md",
 
   "Come As You Are":
-    "2025-03-03-emily-nagoski-come-as-you-are-summary.md"
+    "2025-03-03-emily-nagoski-come-as-you-are-summary.md",
+
+  "The Hero With a Thousand Faces":
+    "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md"
 };
 
 

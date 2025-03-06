@@ -20,7 +20,8 @@ const obsidianFileToWebsiteFile = {
     "Shop Class as Soulcraft": "2024-10-23-shop-class-as-soulcraft-summary.md",
     "The Almanack of Naval Ravikant": "2024-07-25-almanack-naval-ravikant-summary.md",
     "The Art of Gathering": "2024-12-30-priya-parker-art-of-gathering-summary.md",
-    "Come As You Are": "2025-03-03-emily-nagoski-come-as-you-are-summary.md"
+    "Come As You Are": "2025-03-03-emily-nagoski-come-as-you-are-summary.md",
+    "The Hero With a Thousand Faces": "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md"
 };
 function obsidianToJekyll(obsidian) {
     var result = obsidian;

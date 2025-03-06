@@ -239,7 +239,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 - Aim for a ratio of 4 team members for 1 team leader, at all levels. (Just like Japanese schoolchildren identify with their small group of four to six students, "han" — cf. "fingers" in XR).
 * Competition is to be valued, and competing organisations can learn from each other; they are a drive for relentless improvement. Foster competition to foster improvement, and for accelerating improvement and progress (generally as a species).
 * Partner up with other businesses.
-* Engineer using set-based design, rather than point-based design: come up with many possible options at first, then narrow them down based on different factors and perspectives (× [Improvise! (brainstorming)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#brainstorming)). This prevents you from having to iterate very many times on a design prematurely decided on.
+* <a name="^brainstorm"></a>Engineer using set-based design, rather than point-based design: come up with many possible options at first, then narrow them down based on different factors and perspectives (× [Improvise! (brainstorming)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#brainstorming)). This prevents you from having to iterate very many times on a design prematurely decided on.
 ^
 # Lean in other domains
 * Information JIT: deliver the right information at the right time in the right amount (e.g. to workers/volunteers: handbook vs. on-site briefing).
