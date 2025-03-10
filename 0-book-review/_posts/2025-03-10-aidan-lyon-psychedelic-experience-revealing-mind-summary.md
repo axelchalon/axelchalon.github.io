@@ -36,7 +36,7 @@ date:   2025-03-10 14:13:12 +0200
 * **The peak of the trip might not be the most psychedelic.** Your experience can shift along the four dimensions throughout the trip; the peak of the trip might be highly novel but very unclear.
 * **The most psychedelic moment might come after the trip.**
 ^
-* **Psychedelic experiences can reveal while simultaneously distorting;** can be psychedelic in some aspects and psychecryptic in others.
+* **Psychedelic experiences can reveal while simultaneously distorting;** can be psychedelic in some aspects and psyche-cryptic in others.
 ^
 # Attention
 * "The attentional system involves **allocating attentional resources** so as to **bring things in and out of our awareness.**" "The parts that receive extra attentional resources either are more likely to appear; or appear more vividly."
@@ -70,7 +70,7 @@ date:   2025-03-10 14:13:12 +0200
 	- Visualizations activities and exercises can also serve as **a practice of focussed-attention meditation.** (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 ^
 # Meditation
-- "A rough characterization of meditation: **"the practice of sitting still, allowing the mind to settle down, and maintaining a stable state of ==clarity== and ==non-reactivity==."**
+- "A rough characterization of meditation: **"the practice of sitting still, allowing the mind to settle down, and maintaining a stable state of <mark>clarity</mark> and <mark>non-reactivity</mark>."**
 ^
 - Two kinds of meditation: **focussed-attention meditation**, and **open-monitoring meditation**
 	- Focussed-attention: direction one's attention to a specific object, e.g. one's breath
@@ -173,9 +173,9 @@ date:   2025-03-10 14:13:12 +0200
 	- deliberate recall (sheer will)
 	- spontaneously, e.g. IAMs
 - Many memories are difficult to retrieve for lack of environmental cues.
-- Diffuse attention (open-monitoring meditation increases the frequency of IAMs (involuntary autobiographical memories — memories about one's own life that appear in awareness spontaneously without attempt to recall them)
-- Memories have to cross a certain relevance threshold before appearing in our awareness — otherwise we would be constantly bombarded with IAMs during normal experience.
-* Psychedelics, by freeing up additional attentional resources, allow for more memories to reach awareness.
+- **Diffuse attention (open-monitoring meditation) increases the frequency of IAMs** (involuntary autobiographical memories — memories about one's own life that appear in awareness spontaneously without attempt to recall them)
+- **Memories have to cross a certain relevance threshold before appearing in our awareness** — otherwise we would be constantly bombarded with IAMs during normal experience.
+* **Psychedelics, by freeing up additional attentional resources, allow for more memories to reach awareness.**
 - **Remembering can be psychedelic** — at two levels: revealing the memory, or what it stands for.
 - **The four dimensions of psychedelic space can apply to memories: novelty, clarity, scope, duration** The (mind-revealing) experience of memory can be mapped onto the psychedelic space.
 - "Prospective memory" (intentionality): what one wants to remember during future tasks
@@ -240,4 +240,4 @@ date:   2025-03-10 14:13:12 +0200
 ^
 - One-sentence paper summary: "Wenk-Sormat 2005 found that 20 minutes of focused-attention meditation reduced habitual responding as measured by performance on the Stroop task and an atypical-word-production task."
 ^
-* **A definition should be: simple, precise, faithful to the original concept, and theoretically fruitful**(criterions for an explication, Carnap 1951)
+* **A definition should be: simple, precise, faithful to the original concept, and theoretically fruitful** (criteria for an explication, Carnap 1951)

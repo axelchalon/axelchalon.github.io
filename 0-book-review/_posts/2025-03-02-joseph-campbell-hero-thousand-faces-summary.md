@@ -69,7 +69,7 @@ date: 2025-03-02 14:13:12 +0200
 		- Minos not killing the bull
 - **Motif: "Pandora's Box: a box filled with both good and bad things."** (× new chapters)
 - **Motif: "Having the opposite effect"**
-	- ==Myth==
+	- <mark>Myth</mark>
 		- Future Buddha: his father was trying ​to lead him to a life as world emperor by spoiling him; it had the opposite effect.
 		- Future Buddha: his father was trying to hide the real world from him (keep him a child), whereas he was ripe for a rite of passage out of childhood.
 			- One cannot hide the world away from somebody. Some things you are bound to see. (× world misery)
