@@ -59,7 +59,7 @@ const obsidianFileToWebsiteFile: pr = {
 
   "Shop Class as Soulcraft":
     "2024-10-23-shop-class-as-soulcraft-summary.md",
-  
+
   "The Almanack of Naval Ravikant":
     "2024-07-25-almanack-naval-ravikant-summary.md",
 
@@ -70,9 +70,13 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-03-03-emily-nagoski-come-as-you-are-summary.md",
 
   "The Hero With a Thousand Faces":
-    "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md"
+    "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md",
+
+  "Psychedelics Revealing":
+    "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md"
 };
 
+const privateNotes = ['Microsolidarity'];
 
 function obsidianToJekyll(obsidian: string) {
   var result = obsidian;
@@ -91,6 +95,11 @@ function obsidianToJekyll(obsidian: string) {
 
     var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g")
     result = result.replace(regex, "[$1]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");
+  });
+
+  privateNotes.forEach(key => {
+    var regex = new RegExp("\\[\\[" + key + "\\]\\]", "g");
+    result = result.replace(regex, '<a>' + key + '</a>');
   });
 
   var unparsedWikilinks = result.match(/\[\[.+\]\]/);

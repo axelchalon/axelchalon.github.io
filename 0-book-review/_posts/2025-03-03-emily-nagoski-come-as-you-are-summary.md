@@ -87,7 +87,7 @@ date:   2025-03-03 03:02:01 +0200
 - Holding space: provide **loving presence**.
 - Self-compassion exercise: **counsel yourself as you would a friend.** (× 7 Habits of Highly Effective People)
 ^
-# Stress, emotions, healing & self-judgment
+# <a name="^emotions-healing"></a>Stress, emotions, healing & self-judgment
 - Stress responses: **fight** (**conquer**), **flight** (**escape**), **freeze** (**facilitate painless death / play dead** when neither fighting nor fleeing would let you survive). **Fight and flight are sympathetic responses, freeze is parasympathetic**.
 	- **All (negative) emotions belong to a category of stress response: fight, flight, or freeze.**
 		- Worry, anxiety, fear, terror: flight.
@@ -101,7 +101,7 @@ date:   2025-03-03 03:02:01 +0200
 	- **Shake and sigh to complete** the stress cycle and reset.
 - **Emotions are cycles to complete**; rollercoasters to descend; tunnels you have to go through to get to the light.
 	- **Emotions want to be experienced and gone through**, naturally do so if you allow them. "Your body knows how to process emotions; you just have to allow it."
-		- Feeling one's way through one's emotions is **counter-intuitive: you have to go there to not be there anymore** (to an extent like fear: stage fright, cold showers).
+		- <a name="^go-there-to-pass"></a>Feeling one's way through one's emotions is **counter-intuitive: you have to go there to not be there anymore** (to an extent like fear: stage fright, cold showers).
 		- **Feel your feels just like you have to pee.** Just find an appropriate place.
 		- Even if a feeling doesn't have a "solution", feeling the feel lets you complete the cycle.
 		- When you trust that feeling your feels will let you go over them, being in emotionally uncomfortable places stops being scary.

@@ -21,8 +21,10 @@ const obsidianFileToWebsiteFile = {
     "The Almanack of Naval Ravikant": "2024-07-25-almanack-naval-ravikant-summary.md",
     "The Art of Gathering": "2024-12-30-priya-parker-art-of-gathering-summary.md",
     "Come As You Are": "2025-03-03-emily-nagoski-come-as-you-are-summary.md",
-    "The Hero With a Thousand Faces": "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md"
+    "The Hero With a Thousand Faces": "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md",
+    "Psychedelics Revealing": "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md"
 };
+const privateNotes = ['Microsolidarity'];
 function obsidianToJekyll(obsidian) {
     var result = obsidian;
     // (Add ^ at the end of h1s etc. in the source file instead) result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');
@@ -37,6 +39,10 @@ function obsidianToJekyll(obsidian) {
         result = result.replace(regex, "[$2]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %}$1)");
         var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g");
         result = result.replace(regex, "[$1]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");
+    });
+    privateNotes.forEach(key => {
+        var regex = new RegExp("\\[\\[" + key + "\\]\\]", "g");
+        result = result.replace(regex, '<a>' + key + '</a>');
     });
     var unparsedWikilinks = result.match(/\[\[.+\]\]/);
     if (unparsedWikilinks !== null) {

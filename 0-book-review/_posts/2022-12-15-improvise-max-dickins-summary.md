@@ -157,7 +157,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * On aliveness
 	* _"I felt alive. Of course, I'd been alive before the improv class too, ­biologically speaking. But it turns out I wasn't really, not in the sense that makes you want to dance, do shots and look up in awe at the bright full moon. [...] I had a giddy optimism that was so unusual it was actually making me feel self-conscious. I couldn't wait to go back the next week and do another class. That presence, that connection with others, that spontaneity: it was addictive. It's like that feeling when you're in a long-term relationship that hasn't really worked for a while, but you think you still love them anyway, and then you accidentally happen to meet someone else and realise you don't love your partner at all, because *this* is what love is and how did you ever forget?"_
 ^
-# Fear
+# <a name="^fear"></a>Fear
 * Fear
 	* Follow the fear. Admit that you are feeling it, and follow it.
 		 * Fear shows us our attachment, for example to safety. Following the fear can thus be transformative.

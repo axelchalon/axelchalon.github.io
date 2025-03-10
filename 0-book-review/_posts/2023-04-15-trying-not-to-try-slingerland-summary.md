@@ -31,7 +31,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 ^
 # Spontaneity and authenticity, heartfulness
 * × Don't second-guess yourself; spontaneity in improvisation.
-* Effortless and unselfconscious behaviour acts like a window into our true character.
+* <a name="^spontaneity-hard-to-fake"></a>Effortless and unselfconscious behaviour acts like a window into our true character.
 	* Spontaneous behaviour is hard to fake, indicates that your behaviour is not precalculated, but that it is authentic and that you are being transparent. When acting spontaneously, people know you are being authentic, and automatically trust you.
 	* Meet somebody with their guards down in order to meet their real self, their selves without their cognitive control, "having relaxed into hot cognition". In Chinese business banquets, "getting drunk is an act of mental disarmament".
 		* Alcohol suppresses the conscious mind and allows for more uninhibited (and open-hearted) exchanges.
