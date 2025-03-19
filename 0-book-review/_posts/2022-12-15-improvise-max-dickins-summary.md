@@ -38,11 +38,11 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 ^
 # Principles of improvisation
 * Trust
-	* Assume that your fellow players have good intentions. **Feel safe.**
-	* Create a culture of safety.
-		* **Encourage people to take risks and respond positively to it.** ("Permission slip.")
-		* Before shows, improvisers go around every player on the team, look them in the eyes, pat them on the back and say: "I've got your back."
-			* In improvisation, you take risks knowing that you'll be supported by your fellow players. "If you do something weird, I'll do something weirder."
+	* **Assume good intentions.** Assume that your fellow players have good intentions. **Feel safe.**
+	* <a name="^culture"></a>Create a culture of safety.
+		* **Permission slip: Encourage people to take risks and respond positively to it.**
+		* **"I've got your back."** Before shows, improvisers go around every player on the team, look them in the eyes, pat them on the back and say: "I've got your back."
+			* **"If you do something weird, I'll do something weirder."** In improvisation, you take risks knowing that you'll be supported by your fellow players.
 * Authenticity
 	* **Do not plan.** Do not have a script.
 * Listening
@@ -65,12 +65,12 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Focus on a game to trick your mind out of its habits. Free yourself from the mind and its habits.
 	* Exploration is a happy consequence of play.
 		* Use play to come up with creative solutions.
-* Assertiveness and commitment
+* <a name="^bold-clear-decisions"></a>Assertiveness and commitment
 	* **Own your decisions, don't back-track, be clear and assertive with your choices, execute them clearly. Be direct and clear.** Have a clear behaviour, don't second-guess yourself. "Express clearly. Too often we communicate in subtext and are disappointed or irritated when we aren't understood."
 	* **Make bold choices before you are ready. Get ready after.** *When I look back at my life so far, all the things that have given me the most meaning have arisen from making bold choices before I was ready. [...] I could easily have said "Yes, but I've just come out of a long-term relationship."*
 	* **Make choices, or the scene dies.** The only bad choice is no choice.
 	* **You have to risk making bad choices in order to get the good ones**
-			* **The more you make clear choices, the more experience you gain.**
+		* **The more you make clear choices, the more experience you gain.**
 	* Principles of assertiveness
 		 * **LEADERSHIP. INITIATE THINGS.** (Leader (having the vision, initiating) vs Manager (executing, making the plan work))
 		* **STEP IN.** Don't ask for permission to speak. Step in clearly.

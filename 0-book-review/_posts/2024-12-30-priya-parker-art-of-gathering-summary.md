@@ -108,5 +108,5 @@ date:   2024-12-30 11:10:09 +0200
 - **Export the formats that work.** mp4 is safe for YouTube.
 ^
 # Post-Notes
-- Gatherings are intentionality applied to hangouts.
+- **Gatherings are intentional hangouts.**
 * "One woman shared her mother's words on her deathbed: "I spent 90 percent of my time worrying about things that didn't matter. Don't do that.""

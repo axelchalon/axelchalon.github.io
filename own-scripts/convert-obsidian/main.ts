@@ -73,7 +73,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md",
 
   "Psychedelics Revealing":
-    "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md"
+    "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md",
+
+  "To The Actor":
+    "2025-03-18-michael-chekhov-to-the-actor-summary.md"
 };
 
 const privateNotes = ['Microsolidarity'];

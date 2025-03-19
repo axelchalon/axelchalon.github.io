@@ -38,7 +38,7 @@ date:   2025-03-10 14:13:12 +0200
 ^
 * **Psychedelic experiences can reveal while simultaneously distorting;** can be psychedelic in some aspects and psyche-cryptic in others.
 ^
-# Attention
+# <a name="^attention"></a>Attention
 * "The attentional system involves **allocating attentional resources** so as to **bring things in and out of our awareness.**" "The parts that receive extra attentional resources either are more likely to appear; or appear more vividly."
 	* **Attention as a zoom-lens spotlight**: you can direct it and increase its scope, at the cost of definition. (Eriksen and Yeh 1985)
 	* **Attention a spotlight with adjustable gradient**: continuous transition between focus and periphery, more or less abrupt based on task (e.g. relaxed attention, focussed attention) (Gradient model)
@@ -64,9 +64,9 @@ date:   2025-03-10 14:13:12 +0200
 	- **Meditation and psychedelics can work synergistically**, e.g. with meditation increasing the clarity and duration of the insights.
 * **ADHD is a surplus of attentional resources – making them more difficult to control.** Surplus of resources, resulting deficit of control. It can however be harnessed productively. (Hallowell and Ratey 2021)
 ^
-- **Attention to a resource develops it.** Direct your attention to a sense/medium to increase your aptitude at it. "The brain has latent resources that can be consciously activated by focusing attention on them." (× Presence is a gift; healing people by providing them with attention; WishWellVillage)
+- <a name="^attention-to-a-medium"></a>**Attention to a resource develops it.** Direct your attention to a sense/medium to increase your aptitude at it. "The brain has latent resources that can be consciously activated by focusing attention on them." (× Presence is a gift; healing people by providing them with attention; WishWellVillage)
 	- **Deity meditation helping with spatial tasks:** "They found that 20 minutes of deity meditation — which is a form of focused-attention meditation that directs attention to an internally generated image of a deity — increased performance in image-maintenance and spatial tasks for experienced meditators."
-	- E.g. imagining music to develop auditory skills; practicing away from the instrument; visualizations ([Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})); exercising one's sense of atmosphere, feeling to better embody it (× Chekhov) (sixth sense).
+	- E.g. imagining music to develop auditory skills; practicing away from the instrument; visualizations ([Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})); exercising one's sense of atmosphere, feeling to better embody it (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %})) (sixth sense).
 	- Visualizations activities and exercises can also serve as **a practice of focussed-attention meditation.** (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 ^
 # Meditation
@@ -108,7 +108,7 @@ date:   2025-03-10 14:13:12 +0200
 	- (Also: not getting bogged down by theory, models, beliefs)
 ^
 # Psychedelics
-- **"Unspecific amplifiers (of the mind)"**
+- <a name="^unspecific-amplifiers"></a>**"Unspecific amplifiers (of the mind)"**
 	- "\[Psychedelics\] function as unspecific amplifiers that increase the **cathexis (energetic charge)** associated with the deep unconscious contents of the psyche and make them available for conscious processing." (Grof 2009)
 		- **Psychedelics bring more of the subconscious to awareness.**
 		- **Psychedelics help in psychotherapy** by bringing more of the subconscious to awareness.
@@ -165,7 +165,7 @@ date:   2025-03-10 14:13:12 +0200
 - **"Psychedelics can provide new and valuable "raw material" to work with during meditation**"
 - Two ways to increase the mindfulness of a psychedelic trip: **1) by being mindful; 2) by having a trip-sitter, an external "mindful mind"**
 ^
-# Memories
+# <a name="^memories"></a>Memories
 * **"Not forgotten, just inaccessible"** "Always available, just inaccessible (dormant)" — just like wisdom (× Meno, anamnesis)
 * **Many dormant memories.** "Many of our memories are lying dormant, never active enough to reach awareness spontaneously, never deliberately retrieved, and never activated by environmental cues"
 - Ways a memory can appear:
@@ -207,7 +207,7 @@ date:   2025-03-10 14:13:12 +0200
 - **Self-intimacy** (groundedness; staying in touch with one's own (sacred) self; awareness of breath) "Unless we turn the light within to illuminate the self, how can we hold close the jewel when we are lost in the outlying countryside?" (Eihei Dogen 1200)
 ^
 # Mystical experiences
-- **Returning to one's real self, the non-ego; not the "false self".** "Buddhist philosophy tells us that man must return to his own real self, namely to non-ego. He must awaken to the fact that the self he normally considers to be his self or ego is a false self, full of ignorance and subject to suffering. He must get rid of this false self and see his real self. This real self is the Buddha-nature within every man."
+- <a name="^real-self"></a>**Returning to one's real self, the non-ego; not the "false self".** "Buddhist philosophy tells us that man must return to his own real self, namely to non-ego. He must awaken to the fact that the self he normally considers to be his self or ego is a false self, full of ignorance and subject to suffering. He must get rid of this false self and see his real self. This real self is the Buddha-nature within every man."
 	- **Awakening as remembering.**
 		- "As here we find in trances, men / Forget the dream that happens then, / Until they fall in trance again" "a condition that 'cannot be formally remembered, but remains informal, forgotten until we return to it'"
 		* "They forgot the sacred objects they had seen before" (× Meno, anamnesis)
@@ -236,7 +236,7 @@ date:   2025-03-10 14:13:12 +0200
 ^
 * Alternative & higher states of consciousness: "**We may go through life without suspecting their existence.**" (sleepwalking). "How long can you keep on living until you realize you're not living?"
 	* **Most of us spend most of our lives only in a single state of consciousness.** "Our normal waking consciousness, rational consciousness as we call it, is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different." (William James, Varieties of Religious Experiences)
-		* **States of consciousness are parallel, not created.** ("shifting") "Separated by a film" ; "revealed" (not created or transformed — it was already there all along.)
+		* <a name="^parallel-not-created"></a>**States of consciousness are parallel, not created.** ("shifting") "Separated by a film" ; "revealed" (not created or transformed — it was already there all along.)
 ^
 - One-sentence paper summary: "Wenk-Sormat 2005 found that 20 minutes of focused-attention meditation reduced habitual responding as measured by performance on the Stroop task and an atypical-word-production task."
 ^

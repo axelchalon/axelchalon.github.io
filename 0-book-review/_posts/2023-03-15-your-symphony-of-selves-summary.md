@@ -23,7 +23,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 	* Your selves are your potentialities.
 	* No one self knows it all.
 * We can group and categorize selves in a myriad different ways. (e.g. selves as feelings)
-* **Stage time.** Your selves have had varying amounts of "stage time"/"life time", life experience.
+* <a name="^stage-time"></a>**Stage time.** Your selves have had varying amounts of "stage time"/"life time", life experience.
 	* You do not have to consider your self that has had the most "stage time" as your "real self".
 	* Each self has its own memories and life.
 * Selves get created in your formative years; from the people you hang out with; from experiences where a different part of us is being called to respond.

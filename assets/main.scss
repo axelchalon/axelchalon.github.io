@@ -45,3 +45,7 @@ blockquote {
 mark {
     background: rgba(255, 208, 0, 0.4);
 }
+
+:has(>:target) {
+    background: rgba(255,255,0,0.3);
+}

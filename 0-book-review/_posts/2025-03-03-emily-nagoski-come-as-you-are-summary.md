@@ -56,7 +56,7 @@ date:   2025-03-03 03:02:01 +0200
 - **Curiosity needs a relaxed environment.** Curiosity is an incentive-based activity. Curiosity is subordinate to survival and as such requires a stress-free context. Absence of stress allows for exploration and curiosity whereas presence of stress call for a safe and familiar environment (reduced "capacity" for new things).
 - **Sex is not like hunger; sex is like curiosity.** Sex is not a drive like hunger, satisfying a need; it's an incentive-based activity, like curiosity. (Also bi-curious sounds less bad than bi-hungry)
 	- "Your partner is not an animal to be hunted for sustenance but **a secret keeper whose hidden depths are infinite**. **Sexual boredom can happen only if you're no longer curious.**"
-- **Food is both a need and an incentive-based activity** – explains wanting delicious food despite being satiated. Making the necessary pleasant (cooking, kitchens; improvising around the necessities, × Chekhov, hospitality).
+- **Food is both a need and an incentive-based activity** – explains wanting delicious food despite being satiated. Making the necessary pleasant (cooking, kitchens; improvising around the necessities, × [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^improvise-around-necessities), hospitality).
 ^
 # Relationship tips
 - **Flipping roles [like burgers](https://m.youtube.com/watch?v=XFagogEOZz8)**, e.g. in a relationship with a high-desire partner and a low-desire partner: let the low-desire partner go at their pace, do the chasing, create the right context for themselves.
