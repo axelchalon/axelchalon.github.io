@@ -9,7 +9,7 @@ title:  '**"The Creative Act: A Way of Being"** by Rick Rubin (personal notes)'
 date:   2025-03-22 14:13:12 +0200
 ---
 ^
-Here are my 78 bullet points on Rick Rubin's The Creative Act: A Way of Being — a.k.a. the book that misses a nipple.
+Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* — a.k.a. the book that misses a nipple.
 ^
 # Life, art and creativity
 - **We are all creative simply by means of living.** Living, we are constantly creating our reality. Living is a creative act. We exist as creative beings in a creative universe. Life is creation.
