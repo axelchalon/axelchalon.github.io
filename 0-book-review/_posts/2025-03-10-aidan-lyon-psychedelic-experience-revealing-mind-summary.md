@@ -66,7 +66,7 @@ date:   2025-03-10 14:13:12 +0200
 ^
 - <a name="^attention-to-a-medium"></a>**Attention to a resource develops it.** Direct your attention to a sense/medium to increase your aptitude at it. "The brain has latent resources that can be consciously activated by focusing attention on them." (× Presence is a gift; healing people by providing them with attention; WishWellVillage)
 	- **Deity meditation helping with spatial tasks:** "They found that 20 minutes of deity meditation — which is a form of focused-attention meditation that directs attention to an internally generated image of a deity — increased performance in image-maintenance and spatial tasks for experienced meditators."
-	- E.g. imagining music to develop auditory skills; practicing away from the instrument; visualizations ([Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})); exercising one's sense of atmosphere, feeling to better embody it (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %})) (sixth sense).
+	- E.g. imagining music to develop auditory skills; practicing away from the instrument; visualizations ([Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})); exercising one's sense of atmosphere or feeling to better embody it (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %})) (sixth sense).
 	- Visualizations activities and exercises can also serve as **a practice of focussed-attention meditation.** (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 ^
 # Meditation
@@ -158,7 +158,7 @@ date:   2025-03-10 14:13:12 +0200
 * **Different main dimensions in the psychedelic space:**
 	* Psychedelics: high scope & novelty, low clarity & duration
 	* Meditation: low scope & novelty, high clarity & duration
-- **Turning up the music vs turning down the noise**
+- <a name="^turn-up-music-turn-down-noise"></a>**Turning up the music vs turning down the noise**
 	- **Psychedelics turn up everything. Meditation turn down the noise.** Both result in "hearing the music better" (thinking more clearly).
 	- **When meditation and psychedelics are used conjointly, effects compound.**
 - **Psychedelic retreats (with meditation) vs Meditation retreats (aided by psychedelics)**: two different focusses.

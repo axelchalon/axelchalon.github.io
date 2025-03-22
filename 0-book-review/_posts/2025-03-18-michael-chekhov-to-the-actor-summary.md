@@ -15,7 +15,7 @@ My takeaways from Michael Chekhov's "To the Actor: On the Technique of Acting".
 ^
 What a book.
 ^
-- **Art is interpretation,** not copy. (× Creative Being)
+- **Art is interpretation,** not copy. (× [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}))
 	- Artists re-present impressions of the typically unseen or overlooked (e.g. Willy the Salesman: while the audience encounters salesmen like him all the time.) (Artists "bring attention to" — × [Psychedelics Revealing (attention)]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^attention))
 	* The artist's mission is to convey what he sees and feels.
 ^
@@ -41,6 +41,7 @@ What a book.
 	- If we played our characters the whole time, we wouldn't enjoy them.
 	- If we acted out our same kinks the whole time, there wouldn't be room for other explorations or balance.
 	- If we lived forever, life would lose its value.
+	- Pop-up rules in gatherings are accepted and exciting because they are temporary ([The Art of Gathering: Pop-up rules]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^pop-up-rules))
 - **Temporality helps objectify.** Because they are time-bound, it is easier to consider parts (e.g. social experiments) objectively and distinguish them from one's self (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): clear beginning and clear end).
 	- Who is the actor of your life? By not merging, you let yourself play different parts. (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}); [Psychedelics Revealing]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^real-self)). Don't become the character.
 - Plays are a mise-en-abyme. [Life in life.](https://www.youtube.com/watch?v=FhhL2uKh3O0)
@@ -97,8 +98,8 @@ What a book.
 	* **Different tempi for different people** — as well as variations in tempo within one's life. "Everybody goes through life in different tempos. It depends mainly on the temperament and the destiny of a person."
 * **Will, feelings, or thoughts.** Multiple characters can stand for the same thing, but with a different primary trait.
 * **Idiomatic quirks** ("characterizations"): turns of phrases, nervous gestures — the finishing touch.
-* Different people will do the same thing differently, because of their different PGs.
-	* Celebrate uniqueness! (× Bliss Club: "We've each got our own quirks")
+* <a name="^same-thing-differently"></a>Different people will do the same thing differently, because of their different PGs.
+	* Celebrate uniqueness! (× Bliss Club: "We've each got our own quirks"; × [Come As You Are (metaphor of the garden)]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^garden); × [Creative Being (each person a unique channel to a higher wisdom)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^unique-channel); [Creative Being (people and art as so many unique fruits from trees)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^unique-fruits); × [Improvise (superstrengths)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^superstrengths); × [Almanack of Naval Ravikant (specific knowledge, coming from your uniqueness)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^uniqueness); × [A Splendid Exchange (develop your environmental advantage, like the camel)]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^camel-environmental-advantage); [Psycho-Cybernetics (develop your own unique personality and accomplishments)]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^unique-accomplishments))
 - **"It is always you *plus* somebody else."**
 	- You are always "you + a bit of the other person" when interacting with someone.
 	- You speak, move, think differently depending on who you are with.
@@ -130,7 +131,7 @@ What a book.
 - **Inner vs outer action:**
 	- **Inner action:** pauses, silences — though never empty or devoid of purpose. "Empty pauses do not, and should not, exist on the stage. Every pause must have a purpose."
 	- **Outer action:** anything visible
-- **Rhythmical waves give a play life.** They make the performance pulsatingly beautiful, kill its monotony.
+- **Rhythmical waves give life to a play.** They make the performance pulsatingly beautiful, kill its monotony.
 	- e.g. subdued vs loud moments.
 	
 # Atmosphere
@@ -158,7 +159,7 @@ What a book.
 	- **Cultural and artistic progress stems from intangibles.** "To progress culturally, life, and especially the arts, must be permeated with all kinds of intangible powers and qualities."
 	- What will remain is the intangible.
 ^
-- "**Objective method**": having a method helps with consistently providing results.
+- <a name="^objective-method"></a>"**Objective method**": having a method helps with consistently providing results.
 	- "Following the recipe": By simply "following the recipe", you already deliver a good performance. Inspiration can come on top.
 		- (e.g. as a technician: doing one's work well, and then the personality comes on top)
 	- A great performance is the best way to bring back an elusive inspiration: **"A part correctly played has the best chance of luring back an elusive inspiration."** (Nikolayvsky)

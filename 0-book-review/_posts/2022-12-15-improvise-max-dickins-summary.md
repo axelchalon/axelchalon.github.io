@@ -17,10 +17,10 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Improv is a future-proof skill, as it teaches you to adapt however things will turn out.
 * Improvisation principles are a set of beliefs, mindsets, worldview and assumptions that offer an alternative way of interpreting and responding to your surroundings.
 	* For example, the "Trust" principle: trusting that everyone has a good intention.
-* **Improvisation is about creating something out of everything; not out of nothing.**
+* <a name="^out-of-everything"></a>**Improvisation is about creating something out of everything; not out of nothing.**
 	 * Improvisation is about doing the best you can with what is at hand.
 		* This requires you noticing what you actually have, and **what you might ignore you have; or what is already here in the environment** ("Listening".) Be aware of your resources.
-	  * You improvise on something; not on nothing.
+	  * <a name="^2196c4"></a>You improvise on something; not on nothing.
  * Improvisation is a skill that you can train. You can practice improvisation.
  * Improvisation is closely connected to creativity, imagination, play and presence, the present moment.
  * <a name="^improvisation-flow"></a>Improvisation lets you "lose yourself in ..."
@@ -194,7 +194,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		* Analyze your failures using the five Why's.
 	* Success
 		* Notice your successes and double down on them; don't keep on searching for other methods if you've found something that works. In your successes is the recipe for more success.
-			* Superstrengths
+			* <a name="^superstrengths"></a>Superstrengths
 				* List strengths that you have in abundance compared to other people (capabilities, skills, character traits).
 				* Pick your top 3 superstrengths.
 				* Find ways to double down on them.

@@ -236,6 +236,6 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
  * Being an outsider can be a place of creativity and possibility
 ^
 # Quotes
-* "There is a realm of mystery that cannot be explained by human intellect of will. We all experience this mystery in our daily lives in some ways, however small, whether we see ourselves as "spiritual" or not. Often we look at events retrospectively and can trace a pattern, one that allows us to intuitively recognize the presence of an unseen spirit guiding and directing our path."
+* <a name="^big-picture"></a>"There is a realm of mystery that cannot be explained by human intellect of will. We all experience this mystery in our daily lives in some ways, however small, whether we see ourselves as "spiritual" or not. Often we look at events retrospectively and can trace a pattern, one that allows us to intuitively recognize the presence of an unseen spirit guiding and directing our path."
 ^
 *See also my summary of the book [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}) by Vanessa Marin*

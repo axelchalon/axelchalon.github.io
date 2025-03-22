@@ -115,7 +115,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	* Creative people typically require more life force.
 ^
 # Creativity
-* Every individual is unique and incomparable. **Develop your own unique personality and accomplishments.**
+* <a name="^unique-accomplishments"></a>Every individual is unique and incomparable. **Develop your own unique personality and accomplishments.**
 	* People are children of God: unique personalities, creative beings. See people as such.
 	* Every person is a composite of strengths and weaknesses, knowledge and ignorance, experience and naiveté, accomplishment and unrealized potential.
 	* "The penalty on the individual and on the society of an individual not believing in themself is catastrophic." Help everyone realize their potential. Interact with people from that place.

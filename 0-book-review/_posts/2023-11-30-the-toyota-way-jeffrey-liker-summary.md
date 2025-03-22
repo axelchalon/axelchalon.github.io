@@ -162,8 +162,8 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* Standardize the new process if the results were fruitful
 		* (For complex problems: Tackle the next subproblem)
 	* An alternative model would be: identify, explain importance, hypothesis, methods, results, learnings, next step.
-* These experiments, **together with documenting past experiments**, constitute the basis of a learning organisation.
-* **Workers and managers should experiment as frequently as possible.**
+* **Experiments as the basis of a learning organism.** These experiments, **together with documenting past experiments**, constitute the basis of a learning organisation.
+* <a name="^xp"></a>**Workers and managers should experiment as frequently as possible.**
 	* Foster a culture of experimentation and let your coworkers try out their ideas for improvements, methodically.
 * Tackle one problem at a time.
 * Apply root cause analysis to develop a deep understanding of the problem.
@@ -217,7 +217,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* <a name="^dont-lay-off-relocate"></a>**Don't lay off; relocate.** Move your employee to another work cell rather than lay them off: it will be one worker less to train, and their time with Toyota will contribute to the overall culture. (Internal turnover.)
 		* View (floor) workers not as replaceable machines but as intelligent agents, able to identify, understand and solve problems on the spot. "People are the most flexible resource you have."
 	 * Engagement, growth, learning and training happens by giving your people seemingly **impossible challenges** (which, it turns out, are actually possible), and giving them room to fail. Let your people decide on the method to achieve the challenge, give them agency.
-		* "Mr. Ohno could be very critical when he saw something wrong. It was very difficult for some people to take. And often we would work into the evening to solve problems. But then at the end of the day, even at 7pm at night, he would gather us all together and explain why he was critical that day. Everyone, even the junior workers, appreciated that he was trying to teach them. He was interested in developing everyone to their potential."
+		* <a name="^ohno-explain-reasons"></a>"Mr. Ohno could be very critical when he saw something wrong. It was very difficult for some people to take. And often we would work into the evening to solve problems. But then at the end of the day, even at 7pm at night, he would gather us all together and explain why he was critical that day. Everyone, even the junior workers, appreciated that he was trying to teach them. He was interested in developing everyone to their potential."
 	* Leaders should be coaches (× [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#coaching-improvement-learning-feedback)), teaching new ways of thinking; empowering people and removing obstacles; and being models in their behaviour.
 		* "People change their habitual ways of thinking by deliberately practicing new ways, initially with some simple practice routines, aka kata."
 			* The "Mindset ⇆ Behaviour" loop needs to be kick-started by an effortful, intentional initial jolt.

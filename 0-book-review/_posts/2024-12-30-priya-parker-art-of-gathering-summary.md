@@ -58,7 +58,7 @@ date:   2024-12-30 11:10:09 +0200
 	- If you don't lead, somebody else will.
 * **Lead from beginning to end.** If you have to leave, temporarily **delegate your host role.**
 - **Lead by extreme example** — people will do 10% less.
-- **Etiquette excludes, pop-up rules include.**
+- <a name="^pop-up-rules"></a>**Etiquette excludes, pop-up rules include.**
 	* Pop-up rules are a leveller. (× Conflict Communication: tactical teaming).
 	- Use pop-up rules to override etiquette.
 	- People are willing to try things, if it's for a certain time.
@@ -69,7 +69,7 @@ date:   2024-12-30 11:10:09 +0200
 	* **Enforce mercilessly.** You're acting in the benefit of the group.
 		* e.g. set a 60-second timer for introduction rounds and be strict about it.
 		* e.g. interrupt drawn-out "questions" at a Q&A with "Can you put that into a question?"
-		* **Communicate your reasons.** Refer to the purpose when making changes, excluding people, enforcing a rule. Explain that it's not personal, that it's in the interest of the group.
+		* **Communicate your reasons.** Refer to the purpose when making changes, excluding people, enforcing a rule. Explain that it's not personal, that it's in the interest of the group. (× [The Toyota Way: Mr. Ohno]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^ohno-explain-reasons))
 - **Give guests play to decide how deep they want to go.**
 	- Invite, don't force.
 * **Nudge risk with a riskier alternative.** (15 Toasts: "the last person to give a toast has to sing it") (× [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}))
@@ -89,14 +89,14 @@ date:   2024-12-30 11:10:09 +0200
 - Involve if you cannot oppose. (e.g. start a comedy night in a noisy bar by involving the loudmouths) (× [Trying Not to Try]({% link 0-book-review/_posts/2023-04-15-trying-not-to-try-slingerland-summary.md %}#^do-the-opposite); Conflict Communication, tactical teaming)
 ^
 # Opening & Closing
-* **Start with a bang, end with a bang.** (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}))
+* <a name="^bang"></a>**Start with a bang, end with a bang.** (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}))
 	- **People remember the first 5%, the last 5%, and a highlight in between.**
 		* Change spaces throughout to let people remember more events.
 	- Let guests cross a threshold to mark the beginning and to mark the end.
 	* Embody the gathering's purpose in how you start, in how you end. Recall the purpose.
 - **Logistics either second or second-to-last.** Don't start or end on logistics. Don't start or end with thank you's.
 - **Create belonging with your opening ritual.** something that creates commonality within the group. (Adornment, etc.) — × "pop-up rules include".
-* **The event should end, not stop.** Lead the event, don't let it lead you.
+* <a name="^end-not-stop"></a>**The event should end, not stop.** Lead the event, don't let it lead you.
 	- "I pronounce this lab..." — then I clap, an exit line — "closed."
 * **Last Call:** prepare your guests for the ending.
 - **Two steps to a close: introspection & integration.** (Turning inward & turning outward.)

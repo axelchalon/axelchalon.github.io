@@ -32,7 +32,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* <a name="^compliments-as-covert-requests"></a>**Compliments as covert requests**: Compliments can be a way to make covert requests for repeats.
 	* **Create a culture of compliments and appreciation.** By creating a culture of compliments and communicating appreciation, you get to discover what your partner likes. Feedback is essential in getting to know what your partner likes or doesn't like.
 	* Create a culture of dirty talk and of communicating continuously on what you're liking (thinking), of what is turning you on at this very moment physically, mentally or spiritually. Have an open, continuous, spontaneous communication channel, a culture of openness and transparency.
-	* Ask "Do you like X or Y more?" instead of "What do you like/want?" Give options instead of asking an open-ended question.
+	* <a name="^which-do-you-prefer"></a>Ask "Do you like X or Y more?" instead of "What do you like/want?" Give options instead of asking an open-ended question.
 	* An example of turn-on can be visualizing the sex you're going to have with your partner, anticipating it.
 	* Some people first need touch to become aroused.
 	* <a name="^sex-drive-simmer"></a>"The minute you finish having sex is the minute you begin foreplay for the next time."

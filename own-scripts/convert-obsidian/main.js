@@ -23,7 +23,8 @@ const obsidianFileToWebsiteFile = {
     "Come As You Are": "2025-03-03-emily-nagoski-come-as-you-are-summary.md",
     "The Hero With a Thousand Faces": "2025-03-02-joseph-campbell-hero-thousand-faces-summary.md",
     "Psychedelics Revealing": "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md",
-    "To The Actor": "2025-03-18-michael-chekhov-to-the-actor-summary.md"
+    "To The Actor": "2025-03-18-michael-chekhov-to-the-actor-summary.md",
+    "Creative Being": "2025-03-22-creative-act-way-being-rick-rubin-summary.md"
 };
 const privateNotes = ['Microsolidarity'];
 function obsidianToJekyll(obsidian) {
