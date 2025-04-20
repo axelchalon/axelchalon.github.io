@@ -21,7 +21,7 @@ This one goes out to my future employer.
 	- Understand what is important to each other in order to create win-win situations. Understand each other's paradigm; what brings meaning to each other (in the deal to be made, experience to be had.)
 		* **No deal is better than a bad deal.** Compromising is often a lose-lose based on not correctly understanding what is at stake or important for the other person. (Goes both ways.) Prefer no deal to a bad deal (e.g. getting scammed).
 	* **Lopsided perks.** Once you understand your counterpart, you can also offer, or ask for [low-effort, high-value extras]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}#^non-cash-extras).
-	* **Information that changes everything.** Find your counterpart's "black swans" (and your blogger's misnomers): things important and relevant to them, that if you knew, would change everything. "What is really going on." (× ["We're doing this on the surface, but we're really doing something else."]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^any-activity))
+	* <a name="^black-swans"></a>**Information that changes everything.** Find your counterpart's "black swans" (and your blogger's misnomers): things important and relevant to them, that if you knew, would change everything. "What is really going on." (× ["We're doing this on the surface, but we're really doing something else."]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^any-activity))
 		- Job interview: ask "What is important for you?"
 		- Hidden stakeholders: know who calls the shots, involve them in the conversation. (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^stakeholders))
 		- Outliers. Exceptions (people wanting to die, at the negotiation)
@@ -49,7 +49,7 @@ This one goes out to my future employer.
 * Practicing empathy / emotional intelligence: observe somebody and try to put yourself in their shoes. (Also as a way to soak up the energy of somebody.) "If you want to increase your neural resonance skills, take a moment right now and practice. Turn your attention to someone who's talking near you, or watch a person being interviewed on TV. As they talk, imagine that you are that person. Visualize yourself in the position they describe and put in as much detail as you can, as if you were actually there."
 ^
 # General negotiation 🫡
-* **Frame so as to leverage loss aversion,** e.g. use "not lose" instead of "keep"; "I wanted to bring this opportunity to you before I took it to someone else". Communicate that inaction will lead to missing out on something, to losing something.
+* **<mark>Frame so as to leverage loss aversion,</mark>** e.g. use "not lose" instead of "keep"; "I wanted to bring this opportunity to you before I took it to someone else". Communicate that inaction will lead to missing out on something, to losing something.
 * Unreasonable demands from your superior: Repeat their absurd demands (in a neutral, thinking tone) to make them think about them and reconsider them: "I'm sorry, two copies?"
 * **Deadlines make bad decisions.** Deadlines often lead to rushed, bad decisions. **Fake deadlines: Deadlines are often arbitrary** — ask for more time if you need it (to make a good call).
 ^

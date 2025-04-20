@@ -79,7 +79,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-03-18-michael-chekhov-to-the-actor-summary.md",
 
   "Creative Being":
-    "2025-03-22-creative-act-way-being-rick-rubin-summary.md"
+    "2025-03-22-creative-act-way-being-rick-rubin-summary.md",
+
+  "Debt":
+    "2025-04-20-debt-first-5000-years-david-graeber-summary.md"
 };
 
 const privateNotes = ['Microsolidarity'];

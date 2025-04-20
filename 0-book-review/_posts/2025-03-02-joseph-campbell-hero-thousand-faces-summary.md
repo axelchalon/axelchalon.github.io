@@ -64,7 +64,7 @@ date: 2025-03-02 14:13:12 +0200
 * **Motif: "Having a role in one's misfortunes"**(digging one's own grave)
 	* Myth
 		- Minos asked for a bull as sign of his regency; didn't kill it immediately when it arrived as promised. Chaos ensued.
-- **Motif: "Making private profit from a public (divine) position"** (× Debt; corruption; "king" vs "tyrant")
+- **Motif: "Making private profit from a public (divine) position"** (× [Debt]({% link 0-book-review/_posts/2025-04-20-debt-first-5000-years-david-graeber-summary.md %}); corruption; "king" vs "tyrant")
 	- Myth
 		- Minos not killing the bull
 - **Motif: "Pandora's Box: a box filled with both good and bad things."** (× new chapters)

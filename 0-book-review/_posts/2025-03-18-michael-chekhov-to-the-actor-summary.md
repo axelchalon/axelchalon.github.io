@@ -37,7 +37,7 @@ What a book.
 # Acting
 - <a name="^improvise-around-necessities"></a>**Frame acting as first and foremost improvising** (around definite scene constraints — e.g. improvising first between a beginning and an end, and eventually in-between all the written moments of the play). Acting is improvising your way from one "required" moment to the next "required moment" ("the necessities").
 ^
-- **The joy is in the ephemerality.** If it was forever, it wouldn't be fun. The draw of acting and performing is that they are temporary parts.
+- <a name="^joy-ephemerality"></a>**The joy is in the ephemerality.** If it was forever, it wouldn't be fun. The draw of acting and performing is that they are temporary parts.
 	- If we played our characters the whole time, we wouldn't enjoy them.
 	- If we acted out our same kinks the whole time, there wouldn't be room for other explorations or balance.
 	- If we lived forever, life would lose its value.
@@ -65,7 +65,7 @@ What a book.
 * **Each character has their small objectives.**
 * **These objectives all serve the character's superobjective.**
 	* All small objectives first appear random.
-		* "The thing isolated becomes incomprehensible." (Steiner) 
+		* <a name="^isolated"></a>"The thing isolated becomes incomprehensible." (Steiner)
 	* With knowledge of the superobjective, they become coherent.
 - **An objective is a will — doesn't involve emotions or feelings.**
 	* e.g. "I wish to ...; I desire to ...; I want to ..."
@@ -118,7 +118,7 @@ What a book.
 * Every main character is waging a fight in the play, and either wins or loses the battle at the end.
 - **Contrasting ending**: Plays should start one way and end the opposite way — in atmosphere, tempo, and the rest. (Polarity.)
 ^
-* **Two dimensions of repetition:**
+* <a name="^repetition"></a>**Two dimensions of repetition:**
 	* **Repetition in space**, e.g. equally distributed rows of windows, pillars, tiers; or human figures passing evenly across the stage
 	* **Repetition in time**, e.g. encounters between the two same characters in different scenes
 - **Two kinds of repetition:**
@@ -137,7 +137,7 @@ What a book.
 # Atmosphere
 - **With atmosphere, the audience grasps the piece emotionally**, not just intellectually.
 	- Elements contributing to atmosphere: "lights with their shadows and colors; settings with their shapes and forms of compositions; musical and sound effects; grouping of actors, their voices with a variety of timbres, their movements, pauses, changes of tempo, all kinds of rhythmical effects and manner of acting."
-- **Atmosphere glues.** The atmosphere unites the actors as well as the actors with the audience (× [A Paradise Built In Hell]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %}))
+- <a name="^atmosphere-glues"></a>**Atmosphere glues.** The atmosphere unites the actors as well as the actors with the audience (× [A Paradise Built In Hell]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %}))
 - **Atmospheres direct actions**. "The atmosphere *urges* you to act in harmony with it." (e.g. Zart) (× <a href="#^bad-environment-active-force">a bad environment is an active force</a>) (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): designing the space) (× [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %})) (× [A Paradise Built In Hell]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %})) (× [The Life-Changing Magic of Tidying up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})) (× [Improvise (culture of safety; permission slip)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^culture)) (× [The Toyota Way (culture)]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})) 
 ^
 # Types of plays

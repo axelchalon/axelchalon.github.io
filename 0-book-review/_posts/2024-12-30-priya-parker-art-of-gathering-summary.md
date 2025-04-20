@@ -32,6 +32,7 @@ date:   2024-12-30 11:10:09 +0200
 		* Once there, **design the space.** Rearrange it — it's not fixed.
 			- Let it match the scale of your event.
 				* Density reference (m²/person): ![Event density reference](https://xaxel.me/assets/artofgathering_density.png)
+			* Scale down the venue based on attendance. (× ECHNO: reducing rows of chairs to match declining attendance)
 			* Delineate it & close it. Contain the gathering.
 - **Generous exclusion: exclude to the benefit of your guests.**
 	- **No Bobs.**
@@ -59,7 +60,7 @@ date:   2024-12-30 11:10:09 +0200
 * **Lead from beginning to end.** If you have to leave, temporarily **delegate your host role.**
 - **Lead by extreme example** — people will do 10% less.
 - <a name="^pop-up-rules"></a>**Etiquette excludes, pop-up rules include.**
-	* Pop-up rules are a leveller. (× Conflict Communication: tactical teaming).
+	* <a name="^leveller"></a>Pop-up rules are a leveller. (× Conflict Communication: tactical teaming).
 	- Use pop-up rules to override etiquette.
 	- People are willing to try things, if it's for a certain time.
 		- **Gatherings are experiments** — "testing out new ways of being together" (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}), [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^self-to-self))
