@@ -49,19 +49,19 @@ date:   2025-04-26 14:13:12 +0200
 	- Read people with high standards; learn from them.
 		- For the first time in history, we can listen to incredibly smart people explain their thinking, unfiltered, unmediated.
 		- **No perfect role-models:** don't reject an exemplar wholesale because of a character blemish. Take what's to be taken. [No one's perfect.](https://www.youtube.com/watch?v=opbF9Nz_Emg)
-- "No one cares. It's your fault."
+- "No one cares. It's your fault." (Making excuses.)
 - "Not your fault? Still your responsibility."
 ^
 # Pre-mortem
 - **Know what makes you happy.** Self-knowledge.
-- **Pre-mortems:** anticipate all the way things can go wrong and prepare solutions. (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^failure)) Know your weaknesses and plan safeguards around them.
+- **Pre-mortems:** anticipate all the way things can go wrong and prepare solutions. (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^failure); [Come As You Are]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^plan-for-barriers)) Know your weaknesses and plan safeguards around them.
 - **Anticipate general setbacks.** (e.g. war) Prepare how to respond. The hardest setbacks to deal with are the ones we're not prepared for.
 	- **People aren't bad problem solvers; they're bad problem anticipators.**
 - <a name="^margin-of-safety"></a>**Margin of safety: make it 2x.** Make it 2x what you think is already safe. (e.g. emergency fund, etc.) Also for future-proofing: e.g. weight rating of bridges in case future cars are somehow heavier.
 ^
 # Houston
 - **How you define the problem changes what you see.**
-	- What if the issue is elsewhere? ⇒ Identify the underlying problem; go one deeper. (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): culture) (e.g. "How to get more people to adopt dogs?" ⇒ "How can fewer people abandon dogs in the first place?") (× fixing symptoms vs root cause; root cause analysis, five whys). It's sometimes cheaper to fix problems at the source!
+	- What if the issue is [elsewhere](https://imgflip.com/s/meme/Ancient-Aliens.jpg)? ⇒ Identify the underlying problem; go one deeper. (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): culture) (e.g. "How to get more people to adopt dogs?" ⇒ "How can fewer people abandon dogs in the first place?") (× fixing symptoms vs root cause; root cause analysis, five whys). It's sometimes cheaper to fix problems at the source!
 - **Problem-solution firewall: Separate defining the problem from searching for a solution.** Hold a meeting for identifying the problem; and another one for searching for solutions. Make sure everyone agrees on what the problem is before searching for solutions — else people brainstorm solutions to different problems. (× Double-diamond brainstorming model, [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^brainstorm)) (also for personal issues.)
 ^
 - **Address things fast, before inertia settles.** The longer you wait, the more difficult. (talk about things early on; × [Sex Talks: dry spells]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^dry-spells))

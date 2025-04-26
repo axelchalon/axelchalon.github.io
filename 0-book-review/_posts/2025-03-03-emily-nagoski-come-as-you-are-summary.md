@@ -73,7 +73,7 @@ date:   2025-03-03 03:02:01 +0200
 - **Picture ideal sex. [Make a plan.](https://i.kym-cdn.com/photos/images/original/002/546/187/fb1.jpg)** "What sex is worth having, and what will you do to create it in your life? Concrete. Specific. Detailed." (× [Sex Talks: sex flavours]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^kinds-of-sex); × intentions for sex, e.g. sex magic, **"sex that advances the plot"**, e.g. after emotional intimacy)
 	- Sex as [De Sering](https://desering.org/): **it can be anything you want to make out of it**; sex as a blank slate. (× [Steve Pavlina](https://stevepavlina.com/blog/2009/01/conscious-sexuality/)) (also check out my [9-hour playlist for my former workplace](/testtafel-sering-playlist.html) – shameless plug (hi, my name is doxxy))
 	- **Improving your relationship's sex life can be a committed, intentional, deliberate project.** ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}))
-	- **Plan for barriers**: what will you do to prevent them and what will you do if they occur?
+	- <a name="^plan-for-barriers"></a>**Plan for barriers**: what will you do to prevent them and what will you do if they occur?
 	- **Make it your identity** ("Don't just run. Be a runner.") (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 - **Cardio to increase desire.** Do activities that pump up your heart rate to increase desire.
 - **More orgasms with socks on.** Cold feet vie for attention.
