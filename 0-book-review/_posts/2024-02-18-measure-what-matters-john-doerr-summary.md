@@ -155,7 +155,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 * **A winning business needs both OKRs and CFRs; the goal-setting and the human.**
 	* CFRs: Conversations, Feedback (bi-directional), Recognition.
 * "**A manager's first role is the personal one**. It's the relationship with people, the development of mutual confidence, the creation of a community."
-	* "Not everything that can be counted counts, and not everything that counts can be counted." (Albert Einstein) (× [Broadcast](https://xaxel.me/broadcast-music-that-speaks-to-you.html): "We've got what numbers cannot count.")
+	* "Not everything that can be counted counts, and not everything that counts can be counted." (Albert Einstein) (× [Broadcast](https://xaxel.cc/broadcast-music-that-speaks-to-you.html): "We've got what numbers cannot count.")
 	* Have regular, deep conversations with people, "not talking about work" (e.g. assisting them in, or learning about, their life goals).
 		* "In talking about people's pursuit of personal goals, you end up learning a lot about what moves them forward — or holds them back — in their careers."
 			- "What makes you very happy? What saps your energy? How would you describe your dream job?"

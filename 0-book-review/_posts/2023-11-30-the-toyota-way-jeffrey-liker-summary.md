@@ -28,17 +28,17 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Current processes must represent the current best method of doing something.
 	* Standardized processes should be improved on, ideally by the floor workers — the people doing the actual work and most familiar with it.
 * <a name="^standard-doc"></a>Document the standard way of carrying out each process in detail, explaining the reason for each step.
-	* ![Job breakdown sheet](https://xaxel.me/assets/toyota_114.png)
+	* ![Job breakdown sheet](https://xaxel.cc/assets/toyota_114.png)
 	* Spend extensive time alongside your trainees when they are starting and provide them with instant feedback on deviations from the standard. Gradually spend less time at their side.
 		 * Training happens through repeated (deliberate) practice ("learning by doing") and through corrective feedback (side-coaching).
 	* **After training, this standard reference should be internalized and barely ever referred to.**
 	* It should still remain visible (typically displayed "outward" at the entrance of the work station), as a useful resource to be able to check against, occasionally by the worker and more often by management during periodic checks.
 * Document rules and their objective as well as the reasons they were created in the first place (the hazards incurred if they are not followed)
-	* ![Team member expectations for andon use](https://xaxel.me/assets/toyota_213.png)
+	* ![Team member expectations for andon use](https://xaxel.cc/assets/toyota_213.png)
 	* Display these documents prominently in space.
 * Use clear, concise wording.
 * Write A3s to present project (proposals) clearly, including timeline and numbers.
-	* ![Purchasing card plan for Toyota Technical Center](https://xaxel.me/assets/toyota_300.png)
+	* ![Purchasing card plan for Toyota Technical Center](https://xaxel.cc/assets/toyota_300.png)
 * <a name="^disabling-bureaucracy"></a>"Enabling vs disabling (red-tape) bureaucracy": enabling bureaucracy most often comes from the workers themselves, designing the standards (for themselves).
 * By standardizing work (and knowing the time that each standard process takes), you can predict how much time an operation will take and can communicate this to the customer and plan around it.
  * Inventory organisation: visually standardize the quantities and locations.
@@ -112,7 +112,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 ^
 # <a name="^waste"></a>Waste
 * Value should be flowing throughout the production process until delivery, without obstacles or halts (like a "free-flowing river"). The vast majority of lead time should be spent in value-added work contributing to the final product. Any interruption to this flow of value is waste and should be eliminated.
-	* ![Waste in value stream](https://xaxel.me/assets/toyota_30.png)
+	* ![Waste in value stream](https://xaxel.cc/assets/toyota_30.png)
 * The main wastes are: unnecessary transport (of goods or information), ineffective processing, defects, wasted time, overproduction and excess inventory.
 	* Unnecessary transport increases lead time.
 		* This also applies to transport of information and moving information in and out of storage, or between processes.
@@ -149,8 +149,8 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* To do so, you can for example review the most common sources of incidents (andon pulls) in a Pareto chart.
 	* If the problem is not solved after a couple days of trying, escalate it to your superiors.
 * **Proposed changes should always be structured as experiments.**
-	* ![Out-of-market experiment 1](https://xaxel.me/assets/toyota_276.png)
-	* ![Idea tags](https://xaxel.me/assets/toyota_318.png)
+	* ![Out-of-market experiment 1](https://xaxel.cc/assets/toyota_276.png)
+	* ![Idea tags](https://xaxel.cc/assets/toyota_318.png)
 	* The steps are as follows:
 		* Identify the problem and explain its importance and priority (compare the current state to the ideal state to clarify the problem)
 		* (For complex problems: break it down to a set of subproblems and decide on the highest-priority subproblem)
@@ -180,14 +180,14 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* "A strategy to deal with an uncertain future (external) should fit with the development of capabilities (internal)"
 * **Create a strategy.**
 	* Have a global vision, a 3-5-year plan and a breakthrough 1-3 year plan.
-		* ![SigmaPoint Technologies L1 top-level strategic deployment plan](https://xaxel.me/assets/toyota_314.png)
+		* ![SigmaPoint Technologies L1 top-level strategic deployment plan](https://xaxel.cc/assets/toyota_314.png)
 	* To achieve the breakthrough 1-3 year plan, set 1-year goals based on the current condition with single-point accountability. Set monthly targets and compare the current condition against them on a visible dashboard.
 		- <a name="^single-point-accountability"></a>**Single-point accountability (ownership):** "one person's name goes up next to each item in the action plan"
 		* The next target condition should be a significant step beyond the current condition.
-		* ![The A3 for SigmaPoint Technologies L2 manufacturing operations](https://xaxel.me/assets/toyota_316.png)
+		* ![The A3 for SigmaPoint Technologies L2 manufacturing operations](https://xaxel.cc/assets/toyota_316.png)
 	* You only ever see the next step.
 * Decide on clear KPIs (e.g. customer satisfaction, profits). Have KPIs for different areas (e.g. quality, cost, production, safety) and causal sub-KPIs (that you can take action towards). Occasionally track more specific problem metrics affecting main KPIs.
-	* ![Group leader KPI board](https://xaxel.me/assets/toyota_310.png)
+	* ![Group leader KPI board](https://xaxel.cc/assets/toyota_310.png)
 * The general objectives of any business should be quality, cost, delivery, safety and morale.
 	* <a name="^consumer-centric"></a>Let your product development be consumer-centric. Study surveys of consumer tastes. Do first-hand market research by putting yourself in the client's shoes. Meet your customers. Talk to them and listen to them. Do user tests, watching them use your product and letting them describe their thought process out loud. Use specs.
 * See your organisation as a system, and be aware that short-term improvements might lead to long-term wastes, or vice versa. Beware of short-term results motivated by money. Let everything be an input and work towards your broader vision. Have an eye for deeper changes.
@@ -234,7 +234,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		 * Screens tend to be used by only one person at a time; you want your dashboards to be seen and used by everyone.
 	* **Support your employees and the team through visual management tools**.
 * More generally, use diagrams and other visual tools to facilitate understanding a situation, process, system and thinking about it (e.g. mapping factory workers' walking path, or a customer's user journey)
-	* ![Customer value chain in a traditional Volvo auto repair workshop](https://xaxel.me/assets/toyota_244.png)
+	* ![Customer value chain in a traditional Volvo auto repair workshop](https://xaxel.cc/assets/toyota_244.png)
 	* "Use your feet to investigate processes and not your computer (go to the gemba); use your hands to draw the flow (use visual aids)."
 - Aim for a ratio of 4 team members for 1 team leader, at all levels. (Just like Japanese schoolchildren identify with their small group of four to six students, "han" — cf. "fingers" in XR).
 * Competition is to be valued, and competing organisations can learn from each other; they are a drive for relentless improvement. Foster competition to foster improvement, and for accelerating improvement and progress (generally as a species).

@@ -50,7 +50,7 @@ date:   2025-04-26 14:13:12 +0200
 		- For the first time in history, we can listen to incredibly smart people explain their thinking, unfiltered, unmediated.
 		- **No perfect role-models:** don't reject an exemplar wholesale because of a character blemish. Take what's to be taken. [No one's perfect.](https://www.youtube.com/watch?v=opbF9Nz_Emg)
 - "No one cares. It's your fault." (Making excuses.)
-- "Not your fault? Still your responsibility."
+- "Not your fault? Still your responsibility." (× [Toyota Way: single-point accountability]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability))
 ^
 # Pre-mortem
 - **Know what makes you happy.** Self-knowledge.
@@ -73,7 +73,7 @@ date:   2025-04-26 14:13:12 +0200
 # [Decisions](https://www.youtube.com/watch?v=tNPYMDZvbdc) for [life on earth](https://www.youtube.com/watch?v=hsEIZGnCU4c)
 - **Change by example.** Instead of setting a rule, demonstrate it (be the change you want to see, etc.) The commander of the ship "just doing it", queuing like the sailors (and eating with them). (Acting the way, not commanding the way.) (× [Gemba]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^gemba); "show, don't tell")
 - **Trial decisions: Pretend the decision was already made.** Live with it for a couple days; act as if it had been already made (but don't announce it yet — it's a trial for yourself). (× [set OKRs in advance of kickoff]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^set-okrs-in-advance))
-- **Log your decision-making.** You have to make your reasoning visible in order to correct it
+- Decision journal: **Log your decision-making.** You have to make your reasoning visible in order to correct it.
 	- Log your reasoning as you are making the decision — not after the fact (or you will distort it.)
 	- Write down your reasoning and decision, then sleep on it.
 * **Gather more information to make easier decisions.**

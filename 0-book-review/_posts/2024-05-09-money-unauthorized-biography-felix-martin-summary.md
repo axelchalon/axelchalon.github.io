@@ -15,7 +15,7 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 # Money and money
 ^
 * **Abstracting disconnects.** Abstracting reality disconnects you from its actualities.
-	* (× of Montreal (and backup vocalist Rebecca Cash) : ["amputated from humanity on some life-long intellectual retreat"](https://www.youtube.com/watch?v=G9_l2Zx1u04) ([seen live](https://xaxel.me/of-montreal-in-paris-an-exhilarating-experience-concert-review.html)); [gemba]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^gemba))
+	* (× of Montreal (and backup vocalist Rebecca Cash) : ["amputated from humanity on some life-long intellectual retreat"](https://www.youtube.com/watch?v=G9_l2Zx1u04) ([seen live](https://xaxel.cc/of-montreal-in-paris-an-exhilarating-experience-concert-review.html)); [gemba]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^gemba))
 	* Land transactions, impacting hundreds of thousands of people
 		* "Spain sold Yap to Germany for the sum of $3.3 million." (× Colonization of America)
 		- **Humankind's tendency to privatize nature**, imposing constructs onto nature, and manipulating these constructs among themselves, all the while being completely oblivious to the actualities of the lands being discussed (cf the people living there). Literally "being at the hands of".
