@@ -56,7 +56,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* **Contribute information, make statements, build the world further, add offers.**
 		* e.g. "—I came to the hospital as early as I could. —We had a boy! He's beautiful, Derek."
 	* **Move the action forward.**
-	* "What does the scene need here?"
+	* <a name="^scene-need"></a>"What does the scene need here?"
 * <a name="^spontaneity"></a>Spontaneity.
 	* **Don't censor or second-guess yourself.** Trust your instincts. Act before you are ready, don't think about it. Start your sentence before you know how you will finish them.
 	* **There is no perfect moment.** "Improvisers are biased to action over preparation." If you stop to consider whether this would be the perfect moment, the moment is gone.
@@ -175,16 +175,16 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* **Measure the important things and regularly check in with the results.**
 	* **Reviewing: What should I start doing, what should I stop doing, what I should continue doing?**
 * Failure & success
-	* Failure
+	* <a name="^failure"></a>Failure
 		* Do a pre-mortem: how will the project / my life have failed?
-		* Experience is the most essential when it comes to improvement. Iterate fast, keep on iterating regardless of success or failure. **See everything as information, see failures as information, as data points; instead of taking it personally.** Fail forward. *We can only discover the rules of the game by playing it.*
+		* Experience is the most essential when it comes to improvement. Iterate fast, keep on iterating regardless of success or failure. **See everything as information, see failures as information, as data points; instead of taking it personally.** **Fail forward.** *We can only discover the rules of the game by playing it.*
 			* **Learn from your failures.** Use them as a tool to learn from, and not just as an unfortunate event. Analyze them, review them. Failure is only valuable if we learn from it.
-		* To move from failure to success as quickly as possible, you have to fail faster.
+		* To move from failure to success as quickly as possible, you have to **fail faster**.
 		* You have to get it wrong first in order to get it right. **But if you give up, you'll never get it right. (!)**
 		* <a name="^foam-pits"></a>"Foam pits" (× Prototyping): you can practice in areas where it's safer to fail, where the failures are less "hard". (Safe spaces, experimental spaces, trial areas.)
 			* You can set a "foam pit" goal equivalent of a goal you have (thereby also letting you prototype fast), for example starting a blog before writing a book, or going to Toastmasters meetings before doing public speaking, etc.
 		* Be neither terrified nor ashamed of failure. See it as a learning experience (not as something about yourself). Fail more.
-		* Differentiate between the process and the outcome. You can celebrate the process even if it resulted in a failure.
+		* <a name="^celebrate-the-process"></a>Differentiate between the process and the outcome. You can celebrate the process even if it resulted in a failure.
 		* Rejections are a good sign, a sign that you're taking risks (and are polarizing). **If you are only collecting (relative) successes, it means you are not taking enough risks.** Go fail!
 			* **"Where in your life would you benefit from getting more rejections?"**
 		* <a name="^laugh-about-failures"></a>Acknowledge failures and mistakes and laugh about it. The "failure bow" is an ironic improvisation ritual whereby one vainly bows after doing a mistake. Rewire your response to failures.

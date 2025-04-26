@@ -25,7 +25,7 @@ date: 2025-03-02 14:13:12 +0200
 - **Dreams are a call to adventure,** point at unresolved tensions and **oppose the security we have created for ourselves**.
 	* **Dreams contain the keys to the discovery of one's self.**
 * **<mark>The discovery of oneself is both desired and feared.</mark>**
-	* **Self-actualization is hampered by fear of death.** We fear for the destruction of our current self (self-preservation instinct at play at the level of a single "self", × [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})).
+	* <a name="^ego-death"></a>**Self-actualization is hampered by fear of death.** We fear for the destruction of our current self (self-preservation instinct at play at the level of a single "self", × [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})).
 		* **We fear losing ourself and the world we created.** We fear not only the death of our self, but also of the world we have created, and in which it resides.
 	* While in fact, **destruction allows for and leads to wonderful reconstruction**. We come out better, less fragmented and more whole. **We die to the past to be re-born to the future.** (shedding skin; after the deluge)
 		- **Self-actualization requires a leap of faith**, seeing the ordeal not on its own but juxtaposed with the promise of a better future (× delayed gratification; sea migrants)

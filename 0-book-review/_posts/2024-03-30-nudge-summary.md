@@ -29,7 +29,7 @@ date: 2024-03-30 14:13:12 +0200
 * **Make it automatic, make it the default.** (Opt-out)
 	* Though do let them know.
 	* Defaults determine what people will be using and supporting.
-		* Healthy defaults: e.g. installing a secure messaging app on one's grandmother's phone and telling her this is the only way to reach you
+		* <a name="^healthy-defaults"></a>Healthy defaults: e.g. installing a secure messaging app on one's grandmother's phone and telling her this is the only way to reach you
 	* "Personalized defaults"
 * **Use inertia.** (Status quo bias) For example, subscription-based business models; trial periods; defaults; autoplay (YouTube, Netflix).
 	* Combinable with increasing rates (escalating) ("automatic escalation")

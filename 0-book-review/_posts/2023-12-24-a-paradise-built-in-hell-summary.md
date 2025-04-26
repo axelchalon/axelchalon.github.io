@@ -39,7 +39,7 @@ _Those are my personal notes on Rebecca Solnit’s book “A Paradise Built in H
 * The first response in any disaster is by the common people, not the state, emergency services, or charities.
 	* We tend to think otherwise due to the fact that when the press arrive on the site of the disaster, emergency services are already here — but already a lot of time has elapsed since the outbreak.
 	* Residents are "here" when the disaster happens and their response "makes or breaks it", dictates whether the disaster becomes controlled or a catastrophe.
-* Top-down, one-way "charity" differs from mutual aid; one creates a dependence and a power dynamic, the other fosters community and self-sufficiency ("learning how to fish").
+* <a name="^charity-vs-mutual-aid"></a>Top-down, one-way "charity" differs from mutual aid; one creates a dependence and a power dynamic, the other fosters community and self-sufficiency ("learning how to fish").
 	* A happy medium is to support (already existing) local efforts.
 * Self-organisation in disasters reveals the superfluity of governing institutions.
 	* Self-organisation demonstrates that a state is not necessary for society to function and adhere to principles and morals (anarchy — a state of society without government or law)

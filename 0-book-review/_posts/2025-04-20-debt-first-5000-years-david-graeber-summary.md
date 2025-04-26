@@ -88,7 +88,7 @@ date: 2025-04-20 14:13:12 +0200
 ^
 - The sovereign is a gratuitous issuer of collected IOUs (generates infinite money).
 - "Crying up" or "crying down": declaring that the currency is worth more (to raise taxes) or less (to diminish king debt)
-	* Taxation (creating reserves) as "margin of safety" (× Clear Thinking) — but also as interest (on the country)
+	* Taxation (creating reserves) as "margin of safety" (× [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^margin-of-safety)) — but also as interest (on the country)
 ^
 - "A gold coin is a promise to pay something else of equivalent value to a gold coin."
 ^

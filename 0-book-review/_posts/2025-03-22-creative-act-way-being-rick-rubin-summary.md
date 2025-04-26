@@ -49,7 +49,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - **We are blessed to be able to create.** It's a privilege.
 - **Inspiration is a river: if we contain it, it stops flowing.** By producing and sharing our work, we allow the river of inspiration to continue flowing. By hoarding our ideas, we receive fewer ideas.
 ^
-- **Be part of an artistic community.**
+- <a name="^artistic-community"></a>**Be part of an artistic community.**
 - **The same thing done by different people yields different results** — because people are different. Emulation is adaptation. (× Chekhov "If you were to ask two equally talented artists to paint the same landscape with the utmost exactitude, the result would be two markedly different pictures."; × [Chekhov (same things done differently)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^same-thing-differently); )
 - **Raising the bar to raise our game**: others raising the bar and inspiring us to raise our game. "Rising-to-meet". Co-inspiration, not competition: **not to diminish others, but to elevate oneself.** "An upward spiral toward magnificence."
 	- <a name="^cycle-of-inspired-creation"></a>**Cycle of inspired creation:** people inspired by works make new works that inspire other people.
@@ -118,7 +118,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 	- **Collectives vs hierarchies** — both work.
 	- **Don't speak the idea; demonstrate it** — or supervise its execution.
 	- When giving feedback, **be specific, clinical and don't share your fix immediately**.
-	- When receiving feedback, first **repeat what you understood**.
+	- <a name="^paraphrase-feedack"></a>When receiving feedback, first **repeat what you understood**.
 ^
 # Crafting, execution, and practical tips
 - **Use the ecstatic as compass.**

@@ -96,10 +96,10 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* **Make all lateral, cross-functional dependencies explicit.** (Visually!)
 * **When OKRs are collaborative, assign key results to individuals — and hold them accountable.**
 	- **Co-ownership weakens accountability.** (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability))
-* **Give people autonomy on how to solve problems.** "Micromanagement is mismanagement."
+* <a name="^give-autonomy"></a>**Give people autonomy on how to solve problems.** "Micromanagement is mismanagement."
 	* **Insight into the way to reach an objective often stems from the gemba** (frontline workers) (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})).
 	* **Contributors should write their own key results** to achieve the objective.
-* Roughly half the OKRs should come from frontline workers.
+* **Roughly half the OKRs should come from frontline workers.** (× [Gemba]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^gemba))
 	* "Autonomy", as setting your own goals.
 	* "Every employee in my department owns three to five business objectives per quarter, along with one or two personal ones."
 * **Choose the right metric.** What you measure defines what you value.
@@ -118,7 +118,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 	* Stretch goals: raising one's game "by orders of magnitude".
 	* Stretch goals are a good way to prioritize a certain product needing a push.
 	* "10x" (stretch) goals require radical, not incremental innovation. They require thinking about the problem differently (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^incremental-radical); × re-imagining the future state ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^future-state))). "If you want your car to get fifty miles per gallon, fine. You can retool your car a little bit. But if I tell you it has to run on a gallon of gas for five hundred miles, you have to start over."
-	* **By going for very ambitious goals, a failure still means an amazing result.** "If you set a crazy, ambitious goal and miss it, you'll still achieve something remarkable." "When you aim for the stars, you may come up short but still reach the moon."
+	* **Aiming for the stars & reaching the moon: By going for very ambitious goals, a failure still means an amazing result.** "If you set a crazy, ambitious goal and miss it, you'll still achieve something remarkable." "When you aim for the stars, you may come up short but still reach the moon."
 	* "Picture Everest, then describe how difficult the climb is. Then describe how we're going to reach the summit."
 	* Put very ambitious goals in perspective, in context, to make it seem less crazy (e.g. by changing the reference point: +500% vs 50% of competitor's performance).
 * **Chunking makes ambitious goals doable.** "By chunking a problem, quarter by quarter, moonshots become more doable."

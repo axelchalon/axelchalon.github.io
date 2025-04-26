@@ -153,4 +153,4 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 		* **Because of their own specific culture**, the Greeks managed to use literacy and numeracy (learned from the Phoenicians) to develop scientific thinking, philosophy, mathematics, law, rationality. (× philosophers and their mentors) (cultural appropriation revisited; à la manière de)
 * We only become aware of ubiquitous things taken for granted when they get disrupted — health, money, safety.
  * Money (just as existence, pleasure, relationships and many others) -- as a force, **a spirit of its own**, existing since time immemorial and coming up time and again throughout history — as a character in a play, with its own idiosyncracies and mysteries, and which we are trying to understand, progressively make sense of.
-- "Never let a serious crisis go to waste"
+- <a name="^crisis-waste"></a>"Never let a serious crisis go to waste"

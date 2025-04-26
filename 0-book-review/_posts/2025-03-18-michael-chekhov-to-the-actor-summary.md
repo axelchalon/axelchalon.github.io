@@ -61,7 +61,7 @@ What a book.
 - **Act boldly, even for weak emotions.** Actors should have high energy even when portraying a low-energy character. Psychological gestures should always be made clearly and strongly, even when portraying weak psychologies. (×  [Improvise (assertiveness; bold and clear decisions)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^bold-clear-decisions); [Your Symphony of Selves (more decisions, clearly made)]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}); [Never Split the Difference (accusation audit: exaggerating reproaches)]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}#^accusation-audit); [Psychedelics Revealing (high-energy behaving)]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^unspecific-amplifiers); Embodied Intimacy's Primal Play (exaggerating feelings); owning feelings)
 - **Vacuous vs inhabited gestures**: everyday gestures vs archetypal or embodied gestures. (× <a href="#^pour-presence-onto-touch">pouring your presence onto the objects you touch</a>)
 ^
-# Objectives
+# <a name="^objectives"></a>Objectives
 * **Each character has their small objectives.**
 * **These objectives all serve the character's superobjective.**
 	* All small objectives first appear random.
@@ -143,7 +143,7 @@ What a book.
 # Types of plays
 - **Comedy:**
 	- Predominant personality trait; taking up a lot of space; quick tempo (with intermittent pauses or slower moments)
-- **Drama**:
+- **[Drama](https://www.youtube.com/watch?v=SnXZZpBHkiY)**:
 	- Bad fate, being oneself but not learning lessons or seeing the greater meaning behind things.
 	- Drama is tragedy without the Presence. 
 - **Tragedy:**

@@ -25,9 +25,10 @@ const obsidianFileToWebsiteFile = {
     "Psychedelics Revealing": "2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md",
     "To The Actor": "2025-03-18-michael-chekhov-to-the-actor-summary.md",
     "Creative Being": "2025-03-22-creative-act-way-being-rick-rubin-summary.md",
-    "Debt": "2025-04-20-debt-first-5000-years-david-graeber-summary.md"
+    "Debt": "2025-04-20-debt-first-5000-years-david-graeber-summary.md",
+    "Clear Thinking": "2025-04-26-clear-thinking-shane-parrish-summary.md"
 };
-const privateNotes = ['Microsolidarity'];
+const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {
     var result = obsidian;
     // (Add ^ at the end of h1s etc. in the source file instead) result = result.replace(/^(#+) (.+)$/gm, '$1 <a name="$2"></a>$2');

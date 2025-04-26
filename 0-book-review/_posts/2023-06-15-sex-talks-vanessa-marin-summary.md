@@ -23,7 +23,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* The goal is to be able to have relaxed and productive conversations about sex with your partner; where you feel comfortable suggesting new things to try out or giving feedback.
 	* By creating this foundational culture of talking about sex, you'll feel more comfortable communicating about it when problems arise. Talking about sex exclusively when problems arise discourages you from talking about it more often, due to negative associations you will then have with this conversation topic.
 	* Acknowledgment is the first step towards flirting. "You cannot flirt if you cannot acknowledge in the first place the act you're hoping that saucy wordplay will lead to."
-	* (In case of dry spells: acknowledge them early on, before the inertia sets!)
+	* <a name="^dry-spells"></a>(In case of dry spells: acknowledge them early on, before the inertia sets!)
 * <a name="^turn-offs-turn-ons"></a>Turn-offs, turn-ons
 	* <a name="^reduce-turn-offs-first"></a>To increase the sexual desire within a relationship, first reduce your turn-offs, THEN double in on your turn-ons.
 		* Turn-offs can be linked to circumstances, energy levels, moods, etc.

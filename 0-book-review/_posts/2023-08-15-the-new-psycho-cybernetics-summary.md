@@ -52,7 +52,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 # Reprogramming, visualisation
 * <a name="^psychoanalyse"></a>**You don't have to psycho-analyze yourself to fix your problems.** You can modify your self-image without going through an examination of your past. Understanding the origins of your current self-image is not necessary to alter it. **You can instead be result-focussed, action-focussed, proactive instead of overly introspective.**
 * <a name="^envision"></a>Imagination is what lets you create goals. **Have visions.** Set yourself a goal, modify your self-image as necessary, and let your subconscious do the rest. You're harnessing the same internal goal-reaching mechanism used for innate goals such as survival and procreation; except you're using it to reach other goals you've decided on.
-	* "Imagination sets the goal picture that our automatic mechanism works on."
+	* <a name="^automatic-mechanism"></a>"Imagination sets the goal picture that our automatic mechanism works on."
 		 * Think in terms of and visualise your end result; start from there, and the means will take care of themselves..
 			* You do not have to micromanage your automatic success mechanism. Set your mind on a goal, adjust your self-image accordingly and your behaviour will take care of itself.
 	* **Imagination is an exploratory force, letting you know what is possible.**
