@@ -42,7 +42,7 @@ date:   2024-12-30 11:10:09 +0200
 		* If you want diversity, **polarize** and exclude the middle.
 			* **Activate the diversity.** (Potential vs activated diversity)
 	* **No invites by obligation.** (× ["Fuck Yes, or No"](https://markmanson.net/fuck-yes))
-	* "If everyone is invited, no one is invited. By closing the door, you create the room."
+	* "**If everyone is invited, no one is invited.** By closing the door, you create the room."
 	* Multi-part gatherings: attend all or none. Else the energy gets disrupted.
 ^
 # Pre-game

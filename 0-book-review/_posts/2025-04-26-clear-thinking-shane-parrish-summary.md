@@ -34,7 +34,7 @@ date:   2025-04-26 14:13:12 +0200
 - "Diversification is protection against ignorance. It makes little sense if you know what you are doing."
 ^
 # Excellence
-- **Remarkable people don't have special tricks, they just understand the fundamentals more deeply.**
+- **To be excellent, understand  the fundamentals deeply.** Excellent people don't have "special tricks", they just understand the fundamentals at a deeper level than most.
 - **Exceptional people analyze and learn from their mistakes more than regular people.** Mistakes are opportunities; LEARN FROM THEM. ["Never let a good crisis go to waste."]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^crisis-waste) (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^failure): failures are only valuable if you learn from them). You can't learn if you ignore your mistakes.
 - **Surround yourself with people "who are already there"** — people with your desired behaviour. ([To The Actor]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}) (environment); [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^artistic-community) (artistic community, upward spiral))
 - Ask mentors how to think about the problem; not for solutions. "How can I come to the right decision?" (vs "What's the best decision?") "How can I tell what kind of X this is?" (vs "What kind of X is this?") (teach how to fish; × [charity vs mutual aid]({% link 0-book-review/_posts/2023-12-24-a-paradise-built-in-hell-summary.md %}#^charity-vs-mutual-aid))
@@ -84,14 +84,14 @@ date:   2025-04-26 14:13:12 +0200
 	- **Brainstorm at least three options** — especially when there seems to be only two.
 	- **What if I have to?** (do one, or the other) What would be a proactive way of going about doing it? What would you change?
  - **What is the cost of choosing this?** What do I sacrifice for it?
- - - **Right decision but wrong result:** When you evaluate a decision, focus on your decision-making process, not the outcome. A good decision can still lead to a bad outcome. (× [Improvise: Celebrate the process]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^celebrate-the-process)) Take note of what information you were lacking when you made the decision.
+ - **Right decision but wrong result:** When you evaluate a decision, focus on your decision-making process, not the outcome. A good decision can still lead to a bad outcome. (× [Improvise: Celebrate the process]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^celebrate-the-process)) Take note of what information you were lacking when you made the decision.
 - **For fast consensus, ask for positive criteria.** (e.g. when picking a food spot with people, focus on wants rather than don't wants.) Applied to — music menu meeting. (× [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}))
 ^
 - **Quantify tradeoffs.** How would of X to make it worth sacrificing Y? (Is this certification worth spending 10 hours on? Do I want to pay €20 to save five hours of work?)
 ^
 - **Rules to prevent decision fatigue.** (× [XPs](https://x.com/axelchalon/status/1867018534360060146); × [Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)) — knowing your priorities help (× communicating your criteria when delegating)
 - **Tripwires** (conditional rules) — prevents clouded judgment in the moment. "When/if X happens, we do Y" (e.g. Mt. Everest: if this point is not reached by that time, we abort the climb.)
-- **Communicate your criteria when delegating decision-making.** Explain how you make your decisions. (× AI automations; Wouter van den Bijgaart's talk at PKM Summmit 2025)
+- <a name="^criteria"></a>**Communicate your criteria when delegating decision-making.** Explain how you make your decisions. (× AI automations; Wouter van den Bijgaart's talk at PKM Summmit 2025)
 	- Have it be clear for everyone what's the most important thing (e.g. the customer). (× [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}) — picking the right metrics)
 		- **There is only one most important thing** — in every project, goal, company. (× The One Thing) (e.g. serving the customer)
 	- (× <a>Light the Music with a Beat</a>: check in with the client first thing, be on the same page on their vision and how the audience should feel.)

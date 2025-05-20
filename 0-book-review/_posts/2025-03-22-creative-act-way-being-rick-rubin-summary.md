@@ -134,7 +134,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - **Maintain momentum. Temporarily skip hurdles.** "A bridge is easier to build when it's clear what's on either side of it." You know where a center puzzle piece should go if it's the only piece missing (vs on an empty tabletop).
 ^
 - **Distill a fully-fleshed work to its essence.**
-- **Perfection is stripping down, not adding up.**
+- <a name="^remove-to-perfection"></a>**Perfection is stripping down, not adding up.**
 	- **"Perfection happens when there's nothing more to remove, not nothing more to add."** (Antoine de Saint-Exupéry) 
 	- **Ruthless edits:** strip the piece down to less than the essentials; add back and see if the additions actually make the piece better or are just fillers.
 	- **Not more for the sake of more, but more for the sake of better.**

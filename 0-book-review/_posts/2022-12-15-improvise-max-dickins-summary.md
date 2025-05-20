@@ -52,7 +52,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* Meet people where they are, understand them, talk to them from their point of view.
 * <a name="^yes-and"></a>Yes, and.
 	* Acknowledge, then build upon. Create a world.
-* Adding value
+* <a name="^add-value"></a>Adding value
 	* **Contribute information, make statements, build the world further, add offers.**
 		* e.g. "—I came to the hospital as early as I could. —We had a boy! He's beautiful, Derek."
 	* **Move the action forward.**
