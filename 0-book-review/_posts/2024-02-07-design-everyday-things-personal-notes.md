@@ -154,7 +154,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 		* Well-designed systems are impervious to a single failure.
 			* Chaos monkey: deliberately attacking a system to see if it responds well
 * **An unlikely event is way more likely to occur if the factors are already present.**
-* **Less ownership or shared ownership means less vigilance.** Have somebody be responsible (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability), single-point accountability).
+* <a name="^less-ownership-less-vigilance"></a>**Less ownership or shared ownership means less vigilance.** Have somebody be responsible (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability), single-point accountability).
 ^
 # <a name="^incremental-radical"></a>Incremental improvements, radical improvements
 * Incremental improvements are "safe" whereas radical improvements are "risky", as the market might not be ready for the product yet.

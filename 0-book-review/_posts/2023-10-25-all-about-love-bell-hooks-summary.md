@@ -169,7 +169,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 # Death
 * Before coming into the world (while still in the womb), we were still "dead". Just as death springs from life, life springs from death. "Our first experience of living is a moment of resurrection." Life and death are intricately linked.
 * We can face death without fear.
-* Death reminds you to love. Being confronted with the imminent possibility of dying, we reflect on the place love has had in our life.
+* <a name="^death-love-retrospection"></a>Death reminds you to love. Being confronted with the imminent possibility of dying, we reflect on the place love has had in our life.
 	* Use death as a compass for your decisions, and for your decisions about your life. When putting things off (or declining life-affirming invitations), remember that "life is not promised".
 * "You have to trust that every friendship has no end, that a communion of saints exists among all those living and dead, who have truly loved God and one another. Those who have loved deeply and who have died live on in you, not just as memories but as real presences."
 	* People leave a trace, a mark on you, even after they are no longer here, and live on within you and the other people they have met, interacted with, influenced. Having transformed us, they live on in our brains, our soul, our spirit, as a result of our interrelational colliding with them.

@@ -12,7 +12,7 @@ date:   2025-03-03 03:02:01 +0200
 * <a name="^garden"></a>**Metaphor of [the garden](https://youtube.com/watch?v=GGLXlrwf0rk):** you have a plot of land with unique [soil](https://youtube.com/playlist?list=OLAK5uy_n9bums7wOPiKOPpa7eZGJCdXNNypnathU), and [plants](https://youtube.com/watch?v=NUo9VUuVOsw) grown for you by your family and culture. Some are good, some are not so great. You can unroot the bad ones, plant new ones.
 ^
 - **Brakes and accelerators (SIS and SES)** People have accelerators (turn-ons) and brakes (turn-offs), spontaneous or chronic, running in parallel, each more or less sensitive based on the person (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^turn-offs-turn-ons)).
-	- **"Accelerating with the brakes on"**: first turn off the turn-offs. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^reduce-turn-offs-first))
+	- <a name="^accelerating-with-brakes-on"></a>**"Accelerating with the brakes on"**: first turn off the turn-offs. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^reduce-turn-offs-first))
 	* **Men have more sensitive accelerators, women more sensitive brakes** (in general).
 	* **Communicate your turn-ons and turn-offs.** Arrange the context for yourself.
 		* Conversely, know your partner's turn-ons and turn-offs; arrange the context for them.
@@ -119,10 +119,10 @@ date:   2025-03-03 03:02:01 +0200
 # ~~Chanel~~ Heading No. 5
 - "We were sitting together one afternoon, **talking about sex**." (× [Sex Talks: talk sex every day]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^talk-sex-every-day))
 - **What do you associate sex with?** (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}); Steve Pavlina)
-	- **"Turning sex into play."** (× [Sex Talks: laugh about it]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^laugh-about-it); × [Sex Talks: different kinds of sex]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^kinds-of-sex))
+	- <a name="^turning-sex-into-play"></a>**"Turning sex into play."** (× [Sex Talks: laugh about it]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^laugh-about-it); × [Sex Talks: different kinds of sex]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^kinds-of-sex))
 	- **"Confident, joyful sex."**
 - **"There are as many sexualities as there are humans on Earth." Celebrate! [Explore!](https://youtube.com/watch?v=yG0gp07o8fE)**
-- **Play disarms nervousness.** "It is literally impossible to feel stressed and anxious about something when your approach is playful, curious, and humorous. Let it be a little silly; let it be fun."
+- <a name="^play-disarms"></a>**Play disarms nervousness.** "It is literally impossible to feel stressed and anxious about something when your approach is playful, curious, and humorous. Let it be a little silly; let it be fun."
 	- **"This is about pleasure, remember?"** (× Bliss Club)
 ^
 - **"We're all made of the same parts, just organized in different ways."** (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}): We're all made of the same selves but with varying degrees of expressions?) (× deep humanity in all of us; shared humanity; deep benevolence & heartfulness of e.g. kids; [All About Love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}))

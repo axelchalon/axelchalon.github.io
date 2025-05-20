@@ -23,7 +23,7 @@ date:   2024-10-23 14:13:12 +0200
 			* Repairmen are politically engaged, opposing throwaway culture.
 ^
 * Government-managed **public spaces externalize the responsibility to fix things, thereby suppressing proactivity** (as opposed to community spaces, e.g. Sering). For example, a leaking faucet.
-	- Community-managed spaces invite you to fix things in your realm, though you might not be their appointed custodian (× Non-ownership vs Communal ownership vs Single-point accountability ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability)) — e.g. public space vs community space vs a specific area within this community space)
+	- <a name="^communal-ownership"></a>Community-managed spaces invite you to fix things in your realm, though you might not be their appointed custodian (× Non-ownership vs Communal ownership vs Single-point accountability ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability)) — e.g. public space vs community space vs a specific area within this community space)
 		* **Hierarchical ownership** (realms of ownership as concentric circles); or alternatively **ownership as a spectrum** (within a community space): from things you are explicitly responsible for, all the way to things for which you have no relation to at all (× ["the blood of people conveniently far away"]({% link 0-book-review/_posts/2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md %}#^conveniently-far-away)). 
 	* Just as one can be a master of one's own stuff, one can be **a master of one's own space** (e.g. one's own house, terrain).
 ^
@@ -86,7 +86,7 @@ date:   2024-10-23 14:13:12 +0200
 		- Being paid for a skill we developed through a quirk lets us accept it more.
 * **Work extra hours for your self-development on projects for free – but increase your base rate.** In projects, spend extra time following curiosities or obsessions, for your own development. Do not bill those extra hours, but compensate by charging more per regular hour.
 	
-* **Anarchy is a politic of irresponsibility.** Anarchist spaces distrust and discourage centralized authority, thereby preventing single-point accountability & ownership — which tends to become the bane of these spaces.
+* <a name="^anarchy-is-irresponsibility"></a>**Anarchy is a politic of irresponsibility.** Anarchist spaces distrust and discourage centralized authority, thereby preventing single-point accountability & ownership — which tends to become the bane of these spaces.
 	* **Trading one evil for another.** Anarchist (radical) spaces react to one extreme by going to the other. Anarchist spaces go to such lengths in trying to avoid abuses of authority, that they do away with authority (ownership) altogether (throw the baby out with the bathwater), (sometimes) yielding dysfunctional spaces. Anarchist spaces conflate authority and ownership.
 ^
 # Work relationships

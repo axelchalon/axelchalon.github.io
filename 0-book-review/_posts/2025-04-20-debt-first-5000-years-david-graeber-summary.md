@@ -58,7 +58,7 @@ date: 2025-04-20 14:13:12 +0200
 	- "A debt is just the perversion of a promise. It is a promise corrupted by both math and violence."
 	- **Debt removes the human from the equation.** By abstracting debt, we stop thinking about what the other party wants, needs, is capable of providing (as we would in owing respect, a favour or gratitude). Debt makes favours impersonal and unnegotiable (≠ [Never Split the Difference: black swans, lopsided perks]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}#^understand)).
 	- **"Debt" justifies the use of violence** – demonizes the victim. "A contract requires a certain reliable access to superior force."
-	- **Born in debt / Tied in debt:** Debt ties you up to the past, to actions of ancestors, of an obsolete self.
+	- <a name="^tied-to-past"></a>**Born in debt / Tied in debt:** Debt ties you up to the past, to actions of ancestors, of an obsolete self.
 ^
 - **Debt as paradigm.** "Debt-is-everything" (false) paradigm. By asking "Who owes what to whom?", you are already imposing a paradigm. (× [Money]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^reducing)) Language frames.
 	- Morals and religion are permeated with the language of debt ("guilt", "sin", "freedom", "redemption", "forgiveness").
@@ -139,7 +139,7 @@ date: 2025-04-20 14:13:12 +0200
 # Debt x War
 - **Debt in war is opportunistic – takes the side of the winner.** (Iraq still paying Kuwait for Sadam Hussein's invasion in 1990 vs Third-World debt where the invaded countries are still paying their colonizer).
 ^
-- **Creating an economy.**
+- <a name="^creating-an-economy"></a>**Creating an economy.**
 	- System for feeding soldiers within the kingdom: offer each soldier a coin, demand that every family be obliged to give a coin back to the king.
 		- "I declare that you owe me something and that you can only pay it back by proving that you provided a service to these specific people."
 		- "I declare that you owe me something" = tax.

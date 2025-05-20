@@ -63,7 +63,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* When being spontaneous and fully in the now, you shut down a part of your brain (the controlling part) and activate another. Creativity/Spontaneity <→ Self-censoring (parts of brain)
 	* <a name="^voice-of-others"></a>**Our inner critic is the voice of others, that others actually don't have.**
 	* Focus on a game to trick your mind out of its habits. Free yourself from the mind and its habits.
-	* Exploration is a happy consequence of play.
+	* <a name="^play-into-exploration"></a>Exploration is a happy consequence of play.
 		* Use play to come up with creative solutions.
 * <a name="^bold-clear-decisions"></a>Assertiveness and commitment
 	* **Own your decisions, don't back-track, be clear and assertive with your choices, execute them clearly. Be direct and clear.** Have a clear behaviour, don't second-guess yourself. "Express clearly. Too often we communicate in subtext and are disappointed or irritated when we aren't understood."
@@ -85,7 +85,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		 * Struggling with commitment is a classic fear response. A lot of beginner improvisers struggle with this.
 	* **Know when to end a scene.**
 		* **If something is not working, end it. People tend to be more afraid of change than of unhappiness, of stagnation.**
-			* × *"When we play, we we simply live in a reality until it stops being useful or fun."*
+			* <a name="^play-fantasy"></a>× *"When we play, we we simply live in a reality until it stops being useful or fun."* (× [Your Symphony of Selves (Alice in Wonderland's Mabel)]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^mabel) )
 		* By ending a scene, you are able to create a new one.
 		* Have a ritual to end a scene. Improvisers do "the sweep", where they jog across the front of the stage to mark the end of a scene.
 		* **You're in constant control of the reality you're creating. By sweeping, you don't get stuck in any one of the realities you've created.**
@@ -150,7 +150,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 * Delineate a sacred space and create rituals into, out of, inside and around it.
 * **People (and yourself) are characters and can be described as such: what they do, what they want, what they're afraid of, what their pain points are, their personality traits; what they love, what they hate**
 	 * You can take a step back from yourself and describe yourself objectively.
-* Adults are atrophied children, needing to relearn the art of play. **Play!**
+* <a name="^atrophied-play"></a>Adults are atrophied children, needing to relearn the art of play. **Play!**
 * **Reframe blocks as opportunities.**
 * On feeling things and going for it
 	* _"We rip out so much of ourselves to be cured of things faster than we go bankrupt by the age of 30 and have less to offer each time we start with someone new. But to make yourself feel nothing so as to not feel anything - what a waste. It is easy when we are foiled by disaster, broken by life, to stop desiring things, to narrow our horizons and flatten our emotional landscape. To do so might make us feel safe. After all, if we don't try, we cannot fail, and if we don't fail, we cannot hurt. Yet if we don't feel sorrow and pain, we cannot feel joy either. And without joy, what's left?"_

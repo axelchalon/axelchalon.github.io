@@ -62,7 +62,7 @@ date:   2025-04-26 14:13:12 +0200
 # Houston
 - **How you define the problem changes what you see.**
 	- What if the issue is [elsewhere](https://imgflip.com/s/meme/Ancient-Aliens.jpg)? ⇒ Identify the underlying problem; go one deeper. (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): culture) (e.g. "How to get more people to adopt dogs?" ⇒ "How can fewer people abandon dogs in the first place?") (× fixing symptoms vs root cause; root cause analysis, five whys). It's sometimes cheaper to fix problems at the source!
-- **Problem-solution firewall: Separate defining the problem from searching for a solution.** Hold a meeting for identifying the problem; and another one for searching for solutions. Make sure everyone agrees on what the problem is before searching for solutions — else people brainstorm solutions to different problems. (× Double-diamond brainstorming model, [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^brainstorm)) (also for personal issues.)
+- <a name="^problem-solution-firewall"></a>**Problem-solution firewall: Separate defining the problem from searching for a solution.** Hold a meeting for identifying the problem; and another one for searching for solutions. Make sure everyone agrees on what the problem is before searching for solutions — else people brainstorm solutions to different problems. (× Double-diamond brainstorming model, [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^brainstorm)) (also for personal issues.)
 ^
 - **Address things fast, before inertia settles.** The longer you wait, the more difficult. (talk about things early on; × [Sex Talks: dry spells]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^dry-spells))
 	- It's only after we accept reality that we can attempt to change it.
@@ -83,13 +83,13 @@ date:   2025-04-26 14:13:12 +0200
 	- Find ways to have both (or negotiate — [Never Split the Difference]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}))
 	- **Brainstorm at least three options** — especially when there seems to be only two.
 	- **What if I have to?** (do one, or the other) What would be a proactive way of going about doing it? What would you change?
- - **What is the cost of choosing this?** What do I sacrifice for it?
+ - <a name="^cost"></a>**What is the cost of choosing this?** What do I sacrifice for it?
  - **Right decision but wrong result:** When you evaluate a decision, focus on your decision-making process, not the outcome. A good decision can still lead to a bad outcome. (× [Improvise: Celebrate the process]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^celebrate-the-process)) Take note of what information you were lacking when you made the decision.
 - **For fast consensus, ask for positive criteria.** (e.g. when picking a food spot with people, focus on wants rather than don't wants.) Applied to — music menu meeting. (× [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}))
 ^
 - **Quantify tradeoffs.** How would of X to make it worth sacrificing Y? (Is this certification worth spending 10 hours on? Do I want to pay €20 to save five hours of work?)
 ^
-- **Rules to prevent decision fatigue.** (× [XPs](https://x.com/axelchalon/status/1867018534360060146); × [Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)) — knowing your priorities help (× communicating your criteria when delegating)
+- <a name="^rules-to-prevent-decision-fatigue"></a>**Rules to prevent decision fatigue.** (× [XPs](https://x.com/axelchalon/status/1867018534360060146); × [Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)) — knowing your priorities help (× communicating your criteria when delegating)
 - **Tripwires** (conditional rules) — prevents clouded judgment in the moment. "When/if X happens, we do Y" (e.g. Mt. Everest: if this point is not reached by that time, we abort the climb.)
 - <a name="^criteria"></a>**Communicate your criteria when delegating decision-making.** Explain how you make your decisions. (× AI automations; Wouter van den Bijgaart's talk at PKM Summmit 2025)
 	- Have it be clear for everyone what's the most important thing (e.g. the customer). (× [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}) — picking the right metrics)
@@ -110,5 +110,5 @@ date:   2025-04-26 14:13:12 +0200
 # Urgency
 - Urgency/intentionality: imagine you're spending $1000 an hour for the time spent with that person. Cut to the chase and make the most of it.
 ^
-- Memento Mori. What would you regret if this was your last day? Savor daily pleasures instead of waiting for "big-ticket items" to make you happy. Practices of joy.
+- <a name="^memento-mori"></a>Memento Mori. What would you regret if this was your last day? Savor daily pleasures instead of waiting for "big-ticket items" to make you happy. Practices of joy.
 	- "Not what matters in the moment, but what matters in life." — don't chase the wrong things.

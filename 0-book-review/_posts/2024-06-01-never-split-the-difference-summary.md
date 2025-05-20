@@ -30,7 +30,7 @@ This one goes out to my future employer.
 	* "Empathy is the ability to recognize the perspective of a counterpart, and **the vocalization** of that recognition."
 ^
 # Building rapport
-  - **Actual yesses, not perfunctory yesses.** Stolen yesses aren't worth anything, are counter-productive (× numbers) (× "fuck yes, or no"; enthusiastic consent). Distinguish perfunctory yesses (rational agreements, "you're right") from actual yesses (visceral agreements, "that's right"). (Change has to come from within.)
+  - <a name="^thats-right"></a>**Actual yesses, not perfunctory yesses.** Stolen yesses aren't worth anything, are counter-productive (× numbers) (× "fuck yes, or no"; enthusiastic consent). Distinguish perfunctory yesses (rational agreements, "you're right") from actual yesses (visceral agreements, "that's right"). (Change has to come from within.)
 	   - Instead, elicit a "No" to give the other person the (illusion of) control, agency. (Rhetoric no) ("Do you think the city should have more cars?")
 	     - Or deliberately ask for a question for which you desire a no ("Do you not want to partner up for this project? / Did you give up on negotiating this?")
 	     * Or even for questions for which you desire a yes: "Do you have a few minutes to talk?" ⇒ "Is now a bad time to talk?" (activates agency — "is a reaffirmation of autonomy")

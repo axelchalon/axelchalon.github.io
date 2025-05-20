@@ -113,4 +113,4 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 - Sending different CVs for different roles, as choosing which identity you wish to present. (× Zeus's transformations for his conquests.)
 ^
 # Quotes
-* Alice: "I must me Mabel after all, and I shall have to go and live in that poky little house and have next to no toys to play with... [...] No, I've made up my mind about it; if I'm Mabel, I'll stay down here! [...] Who am I then? Tell me that first, and then, if I like being that person, I'll come up; if not, I'll stay down here till I'm somebody else." (Who do you want to be?)
+* <a name="^mabel"></a>Alice: "I must me Mabel after all, and I shall have to go and live in that poky little house and have next to no toys to play with... [...] No, I've made up my mind about it; if I'm Mabel, I'll stay down here! [...] Who am I then? Tell me that first, and then, if I like being that person, I'll come up; if not, I'll stay down here till I'm somebody else." (Who do you want to be?)

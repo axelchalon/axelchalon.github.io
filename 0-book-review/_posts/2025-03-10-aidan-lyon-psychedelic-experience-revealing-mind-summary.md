@@ -112,7 +112,7 @@ date:   2025-03-10 14:13:12 +0200
 	- "\[Psychedelics\] function as unspecific amplifiers that increase the **cathexis (energetic charge)** associated with the deep unconscious contents of the psyche and make them available for conscious processing." (Grof 2009)
 		- **Psychedelics bring more of the subconscious to awareness.**
 		- **Psychedelics help in psychotherapy** by bringing more of the subconscious to awareness.
-	- By amplifying everything, you are forced to deal with stuff (T.)
+	- <a name="^amplify-to-confront"></a>By amplifying everything, you are forced to deal with stuff (T.)
 	- (× Over-indulgence precipitating the next stage (Future Buddha), [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}))
 - **How you name it is how you think of it**: psychedelics vs hallucinogens vs entheogens vs psychotomometic drugs (e.g. "partner", "lover", "boyfriend")
 - **Psychedelic "reset"**: the idea that psychedelic trips temporarily interrupt habitual mental dynamics that can keep the mind trapped in suboptimal states.

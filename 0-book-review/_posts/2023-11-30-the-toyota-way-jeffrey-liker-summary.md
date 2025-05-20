@@ -14,7 +14,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 ^
 # Continuous improvement
 * A lean organisation is a learning organisation.
-* The Toyota Way worships at the altar of continuous improvement — taking precedence over everything else, including uptime. It is **the** guiding principle, and a paradigm shift at that. Work clean, and then work fast.
+* <a name="^work-clean-then-work-fast"></a>The Toyota Way worships at the altar of continuous improvement — taking precedence over everything else, including uptime. It is **the** guiding principle, and a paradigm shift at that. Work clean, and then work fast.
 * **Continuous improvement refers to two things: reducing deviation from the standard, and improving the general efficiency of a system (by bursts — "kaizen").**
 	* As you reduce deviation from standard, you can focus more and more on improving the general effectivity of the system and work towards KPI targets, "make leaps".
 	* The Toyota Way includes both radical transformation and incremental improvements: "Some large leaps, and many small steps"; big CI and small CI.
@@ -56,7 +56,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 			* You can use takt time (based on how many items need to be produced that day and the operational hours) to determine, based on a line's or employee's cycle time, how many lines or employees you need that day.
 	* In traditional batch processing, any one product the customer buys takes as much time to be produced as the whole batch it is part of — which is a lot longer than the time it would take in a continuous-flow set-up.
 	* Continuous flow increases safety, as smaller batches of material need to be moved around.
-	* Continuous flow is a double-edged sword. In traditional batch processing (where each cell can work off their inventory if the upstream process halts for a while), the final inefficiency is the inefficiency of the last process in the line. In one-piece flow (where each cell's inefficiency affects the next cell), inefficiencies accumulate.
+	* <a name="^highlight-the-problem"></a>Continuous flow is a double-edged sword. In traditional batch processing (where each cell can work off their inventory if the upstream process halts for a while), the final inefficiency is the inefficiency of the last process in the line. In one-piece flow (where each cell's inefficiency affects the next cell), inefficiencies accumulate.
 		* This provides motivation for remedying the inefficiency of each cell and makes such improvements necessary, urgent and critical. In a way, this is full-on "fight mode", aggressive to the point of inviting (surfacing) problems, in order to tackle them.
 			* Continuous flow makes problems immediately visible, "but is only useful if people are motivated and trained to solve problems." — the Toyota Way is a technical and social system working together.
 		* Because of this insistence on tackling every problem immediately as they emerge, the learning curve and improvement rate of lean organisations is off the charts.

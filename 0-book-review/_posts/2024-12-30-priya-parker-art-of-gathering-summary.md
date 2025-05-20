@@ -41,7 +41,7 @@ date:   2024-12-30 11:10:09 +0200
 		* By accepting Bob, you give up a spot for somebody who could be more relevant.
 		* If you want diversity, **polarize** and exclude the middle.
 			* **Activate the diversity.** (Potential vs activated diversity)
-	* **No invites by obligation.** (× ["Fuck Yes, or No"](https://markmanson.net/fuck-yes))
+	* <a name="^no-invites-by-obligation"></a>**No invites by obligation.** (× ["Fuck Yes, or No"](https://markmanson.net/fuck-yes))
 	* "**If everyone is invited, no one is invited.** By closing the door, you create the room."
 	* Multi-part gatherings: attend all or none. Else the energy gets disrupted.
 ^
@@ -70,7 +70,7 @@ date:   2024-12-30 11:10:09 +0200
 	* **Enforce mercilessly.** You're acting in the benefit of the group.
 		* e.g. set a 60-second timer for introduction rounds and be strict about it.
 		* e.g. interrupt drawn-out "questions" at a Q&A with "Can you put that into a question?"
-		* **Communicate your reasons.** Refer to the purpose when making changes, excluding people, enforcing a rule. Explain that it's not personal, that it's in the interest of the group. (× [The Toyota Way: Mr. Ohno]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^ohno-explain-reasons))
+		* <a name="^communicate-your-reasons"></a>**Communicate your reasons.** Refer to the purpose when making changes, excluding people, enforcing a rule. Explain that it's not personal, that it's in the interest of the group. (× [The Toyota Way: Mr. Ohno]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^ohno-explain-reasons))
 - **Give guests play to decide how deep they want to go.**
 	- Invite, don't force.
 * **Nudge risk with a riskier alternative.** (15 Toasts: "the last person to give a toast has to sing it") (× [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}))
@@ -110,4 +110,4 @@ date:   2024-12-30 11:10:09 +0200
 ^
 # Post-Notes
 - **Gatherings are intentional hangouts.**
-* "One woman shared her mother's words on her deathbed: "I spent 90 percent of my time worrying about things that didn't matter. Don't do that.""
+* <a name="^worrying-about-things"></a>"One woman shared her mother's words on her deathbed: "I spent 90 percent of my time worrying about things that didn't matter. Don't do that.""

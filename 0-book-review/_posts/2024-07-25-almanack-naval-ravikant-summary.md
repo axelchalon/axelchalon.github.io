@@ -22,17 +22,17 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 	- **Create something** — if you cannot code, start a blog, a podcast, shoot videos, write books...
 	- Build what society needs (but doesn't know it wants it), **and then scale it**.
 	* Doing business is a positive-sum game.
-* **Use leverage.** Leverage are resources that multiply the effect of your decisions.
+* <a name="^leverage"></a>**Use leverage.** Leverage are resources that multiply the effect of your decisions.
 	- **Use leverage to increase your returns** — (automated) labour, money (capital), reputation, building a **product with no cost of replication** (memberships, books, videos, code, etc.)
 	- **Permissioned vs permissionless leverage:** capital and labour require people willing to give it to you or work for you; code, automated labour and media are permissionless — use it.
 	- Media with no cost of replication tend to coincide with permissionless leverage.
-- **Build a reputation for yourself**, by taking risks (ownership) under your own name. "Without accountability, you can't build credibility."
+- <a name="^reputation"></a>**Build a reputation for yourself**, by taking risks (ownership) under your own name. "Without accountability, you can't build credibility."
 	* And if you fail but gave it your best (and were honest), people will generally forgive you anyway.
 	* Reputation tips the balance for two people with the exact same talent, skills.
 	* **The more accountability, the more financial reward.** Work your way up. The more risk you take, the more invested you are, the bigger the financial reward.
 		* **Work in smaller companies to work your way up more easily.**
 	* **Build your brand in preparation for the moment when an opportunity will arise.** Create a reputation for yourself.
-- **Be paid for your output, not your input.** What you produce — not how many hours you put in. This lets you focus on results (× [Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %})) rather than "busy-work"; motivates you to be more efficient. "If you do something incredible to move the needle on the business, they have to pay you."
+- <a name="^paid-for-output-not-input"></a>**Be paid for your output, not your input.** What you produce — not how many hours you put in. This lets you focus on results (× [Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %})) rather than "busy-work"; motivates you to be more efficient. "If you do something incredible to move the needle on the business, they have to pay you."
 	- Financial freedom can only be achieved through wealth (passive income — equity, investments, ownership in business), not salaried or wage labour. "Having assets that earn while you sleep."
 - <a name="^special-knowledge"></a>**Develop your special knowledge** — something born out of a personal obsession, that feels like play, and that cannot be directly taught.
 	* <a name="^uniqueness"></a>Specific knowledge comes from your uniqueness, from being you; "each one is the best at being themselves."
@@ -50,9 +50,9 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 - **Train your brain for happiness routines.** You can train (prime) your brain for happiness or gratitude; your brain then becomes better and faster it.
 ^
 # General life 
-* "Almost all biases or time-saving heuristics. For important decisions, discard memory and identity, and focus on the problem."
+* "Almost all biases are time-saving heuristics. For important decisions, discard memory and identity, and focus on the problem."
 - Favour choices with short-term pain, by default (they are the ones with the long-term benefits)
-* <a name="^alumni"></a>Be mindful of who you live with, who you surround yourself with and spend time with, and **which company you work for.** **"The single most important thing about a company is the alumni network you're going to build."**
+* <a name="^alumni"></a>Be mindful of who you live with, who you surround yourself with and spend time with, and **which company you work for.** **"The single most important thing about a company is the alumni network you're going to build."** (× [Creative Being (artistic community)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^artistic-community)
 * You can only make progress and change when you're starting with the truth; when you're being honest with yourself. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^acknowledge))
 * "The greatest superpower is the ability to change yourself." Do not cling to your identity too much.
 * "**You can almost always be both honest and positive** — not blunt"

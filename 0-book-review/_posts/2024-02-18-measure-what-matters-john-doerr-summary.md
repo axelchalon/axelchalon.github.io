@@ -88,13 +88,13 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 * <a name="^impact-not-activity"></a>**OKRs should focus on impact, not activity**; OKRs should focus on direct economic or end-user benefits.
 	* Not "Launch X" but "Double fleet-wide Y by launching X to 90+ percent of borg cells."
 	* Not "Launch X" but "Launch X to improve sign-ups by 25 percent" (or "Improve sign-ups by 25 percent.")
-* **To maximize productivity, focus on output instead of activity,** Busy-ness does not equate efficiency ("**the activity trap**"). "There are so many people working so hard and achieving so little." Don't work hard, work smart. Focus on the value steam instead of surface processes ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^value-stream-not-surface-processes)). [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): (excessive) busy-ness can lead to [over-burdening]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^overburden-is-detrimental) and other wastes (e.g. [over-production]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^continuous-use)).
+* <a name="^output-instead-of-activity"></a>**To maximize productivity, focus on output instead of activity,** Busy-ness does not equate efficiency ("**the activity trap**"). "There are so many people working so hard and achieving so little." Don't work hard, work smart. Focus on the value steam instead of surface processes ([The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^value-stream-not-surface-processes)). [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}): (excessive) busy-ness can lead to [over-burdening]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^overburden-is-detrimental) and other wastes (e.g. [over-production]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^continuous-use)).
 	* "Work "on" the business, not "in" the business. (× [Trying Not to Try]({% link 0-book-review/_posts/2023-04-15-trying-not-to-try-slingerland-summary.md %}#^in-the-world-not-of-it) (Bible) "Being in the world, but not of it.")
 	- "As you move up the hierarchy, you get paid not for the amount of work you do, but for the quality of the decisions you make." When faced with a problem — pause.
 * **Cross-team objectives should have different KRs for the different teams.**
 	* Each team can then turn the KRs into objectives in their own right with their own KRs.
 	* **Make all lateral, cross-functional dependencies explicit.** (Visually!)
-* **When OKRs are collaborative, assign key results to individuals — and hold them accountable.**
+* <a name="^accountability"></a>**When OKRs are collaborative, assign key results to individuals — and hold them accountable.**
 	- **Co-ownership weakens accountability.** (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability))
 * <a name="^give-autonomy"></a>**Give people autonomy on how to solve problems.** "Micromanagement is mismanagement."
 	* **Insight into the way to reach an objective often stems from the gemba** (frontline workers) (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})).
@@ -143,7 +143,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 # Reviewing
 * Score objectives and KRs first objectively, then subjectively through self-assessment (was the goal too easy?)
 * Reflect on your meta-learnings about goal setting.
-* "And then after ten milliseconds of celebration we have to set ourselves another set of highly difficult-to-reach objectives and we have to meet them. **And the reward or having met one of these challenging goals is that you get to play again.**"
+* **Play again**: "And then after ten milliseconds of celebration we have to set ourselves another set of highly difficult-to-reach objectives and we have to meet them. **And the reward or having met one of these challenging goals is that you get to play again.**"
 ^
 # People
 * **OKRs bring insight into who you need to hire** — which necessary skills for the OKRs you are missing in the company. OKRs also give greater clarity to the future hire as to what their mission will be.

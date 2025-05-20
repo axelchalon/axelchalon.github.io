@@ -7,7 +7,7 @@ title:  '**"The Laws of Simplicity"** by John Maeda (personal notes)'
 date:   2025-05-19 14:13:12 +0200
 ---
 ^
-In The Laws of Simplicity, John Maeda (of Depeche Mode remixing fame) lays out principles and weird acronyms for making our life easier. Favourite quote: "At the end of the day, there is an end of the day." (See also: [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}), [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}))
+In *The Laws of Simplicity*, John Maeda (of Depeche Mode remixing fame) lays out principles and weird acronyms for making our life easier. Favourite quote: "At the end of the day, there is an end of the day." (See also: [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}), [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}))
 ^
 - **To simplify, either reduce, or hide.**
 	- Reduce: (× [Creative Act]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^remove-to-perfection))
@@ -34,7 +34,7 @@ In The Laws of Simplicity, John Maeda (of Depeche Mode remixing fame) lays out p
 - People don't just buy **but love** beautiful designs — possessions that make their lives simpler.
 - **How our possessions feel changes how we feel.** ("the upside of materialism" — × [Pavlina](https://www.stevepavlina.com/blog/2014/03/prime-your-brain-for-a-permanent-performance-gain-in-a-few-minutes/))
 ^
-- **Coherence yields simplicity** (repetition of a same message). (× [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}), × [Clear Thinking (clear criteria)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^criteria), Essentialism) (repetition: × [To The Actor (repetition)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^repetition))
+- **Coherence yields simplicity** (repetition of a same message). (× [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}), × [Clear Thinking (clear criteria)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^criteria), [Essentialism]({% link 0-book-review/_posts/2025-05-20-essentialism-greg-mc-keown-summary.md %})) (repetition: × [To The Actor (repetition)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^repetition))
 ^
 - "Much is said about the development from child to adult as a gradual process of neutering emotional output."
 - "In the parlance of the business world, professing your love for someone is a high risk, high reward opportunity. As a person happily engaged in a relationship that has lasted for more than fifteen years now, I'm glad to have taken the risk."
