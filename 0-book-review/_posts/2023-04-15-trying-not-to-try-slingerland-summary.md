@@ -37,7 +37,7 @@ _This is my attempt at a personal summary of Edward Slingerland's book "Trying N
 		* Alcohol suppresses the conscious mind and allows for more uninhibited (and open-hearted) exchanges.
 			* In those spontaneous exchanges is the Beauty in life.
 		* You meet one's true personality when their defenses are down: when dancing, singing, drinking, playing.
-* Spontaneous people (or people embodying any particular paradigm) naturally encourage others around them to do the same (× "permission slip" in improvisation). People with "de" naturally relax people around them (the body feels safe, the person can be trusted.)
+* <a name="^spontaneous-people"></a>Spontaneous people (or people embodying any particular paradigm) naturally encourage others around them to do the same (× "permission slip" in improvisation). People with "de" naturally relax people around them (the body feels safe, the person can be trusted.)
 * Spontaneity is life making things easier for you, and for everybody. (Transparency.) Life (lives) naturally get into order.
 	* Spontaneity is linked to and follows the Heavenly way; and naturally leads you in the right direction (since it is sacred.)
 * Self-confidence sends the signal that you are what you claim to be.

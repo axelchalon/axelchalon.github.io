@@ -15,7 +15,7 @@ date:   2024-12-30 11:10:09 +0200
 		- e.g. Start from a vision backward. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
 		* e.g. "What makes this gathering special, what with where each of us is in their life?"
 		* e.g. An outcome-focussed purpose for work meetings ("Reaching a decision")
-	* **Make it bold.**
+	* <a name="^bold"></a>**Make it bold.**
 	- You are consuming people's most precious resource, time. Decide how you want them to be altered by the experience.
 	- Go beyond templates & tradition (× [legacy problem]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^legacy-problem); Conflict Communication). **Make the gathering unique.**
 	* If co-hosting, align clearly on the purpose.
@@ -71,8 +71,8 @@ date:   2024-12-30 11:10:09 +0200
 		* e.g. set a 60-second timer for introduction rounds and be strict about it.
 		* e.g. interrupt drawn-out "questions" at a Q&A with "Can you put that into a question?"
 		* <a name="^communicate-your-reasons"></a>**Communicate your reasons.** Refer to the purpose when making changes, excluding people, enforcing a rule. Explain that it's not personal, that it's in the interest of the group. (× [The Toyota Way: Mr. Ohno]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^ohno-explain-reasons))
-- **Give guests play to decide how deep they want to go.**
-	- Invite, don't force.
+- <a name="^invite-depth"></a>**Give guests play to decide how deep they want to go.**
+	- <a name="^997489"></a>Invite, don't force.
 * **Nudge risk with a riskier alternative.** (15 Toasts: "the last person to give a toast has to sing it") (× [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}))
 * **Prime displacement** if you want people to show up outside of their usual self. Find ways to break habits or the ordinary.
 * **Create connection among guests**.
@@ -81,7 +81,7 @@ date:   2024-12-30 11:10:09 +0200
 		* **Introduce commonalities.** Introductions let people be seen and give them material to connect.
 	- **Ask people for stories.** Stories over ideas. Ask for turning points in people's lives; decisions they made that showcase their personality.
 	* You can let anyone connect authentically. You can connect with anyone.
-	- Prompt ideas
+	- <a name="^prompt-ideas"></a>Prompt ideas
 		- How have your priorities changed over the years?
 		* How have your background and experience limited or favoured you?
 		* Which parts of your life have been a waste of time?
@@ -111,3 +111,5 @@ date:   2024-12-30 11:10:09 +0200
 # Post-Notes
 - **Gatherings are intentional hangouts.**
 * <a name="^worrying-about-things"></a>"One woman shared her mother's words on her deathbed: "I spent 90 percent of my time worrying about things that didn't matter. Don't do that.""
+^
+See also: <a>Microsolidarity</a>

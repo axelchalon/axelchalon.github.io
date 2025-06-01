@@ -12,7 +12,7 @@ date:   2025-03-22 14:13:12 +0200
 Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* — a.k.a. the book that misses a nipple.
 ^
 # Life, art and creativity
-- **We are all creative simply by means of living.** Living, we are constantly creating our reality. Living is a creative act. We exist as creative beings in a creative universe. Life is creation.
+- <a name="^living-is-creating"></a>**We are all creative simply by means of living.** Living, we are constantly creating our reality. Living is a creative act. We exist as creative beings in a creative universe. Life is creation.
 	- **Creatives vs artists.** Creatives make things happen more generally.
 	- We are constantly designing our experience of reality — **whether we do so consciously or unconsciously.**
 	- **We are immersed in a field of undifferentiated matter.** We can go any which way at any moment; we can call forth anything at any moment.
@@ -105,7 +105,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 	- **Do the opposite.**
 	- **Purposefully experiment past the boundaries of your taste.** Try different genres; explore! Different flavours of people!
 	- **Accentuate the fault.** Kintsugi (filling up cracks with gold) (no relation to the famous singer) (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}): own your mistakes; failure bow; celebrate mistakes; "yes, and" them; assertiveness)
-- **Attention gives life.** Pay attention to something inside you — it grows (visuospatial abilities; awareness of sensations; exercising empathy; etc.). Pay attention to something outside you — it grows (plants; projects; relationships; [home]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})). (× [Psychedelics Revealing: Attention to a resource develops it.]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^attention-to-a-medium))
+- <a name="^attention-gives-life"></a>**Attention gives life.** Pay attention to something inside you — it grows (visuospatial abilities; awareness of sensations; exercising empathy; etc.). Pay attention to something outside you — it grows (plants; projects; relationships; [home]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})). (× [Psychedelics Revealing: Attention to a resource develops it.]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^attention-to-a-medium))
 	- Symbiotic relationships: the thing brings you excitement, you bring it growth (for an ability — or a project) (× pollination).
 	- (Psychedelics <a href="#^amplify-impressions">amplify impressions</a>, thereby make us pay more attention to things, and we thereby give them more life — psychedelics are life-giving; give life all around us. And the life around us in turn fills us with life, inspires us. (× <a href="#^cycle-of-inspired-creation">cycle of inspired creation</a>))
 - <a name="^contrasts-amplify"></a>**Contrasts amplify.** Juxtapose a loud song with a quiet song. A loud song after a quiet song sounds even louder.

@@ -83,7 +83,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 * <a name="^self-to-self"></a>Any one interaction is one of your selves interacting with one of the other's selves. (× [Improvise: letting one's playful self meet another's playful self]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-selves))
 	* Make a deliberate ritual for arriving with somebody and synchronizing selves, for meeting another's specific self from one specific self.
 * Some environments draw out some of your selves more and can be safe spaces for them.
-	* One person deeply embodying a state can help your self find resonance in it and feel more comfortable coming out.
+	* <a name="^self-resonance"></a>One person deeply embodying a state can help your self find resonance in it and feel more comfortable coming out.
 	* Hang out with people with whom you are an interesting self.
 * Self-talk, internal talk can be to someone we know, have known or would wish to know.
 * Speech can be seen as out-loud thinking, making transparent what our inner state is, what our thoughts are (e.g. a child saying "I don't want that"); as a parallel to body language.

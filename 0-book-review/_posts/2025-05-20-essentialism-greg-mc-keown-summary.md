@@ -22,7 +22,8 @@ date:   2025-05-20 14:13:12 +0200
 - **Sunk-cost bias: continuing down the path because you've invested a lot in it already** — even though you should ditch it (e.g. personal projects).
 - **Zero-based budgeting**: at the beginning of a new period, review expense items individually — rather than starting off from last period's budget. (blank slate, clean slate) (prevents inertia effect, status quo bias.)
 	- **Zero-based life review:** periodically questioning all of your habits, projects, use of your time and of your energy.
-	- **Zero-based scheduling:** **"If I didn't have this commitment, how much would I want it?"** (applied ot one's calendar)
+	- **Zero-based scheduling:** **"If I didn't have this commitment, how much would I want it?"** (applied to one's calendar)
+		- **Dream Week**: "Start with a blank one-week calendar. Design your Dream Week: what's most important each day."
 - **[Reverse pilot](https://www.aerotime.aero/images/Wings-over-Baltics-Airshow-2019.jpg):** remove something suspected unessential, see if there is a (negative) response. If not, congratulations, you've removed something unessential. (to prevent status quo bias)
 - **External advice helps with getting untrapped from the endowment effect.**
 ^
@@ -60,7 +61,7 @@ date:   2025-05-20 14:13:12 +0200
 - **Prepare early.** Pack a few days ahead; make buffers. (× [Clear Thinking (2x margin of safety)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^margin-of-safety))
 	- "**What is the minimal amount I could do *right now* to prepare?** (for an upcoming goal or deadline).
 ^
-- Two questions for Editing: "**Are you saying what you want to say?** & **"Are you saying it as clearly and concisely as possible?**" (i.e. accuracy & precision) (× [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}))
+- <a name="^editing"></a>Two questions for Editing: "**Are you saying what you want to say?** & **"Are you saying it as clearly and concisely as possible?**" (i.e. accuracy & precision) (× [Creative Being]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}))
 - An Editor doesn't do what the director tells them to do, but what the director really wants.
 ^
 - **"When we play, we are engaged in the purest expression of our humanity, the truest expression of our individuality."** (× [Come As You Are (play disarms)]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^play-disarms); [Come As You Are (turning sex into play)]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^turning-sex-into-play); [Improvise (play-self meeting other play-self)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-selves); [Improvise ("When we play, we we simply live in a reality until it stops being useful or fun.")]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^play-fantasy): [Improvise (adults are atrophied children; need to re-learn the art of play)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^atrophied-play) )

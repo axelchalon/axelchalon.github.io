@@ -91,7 +91,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-05-19-laws-simplicity-john-maeda.md",
   
   "Essentialism":
-    "2025-05-20-essentialism-greg-mc-keown-summary.md"
+    "2025-05-20-essentialism-greg-mc-keown-summary.md",
+
+  "How to Know a Person":
+    "2025-06-01-how-to-know-person-david-brooks-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

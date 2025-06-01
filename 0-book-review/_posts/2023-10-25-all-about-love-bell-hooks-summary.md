@@ -131,7 +131,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 	* Mass media wants us to picture love as mysterious, tacit, silent; while in fact these characteristics do not fuel love, but do the opposite. Love thrives on communication and knowledge, not on silence and ignorance.
 		* "We see movies in which people are represented as being in love who never talk with one another; who fall into bed without ever discussing their bodies, their sexual needs, their likes and dislikes. Indeed, the message received from the mass media is that knowledge makes love less compelling; that it is ignorance that gives love its erotic and transgressive edge."
 		* "Where once knowing nothing was the basis for excitement and erotic intensity, knowing more is now the basis. Lots of people who feared a loss of romantic and/or erotic intensity made this radical change in their thinking and were surprised to find that their previous assumptions that talk killed romance were wrong."
-		* The patriarchal masculine construct of "not asking questions", of knowing it all already, gets in the way of communication and love.
+		* <a name="^asking-questions-admitting-dont-know"></a>The patriarchal masculine construct of "not asking questions", of knowing it all already, gets in the way of communication and love.
 		* Mass media has been brainwashing us (into silence); the actual way is full of talking and communicating.
 	* By communicating with others, including partners and potential partners, about love, we make sure we are on the same page. "Had I shared with others a common understanding of what it means to love, it would have been easier to create love."
 		* Share your thoughts, beliefs, intentions, expectations, desires, visions and fears about love to your partner or potential partner, such that you are not trapped anymore in ignorance-bound anxiety, such that you are not in the dark anymore. Knowledge (transparency) and communication fuel love. Talk to your partner, about what you are looking for; set up a culture of communication beforehand, before things get heated or intimate; such that this culture of communication persists into intimacy and the rest; such that you go into all of these activities accompanied with that culture.
@@ -182,7 +182,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 * "Forgiveness is an act of generosity. It requires that we place releasing someone else from the prison of their guilt or anguish over our feelings of outrage or anger."
 	* Have a ritual for clearing the slate, for example leaving the room and entering it again. "Let's start again." (x [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}))
  * Practice forgiveness as leaving the door open on your side. "She still has a place in my heart, should she wish to claim it."
- * Distinguishing the person from your relationship to the person, and distinguishing between the different selves of the person (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})) can help you forgive.
+ * <a name="^person-vs-relationship"></a>Distinguishing the person from your relationship to the person, and distinguishing between the different selves of the person (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})) can help you forgive.
 ^
 # <a name="^honesty"></a>Honesty
 * Openness and truth-telling, honesty, is a prerequisite for trust, a prerequisite for love.

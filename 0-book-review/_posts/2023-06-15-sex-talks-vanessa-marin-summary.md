@@ -73,7 +73,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* <a name="^conflicts-bring-closer"></a>Conflicts and arguments are an opportunity for you and your partner to clear up misunderstandings and understand yourselves and each other more deeply.
 	* Don't dredge up what's resolved.
 	* <a name="^understanding-not-agreeing"></a>Aim for understanding how the other person feels, not for agreeing with them.
-	* "There's little tension because there's nothing to argue about. They're each just sharing their truth, in an act of joint vulnerability."
+	* <a name="^joint-vulnerability"></a>"There's little tension because there's nothing to argue about. They're each just sharing their truth, in an act of joint vulnerability."
 * Emotional connection
 	* Ask your partner what specific things you do helps them feel connected to you. Know how you each like to give and receive love.
 	* <a name="^emotional-connection-rituals"></a>Have rituals

@@ -12,6 +12,8 @@ Here are my takeaways from Chris Voss and Tahl Raz's book "Never Split the Diffe
 ^
 This one goes out to my future employer.
 ^
+(Retrospective plot twist: became freelance)
+^
 ---
 ^
 # Understanding
@@ -43,7 +45,7 @@ This one goes out to my future employer.
 * <a name="^accusation-audit"></a>**Accusation audit.** If you have something to reproach yourself or if you messed up or are in a bad relationship with your counterpart, do an "accusation audit": voice how you assume the other feels about you (and rightly so), exaggerate it. "List every possible thing your counterpart could say about you."
 	* Even if it's not true, you will still gain more information on how your counterpart is feeling, as they will correct you. And if you are right, then you and your counterpart with be on the same page and you will have cleared the air — and have a better understanding of the situation.
 * **Slow things down; take your time**. Helps with any conflict.
-* For communicating hard boundaries, use a calm, "late-night FM DJ voice", with the inflection going down. (Calm setting of factual boundaries — not up for negotiation.) (e.g. "We don't do work for hire.")
+* For communicating hard boundaries, use a calm, **"late-night FM DJ voice"**, with the inflection going down. (Calm setting of factual boundaries — not up for negotiation.) (e.g. "We don't do work for hire.")
 * **Lean into conflicts.** Overcome your fear of conflicts. Conflicts are necessary; navigate them with empathy. "Don't avoid honest, clear conflict. It will save your marriage, your friendship and your family." (× Conflicts as bringing people closer, [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^conflicts-bring-closer)) Be honest, direct and clear about what you want (× transparency in job interviews).
 - **Humour and humanity to build bridges.** "Humour and humanity are the best ways to break the ice and remove roadblocks" (× [laughing about failures (Improvise)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^laugh-about-failures); [laughing about sex (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^laugh-about-it))
 * Practicing empathy / emotional intelligence: observe somebody and try to put yourself in their shoes. (Also as a way to soak up the energy of somebody.) "If you want to increase your neural resonance skills, take a moment right now and practice. Turn your attention to someone who's talking near you, or watch a person being interviewed on TV. As they talk, imagine that you are that person. Visualize yourself in the position they describe and put in as much detail as you can, as if you were actually there."
