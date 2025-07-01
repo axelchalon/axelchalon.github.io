@@ -4,10 +4,10 @@ title:  'Stress patterns of Russian nouns: A method for stress-free memorization
 date:   2024-05-23 14:13:12 +0200
 ---
 
-![Talk](https://xaxel.me/assets/stresspattern_talk.jpg)
+![Talk](https://xaxel.cc/assets/stresspattern_talk.jpg)
 
 <em><small>
-You first have to produce bad ideas to come to good ones[*](https://xaxel.me/improvise-max-dickins-summary.html#brainstorming)
+You first have to produce bad ideas to come to good ones[*](https://xaxel.cc/improvise-max-dickins-summary.html#brainstorming)
 </small></em>
 
 
@@ -27,11 +27,11 @@ This method has the advantage of requiring you to memorize very little informati
 # Context needed
 As shown on this [very insightful Wiktionary page](https://en.wiktionary.org/wiki/Appendix:Russian_stress_patterns_-_nouns), each noun's stress pattern is one of ten alternatives.
 
-[![Stress pattern types](https://xaxel.me/assets/stresspattern_overview1.png)](https://xaxel.me/assets/stresspattern_overview1.png)
+[![Stress pattern types](https://xaxel.cc/assets/stresspattern_overview1.png)](https://xaxel.cc/assets/stresspattern_overview1.png)
 
 We can know the stress for all declensions of a given noun (as well as the noun's stress pattern type ­— should it interest us) by looking up the noun on Wiktionary and expanding the "Declension" section. For example, for [мотор](https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%82%D0%BE%D1%80#Russian), we find all of its declensions, as well as its stress pattern type (*a* (accent-a)) at the top of the table:
 
-[![Declension table of мотор](https://xaxel.me/assets/stresspattern_declension_example.png)](https://xaxel.me/assets/stresspattern_declension_example.png)
+[![Declension table of мотор](https://xaxel.cc/assets/stresspattern_declension_example.png)](https://xaxel.cc/assets/stresspattern_declension_example.png)
 
 > Efficiency tangent: I like to add the Wiktionary's Russian section (`https://en.wiktionary.org/wiki/%s#Russian`) as search engine on my web browser and assign a keyword to it; this way I can simply type, for example, `wkr мотор` in my web browser's address bar to jump to its entry in Wiktionary ­— and quickly check its declensions if I have a doubt.
 
@@ -66,7 +66,7 @@ Here is a key to interpret the syntax we have come up with. The syntax is formal
 
 As an appendix, I will post again the table from the beginning along with what we would have to memorize for the example word given, using the system we've created.
 
-[![Stress pattern types](https://xaxel.me/assets/stresspattern_overview1.png)](https://xaxel.me/assets/stresspattern_overview2.png)
+[![Stress pattern types](https://xaxel.cc/assets/stresspattern_overview1.png)](https://xaxel.cc/assets/stresspattern_overview2.png)
 
 Case closed.
 
