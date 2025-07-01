@@ -60,7 +60,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 		* "There's an opportunity to bond over the crap you're both carrying."
 	* "Without vulnerability, there is no intimacy." (Brené Brown) "Intimacy is letting our partner see our internal world, even when it's not a pretty picture. Not keeping our guard up, like we do strangers."
 		* Bring your fears out into the light of day. Create a safe space with your partner to share your fears and struggles.
-	* Shame needs secrecy and judgement to thrive. (Brené Brown)
+	* <a name="^secrecy-judgment"></a>Shame needs secrecy and judgement to thrive. (Brené Brown)
 	* Focus on your feelings and needs and on communicating them, rather than mulling about what's going on in your partner's head.
 	* Films mistakenly portray sex as happening organically and very smoothly, while in fact sex most of the time can be quite goofy, awkward or a bit funny. You can call it out!
 	* <a name="^laugh-about-it"></a>Normalize sex. Laugh about it. In the end, it's just sex. Practice thinking and talking about sex openly and honestly every day to let fears, shame and hang-ups about sex dissolve, and have it be a normal, natural part of life. Make it "no big deal".

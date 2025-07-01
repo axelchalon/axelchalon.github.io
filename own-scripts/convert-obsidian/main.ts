@@ -94,7 +94,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-05-20-essentialism-greg-mc-keown-summary.md",
 
   "How to Know a Person":
-    "2025-06-01-how-to-know-person-david-brooks-summary.md"
+    "2025-06-01-how-to-know-person-david-brooks-summary.md",
+
+  "Daring Greatly":
+    "2025-07-01-daring-greatly-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

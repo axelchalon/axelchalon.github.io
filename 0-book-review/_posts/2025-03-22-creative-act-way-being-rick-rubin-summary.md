@@ -16,7 +16,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 	- **Creatives vs artists.** Creatives make things happen more generally.
 	- We are constantly designing our experience of reality — **whether we do so consciously or unconsciously.**
 	- **We are immersed in a field of undifferentiated matter.** We can go any which way at any moment; we can call forth anything at any moment.
-- **Art is the fruit of humanity.** Humans produce art, just as trees produce flowers and fruits.
+- <a name="^art-the-fruit-of-humans"></a>**Art is the fruit of humanity.** Humans produce art, just as trees produce flowers and fruits.
 - **Art is beyond utilitarianism** — we do not create a work of art for it to be useful to somebody else; only to express who we are. 
 - **Artistic creations are externalized dreams** — creations of the subconscious, not fully understood by the person, and revealing them.
 ^

@@ -59,7 +59,7 @@ date:   2025-06-01 14:13:12 +0200
 	- **Decelerate the pace of social life** — slow down, create safety, let things emerge. Create an environment for people to be their full self with you.
 - Get to know people through play. **In the midst of play, people relax, become themselves, and connect without even trying.** You can know people deeply without deep conversations (play partners, Primal Play, kids, pets).
 ^
-- Sometimes we need to hitch a ride on someone else's journey, and accompany them a part of the way.
+- Sometimes we need to hitch a ride on someone else's journey, and accompany them a part of the way. (~~STIs~~)
 ^
 - **The thing we need most is relationships. The thing we seem to suck at most is relationships.** (Hence work at it.)
 ^
@@ -93,7 +93,7 @@ date:   2025-06-01 14:13:12 +0200
 - Box of Big Activities
 	- **Ten key scenes in your life:** scenes that capture a period of your life. (× [Chekhov: the climax of a unit (in a theater play)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}))
 	- **Filling in the Calendar:** walk through periods of the other person's life, year by year. What was your life like in second grade? In third grade? In [seminary school](https://www.youtube.com/watch?v=4YWPhmduSDQ)?
-- **Ask people for their life stories.** Tell your life story.
+- <a name="^life-stories"></a>**Ask people for their life stories.** Tell your life story.
 	- **People very rarely get asked to tell their life story** — yet it's healing, lets people be deeply [seen](https://www.youtube.com/watch?v=nNCI5PwCEfE).
 	- **We create our life story more and more, the more times we tell it.** We make more sense of our life each time we tell our life story. "It's when somebody asks us to tell a story about ourselves that we have to step back and organize the events and turn them into a coherent narrative." Meaning emerges.
 		- **Imago:** the role (archetype) you're assuming in your life story, e.g. Healer, Caregiver, Warrior, Sage, Maker, Counselor, Survivor, Arbiter, Juggler, Fighter... (× [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}))
@@ -113,15 +113,16 @@ date:   2025-06-01 14:13:12 +0200
 		- As we age, we construct a better and more accurate life story; better aware of our strengths, weaknesses, and the **"core desire line that will always propel our life forward**; we re-interpret the past, being more forgiving and appreciative.
 		- "We live our childhoods at least twice. First, we live through them with eyes of wonderment, and then later in life we have to revisit them to understand what it all meant."
 		- **Life story across generations:** "a person is part of a long movement, a transmission from one generation to another."
-	- **Know your story to write the next chapter.** You can know what to do next only if you know what story you are a part of.
+	- <a name="^next-chapter"></a>**Know your story to write the next chapter.** You can know what to do next only if you know what story you are a part of.
 	- Our inner voice organizes random events into one coherent story with meaning and purpose.
 	- "All sorrows can be borne if you put them into a story."
 - **Open questions (like accompaniment) are a surrender of power.** Asking questions is a surrender of power, is admitting not knowing (× [All About Love (patriarchy)]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^asking-questions-admitting-dont-know)).
+	- <a name="^insure-world-fewer-questions"></a>"An insecure, self-protected world is a world with fewer questions."
 ^
-- **Use second or third-person for move effective debugging.** "You are having trouble with X" "Axel is having difficulty with Y" (× [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}))
+- <a name="^2nd-person"></a>**Use second or third-person for move effective debugging.** "You are having trouble with X" "Axel is having difficulty with Y" (× [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}))
 ^
 # Conflicts (The Sound of C)
- - Difficult conversations / Conversations [gone south](https://www.youtube.com/watch?v=LNBjMRvOB5M "that went south")  (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^difficult-sex-talks); [Never Split the Difference]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %})) 
+ - Difficult conversations / Conversations [gone south](https://www.youtube.com/watch?v=LNBjMRvOB5M "that went south")  (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^difficult-sex-talks); [Never Split the Difference]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %})) (conflicts as an opportunity for growth and intimacy)
 	 - **Gem statement**: Realign with the common intention; something (fundamental) you can both agree on. (× [Sex Talks: same team]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^same-team))
 	 - Find the **disagreement under the disagreement**: what are we fundamentally disagreeing on?  (× ["we're not really fighting about this"]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^not-really-fighting-about-this)) (And why do we have this fundamental disagreement — what in our respective pasts have led us to these respective positions?)
 	* **Shared pool of knowledge.** Build a shared pool of knowledge instead of defending your point of view. (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^joint-vulnerability): "in an act of joint vulnerability")

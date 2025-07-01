@@ -65,7 +65,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 			* Fear is often the fear of change, or the fear of the other (of separation; of difference).
 				* "Fear intensifies our doubts. It paralyzes."
 			* Fear is out instinctual reaction to risk, and can be overcome with love. Love is the opposite of fear.
-				* When you deliberately reject fear, you come back to love. "The choice of love is a choice to connect — to find ourselves in the other." "Our fear may not go away, but it will not stand in the way." "That which is rendered separate or strange through fear (or shame) is made whole through perfect love."
+				* <a name="^shame-love"></a>When you deliberately reject fear, you come back to love. "The choice of love is a choice to connect — to find ourselves in the other." "Our fear may not go away, but it will not stand in the way." "That which is rendered separate or strange through fear (or shame) is made whole through perfect love."
 		* "The vulnerability in love is at once what makes it dangerous and beautiful, prone to wounding and prone to healing; the force that transforms, changes you and lets you grow."
 		* "By learning to love, we learn to accept change. Without change, we cannot grow. Our will to grow in spirit and truth is how we stand before life and death, ready to choose life." (As opposed to stagnation.)
 			* "We are all capable of shifting our paradigms"
@@ -160,7 +160,7 @@ _Here are my takeaways from bell hook's book "all about love: new visions" (inse
 # Dysfunctions
 * It is possible to describe something (e.g. your family, or a person) as dysfunctional, not knowing how to give and receive love; and do so objectively, descriptively, and without any judgment. Many people have difficulty acknowledging dysfunctions because of the stigma associated with it.
 ^
-# Shame
+# <a name="^shame"></a>Shame
 * Shame makes us feel divided with ourselves, separated from ourselves, split. Shame divides us both from ourselves and from others.
 * **A wound is nothing to be ashamed of.** It is just the mark of something we have experienced. We are not to blame for it, and have no reason to be ashamed of it. It is simply an admission of (past) vulnerability.
 	* Identify wounds (in yourself and in the other) without judgment. By recognizing a wound, you can tend it.

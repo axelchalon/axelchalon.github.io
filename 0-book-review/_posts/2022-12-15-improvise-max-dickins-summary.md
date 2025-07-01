@@ -166,7 +166,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		* You can distract your "chimp" (emotional center, fear center) by focussing on a task (e.g. being engaged, playful)
 ^
 # Coaching, improvement, learning, feedback
-* *The antidote to shame is not sympathy or pity — "Poor you"; it is empathy — "Me too."*
+* <a name="^shame-empathy-sympathy"></a>*The antidote to shame is not sympathy or pity — "Poor you"; it is empathy — "Me too."*
 * Improvement
 	* You can simply focus on becoming better every day. This lets you improve without comparing yourself to others constantly.
 		* Process goals (habits) vs outcome goals (vision). Your vision is supported by your habits.

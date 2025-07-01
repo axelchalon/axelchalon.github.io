@@ -72,7 +72,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* Idling people is a waste of availability and potential.
 	* Let there be small fluctuations in shift lengths, accounting for variations in customer demand.
 	* Use a small finished inventory to cover fluctuations in customer demand.
-* Level the product mix in addition to the production volume. This also lets workers alternate between high-effort tasks/products and low-effort tasks/products, reducing overburden.
+* Level the product mix in addition to the production volume. This also lets workers alternate between high-effort tasks/products and low-effort tasks/products, reducing overburden. (× I Will Teach You To Be Rich; diversifying your portfolio, asset allocation — on scaling up & down: variable amount of cashiers at supermarkets)
 	* Levelling the types of products being made prevents you from being wrong-footed if a customer unexpectedly orders large quantities of a certain item at the wrong time (e.g. long before this item gets produced in the weekly production cycle).
 	* By preparing way ahead for seasonal demands, you obviate the need for having the equipment, material and people (e.g. hiring of seasonal workers) needed to suddenly produce immense amounts of that seasonal product.
 	* Levelling prevents rendering certain workers expendable (e.g. those working exclusively on a production line failing to meet with customer demand). Levelling thus increases job safety, essential in creating a culture of respect for people and collective growth.

@@ -29,7 +29,8 @@ const obsidianFileToWebsiteFile = {
     "Clear Thinking": "2025-04-26-clear-thinking-shane-parrish-summary.md",
     "The Laws of Simplicity": "2025-05-19-laws-simplicity-john-maeda.md",
     "Essentialism": "2025-05-20-essentialism-greg-mc-keown-summary.md",
-    "How to Know a Person": "2025-06-01-how-to-know-person-david-brooks-summary.md"
+    "How to Know a Person": "2025-06-01-how-to-know-person-david-brooks-summary.md",
+    "Daring Greatly": "2025-07-01-daring-greatly-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {

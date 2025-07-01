@@ -104,7 +104,7 @@ date:   2025-03-03 03:02:01 +0200
 		- <a name="^go-there-to-pass"></a>Feeling one's way through one's emotions is **counter-intuitive: you have to go there to not be there anymore** (to an extent like fear: stage fright, cold showers).
 		- **Feel your feels just like you have to pee.** Just find an appropriate place.
 		- Even if a feeling doesn't have a "solution", feeling the feel lets you complete the cycle.
-		- When you trust that feeling your feels will let you go over them, being in emotionally uncomfortable places stops being scary.
+		- <a name="^discomfort"></a>When you trust that feeling your feels will let you go over them, being in emotionally uncomfortable places stops being scary.
 	* **Nonjudge is what matters; not simply observation.** Nonjudge, not simply awareness of one's emotions, is the predictor of well-being and getting over emotions. "It's not about being aware of how you feel; it's about how you feel about how you feel." "Nonjudge is neutrally observing your feelings."
 		- **Self-judgment gets in the way of allowing yourself to experience the emotions and completing their cycle.** Meta-emotions: how you feel about how you feel.
 		- "**Feeling okay about how you feel**—even when it’s not what you expected—**is the key to extraordinary sex.**"
