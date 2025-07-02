@@ -30,7 +30,8 @@ const obsidianFileToWebsiteFile = {
     "The Laws of Simplicity": "2025-05-19-laws-simplicity-john-maeda.md",
     "Essentialism": "2025-05-20-essentialism-greg-mc-keown-summary.md",
     "How to Know a Person": "2025-06-01-how-to-know-person-david-brooks-summary.md",
-    "Daring Greatly": "2025-07-01-daring-greatly-summary.md"
+    "Daring Greatly": "2025-07-01-daring-greatly-summary.md",
+    "I Will Teach You To Be Rich": "2025-07-02-i-will-teach-you-to-be-rich-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {

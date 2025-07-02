@@ -11,7 +11,7 @@ date:   2025-05-20 14:13:12 +0200
 ^
 - **Make clear decisions and commit**, in order to prevent constantly questioning yourself (decision fatigue). (× [Clear Thinking (rules to prevent decision fatigue)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^rules-to-prevent-decision-fatigue))
 	- **Fewer decisions — better made.**
-- **Reduce priorities.** If everything is a priority, nothing is. You cannot have five priorities going on at once. For most of history, 'priority' was used exclusively in the singular.
+- <a name="^reduce-priorities"></a>**Reduce priorities.** If everything is a priority, nothing is. You cannot have five priorities going on at once. For most of history, 'priority' was used exclusively in the singular.
 	- **Focus yields results.** Instead of spreading oneself too thin and making a bit of progress if many directions; concert your efforts and make significant progress in one direction. "The success that results from making a consistent set of choices." **Less but better.**
 - "**Shift the ratio of activity to meaning"** (× busy-work) (× [OKRs (output instead of activity)]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^output-instead-of-activity); [Naval (be paid for your output, not your input)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^paid-for-output-not-input))
 - <a name="^most-important-knowing"></a>**If you don't know what's the most important, then the most important is to figure it out.**
@@ -20,7 +20,7 @@ date:   2025-05-20 14:13:12 +0200
 	- **"If I didn't own this, how much would I pay for it?"**, to reduce possessions. ([The Life-Changing Magic of Tidying up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %}); [The Laws of Simplicity]({% link 0-book-review/_posts/2025-05-19-laws-simplicity-john-maeda.md %}) (reducing)). 
 	- **"If I wasn't involved in this project, how hard would I work to get on it?"** The endowment effect happens for projects we own as well (clinging to them). Uncommit from non-essential projects you are responsible for.
 - **Sunk-cost bias: continuing down the path because you've invested a lot in it already** — even though you should ditch it (e.g. personal projects).
-- **Zero-based budgeting**: at the beginning of a new period, review expense items individually — rather than starting off from last period's budget. (blank slate, clean slate) (prevents inertia effect, status quo bias.)
+- <a name="^zero-based"></a>**Zero-based budgeting**: at the beginning of a new period, review expense items individually — rather than starting off from last period's budget. (blank slate, clean slate) (prevents inertia effect, status quo bias.)
 	- **Zero-based life review:** periodically questioning all of your habits, projects, use of your time and of your energy.
 	- **Zero-based scheduling:** **"If I didn't have this commitment, how much would I want it?"** (applied to one's calendar)
 		- **Dream Week**: "Start with a blank one-week calendar. Design your Dream Week: what's most important each day."

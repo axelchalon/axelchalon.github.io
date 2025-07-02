@@ -63,7 +63,7 @@ This one goes out to my future employer.
 		* The decreasing increments suggest you are getting closer to your limit.
 		* The precise final offer suggests you came to this number through deliberate calculation; it sounds non-arbitrary, and final.
 		* The non-monetary extra added to the last offer suggests you truly reached your limit.
-			* <a name="^non-cash-extras (x Lopsided perks)"></a>**Non-cash gifts can be low-effort, high-value.** Low-effort on the giver's part; high-value on the receiver's part: win-win. (Requires knowing what each one is actually looking for; what each one values.)
+			* <a name="^non-cash-extras"></a>**Non-cash gifts can be low-effort, high-value.** Low-effort on the giver's part; high-value on the receiver's part: win-win. (Requires knowing what each one is actually looking for; what each one values.) (x Lopsided perks)
 			* The corollary: **When you cannot ask for more money, ask for more perks or services**, based on the assets of your counterpart (e.g. ask for a training, an article in their magazine, etc.)
 ^
 # Quotes
