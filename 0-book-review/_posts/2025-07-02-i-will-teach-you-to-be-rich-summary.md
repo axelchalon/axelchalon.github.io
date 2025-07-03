@@ -50,7 +50,7 @@ date:   2025-07-02 14:13:12 +0200
 	- **Negotiate higher pay.** Reach for the moon, shoot at the stars.
 		- Top Performer method:
 			- On joining, ask what it would take to be a top performer. Set a concrete goal. Agree that you will discuss salary again if you reach the goal. Commit to history by a follow-up mail.
-			- Meticulously track your impact in your projects. (Ask someone experienced at work on what to track if at a loss.) Regularly update your boss on your progress. (Though: rigged metrics (Skin in the Game); × [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}))
+			- Meticulously track your impact in your projects. (Ask someone experienced at work on what to track if at a loss.) Regularly update your boss on your progress. (Though: [rigged metrics (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^rigged-metrics); × [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}))
 			- A few months before the review, ask your boss if you're on the right track.
 			- Just before the review, ask for a colleague to put in a good word for you. Bribe as needed.
 			- Role-play the negotiation with friends with negotiation experience who can give you feedback — videotape it (send it to your boss). Visualizations (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})). Know what to say in every eventuality. "**Negotiation is 90% mindset and 10% tactics**"

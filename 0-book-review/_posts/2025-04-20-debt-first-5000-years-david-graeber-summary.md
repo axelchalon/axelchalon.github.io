@@ -32,14 +32,14 @@ date: 2025-04-20 14:13:12 +0200
 	- **Hierarchical relationships work with customs.** In hierarchical relationships, precedents form the basis of reference for fairness or what is to be expected. Especially in hierarchical relationships, any action can set a precedent and be dangerous because of it.
 - "Spheres of exchanges": categories of objects deemed of comparable value, that can be traded with each other (e.g. pig & shoes; cloths & spears...)
 ^
-- **Exchange is for ephemeral encounters; credit is for sustained relations.**
+- <a name="^exchange-vs-credit"></a>**Exchange is for ephemeral encounters; credit is for sustained relations.**
 	- Exchange (barter) was used for strangers & enemies; for singular meetings — not with peers. (× ONS)
 		- Coins (rather than credit) were much used in war e.g. with itinerant soldiers or mercenaries (bad credit risk) because the transaction was instant.
 	- Exchange (barter) is impersonal, like debt — doesn't care about the other party's specific needs, desires or capabilities (unlike [Never Split the Difference]({% link 0-book-review/_posts/2024-06-01-never-split-the-difference-summary.md %}): going from a barter dynamic to a personal negotiation dynamic)
 	- Credit (e.g. gift economies) imply a relationship over time. Credit creates society.
 	- Credit: **Temporality solves the problem of the double coincidence of wants — they will coincide over time.** Temporality makes the double coincidence of wants less of an issue; there is bound to be an occasion in the future to pay things back — when the need arises.
 		- **Community IOUs don't need money.** "As with so many actual small communities, everyone simply keeps track of who owes what to whom."
-- Gift economies: always return a bit more or a bit less so as to always have debt and sustain the relation. (Paying one's round.) Returning the exact equivalent means one is "free to go", doesn't want anything to do with the person anymore. Calling it quits means ending the relationship.
+- <a name="^gift-economies"></a>Gift economies: always return a bit more or a bit less so as to always have debt and sustain the relation. (Paying one's round.) Returning the exact equivalent means one is "free to go", doesn't want anything to do with the person anymore. Calling it quits means ending the relationship.
 	- Not quite communism -- the links have to be constantly created and maintained.
 ^
 - Three big paradigms: communism (selfless sharing/giving/taking), exchange / barter (exact), credit / gift economy (never settled)
@@ -110,7 +110,7 @@ date: 2025-04-20 14:13:12 +0200
 - "Freedom is a property, that you can rent (wage labour) or sell (slavery)" (Romans)
 - Surety to make up for lack of trust in loans (debt peonage in the merchants of the Atlantic Slave Trade — their labour as "interest")
 ^
-- **Agreement between equals, to (temporarily) not be equals.** 
+- <a name="^between-equals"></a>**Agreement between equals, to (temporarily) not be equals.**
 	- Debt is a contract between two equals that renders them not equal anymore; makes the relationship hierarchical
 	- Wage labour contract is a free contract between equals — that once you punch the time clock, you are not equal anymore. (× D/s; [To The Actor: joy in the ephemerality; if it was forever, it wouldn't be fun.]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^joy-ephemerality))
 ^

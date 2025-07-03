@@ -57,7 +57,7 @@ date:   2025-07-01 12:13:12 +0200
 	- **Create the space for others to perform.** (× [delegate the goal, not the method (Clear Thinking)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^delegate-goal-not-method) (not micro-managing); [give autonomy (Measure What Matters)]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^give-autonomy))
 ^
 - **Avoiding life through busi-ness.** We want to escape life by remaining busy — blind to what is the most important. We believe if we stay busy, the truth of life won't catch up to us. (× [too busy to question what you're busy with (Essentialism)]({% link 0-book-review/_posts/2025-05-20-essentialism-greg-mc-keown-summary.md %}#^too-busy); [if you don't know what's the most important thing, the most important thing is to figure it out (Essentialism)]({% link 0-book-review/_posts/2025-05-20-essentialism-greg-mc-keown-summary.md %}#^most-important-knowing))
-- **Aspirational vs practiced values**. Write down your ideals; then write down how you actually live, feel, behave, think. Bridge the gap. Walk the talk. (× Skin in the Game)
+- **Aspirational vs practiced values**. Write down your ideals; then write down how you actually live, feel, behave, think. Bridge the gap. Walk the talk. (× [Skin in the Game]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}))
 ^
 - **"Culture is the way we do things around here."**
 - Grounded theory (open research with emergent topics)

@@ -104,7 +104,7 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 * **Having a fallback makes you more likely to take risks.** (× [foam pits]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^foam-pits)) — for better or for worse.
 	* Knowledge of a fallback reduces engagement and full commitment ("skin in the game"). **Assume no God**.
 		* (Or assume God, and go all Untethered Soul)
-	 - **Abusing fallbacks.** (Moral hazard.) If banks know that the government has their back to cover losses if things go wrong, what prevents them from deliberately using this, rather than only as an emergency solution?
+	 - <a name="^abusing-fallbacks"></a>**Abusing fallbacks.** (Moral hazard.) If banks know that the government has their back to cover losses if things go wrong, what prevents them from deliberately using this, rather than only as an emergency solution?
 		 * Banks took more and more risks because they knew the government would support them if things went wrong; it eventually led to the Great Recession.
 			* The Great Recession was also caused by "shadow banking": parallel unregulated trading of (rated) credits.
 		 * Make failures costly, though offer a fallback.
@@ -112,7 +112,7 @@ Here are my personal notes on the 401 pages of *Money: The Unauthorized Biograph
 * **There is tension between who money is controlled by and whom it should serve.** Banks and the government have authority over money, though it should work in the interest of the people.
 	* Safeguards can be put in place to address that. "What if the sovereign were to use its near-monopoly on money for its own gain -- for example by over-issuing money in order to fund spending simply to secure its popularity or re-election?"
 	* Just like money can be seen as a system of transferrable credits against the sovereign, can it be seen as a system of transferrable credits against society as a whole.
-	* **Because of government emergency relief, taxpayers unwittingly share in the losses (though not the gains) of banks' blunders.**
+	* <a name="^bailout"></a>**Because of government emergency relief, taxpayers unwittingly share in the losses (though not the gains) of banks' blunders.**
 * **Favouring equity over debt** (John Law's strategy): letting creditors replace their debt claims towards the sovereign, with equity in new government ventures (e.g. French North America)
 	* From purely transactional dynamics, to being involved with (having a vested interest in).
 	* "Because money (debt) is linked to production (and endeavours), and the world is an uncertain place."

@@ -30,7 +30,7 @@ date:   2024-12-30 11:10:09 +0200
 			* Venues naturally bring out a specific self in people. (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %})).
 			* Brainstorm idea: Do the opposite (× [Trying Not to Try]({% link 0-book-review/_posts/2023-04-15-trying-not-to-try-slingerland-summary.md %}#^do-the-opposite)). Think of where your gathering ought not to take place; do it there.
 		* Once there, **design the space.** Rearrange it — it's not fixed.
-			- Let it match the scale of your event.
+			- <a name="^density-reference"></a>Let it match the scale of your event.
 				* Density reference (m²/person): ![Event density reference](https://xaxel.cc/assets/artofgathering_density.png)
 			* Scale down the venue based on attendance. (× ECHNO: reducing rows of chairs to match declining attendance)
 			* Delineate it & close it. Contain the gathering.
