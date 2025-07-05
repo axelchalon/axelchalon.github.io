@@ -21,7 +21,7 @@ date:   2025-07-02 14:13:12 +0200
 - **Create a system so you can forget about it.** Set up once, benefit forever.
 - **Current account as e-mail inbox** — receive income and redistribute (automatically) to the appropriate account. Automatic withdraws rather than sends.
 	- **Set up automatic monthly transfers to your savings account, investment account and spending money.**
-	- **Have saving goals in your saving accounts** — emergency fund (esp. for irregular income — 3× monthly expenses to buffer, × [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %})), income tax (freelancers), vacation/retreat, other projects / pending purchases). Savings are about projects, short-, medium- or long-term.
+	- **Have saving goals in your saving accounts** — emergency fund (esp. for irregular income — 3× monthly expenses to buffer, × [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^levelling)), income tax (freelancers), vacation/retreat, other projects / pending purchases). Savings are about projects, short-, medium- or long-term.
 	- **Keep ~1k€ in your current account as buffer.**
 - **Acquire the right habits today, for tomorrow.** Build the right habits now so you already have them when you start growing money. Put aside even a small amount of money every month. (The future begins today. (Aperture Science))
 - **Recurring bills on the same day.** Call subscription companies and reschedule billing day. Simplifies your cash flow management (esp. with a monthly salary).
@@ -85,7 +85,7 @@ date:   2025-07-02 14:13:12 +0200
 # investingmentness
 (running out of ink so being a bit more sparing with bolding in this section)
 ^
-- **Invest in yourself, invest in your career.** There is often no better investment.
+- <a name="^invest-in-urself"></a>**Invest in yourself, invest in your career.** There is often no better investment.
 - **Invest every month, for a long time.**
 	- **The longer you save, the less you have to save each month.** Save long and prosper.
 	- Send money to your investment account each month, proportionally into your different funds.

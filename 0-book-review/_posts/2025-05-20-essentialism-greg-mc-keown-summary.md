@@ -71,7 +71,7 @@ date:   2025-05-20 14:13:12 +0200
 ^
 - **Knowing the boundaries frees you to play in all of the space.** Schoolchildren only playing in a small area because of a nearby road — a fence is put up — they now play in the whole area and know they're safe there. **By knowing the boundaries, we can live closer to the edges, and bigger.** Test the boundaries.
 ^
-- **Protect the asset.** You are the tool for making your highest contribution to the world. Invest in yourself.
+- <a name="^protect-asset"></a>**Protect the asset.** You are the tool for making your highest contribution to the world. Invest in yourself.
 ^
 - Control the behaviour of your children by creating an economy (weekly token allowance, to be traded either for money or screen time; × [Debt (creating an economy)]({% link 0-book-review/_posts/2025-04-20-debt-first-5000-years-david-graeber-summary.md %}#^creating-an-economy))
 ^

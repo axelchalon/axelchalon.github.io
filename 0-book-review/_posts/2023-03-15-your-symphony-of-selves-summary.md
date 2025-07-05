@@ -47,7 +47,7 @@ _Those are my personal notes on the book "Your Symphony of Selves: Discover and 
 	* Talk to your self, ask your self questions in the moment, understand it.
 	* When journalling or talking to your self, use the 2nd or 3rd person. It makes it clearer that it's one self talking to another; otherwise the "I"-talk would be misleading
 	* Be kind in the wording you use with your selves.
-		 * You can name selves based on their potential or strengths.
+		 * <a name="^name-selves"></a>You can name selves based on their potential or strengths.
 			* You can present yourself with different names or identities.
 * Understand the "difficult" parts. See them as an opportunity to understand more of yourself and an opportunity for growth, healing and change.
 	* Do coaching or therapy on the parts having a difficult time.

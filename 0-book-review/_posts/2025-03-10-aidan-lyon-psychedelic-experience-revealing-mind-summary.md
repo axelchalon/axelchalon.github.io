@@ -114,7 +114,7 @@ date:   2025-03-10 14:13:12 +0200
 		- **Psychedelics help in psychotherapy** by bringing more of the subconscious to awareness.
 	- <a name="^amplify-to-confront"></a>By amplifying everything, you are forced to deal with stuff (T.)
 	- (× Over-indulgence precipitating the next stage (Future Buddha), [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}))
-- **How you name it is how you think of it**: psychedelics vs hallucinogens vs entheogens vs psychotomometic drugs (e.g. "partner", "lover", "boyfriend")
+- <a name="^name"></a>**How you name it is how you think of it**: psychedelics vs hallucinogens vs entheogens vs psychotomometic drugs (e.g. "partner", "lover", "boyfriend")
 - **Psychedelic "reset"**: the idea that psychedelic trips temporarily interrupt habitual mental dynamics that can keep the mind trapped in suboptimal states.
 * **Psychedelic trips approximate an increase in mindfulness.**
 - Integration helps make (short) psychedelic experiences more durable.
@@ -122,7 +122,7 @@ date:   2025-03-10 14:13:12 +0200
 - **Beliefs have varying strengths.**
 - **False insights**: "Insights arising from psychedelic methods can be false even though they may come attached wih strong feelings of certainty" Verify the veracity or coherence of an insight during a psychedelic trip with the rest of your epistemological system.
 ^
-# Phenomenal transparency
+# <a name="^phenomenal-transparency"></a>Phenomenal transparency
 - **Phenomenal transparency vs phenomenal opacity:** how much immediately, unmediatedly you are in the world; vs observing yourself
 	- Examples
 		- **Seeing through the actors vs noticing the laugh track** Watching a film absorbed with phenomenal transparency (being absorbed in it) vs phenomenal opacity (e.g. noticing the laugh track). Either seeing through the actors, or noticing them as opaque layer, distracting from the experience.
@@ -189,7 +189,7 @@ date:   2025-03-10 14:13:12 +0200
 * Hallucinations can be **informal thoughts mapped to experiential reality** — a vehicle for consciousness's contents. (e.g. dreams — cf [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}): "the mind thinks in symbols")
 - **Brainstorming is hallucinating solutions.** "Many of our creative ideas are a bit like "solution hallucinations.""
 ^
-# Creativity
+# <a name="^creativity"></a>Creativity
 - **Creativity is transformation.** "A creative process is just a process that transforms old ideas into new ones."
 - Creativity is outside our control, but **we can create a good environment for it.** "The creative process operates largely outside of our awareness." "This is how insight is supposed to work. your brain is processing the problem, but you don't have any sense of how it' going because this processing occurs outside of your awareness. At some point, the solution pops into your awareness. You are surprised any may experience an emotional rush." "The processing that leads to insight happens largely outside of awareness."
 	* **Open monitoring and focussed attention work synergistically for brainstorming** : open-monitoring lets you clear the mind and listen (diverge); focussed-attention lets you surface and "zoom in" on a subtle idea (converge). (× [Design of Everyday Things: double-diamond model]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^brainstorm), [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^brainstorm), [Improvise!]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^brainstorming)) "A diffused state of attention corresponds to you surveying a larger, and deeper, region of the water. Now, once you see a potentially good fish, in order to catch it, it helps to flexibly switch from a diffused state of attention to a focused one."

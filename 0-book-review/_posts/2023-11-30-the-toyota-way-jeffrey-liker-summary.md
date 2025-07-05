@@ -64,7 +64,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* In traditional batch processing, by hiding (upstream) inefficiencies, we postpone solving problems and potentially make the whole system a time bomb. **Comfort leads to complacency (ignorance).** In continuous flow, you have to fix problems right now, as they occur. There is no possible accumulation of problems.
 	* Continuous flow (and small inventory) lets you adapt to customer demand almost instantaneously.
 ^
-# Levelling
+# <a name="^levelling"></a>Levelling
 * Decide on a weekly production target rather than a daily production target. This gives you room to use knowledge of external circumstances to adjust the production each day and level the overall work/stress. You can decide on working a bit less on certain days and a bit more on other days, and still meet the production target.
 	* **Unevenness in production levels increases costs by making it necessary to have at hand the equipment, materials, and people for the highest level of production — even if the average requirements are far less.** It is a waste.
 	* Levelling prevents overburdening and idling.
@@ -254,7 +254,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 - "Labour harmony": when everything flows, and the workplace is like a symphony.
 - When the culture is not there and management doesn't make it feasible, either "find greener pastures", or practice what you can.
 * Clearly identify what doesn't add value and eliminate it, throwing money at it if necessary. What is non-essential is wasted time.
-* Give a (simple) name to developmental programs, practices, concepts. They then have an identity and become clearer.
+* <a name="^name"></a>Give a (simple) name to developmental programs, practices, concepts. They then have an identity and become clearer.
 * Stick with and improve on the system you've built.
 	- "If there is anything to learn from Toyota, it is the importance of developing a system and **sticking with it and improving it**.
 * Jeffrey Liker met with very many people who each let him understand different things about the Toyota way, changed him in a way; it is wonderfully captured in the book's acknowledgments and very inspiring to read each of these people's contributions to enriching and completing the author's understanding of the Toyota philosophy. "I learned from him..."

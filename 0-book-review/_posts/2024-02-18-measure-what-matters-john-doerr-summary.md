@@ -169,7 +169,7 @@ Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadlin
 * Encourage peer-to-peer feedback.
 * **Institute recognition.** Create a culture of openly recognizing and giving (specific) shout-outs to people.
 	* Make the recognition specific. Share the context around it. Publish in newsletters or company blogs.
-- **Conferring a name on a process or project bolsters its existence**, makes it something tangible and that people can reason about.
+- <a name="^naming"></a>**Conferring a name on a process or project bolsters its existence**, makes it something tangible and that people can reason about.
 * **Intelligence is more valuable than knowledge.** By being intelligent, you can learn what you don't know yet. (× [The Toyota Way]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^intelligence-over-knowledge): Recruiting people with the potential to learn, who can learn the necessary skills on the job.)
 ^
 # Marketing

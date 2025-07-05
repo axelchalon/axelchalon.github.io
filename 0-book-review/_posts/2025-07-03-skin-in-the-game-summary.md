@@ -31,7 +31,7 @@ date:   2025-07-03 12:13:12 +0200
 - **The system learns, not the people.** (evolution, Darwin) The system learns, the people just die from their errors. 
 - **Rationality (Taleb) is what helps with survival** — it can be superstitious, so long as it helps.
 - **Things that have survived are things that work.**
-- Lindy effect: **the longer it has survived, the longer it is likely to continue surviving.**
+- <a name="^lindy"></a>Lindy effect: **the longer it has survived, the longer it is likely to continue surviving.**
 - **Via negativa (Taleb)**: it's easier to know what's bad, than to know what's good. 
 ^
 - **Things don't scale.** What works in a family doesn't work in a village; what works in a village doesn't work in a country, etc. Federate/decentralize (network of tribes) (× <a>Microsolidarity</a>) rather than merge.
@@ -46,7 +46,7 @@ date:   2025-07-03 12:13:12 +0200
 - **An ant colony is not a collection of ants.** It's not "more" than the sum of its parts; it's different altogether.
 	- Parts and whole differ because what matters is the interactions between such parts — even if the interactions obey simple rules (emergence) (× Thinking in Systems; emergent strategy).
 ^
-- **Minority rule** ("the most intolerant wins"): a small intransigent group will eventually let everyone convert to their choices, to accomodate them. (The flexible group doesn't mind either option, but the intransigent group will only go with one; so everybody goes with one to [simplify]({% link 0-book-review/_posts/2025-05-19-laws-simplicity-john-maeda.md %}) — there is no downside) **The majority eventually submits to the minority.** Inclusivity/inclusiveness.
+- **Minority rule** ("the most intolerant wins"): a small intransigent group will eventually let everyone convert to their choices, to accomodate them. (The flexible group doesn't mind either option, but the intransigent group will only go with one; so everybody goes with one to [simplify]({% link 0-book-review/_posts/2025-05-19-laws-simplicity-john-maeda.md %}) — there is no downside) **The majority eventually submits to the minority.** Inclusivity/inclusiveness. (Applies to neurons? × Traumata)
 	- Finding the **greatest common factor** (× [sacred middle ground](https://positivejuice.wordpress.com/2010/02/25/desire-attraction-and-the-sacred-middle-ground/))
 	- Examples
 		- Inclusive bathrooms; kosher food; organic food; veganism; choice of messaging apps (network effect and boycotting/strong boundaries); wine over beer ("women will only drink wine, but men don't mind either; only serve wine to reduce glassware"); language (one person doesn't speak German, so the whole group switches to English); cancel culture; civil rights.
@@ -74,7 +74,7 @@ date:   2025-07-03 12:13:12 +0200
 ^
 - **Ergodicity** (whether your average over time matches the average of all people at a given moment — whether time average and group average are the same).
 	- Ergodicity experiment: **living the distribution of the world's wealth classes over the course of your life.** "Each of us would spend a proportion of time in the economic conditions of the entire cross-section: out of, say, a century, an average of 60 years in the lower middle class, 10 years in the upper middle class, 20 years in the blue collar class, and perhaps one single year in the one percent" => Spending a certain amount of time homeless. Getting a broad picture of life.
-		- "The intelligentsia deals with **the poor as a construct — one they created**. I have yet to see a bien-pensant Cambridge don hanging out with Pakistani cab drivers or lifting weights with cockney speakers."
+		- <a name="^bien-pensant"></a>"The intelligentsia deals with **the poor as a construct — one they created**. I have yet to see a bien-pensant Cambridge don hanging out with Pakistani cab drivers or lifting weights with cockney speakers."
 	- Non-ergodicity. If there is a benefit of ruin, cost-benefit analyses are no longer possible. (e.g. 6 people playing Russian Roulette once for 1 million dollar (="830k€ average return") doesn't translate to a single person playing Russian Roulette 6 times.)
 		- **Mediocristan vs Extremistan**: small risks that moderately affect the person; vs small risks that catastrophically affect the individual (and/or the whole system).
 ^

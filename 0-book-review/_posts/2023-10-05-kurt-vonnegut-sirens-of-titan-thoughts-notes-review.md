@@ -14,7 +14,7 @@ Would not recommend reading in Dutch.
 * A revelation can bring about drastic changes and decisions in very little time; once you know or have been shown the way and now just scurry to follow it as quickly as you can. "Within two months' time, when Rumfoord appeared again, quite a bit had changed, Constant had sold all of his galactical possessions..."
 * The bright, sparkling eyes of human beings, as opposed to the dead eyes of the hypnotized, brainwashed, robotic subjects, are something precious and a reason to celebrate: liveliness, life. "A warm-blooded being."
 * "I never heard of friendship before coming to Earth. It was exciting."
-- By naming people and referring to them by their name, you can tie their life circumstances and events to them; distinguish them, recognize them. It's all not a big jumbled mess anymore.
+- <a name="^naming"></a>By naming people and referring to them by their name, you can tie their life circumstances and events to them; distinguish them, recognize them. It's all not a big jumbled mess anymore.
 * Having a "buddy" lets you transfer your gained personal wisdom to them, letting them transfer it back to you when you relapse or reset; reminding you of your latest, highest self-expression, and letting you resume from it. The buddy system makes the two of you resilient: unless the two of you get simultaneously wiped out, one of you can always rehabilitate the other.
 * **Write down what you do not want to forget, even after your death (or "reset"), in your next incarnation.** Record and pass on to posterity what you have experienced and learned, the wisdom you have gained.
 * You can be at peace where you are; make it comfortable for yourself; "life is nice if you just don't think about it anymore."

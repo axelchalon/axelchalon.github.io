@@ -32,7 +32,8 @@ const obsidianFileToWebsiteFile = {
     "How to Know a Person": "2025-06-01-how-to-know-person-david-brooks-summary.md",
     "Daring Greatly": "2025-07-01-daring-greatly-summary.md",
     "I Will Teach You To Be Rich": "2025-07-02-i-will-teach-you-to-be-rich-summary.md",
-    "Skin in the Game": "2025-07-03-skin-in-the-game-summary.md"
+    "Skin in the Game": "2025-07-03-skin-in-the-game-summary.md",
+    "Flow": "2025-07-05-flow-mihaly-csikszentmihalyi-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {

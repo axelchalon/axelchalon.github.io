@@ -69,7 +69,7 @@ date:   2025-06-01 14:13:12 +0200
 ^
 # Good ~~Vibrations~~ Conversations
 - **Good conversations**: conversations that lead you to **unexpected places** — like a common **brainstorm**.
-- **Ask for experiences.** Not "what happened to you", but **how you experienced what happened** – and how you experience now what you experienced then.
+- <a name="^ask-for-experiences"></a>**Ask for experiences.** Not "what happened to you", but **how you experienced what happened** – and how you experience now what you experienced then.
 	- "What happened to you?" ⇒ "How did you experience what happened to you? How did you change as a result of what happened to you?"
 	- "How did the exam go?" ⇒ "How was the exam?"
 	- "Why do you believe X?" ⇒ "What experiences have led you to believe X??"
@@ -95,7 +95,7 @@ date:   2025-06-01 14:13:12 +0200
 	- **Filling in the Calendar:** walk through periods of the other person's life, year by year. What was your life like in second grade? In third grade? In [seminary school](https://www.youtube.com/watch?v=4YWPhmduSDQ)?
 - <a name="^life-stories"></a>**Ask people for their life stories.** Tell your life story.
 	- **People very rarely get asked to tell their life story** — yet it's healing, lets people be deeply [seen](https://www.youtube.com/watch?v=nNCI5PwCEfE).
-	- **We create our life story more and more, the more times we tell it.** We make more sense of our life each time we tell our life story. "It's when somebody asks us to tell a story about ourselves that we have to step back and organize the events and turn them into a coherent narrative." Meaning emerges.
+	- <a name="^create-story-each-time"></a>**We create our life story more and more, the more times we tell it.** We make more sense of our life each time we tell our life story. "It's when somebody asks us to tell a story about ourselves that we have to step back and organize the events and turn them into a coherent narrative." Meaning emerges.
 		- **Imago:** the role (archetype) you're assuming in your life story, e.g. Healer, Caregiver, Warrior, Sage, Maker, Counselor, Survivor, Arbiter, Juggler, Fighter... (× [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}))
 			- **Identities:** we assume successive identities in life. **Try on different identities; eventually settle on one.**
 				- Identity achievement (explored & settled); foreclosure (settling too soon); moratorium (never settling); diffusion (no identities). (James Marcia)
@@ -108,7 +108,7 @@ date:   2025-06-01 14:13:12 +0200
 		- **Redacted parts.** Which parts are you leaving out when you're sharing your life story?
 			- These are the parts that you refuse to see, and as such cannot confront and overcome.
 		- **Therapists are story editors.** People come to therapy because their stories are not working, often because they get causation wrong. **Therapists reframe** — rewrite the story such that the patient has more control over their life in their story. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})) (× [Essentialism (editing)]({% link 0-book-review/_posts/2025-05-20-essentialism-greg-mc-keown-summary.md %}#^editing))
-		- **Interpersonal vs imperial life task**: relationships-focussed period vs achievement-focussed period.
+		- <a name="^interpersonal-imperial"></a>**Interpersonal vs imperial life task**: relationships-focussed period vs achievement-focussed period.
 			- At the end of an imperial life task, one notices a **spiritual lack** and wonders how they could **suppress their feelings** for so long. "It's time to come in from the cold — and **bold random words.**"
 		- As we age, we construct a better and more accurate life story; better aware of our strengths, weaknesses, and the **"core desire line that will always propel our life forward**; we re-interpret the past, being more forgiving and appreciative.
 		- "We live our childhoods at least twice. First, we live through them with eyes of wonderment, and then later in life we have to revisit them to understand what it all meant."
