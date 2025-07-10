@@ -14,7 +14,7 @@ date:   2024-07-25 14:13:12 +0200
 Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](https://www.navalmanack.com/ "Sponsored link")
 # How to ~~eat~~ be wealthy
 - **Learn to build, learn to sell.** "If you can do both, you're unstoppable."
-	* "Building" is not limited to tech.
+	* **"Building" is not limited to tech.**
 	- Making money — just like learning to build or sell (or peace/happiness) — is a skill and can be learned.
 		- Don't be afraid of any book — or any skill to learn (× Scott Young, ["no hard skills, only missing prerequisites"](https://www.scotthyoung.com/blog/2016/04/12/no-hard-subjects/))
 		- **Get your foundations right.** Learn basic maths, statistics, microeconomics — what has been true and verified. Focus on getting them right and perfected, rather than advancing into complex topics.
@@ -23,7 +23,7 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 	- Build what society needs (but doesn't know it wants it), **and then scale it**.
 	* Doing business is a positive-sum game.
 * <a name="^leverage"></a>**Use leverage.** Leverage are resources that multiply the effect of your decisions.
-	- **Use leverage to increase your returns** — (automated) labour, money (capital), reputation, building a **product with no cost of replication** (memberships, books, videos, code, etc.)
+	- <a name="^no-cost-of-replication"></a>**Use leverage to increase your returns** — (automated) labour, money (capital), reputation, building a **product with no cost of replication** (memberships, books, videos, code, etc.)
 	- **Permissioned vs permissionless leverage:** capital and labour require people willing to give it to you or work for you; code, automated labour and media are permissionless — use it.
 	- Media with no cost of replication tend to coincide with permissionless leverage.
 - <a name="^reputation"></a>**Build a reputation for yourself**, by taking risks (ownership) under your own name. "Without accountability, you can't build credibility."

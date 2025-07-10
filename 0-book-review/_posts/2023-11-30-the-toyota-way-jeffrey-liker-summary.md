@@ -46,7 +46,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Make it visually clear where something belongs (shadow board), when something is missing or when something is out of place.
 * Routines are for organisations the equivalent of habits for individuals.
 ^
-# Continuous flow
+# <a name="^continuous-flow"></a>Continuous flow
 * Continuous/one-piece flow is opposed to traditional batch processing.
 	* Instead of having different departments processing items in batches for every stage of production, the idea is to have self-contained production lines with each one of these departments, and processing items sequentially, ideally one at a time, almost as they come, rather than in batches — and keeping minimal to no stock or buffer. Each line has all the work cells necessary to assemble a product. "From process islands to flow lines."
 		* Just-in-time (JIT): deliver the right items in the right amount at the right time to the next work cell, or customer; and receive your items the same way from the previous work cell, or supplier.
@@ -85,7 +85,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 * Set up error-detecting mechanisms and machines that automatically interrupt processes when detecting a problem or out-of-standard condition ("jidoka"; as in the Toyota loom). This ensures that no faulty item makes it to the next work station (let alone the final customer) and builds in quality.
 * Detecting errors early and directly at their source makes it easier to understand the problems and to address them effectively, prevents the trail from getting cold.
 * This controls and reduces quality risks associated with replacing humans with machines.
-* Machines and automated processes should always be supervised by humans (for example in case of a detected error, or of a machine breakdown).
+* <a name="^supervised-automation"></a>Machines and automated processes should always be supervised by humans (for example in case of a detected error, or of a machine breakdown).
 	- **When using automated systems, you should always know what they are doing under the hood, and be capable of performing their work should circumstances call for it.** This fosters deep knowledge of the processes.
 	* Technology should support and assist people and processes; be subservient to them, and not the other way around.
 	* <a name="^people-are-the-most-flexible-resource"></a>Be conservative in favouring machines over humans: **"People are the most flexible resource you have. Automation is a fixed investment."**
@@ -132,7 +132,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 		* Excess inventory requires extra storage, costing you money and space; and ties up capital that could be invested elsewhere.
 		* Excess inventory means items are becoming stale, and greater quantities need to be discarded in case of an error in a batch.
 		* Having extra inventory hides away and lets you ignore defects (defective products can be thrown away as there are extra), equipment downtime, long set-up/changeover times and late deliveries from suppliers (as they then do not visibly impact the output directly in any critical manner)
-		* "The more inventory a company has, the less likely they will have what they need."
+		* <a name="^45452f"></a>"The more inventory a company has, the less likely they will have what they need."
 		* Should it come to that, you can use sales tactics to get rid of excess inventory.
  * Identify and **measure** waste and bottlenecks across all processes. Having to call external contractors to repair or inspect machines because of lacking in-house expertise can be a major bottleneck for example.
  * Unused employee creativity is wasteful as well; this ties in with the company culture.
@@ -200,7 +200,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* Using surface-level lean tools without a deeper-reaching change in culture will only provide short-term relief, and the system will eventually devolve ("mechanistic lean").
 	* <a name="^hire-coaches-not-experts"></a>**Hire coaches, not experts.** Hire coaches (who develop the people and culture), not experts (who apply surface-level lean tools which will yield to entropy once they leave).
 - When introducing change (e.g. lean), start with a pilot in a localized area, let it develop fully and only then let the pilot help deploy change in other areas, slowly, section by section, rather than directly across the board. Each deployment is a learning experience for the next deployment. Cultural change takes time. Having a "model line" lets other workers in the company understand lean and have an example, see it for themselves (cf. trips to Toyota plants in Japan).
- - Deliberate culture: be intentional in the culture you want to create in the company; "the beliefs, values and basic assumptions that we want our people to hold dear and act upon". For this to happen, first select, then develop people. Don't only develop people, but also develop teams.
+ - <a name="^deliberate-culture"></a>Deliberate culture: be intentional in the culture you want to create in the company; "the beliefs, values and basic assumptions that we want our people to hold dear and act upon". For this to happen, first select, then develop people. Don't only develop people, but also develop teams.
 	* <a name="^intelligence-over-knowledge"></a>**Favour intelligence over knowledge.** Hire people with the potential to learn the domain skills, with the ability to think and work in teams (cultural fit) the more important asset. "Toyota rarely hires veteran electricians, or mechanics, or welders, or painters. **Instead, people are hired for their potential to learn these skills.** [...] The ability to work in teams, and most of all to learn to think critically and solve problems, is more important. Toyota believes it can develop these people to be exceptional."
 	* "**Hire people who are good raw material** and then grow them through **challenging experiences** and **coaching** to guide them along the way."
 	* **"Individual success can happen only within a team. Strong teams require strong individuals."**

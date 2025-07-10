@@ -13,7 +13,7 @@ Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a
 * One's life project is elucidated by one's actions. **Through one's actions, the "fundamental project" of one's life slowly emerges.** (Sartre)
 	* **Our actions form a shape over time** (our life's "fundamental project"). Actions (over a lifetime) surface one's big project or theme.
 - "Life must be understood backwards, but lived forwards." (Kierkegaard)
-* **Freedom is contingent on a context.** ("The context for decisions") Freedom is contingent on a situation, in which to exert that freedom.
+* <a name="^context"></a>**Freedom is contingent on a context.** ("The context for decisions") Freedom is contingent on a situation, in which to exert that freedom.
 	* Good news: life is fraught w/ them (× Frankl)
 	* Freedom can only exist within a situation — in a social, political, biological context ("facticity"). Such constraints enable exercising our freedom; "a context for whatever I choose to do next". (Sartre)
 		* "The demands our particular historical situation is making onto us": our Being is not universal but local; contingent on a time and place (Heidegger)

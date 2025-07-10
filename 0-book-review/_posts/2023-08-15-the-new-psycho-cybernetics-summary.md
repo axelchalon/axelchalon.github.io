@@ -126,7 +126,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 	* The real self, the personality, is magnetic and attractive.
 * Creative performance is spontaneous and natural.
 * <a name="^not-inhibited"></a>One is not "inhibited"; rather, one has inhibited their creative mechanism. Self-consciousness of behaviour is inhibition. The opposite of immediateness.
-	* If you tend to be inhibited: practicing disinhibition. "Yes, the world needs a certain amount of inhibition, **but not you.**" Know which precepts do not apply to you, or you will be like a hypothermic person refusing heating: "but surely, you do not want to overheat!" Deliberately ignore those precepts, make a clear point of it.
+	* <a name="^but-not-you"></a>If you tend to be inhibited: practicing disinhibition. "Yes, the world needs a certain amount of inhibition, **but not you.**" Know which precepts do not apply to you, or you will be like a hypothermic person refusing heating: "but surely, you do not want to overheat!" Deliberately ignore those precepts, make a clear point of it.
 	 * **Make a habit of speaking more loudly (and more clearly) than usual** as a way to practice **expression (a better word for the converse of inhibition)**. This also lets you exert all of your strength and overcome blocks. **Let people know when you like them.** Inhibited people tend to be scared of being seen as sentimental or judged when expressing. Uninhibited people just energize through it. Get in the habit of complimenting people, of letting them know what you like. **Be direct.**
 	* Enunciate clearly, loud, with intonation and pace.
 ^

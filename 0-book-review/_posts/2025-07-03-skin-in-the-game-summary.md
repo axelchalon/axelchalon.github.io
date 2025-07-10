@@ -32,7 +32,7 @@ date:   2025-07-03 12:13:12 +0200
 - **Rationality (Taleb) is what helps with survival** — it can be superstitious, so long as it helps.
 - **Things that have survived are things that work.**
 - <a name="^lindy"></a>Lindy effect: **the longer it has survived, the longer it is likely to continue surviving.**
-- **Via negativa (Taleb)**: it's easier to know what's bad, than to know what's good. 
+- <a name="^via-negativa"></a>**Via negativa (Taleb)**: it's easier to know what's bad, than to know what's good.
 ^
 - **Things don't scale.** What works in a family doesn't work in a village; what works in a village doesn't work in a country, etc. Federate/decentralize (network of tribes) (× <a>Microsolidarity</a>) rather than merge.
 	- **Community size**: There is a community size below which people act as a collective, protecting the commons. (Ostrom) (× [density reference (The Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^density-reference))

@@ -52,7 +52,7 @@ date:   2025-04-26 14:13:12 +0200
 - "No one cares. It's your fault." (Making excuses.)
 - "Not your fault? Still your responsibility." (× [Toyota Way: single-point accountability]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^single-point-accountability))
 ^
-# Pre-mortem
+# <a name="^pre-mortem"></a>Pre-mortem
 - **Know what makes you happy.** Self-knowledge.
 - **Pre-mortems:** anticipate all the way things can go wrong and prepare solutions. (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^failure); [Come As You Are]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^plan-for-barriers)) Know your weaknesses and plan safeguards around them.
 - **Anticipate general setbacks.** (e.g. war) Prepare how to respond. The hardest setbacks to deal with are the ones we're not prepared for.

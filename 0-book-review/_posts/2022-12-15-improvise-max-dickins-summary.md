@@ -67,7 +67,7 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 		* Use play to come up with creative solutions.
 * <a name="^bold-clear-decisions"></a>Assertiveness and commitment
 	* **Own your decisions, don't back-track, be clear and assertive with your choices, execute them clearly. Be direct and clear.** Have a clear behaviour, don't second-guess yourself. "Express clearly. Too often we communicate in subtext and are disappointed or irritated when we aren't understood."
-	* **Make bold choices before you are ready. Get ready after.** *When I look back at my life so far, all the things that have given me the most meaning have arisen from making bold choices before I was ready. [...] I could easily have said "Yes, but I've just come out of a long-term relationship."*
+	* <a name="^bold-choices-before-ready"></a>**Make bold choices before you are ready. Get ready after.** *When I look back at my life so far, all the things that have given me the most meaning have arisen from making bold choices before I was ready. [...] I could easily have said "Yes, but I've just come out of a long-term relationship."*
 	* **Make choices, or the scene dies.** The only bad choice is no choice.
 	* **You have to risk making bad choices in order to get the good ones**
 		* **The more you make clear choices, the more experience you gain.**

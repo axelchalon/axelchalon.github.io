@@ -75,7 +75,7 @@ date:   2025-06-01 14:13:12 +0200
 	- "Why do you believe X?" ⇒ "What experiences have led you to believe X??"
 	- "What are your values?" ⇒ "What are the experiences that make you value what you value?" "Tell me about the person who shaped your values most."
 	- "Why are you X? Why is X an issue for you?" ⇒ "What experiences made you this way?"
-- **Dare to ask big questions.** People underestimate how fast people are willing to go deep and personal. (× [Art of Gathering (invite depth)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^invite-depth); **[Art of Gathering (make it bold)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^bold)**) 
+- <a name="^big-questions"></a>**Dare to ask big questions.** People underestimate how fast people are willing to go deep and personal. (× [Art of Gathering (invite depth)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^invite-depth); **[Art of Gathering (make it bold)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^bold)**)
 	- **Big questions turn a merely pleasant evening into a truly memorable one.**
 - **Talk to strangers.** People are bad at predicting how much they'll enjoy the conversation; underestimate how willing other people are to chat, and how eager they are to go deep and personal.
 - Box of Big Questions (BBQ): (× [Art of Gathering (prompt ideas)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^prompt-ideas))

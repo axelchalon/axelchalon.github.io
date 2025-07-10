@@ -109,7 +109,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 	- Symbiotic relationships: the thing brings you excitement, you bring it growth (for an ability — or a project) (× pollination).
 	- (Psychedelics <a href="#^amplify-impressions">amplify impressions</a>, thereby make us pay more attention to things, and we thereby give them more life — psychedelics are life-giving; give life all around us. And the life around us in turn fills us with life, inspires us. (× <a href="#^cycle-of-inspired-creation">cycle of inspired creation</a>))
 - <a name="^contrasts-amplify"></a>**Contrasts amplify.** Juxtapose a loud song with a quiet song. A loud song after a quiet song sounds even louder.
-- **No transition.** Put two pieces together without transition for a bold effect.
+- <a name="^no-transition"></a>**No transition.** Put two pieces together without transition for a bold effect.
 - **Don't fit your work. Amplify the differences** — what doesn't fit.
 ^
 - <a name="^delegate-execution"></a>**Delegate execution of the art**, if ideation rather than execution is more important for you.
