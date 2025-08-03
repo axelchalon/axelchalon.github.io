@@ -36,6 +36,7 @@ _Those are my personal notes on Vanessa Marin's book "Sex Talks: The Five Conver
 	* An example of turn-on can be visualizing the sex you're going to have with your partner, anticipating it.
 	* Some people first need touch to become aroused.
 	* <a name="^sex-drive-simmer"></a>"The minute you finish having sex is the minute you begin foreplay for the next time."
+		* (Misquoting Simon Ohler: "Everything is scaffolding for sex")
 		* You can openly talk about how to keep that "Sex Drive Simmer" going on, keeping a state of constant flirt
 * Exploration, flavours, initiation
 	* Throw the idea out there, mention it.

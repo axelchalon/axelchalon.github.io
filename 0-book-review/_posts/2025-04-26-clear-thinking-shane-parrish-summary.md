@@ -76,7 +76,7 @@ date:   2025-04-26 14:13:12 +0200
 - Decision journal: **Log your decision-making.** You have to make your reasoning visible in order to correct it.
 	- Log your reasoning as you are making the decision — not after the fact (or you will distort it.)
 	- Write down your reasoning and decision, then sleep on it.
-* **Gather more information to make easier decisions.**
+* <a name="^gather-more-information"></a>**Gather more information to make easier decisions.**
 	* **Fake launch**: figure out if there is customer interest by launching a product and seeing if people order.
 - **Progressive commitment:** make it low-stakes before fully committing. (e.g. trialing a potential new CEO with a small project first)
 - **Option C:** most choices seem to be between A and B, while there is often a third option.

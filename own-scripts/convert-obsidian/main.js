@@ -34,7 +34,8 @@ const obsidianFileToWebsiteFile = {
     "I Will Teach You To Be Rich": "2025-07-02-i-will-teach-you-to-be-rich-summary.md",
     "Skin in the Game": "2025-07-03-skin-in-the-game-summary.md",
     "Flow": "2025-07-05-flow-mihaly-csikszentmihalyi-summary.md",
-    "Zero to One": "2025-07-10-zero-to-one-peter-thiel-summary.md"
+    "Zero to One": "2025-07-10-zero-to-one-peter-thiel-summary.md",
+    "The Singularity is Near": "2025-07-10-singularity-is-near-ray-kurzweil-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {

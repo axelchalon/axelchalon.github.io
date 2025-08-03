@@ -5,7 +5,7 @@ intentions:
 - showing oneself; expressing oneself; encouraging others to express themselves, their uniqueness
 - rekindling curiosity; asking excellent questions
 layout: post
-title:  '**"How to Know a Person"** by David Brooks (personal notes)'
+title:  '**"How to Know a Person"** by David Brooks (personal notes) ♫'
 date:   2025-06-01 14:13:12 +0200
 ---
 ^
@@ -110,7 +110,7 @@ date:   2025-06-01 14:13:12 +0200
 		- **Therapists are story editors.** People come to therapy because their stories are not working, often because they get causation wrong. **Therapists reframe** — rewrite the story such that the patient has more control over their life in their story. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})) (× [Essentialism (editing)]({% link 0-book-review/_posts/2025-05-20-essentialism-greg-mc-keown-summary.md %}#^editing))
 		- <a name="^interpersonal-imperial"></a>**Interpersonal vs imperial life task**: relationships-focussed period vs achievement-focussed period.
 			- At the end of an imperial life task, one notices a **spiritual lack** and wonders how they could **suppress their feelings** for so long. "It's time to come in from the cold — and **bold random words.**"
-		- As we age, we construct a better and more accurate life story; better aware of our strengths, weaknesses, and the **"core desire line that will always propel our life forward**; we re-interpret the past, being more forgiving and appreciative.
+		- <a name="^core-desire-line"></a>As we age, we construct a better and more accurate life story; better aware of our strengths, weaknesses, and the **"core desire line that will always propel our life forward**; we re-interpret the past, being more forgiving and appreciative.
 		- "We live our childhoods at least twice. First, we live through them with eyes of wonderment, and then later in life we have to revisit them to understand what it all meant."
 		- **Life story across generations:** "a person is part of a long movement, a transmission from one generation to another."
 	- <a name="^next-chapter"></a>**Know your story to write the next chapter.** You can know what to do next only if you know what story you are a part of.

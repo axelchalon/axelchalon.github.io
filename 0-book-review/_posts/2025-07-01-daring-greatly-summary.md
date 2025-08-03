@@ -5,7 +5,7 @@ intentions:
 - anything applicable to
 - courageous living
 layout: post
-title:  '**"Daring Greatly"** by Brené Brown (personal notes)'
+title:  '**"Daring Greatly"** by Brené Brown (personal notes) ♫'
 date:   2025-07-01 12:13:12 +0200
 ---
 ^
@@ -15,7 +15,7 @@ date:   2025-07-01 12:13:12 +0200
 - **There is no intimacy without vulnerability.**
 - **Use humour to ease vulnerability.** (× [laugh about it (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^laugh-about-it); lightness)
 - **Both men and women are facing their respective struggles**. We're both having a hard time! Let's do this together!
-- **Risks are reduced when confronted.** Acknowledging vulnerability makes you less vulnerable. When we acknowledge our vulnerability, we can take preventive measures that make ourselves less vulnerable. (× proactivity)
+- <a name="^risks-are-reduced-when-confronted"></a>**Risks are reduced when confronted.** Acknowledging vulnerability makes you less vulnerable. When we acknowledge our vulnerability, we can take preventive measures that make ourselves less vulnerable. (× proactivity)
 - **Normalize discomfort**, instead of trying to make things comfortable. **Growth and learning are inherently uncomfortable.** (e.g. hard conversations, etc.) Discomfort is a sign that you're growing. (× [Come As You Are]({% link 0-book-review/_posts/2025-03-03-emily-nagoski-come-as-you-are-summary.md %}#^discomfort), being okay being in emotionally uncomfortable places — it "stops feeling scary")
 	* Cultures (and relational cultures) where discomfort is okay. (× fear at Comfort Zone Crusher challenges — just a feeling; you do it anyway)
 - Public speaking: **Address your speech to specific people.** Imagine that you are giving the speech to a few particular people, e.g. specific friends of yours.

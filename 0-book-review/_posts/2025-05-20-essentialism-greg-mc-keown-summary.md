@@ -69,7 +69,7 @@ date:   2025-05-20 14:13:12 +0200
 	- **Play lets us come up with new stories.**
 	- You cannot be playful and tense at the same time.
 ^
-- **Knowing the boundaries frees you to play in all of the space.** Schoolchildren only playing in a small area because of a nearby road — a fence is put up — they now play in the whole area and know they're safe there. **By knowing the boundaries, we can live closer to the edges, and bigger.** Test the boundaries.
+- <a name="^boundaries-playground"></a>Know the boundaries to use all the space. **Knowing the boundaries frees you to play in all of the space.** Schoolchildren only playing in a small area because of a nearby road — a fence is put up — they now play in the whole area and know they're safe there. **By knowing the boundaries, we can live closer to the edges, and bigger.** Test the boundaries.
 ^
 - <a name="^protect-asset"></a>**Protect the asset.** You are the tool for making your highest contribution to the world. Invest in yourself.
 ^

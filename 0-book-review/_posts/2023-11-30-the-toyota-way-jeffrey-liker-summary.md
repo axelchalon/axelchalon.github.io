@@ -253,7 +253,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* "What is your next step (next experiment) ? What do you expect? **How quickly can we go and see what we have learned** from taking that step?"
 - "Labour harmony": when everything flows, and the workplace is like a symphony.
 - When the culture is not there and management doesn't make it feasible, either "find greener pastures", or practice what you can.
-* Clearly identify what doesn't add value and eliminate it, throwing money at it if necessary. What is non-essential is wasted time.
+* <a name="^throw-money"></a>Clearly identify what doesn't add value and eliminate it, throwing money at it if necessary. What is non-essential is wasted time.
 * <a name="^name"></a>Give a (simple) name to developmental programs, practices, concepts. They then have an identity and become clearer.
 * Stick with and improve on the system you've built.
 	- "If there is anything to learn from Toyota, it is the importance of developing a system and **sticking with it and improving it**.

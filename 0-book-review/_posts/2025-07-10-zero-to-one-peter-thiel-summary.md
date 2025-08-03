@@ -46,12 +46,13 @@ date:   2025-07-10 12:13:12 +0200
 		- **Start with small markets.** "Always err on the side of starting too small." (e.g. Amazon started with books; Facebook with Harvard)
 			- **Conquer the market one niche at a time** (eBay starting with Beany Baby obsessives, etc.)
 		- **Viral marketing:** a product is viral if it encourages users to invite their friends to become users too. (Facebook, PayPal) **Exponential growth through viral marketing** — when every new user leads to more than one additional new user.
-	- **Economies of scale**: costs remain fixed as the company scales. (× [no cost of replication (Naval)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^no-cost-of-replication))
+	- **Economies of scale**: costs remain fixed as the company scales. (× [no cost of replication (Naval)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^no-cost-of-replication)) (× writing/making a theater piece — you can perform it the following year with minimum effort)
 	- **Branding.** Strong, unique brand. **A company has monopoly over its branding by definition.** Use it!
 - Monopolies vs competitive firms:
 	- **Monopolies set their own prices**; competitive firms base their prices on the competition.
 	- **Monopolies can think long term**; competitive firms are obsessed about short-term survival & profit (to a fault).
 		- **Safety is needed to go beyond survival.** (× people) Long-term thinking needs short-term sacrifices that small companies cannot afford (without e.g. funding), as they have to prioritize survival.
+	- Monopolies (e.g. bureaucracies) don't have inherent incentives for providing quality.
 - **Avoid competition as much as you can** — target markets uncatered-for.
 	- **If you cannot beat a rival, it may be better to merge.**
 - **Growth vs durability trap:** growth is easy to measure, durability is not. It's easy to obsess over short-term metrics ([Measure What Matters]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}); [rigged metrics (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^rigged-metrics)) but to miss the big picture (durability).
@@ -59,7 +60,7 @@ date:   2025-07-10 12:13:12 +0200
 - **Pre-mortem the competition frying you.**
 ^
 # Teams
-- **No company has a culture; each company *is* a culture.** (× [deliberate company culture (The Toyota Way)]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^deliberate-culture))
+- **No company *has* a culture; each company *is* a culture.** (× [deliberate company culture (The Toyota Way)]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^deliberate-culture))
 	- "A startup is **a team of people on a mission**."
 	- "The early PayPal team worked well together because we were **all the same kind of nerd**."
 - **Hire people who match professionally but also personally** — that you would actually enjoy working together with.

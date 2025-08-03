@@ -6,7 +6,7 @@ intentions:
 - “Being in control” of my money/possessions, and knowing what's going on
 - Alt: 1) Managing & fructifier savings; safety. 2) Making extra Xk€ before threshold; money-making habits.; 1+2) Being more consistent / deliberate in control about money.
 layout: post
-title:  '**"I Will Teach You To Be Rich"** by Ramit Sethi (personal notes)'
+title:  '**"I Will Teach You To Be Rich"** by Ramit Sethi (personal notes) ♫'
 date:   2025-07-02 14:13:12 +0200
 ---
 ^

@@ -103,7 +103,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 	- **Paint a picture.** Use different senses to inspire. Start from the atmosphere (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}))
 - Other tips:
 	- **Do the opposite.**
-	- **Purposefully experiment past the boundaries of your taste.** Try different genres; explore! Different flavours of people!
+	- <a name="^boundaries-taste"></a>**Purposefully experiment past the boundaries of your taste.** Try different genres; explore! Different flavours of people!
 	- **Accentuate the fault.** Kintsugi (filling up cracks with gold) (no relation to the famous singer) (× [Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}): own your mistakes; failure bow; celebrate mistakes; "yes, and" them; assertiveness)
 - <a name="^attention-gives-life"></a>**Attention gives life.** Pay attention to something inside you — it grows (visuospatial abilities; awareness of sensations; exercising empathy; etc.). Pay attention to something outside you — it grows (plants; projects; relationships; [home]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %})). (× [Psychedelics Revealing: Attention to a resource develops it.]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^attention-to-a-medium))
 	- Symbiotic relationships: the thing brings you excitement, you bring it growth (for an ability — or a project) (× pollination).
@@ -112,7 +112,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - <a name="^no-transition"></a>**No transition.** Put two pieces together without transition for a bold effect.
 - **Don't fit your work. Amplify the differences** — what doesn't fit.
 ^
-- <a name="^delegate-execution"></a>**Delegate execution of the art**, if ideation rather than execution is more important for you.
+- <a name="^delegate-execution"></a>**Delegate execution of the art**, if ideation rather than execution is more important for you. (× [throw money at it (Toyota Way)]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^throw-money))
 - **Limit information.** If you want creators to bring all of themselves to something, give them the most freedom to create. (e.g. in creating a piece for an event.)
 - Collaboration
 	- **Collectives vs hierarchies** — both work.

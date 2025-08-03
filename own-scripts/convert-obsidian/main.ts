@@ -109,7 +109,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-07-05-flow-mihaly-csikszentmihalyi-summary.md",
 
   "Zero to One":
-    "2025-07-10-zero-to-one-peter-thiel-summary.md"
+    "2025-07-10-zero-to-one-peter-thiel-summary.md",
+
+  "The Singularity is Near":
+    "2025-07-10-singularity-is-near-ray-kurzweil-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

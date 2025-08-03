@@ -40,7 +40,7 @@ date:   2024-12-30 11:10:09 +0200
 		* Every single person changes the dynamics of the group, especially in small groups.
 		* By accepting Bob, you give up a spot for somebody who could be more relevant.
 		* If you want diversity, **polarize** and exclude the middle.
-			* **Activate the diversity.** (Potential vs activated diversity)
+			* <a name="^activate-the-diversity"></a>**Activate the diversity.** (Potential vs activated diversity)
 	* <a name="^no-invites-by-obligation"></a>**No invites by obligation.** (× ["Fuck Yes, or No"](https://markmanson.net/fuck-yes))
 	* "**If everyone is invited, no one is invited.** By closing the door, you create the room."
 	* Multi-part gatherings: attend all or none. Else the energy gets disrupted.

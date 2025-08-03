@@ -122,7 +122,7 @@ _Those are my personal notes on the book "The New Psycho-Cybernetics" by Maxwell
 		* "I believe that the essence of humans is that which animates this machine, that which inhabits the machine, directs and controls it, and uses it as a vehicle."
 	* **"It is our duty to use the talents our Creator gave us."**
 * Our creativity and the unique expresion of ourself can only happen when we get in touch with and nurture our real self.
-	* In our life, we never fully exhaust the potential of our "Real Self", only ever get closer to it — through our expressed self, our personality.
+	* <a name="^ever-closer-real-self"></a>In our life, we never fully exhaust the potential of our "Real Self", only ever get closer to it — through our expressed self, our personality.
 	* The real self, the personality, is magnetic and attractive.
 * Creative performance is spontaneous and natural.
 * <a name="^not-inhibited"></a>One is not "inhibited"; rather, one has inhibited their creative mechanism. Self-consciousness of behaviour is inhibition. The opposite of immediateness.
