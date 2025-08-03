@@ -301,6 +301,7 @@ date:   2025-08-03 12:13:12 +0200
 		- **A sense of humour convinces other people's of one's humanness** (note to self).
 - **Intelligence arguing for itself.** People augmented with AI will be able to better argue in favour of augmentation with AI — "as those with enhanced intelligence will be far better debaters."
 	- In a way, microdosing is like being a cyborg (enhanced by nonbiological intelligence), except it is just an intervention onto one's biological intelligence. Biohacking. 
+^
 # Brains
 - It's easier to model a brain region than a neuron (× ["macro is easier to bullshit than micro" (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^macrobullshit)).
 	- "It's easier to model macro than micro". Models often get simpler at a higher level, not more complex. (× Earth) (e.g. thermodynamics vs single gas molecule; e.g. index funds vs a single enterprise; e.g. one's life trajectory, [the core desire line that will always propel our life forward (How to Know a Person)]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}#^core-desire-line))
@@ -352,6 +353,7 @@ date:   2025-08-03 12:13:12 +0200
 - **Patterns transcend the material world** — "**it is patterns that persist**" (× ideologies, cultures)
 	- **Information/knowledge, art, as a layer "above" the material stuff** (× hierarchical composition) (× [colony of ants (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^colony-of-ants)). Transcendence. (Transcending the material form).
 	- "**The pattern is far more important than the material stuff that constitutes it**" (e.g. music; one person's [point of view]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}), rather than any discrete events in a person's life)
+^
 # DNA
 - **DNA is compressed information** (succinctly describing a large set of molecules) — expands into organisms.
 - **The potential is there; it's about activating it.** RNA fragments control gene expression — just like in brains, the potential is there, just has to be activated. (× [getting ever closer to one's real self (Psycho-Cybernetics)]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^ever-closer-real-self); [activate the diversity (Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^activate-the-diversity)
