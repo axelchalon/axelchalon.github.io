@@ -35,7 +35,8 @@ const obsidianFileToWebsiteFile = {
     "Skin in the Game": "2025-07-03-skin-in-the-game-summary.md",
     "Flow": "2025-07-05-flow-mihaly-csikszentmihalyi-summary.md",
     "Zero to One": "2025-07-10-zero-to-one-peter-thiel-summary.md",
-    "The Singularity is Near": "2025-07-10-singularity-is-near-ray-kurzweil-summary.md"
+    "The Singularity is Near": "2025-07-10-singularity-is-near-ray-kurzweil-summary.md",
+    "Tiny Experiments": "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {
@@ -49,7 +50,7 @@ function obsidianToJekyll(obsidian) {
     Object.keys(obsidianFileToWebsiteFile).forEach(key => {
         var regex = new RegExp("\\[\\[" + key + "\\]\\]", "g");
         result = result.replace(regex, "[" + key + "]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");
-        var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z]+)\\|(.+?)\\]\\]", "g");
+        var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z0-9]+)\\|(.+?)\\]\\]", "g");
         result = result.replace(regex, "[$2]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %}$1)");
         var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g");
         result = result.replace(regex, "[$1]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key] + " %})");

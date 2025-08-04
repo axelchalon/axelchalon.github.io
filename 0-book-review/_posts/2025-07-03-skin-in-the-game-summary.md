@@ -88,3 +88,5 @@ date:   2025-07-03 12:13:12 +0200
 	- **Interventionista compare with their points of reference, rather than with the local alternatives.**
 ^
 - **Teachers can only teach you how to teach.** The main thing you can learn from a professor is how to be a professor. The main thing you can learn from a life coach is how to be a life coach.
+^
+- <a name="^talkers-doers"></a>"Those who talk should do; and those who do should talk."

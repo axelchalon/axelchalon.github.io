@@ -67,7 +67,7 @@ date:   2025-08-03 12:13:12 +0200
 		- E.g. becoming cyborgs to figure out nanotechnology. Technologically-assisted evolution.
 	- Evolution of the evolution itself, of the evolutionary process itself. Evolving the tools for evolution (meta-evolution). Evolution evolves faster evolution.
 		- E.g. number of chromosomes evolving over time.
-		- => **Upgrade your paradigm for running experiments.** Upgrade your evolutionary algorithm. (Fast, clear, bold experiments.) (e.g. completing projects (× Tiny Experiments))
+		- => **Upgrade your paradigm for running experiments.** Upgrade your evolutionary algorithm. (Fast, clear, bold experiments.) (e.g. completing projects (× [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})))
 	- <a name="^technology-creating-itself"></a>**Technology is creating itself.** The first computers were designed on paper and manufactured by hand. Today's computers are designed by computers and built by computers.
 		- "**Kinematic constructor**: a robot with at least one manipulator (arm) that would build a replica of itself from a "sea of parts" in its midst." (von Neumann)
 		- Humans could be "creating" themselves. Eugenics; "designer babies".
@@ -87,7 +87,7 @@ date:   2025-08-03 12:13:12 +0200
 - More churn (shorter lifespans) means more exploration (of optimal genes). Evolution optimizes for replication, not longevity.
 	- Evolution favours genes that lead to more successful reproduction.
 	- Death frees up resources for younger generations.
-	- Endings let you decide whether to re-create the experiment or not. (× 30-day experiments; × [clear ending (Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^end-not-stop); × [joy in the ephemerality (To the Actor)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^joy-ephemerality) ; Tiny Experiments)
+	- Endings let you decide whether to re-create the experiment or not. (× 30-day experiments; × [clear ending (Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^end-not-stop); × [joy in the ephemerality (To the Actor)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^joy-ephemerality) ; [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}))
 ^
 - **Exploration vs exploitation** in evolution (convergent resource allocation): the more effective an evolutionary process, the more resources go towards it. 
 ^

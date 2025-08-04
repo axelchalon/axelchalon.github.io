@@ -112,7 +112,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-07-10-zero-to-one-peter-thiel-summary.md",
 
   "The Singularity is Near":
-    "2025-07-10-singularity-is-near-ray-kurzweil-summary.md"
+    "2025-07-10-singularity-is-near-ray-kurzweil-summary.md",
+
+  "Tiny Experiments":
+    "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
@@ -130,7 +133,7 @@ function obsidianToJekyll(obsidian: string) {
     var regex = new RegExp("\\[\\[" + key + "\\]\\]","g")
     result = result.replace(regex, "[" + key + "]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %})");
 
-    var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z]+)\\|(.+?)\\]\\]","g")
+    var regex = new RegExp("\\[\\[" + key + "(#[-^a-zA-Z0-9]+)\\|(.+?)\\]\\]","g")
     result = result.replace(regex, "[$2]({% link 0-book-review/_posts/" + obsidianFileToWebsiteFile[key]+" %}$1)");
 
     var regex = new RegExp("\\[\\[" + key + "\\|(.+?)\\]\\]", "g")

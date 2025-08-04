@@ -131,7 +131,7 @@ date:   2025-06-01 14:13:12 +0200
 * "He can't do these things (opening oneself up emotionally) because he doesn't possess the consciousness that she has access to."
 ^
 # Personality tr8s
-- **Big 5**: Extraversion, Conscientiousness, Neuroticism, Agreeableness, Openness (dyslexic OCEAN) — a.k.a. **thrill-seeking, organized, negative, kind, explorative**. (× [Psychedelics Revealing (psychedelics make more open)]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^psychedelics-openness))
+- <a name="^big-5"></a>**Big 5**: Extraversion, Conscientiousness, Neuroticism, Agreeableness, Openness (dyslexic OCEAN) — a.k.a. **thrill-seeking, organized, negative, kind, explorative**. (× [Psychedelics Revealing (psychedelics make more open)]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^psychedelics-openness))
 	- People high in openness find anything moderately familiar to be boring (e.g. music exploration)
 - **"Every personality trait is a gift — it enables its bearer to serve the community in some valuable way.** (× [Creative Being (every person a unique channel to higher wisdom)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^unique-channel), × [Naval (specific knowledge comes from uniqueness)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^uniqueness), × [To the Actor (celebrate uniqueness)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^celebrate-uniqueness))
 - **You can change your personality** (as an adult). (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
