@@ -8,11 +8,12 @@ title:  '**"Tiny Experiments"** by Anne-Laure Le Cunff (personal notes)'
 date:   2025-08-04 12:13:12 +0200
 ---
 ^
-![Happy little experiments](https://xaxel.cc/assets/happylittleexperiments.png)
+<p style="text-align: center;"><img alt="Happy little experiments" src="https://xaxel.cc/assets/happylittleexperiments.png" /></p>
+<br>
 ^
 *Here are my notes on Anne-Laure Le Cunff's book* Tiny Experiments.
-<br>
----
+^
+<p><br>---</p>
 <br>
 - **Tiny Experiments as operating system.** Tiny Experiment all the things! 
 ^
@@ -30,7 +31,7 @@ date:   2025-08-04 12:13:12 +0200
 - Setting up your experiment
 	- **Pact MVP** (Think tiny): What's the smallest version of this experiment that you can run?
 	- **Think of your worst day.** Design your pact so you can still do it on difficult days.
-	- **You don't have to go bigger.** "Persist: resist the temptation to one-up if the experiment was successful. (× [things that don't scale (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^unscalable); Degrowth)
+	- **You don't have to go bigger.** "Persist": resist the temptation to one-up if the experiment was successful. (× [things that don't scale (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^unscalable); Degrowth)
 		- "I wanted to meditate once a week in a group. This does not require me to build a big meditation organization."
 ^
 - **Make videos / Record yourself.** "A new mode of expression."
@@ -59,7 +60,7 @@ date:   2025-08-04 12:13:12 +0200
 - **We tend to narrow down potential friendships as we age** — for better or for worse. (We become less open as we age — × [psychedelics increase the personality trait of openness]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^psychedelics-openness); [openness (big 5 personality trait)]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}#^big-5))
 	- "As we mature we progressively narrow the scope and variety of our lives. Of all the interests we might pursue, we settle on a few. **Of all the people with whom we might associate, we select a small number.** We become caught in a web of fixed relationships. We develop set ways of doing things."
 ^
-- **Cryptic patents:** scientists used to publish their findings in anagrams — letting them claim priority while disclosing it when they saw fit. (anagrammatic secrecy; Kepler)
+- **Cryptic patents:** scientists used to publish their findings in anagrams — letting them claim priority while disclosing them only when they saw fit. (anagrammatic secrecy; Kepler)
 ^
 - Overcoming stage fright: "**In a hundred years, you'll be dead, and so will every single person in the audience.** So quit worrying and get out there."
 - "Life isn't about waiting for the storm to pass. It's about learning to dance in the rain." (Vivian Greene)
