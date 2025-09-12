@@ -1,0 +1,128 @@
+---
+publish-status: published
+intentions:
+- Knowing how to gather feedback for NFN
+- Knowing how to cut through bullshit / invite honesty in interpersonal relations
+layout: post
+title:  '**"The Mom Test"** by Rob Fitzpatrick (personal notes)'
+date:   2025-09-12 12:13:12 +0200
+---
+^
+
+*Here are my notes on Rob Fitzpatrick's* The Mom Test.
+<br>
+---
+<br>
+- **Find your audience.**
+	- **Go to industry meetups**
+		- Be in the arena together with your customer base. Give free talks to hang out with speech givers (your target audience).
+	- Or pull: (× dating; Pavlina)
+		- **Create your own industry meetup**
+		- Teach/Speak (also on YouTube, etc.). Teach to gain credibility and attract future customers.
+		- Blog (creates leads for customer interviews)
+- **Is the person you're interviewing the target audience?**
+	- **Unaided questioning:** "What are your big goals and focusses right now?" and checking if our target answer is in their priority list, instead of "forcing onto" (× brand recall / brand awareness). Not pushing one's agenda onto a person. Being curious about the person's POV ([How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %})) and seeing if it's a match.
+	- Not your target audience: can they refer you to somebody?
+		- "The goal of cold approaches is to stop having cold approaches."
+			- Leads (customer e-mails) are a way to reach out and strike customer conversations (warm intros).
+		- If cold intros are difficult or not fruitful, focus your efforts on generating warm intros instead. (e.g. going to meetups, homebases, etc.)
+		- (× 6 Degrees of separation)
+- **Interview your audience.**
+	- Plan 3 things you want to learn from each audience segment. Update as you go. "What do we want to learn from these guys?"
+	- **Make it informal.** Have beers at industry meetups, etc.
+		- Jot down insights directly after the fact (especially at pubs, etc.)
+		- Prefer real-life over phone — chance for relaxation & informality ("you cannot simply "hang out" on the phone — in real life it can still be a chill moment)
+		- Respond humanely, informally. "It's crazy, right? My wallet is like two feet thick." (act like a human)
+	- People are OK with being recorded by voice. ~~Just don't tell them.~~ AI transcripts.
+	- Interview with two people ideally. One notices what the other one misses. (Or helps out digging deeper, recovering from bad questions, noticing cues/emotions — × dating sidecoaching 2on2)
+	- **Emoji shorthands** / codifying non-verbal cues. Make note of the non-verbal through symbols.
+		- Their life
+			- ☇ Pain or problem (symbol is a lightning bolt)
+			- ⨅ Goal or job-to-be-done (symbol is a soccer/football goal)
+			- ☐ Obstacle
+			- 㽉 Workaround (symbol is an arrow around)
+			- ^ Background or context (symbol is a distant mountain)
+		- Specifics
+			- ☑ Feature request or purchasing criteria (understand why)
+			- $ Money or budgets or purchasing process
+			- ♀ Mentioned a specific person or company (ask for intro)
+			- ☆ Follow-up task 
+	- Alternatively (when taking notes digitally), add emotion tags to notes (e.g. #emotions/embarrassed) (semantic note-taking)
+	- **Instant first date:** don't set up a meeting if you can have your conversation right now. This is already the date. (× [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer))
+		- **Date everywhere.** "Over-reliance on formal meetings leads us to overlook perfectly good chances for serendipitous learning." (× Play everywhere, rather than just on dates, etc.) (Be your dating self all the time.)
+		- "If you keep it casual, you'll find customer conversations appearing out of nowhere and catching you by surprise." Embody.
+	- **Undercover interview** (people don't need to know they're getting interviewed): "she left the party thinking I was a nice guy who was super interested in her career and I left with a bunch of useful customer insight" Not having to know you're in the business.
+		- "The only thing people love talking about more than themselves is their problems. By taking an interest in the problems and minutiae of their day, you're already more interesting than 99% of the people they've ever met." (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}); a Person's POV)
+- **Is it a problem at all for the person?** (assuming they're your target audience)
+	- **Problems people have but don't care about.** Ask how much effort they're putting into it — if they've searched for solutions — anchor it. Watch for emotions.
+	- It takes maximum five minutes to find out if the person is your target audience, and if the problem is important to them.
+		- **Quick-screen**: (× dates/approaches — hence also why one should favour real-life approaches) In 5-10 minutes you know if it's a match or not (if you should ditch it). **Saves time.**
+ - If it is an actual problem:
+	- **"Why do you bother?"** (Why is that a problem for the person?) **"What are the implications?"** (How much of a pain is it?) **"What else have you tried?"** "What would it allow you to do?"
+	- **Watch them do the task.** Be close to the real action (x [gemba (Toyota Way)]({% link 0-book-review/_posts/2023-11-30-the-toyota-way-jeffrey-liker-summary.md %}#^gemba)). If not possible, ask them to talk you through the last time they did it. See it for yourself.
+		- Line-by-line "thought" commentary (mind-reading) (× NLP). (× reading "below the surface"; social intelligence etc. — cf "what the conversation is really about" / "what we are really saying" ([any activity... (Splendid Exchange)]({% link 0-book-review/_posts/2024-03-29-a-splendid-exchange-personal-notes.md %}#^any-activity)) — different layers of communication/understanding, × theater, depth & layers of meaning)
+	- **Don't talk about (or mention) your idea. Ask about the person.**
+		- **People lie to protect.** If they don't think your ego is on the line, people will be candid. (× dating website experiences)
+		- **Make them not care about you, to give you true feedback.** Get people's real opinions by making them not care about you. "Brutally honest."
+			- **A good conversation: not what you want to hear; but the truth.** (also characterizes a bad conversation)
+			- "It's not anyone else's responsibility to show us the truth. It's our responsibility to find it." (× Proactivity; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}); no-bs; Antifragile; etc.; taking responsibility and cutting through bullshit — × rels)
+		- At the same time: "**People want to help you. Give them an excuse to do so.**"
+	- **Confidence is domain-specific. It will stop being so awkward as you do it more.** (Exposure therapy.)
+		- "I never consider rejection to be a real failure. **But not asking certainly is**."
+		- "The rejection rate is irrelevant." The more you try, the more your chances at jackpots. And jackpots are lifelong. (Every jackpot has its jill(s) (or crackpots)) **Absolute returns.**
+		- **Frame as research/insights ([Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) rather than focussing on the immediate outcome.** One-shots vs investments. "If you have $50k and spend $5k to learn you're running down a dead end, that's awesome. If you have only one shot, that's bad news." ⇒ **Commit a few years to a path, have clear takeaways.** (× The Game; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}) — clear decisions; [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) **<mark>Invest into knowing what doesn't work</mark>** (and what does — but **invest in having getting answers**, × [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}))
+			 - "**Scary ideas/questions save you time and money.**" Tackle important questions now to waste less time pursuing unimportant things or pursuing dead ends ("start earlier to benefit longer" (Lucy JC))
+			 - Discovering you're wrong is frustrating, but it's progress. "Learning that your beliefs are wrong **is frustrating, but it's progress**." **Know which of your beliefs are wrong.** Be open to being corrected. **Strong beliefs, loosely held.**
+			 - Inconclusive customer interviews are a good thing — you subsequently don't invest time on something that will fail. "You just saved yourself however much time and money it would have cost to try building and selling it."
+	- **Deflect compliments** like Neo.
+	- **Deflect opinions, ideas & feature requests** like Kung-Fu Panda.
+		- People know their problems but not how to solve them. Get to the root of their suggestions. (RCA)
+		- Sometimes it turns out to just be "nice-to-haves". "What would X allow you to do ?"
+	- **Deflect Woulds** like a lumberjack (e.g. "I would use that")
+		- Not what they "would" do — but how they currently (or recently) act. Make the decision for them, based on knowing about them. (Now knowing the person, if you were them, would you then use the product?) Don't trust their judgment.
+	- **Turn generics\<G\> into ~~fractals~~ factuals.** Anchor generics ("anchor the fluff"). "Huh yeah, you never do it? So when was the last time you X?"
+		- **Ask for counterexamples.** "—I always X —When did you last not X?"
+	- Bad customer conversations are not just useless but dangerous — convince you that you're on the right path. Delusional. "**Convincing a drunk that he's sober**." "When we don't know we tend to be careful. When we think we know, then things go to shit."
+	- **Convert into commitment/advancement.** (Escalate ~~de porc~~)
+		- **Ask for money, time or risk/reputation** (e.g. introducing to team) to screen for serious interest.
+		- **Know your next steps.**
+			- At the end of the meeting (and e.g. if they ask for the next step), know what the next step is. Escalator. (e.g. 30-day opt-out trial, with their credit card)
+			- × conventional dating.
+	- **Watch for emotions & dig them.** There is gold there.
+	- **Prod about money.** Prod their financial worldview — to know how much they would pay for it.
+		- **Know the stakeholders** — i.e. who has the money. (Cf parents for children, etc.) (× [stakeholders (The Design of Everyday Things)]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^stakeholders))
+	- **"Is there anything else I should have asked?"**
+		- Meta-review: review the interview format itself, notice which questions worked, which didn't.
+	- "Who else should I talk to?" (at the end of the meeting)
+- Segmenting
+	- Incoherent messages from your audience might mean a too broad target audience — it might comprise different segments.
+	- Segment your target audience.
+	- **"Startups don't starve, they drown."** Start small & specific (target audience).
+		- "Take over a small university town first."
+		- "Before we can serve everyone, we have to serve someone."
+		- "Making a so-so product for a bunch of audiences isn't quite the same as making an incredible product for one."
+		- Reducing your target audience feels painful — but it's only temporary.
+			- "Choosing a really specific customer segment just feels like we're losing all the other options. And that loss is painful. Remind yourself that you'll get to the whole world eventually. But you've got to start somewhere specific."
+			- There should be a specific physical place to find your customer segment (e.g. the neighbourhood gym at lunch hour) — else it's too broad.
+	- **Decide on an audience you love.** (× theater technician). **Serve people you love.**
+		- **Reachable, profitable, personally rewarding.** Decide on an audience (by priority) you admire and enjoy hanging out with, want to spend time with (!) "Work is a big part of our life..." Make the energy investment worth it — not working on something you don't care about. (!)
+	- "Crazy first customers" (× 1000 True Fans): Customers who love you — and who you love.
+- Pitching
+	- Selling to companies is different from selling to consumers.
+	- **Personalized pitch, each time.** Don't pitch blind; do your research on the customer, figure out this particular customer's unique situation (also × dating/asking out — why that person specifically, or why it's such a great match etc)
+- Asking for advice/advisors (× wingman/wingwoman)
+	- Secretly screen them for your advisory board — tell them afterwards.
+	- **"Very Few Wizards Ask Properly"** (VFWAP) (in any order) ⇒
+		- Vision (intro: what you're trying to solve — without mentioning your idea; "half-sentence of how you're making the world better" — your spiritual quest (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %})))
+		- Frame (explain and clarify intention: e.g. not trying to sell to the person) (× asking out)
+			- (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): make it clear what the meeting is for)
+		- Weakness (vulnerability or what you're struggling with) (× seduction communities co-support)
+		- Pedestal (why you specifically, × asking out)
+		- Ask (e.g. for a meeting/advice)
+			- e.g. "hey, i'm starting out as a soundtech and would like to become a better soundtech (v) i would like to get some advice from veterans of the industry to know which direction i should go or which areas i should focus on (f) it's difficult knowing what to focus on because there's so many things I could focus on so I'm a bit at a loss (w) I know you've spent decades in the industry and are well-regarded and well-liked by all people I know (p) could we maybe meet for a chat next week? (a)"
+	- **Once the meeting starts, grab the reins** (don't be a chill host, × [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}))
+		- At the beginning of the meeting, repeat what you said previously in the e-mail, to frame the meeting.
+^
+- Do pre-mortems (& pre-successes)
+^
+- Inviting chance: "There are lots of ways to get lucky when you're in the mood for it."

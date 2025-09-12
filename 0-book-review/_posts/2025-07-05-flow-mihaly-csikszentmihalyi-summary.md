@@ -102,10 +102,10 @@ date:   2025-07-05 12:13:12 +0200
 ^
 # life overarching
 - **Life does not have meaning; has to be *given* meaning.** "It is true that life has no meaning, if by that we mean a supreme goal built into the fabric of nature and human experience, a goal that is valid for every individual. But it does not follow that life cannot be *given* meaning." (× Existentialism)
-- An overarching flow goal lets you life life (and the subgoals) in (meta-), constant flow (× [character's superobjective (Chekhov)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^objectives); CM)
+- An overarching flow goal lets you live life (and the subgoals) in (meta-), constant flow (× [character's superobjective (Chekhov)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^objectives); CM)
 ^
 # past 
-- **Closure with the past; [find a new way](https://www.youtube.com/watch?v=3Y0iyyeh1c4).** "While we might admire the serenity of the lion in repose, the tribesman's untroubled acceptance of his fate, or the child's wholehearted involvement in the present, they cannot offer a model for resolving our predicament. The order based on innocence is now beyond our grasp. Once the fruit is plucked from the tree of knowledge, the way back to Eden is barred forever."
+- **Closure with the past; [find a new way](https://www.youtube.com/watch?v=3Y0iyyeh1c4); lost innocence cannot be retrieved.** "While we might admire the serenity of the lion in repose, the tribesman's untroubled acceptance of his fate, or the child's wholehearted involvement in the present, they cannot offer a model for resolving our predicament. The order based on innocence is now beyond our grasp. Once the fruit is plucked from the tree of knowledge, the way back to Eden is barred forever."
 - Learn from people who lived past you. Read books.
 ^
 # misc

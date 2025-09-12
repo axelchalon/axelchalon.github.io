@@ -24,6 +24,7 @@ date:   2025-08-04 12:13:12 +0200
 - **Stability is a prerequisite for exploration.** "It's harder to stay curious when your life is unstable" Stability so you can focus on other (more important) things. Getting rid of the urgent to focus on the important.
 ^
 - Try longer commitments: 3 months, 6 months... (× [long hangouts (The Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^long-hangouts))
+- Tiny Experiments (commitments) are like jumping into a river: you just have to (make the decision to) jump; once you're in the air, the rest inexorably follows. (× "Jump!" (DO Lectures))
 ^
 - **Focus full-time on a project**. "He left his job at Wall Street and created a blog."
 - **Announcing a goal makes you less likely to complete it.** (× [those who do should talk, and those who talk should do (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^talkers-doers)
@@ -45,8 +46,9 @@ date:   2025-08-04 12:13:12 +0200
 ^
 - **Partnered experiments.** Partnered pacts. (Partnered commitments.)
 	- Commit with a partner on trying out something for a set period of time. E.g. with romantic or sexual partners.
-		- "Let's get married for one year." "Let's have a fake wedding and see how it feels." "Let's live together for a week."
+		- "Let's get married for one year." "Let's have a fake wedding and see how it feels." "Let's live together for a week." (e.g. handfasting (temporary marriage))
 	- **Trial period.** "You cannot know if you would like to live in a city by spending one afternoon there." (× [trial decisions (Clear Thinking)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^trial-decision))
+- **Tiny experiment your life**: successive periods, all time-bound. (Regular travels.)
 ^
 - **Re-intentionalize regularly** — not once a year. Review your efforts, strategize, try new things. Get inspired every week!
 - **Notice what is absent.** Go through your journal and notice what you never talk about, think about, or feel. "Data can tell you a lot through what is not there."
@@ -67,6 +69,8 @@ date:   2025-08-04 12:13:12 +0200
 	- (× "Never walk when you can dance" (Marshall Rosenberg))
 	- "Dance with disruption. When life's song abruptly changes, relax and listen. Stay nimble. **Explore your subjective experience with curiosity before confronting the objective consequences of the disruption.** Then chaos can become a source of transformation."  (× Antifragile)
 - **Not all time is equal.** Objective vs subjective time (chronos vs kairos). One's objective lifetime is distinct from one's subjective lifetime — live big.
+^
+- "8 weeks of rowing until you reach flow." Practices need a certain time until you reach flow; commit the course for a few weeks to reach flow, and then decide. (Lenar, [Flow]({% link 0-book-review/_posts/2025-07-05-flow-mihaly-csikszentmihalyi-summary.md %}))
 ^
 - **Clear formats**: James Clear's 3-2-1 newsletter: 3 ideas from James, 2 quotes from others, 1 question for the reader to ponder.
 ^

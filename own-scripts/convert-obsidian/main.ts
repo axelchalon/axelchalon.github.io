@@ -115,7 +115,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-07-10-singularity-is-near-ray-kurzweil-summary.md",
 
   "Tiny Experiments":
-    "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md"
+    "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md",
+
+  "The Mom Test":
+    "2025-08-04-mom-test-rob-fitzpatrick-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

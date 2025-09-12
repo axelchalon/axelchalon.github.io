@@ -42,7 +42,7 @@ What a book.
 	- If we acted out our same kinks the whole time, there wouldn't be room for other explorations or balance.
 	- If we lived forever, life would lose its value.
 	- Pop-up rules in gatherings are accepted and exciting because they are temporary ([The Art of Gathering: Pop-up rules]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^pop-up-rules))
-- **Temporality helps objectify.** Because they are time-bound, it is easier to consider parts (e.g. social experiments) objectively and distinguish them from one's self (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): clear beginning and clear end).
+- **Temporality helps distinguish.** Because they are time-bound, it is easier to consider parts (e.g. social experiments) objectively and distinguish them from one's self (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): clear beginning and clear end).
 	- Who is the actor of your life? By not merging, you let yourself play different parts. (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}); [Psychedelics Revealing]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^real-self)). Don't become the character.
 - Plays are a mise-en-abyme. [Life in life.](https://www.youtube.com/watch?v=FhhL2uKh3O0)
 ^
