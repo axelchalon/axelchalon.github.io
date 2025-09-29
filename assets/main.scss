@@ -49,3 +49,45 @@ mark {
 :has(>:target) {
     background: rgba(255,255,0,0.3);
 }
+
+body { position: relative; }
+.wrapper { position: relative; } /* Feng shui */
+.candles {
+    position: absolute;
+    opacity: 0.3;
+}
+.candles.top {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.candles.bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.candles img {
+    display: block;
+    margin: auto;
+    width: 900px;
+    opacity: 1;
+}
+.candles:after { 
+    display: block;
+    content: "";
+    position: absolute;
+    height: 40%;
+    pointer-events: none;
+}
+.candles.top:after{
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #fff 80%);
+}
+.candles.bottom:after{
+    left: 0;
+    right: 0;
+    top: 0;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, #fff 80%);
+}

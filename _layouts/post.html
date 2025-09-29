@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+
+<script>
+const pathname = window.location.pathname;
+const filename = pathname.split('/').pop(); // Gets the last part after the last slash
+
+if (filename === 'feng-shui-that-makes-sense-cathleen-mccandless-summary.html') {
+    const el = document.querySelector('main');
+    const html = `
+<div class="candles top"><img src="https://xaxel.cc/assets/waterfall.gif"></div>
+<div class="candles bottom"><img src="https://xaxel.cc/assets/waterfall.gif"></div>`;
+    el.insertAdjacentHTML('afterbegin', html); // inserts as the first child
+}
+</script>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
