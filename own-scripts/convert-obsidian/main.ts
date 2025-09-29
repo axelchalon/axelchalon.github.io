@@ -118,7 +118,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md",
 
   "The Mom Test":
-    "2025-08-04-mom-test-rob-fitzpatrick-summary.md"
+    "2025-08-04-mom-test-rob-fitzpatrick-summary.md",
+  
+  "Feng Shui That Makes Sense":
+    "2025-09-29-feng-shui-that-makes-sense-cathleen-mccandless-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

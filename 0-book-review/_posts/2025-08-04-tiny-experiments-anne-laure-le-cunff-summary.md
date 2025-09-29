@@ -25,6 +25,8 @@ date:   2025-08-04 12:13:12 +0200
 ^
 - Try longer commitments: 3 months, 6 months... (× [long hangouts (The Art of Gathering)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^long-hangouts))
 - Tiny Experiments (commitments) are like jumping into a river: you just have to (make the decision to) jump; once you're in the air, the rest inexorably follows. (× "Jump!" (DO Lectures))
+- Performances are tiny experiments — committing to performing on a certain date; and sticking through it the whole two hours, "the show must go on".
+- × Micro-adventures (Alastair Humphreys)
 ^
 - **Focus full-time on a project**. "He left his job at Wall Street and created a blog."
 - **Announcing a goal makes you less likely to complete it.** (× [those who do should talk, and those who talk should do (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^talkers-doers)

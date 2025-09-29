@@ -37,7 +37,8 @@ const obsidianFileToWebsiteFile = {
     "Zero to One": "2025-07-10-zero-to-one-peter-thiel-summary.md",
     "The Singularity is Near": "2025-07-10-singularity-is-near-ray-kurzweil-summary.md",
     "Tiny Experiments": "2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md",
-    "The Mom Test": "2025-08-04-mom-test-rob-fitzpatrick-summary.md"
+    "The Mom Test": "2025-08-04-mom-test-rob-fitzpatrick-summary.md",
+    "Feng Shui That Makes Sense": "2025-09-29-feng-shui-that-makes-sense-cathleen-mccandless-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {
