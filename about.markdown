@@ -6,4 +6,4 @@ permalink: /about/
 
 ![Axel C.](/assets/onetruegod.jpeg)
 
-Hi, I'm Axel, I used to write about music, languages, life, and interesting things I found on the Internet. Now, I mostly publish notes on books that I'm reading.
+Hi, I'm Axel, I used to write about music, languages, life, and interesting things I found on the Internet. Now, I mostly publish notes on books that I'm reading. I also run <a href="https://bookclubcalendar.com">Book Club Calendar</a>.
