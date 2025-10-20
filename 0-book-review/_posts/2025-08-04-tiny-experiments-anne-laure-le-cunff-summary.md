@@ -27,6 +27,7 @@ date:   2025-08-04 12:13:12 +0200
 - Tiny Experiments (commitments) are like jumping into a river: you just have to (make the decision to) jump; once you're in the air, the rest inexorably follows. (× "Jump!" (DO Lectures))
 - Performances are tiny experiments — committing to performing on a certain date; and sticking through it the whole two hours, "the show must go on".
 - × Micro-adventures (Alastair Humphreys)
+- Software trial periods as tiny experiments.
 ^
 - **Focus full-time on a project**. "He left his job at Wall Street and created a blog."
 - **Announcing a goal makes you less likely to complete it.** (× [those who do should talk, and those who talk should do (Skin in the Game)]({% link 0-book-review/_posts/2025-07-03-skin-in-the-game-summary.md %}#^talkers-doers)
@@ -41,7 +42,7 @@ date:   2025-08-04 12:13:12 +0200
 	- "I made a pact to film myself every day for ten days and to share it online. This experiment unlocked an entirely new mode of expression to add to my creative repertoire."
 ^
 - **Cold curiosity vs hot curiosity** (rational vs emotional curiosity). Make experiments at the intersection.
-- **Procrastination is a sign.** Procrastination indicates a mismatch between head, heart, hand: rationality, emotions, abilities. Don't shoot the messenger; listen to it. procrastination is not the enemy.
+- <a name="^procrastination-messenger"></a>**Procrastination is a sign.** Procrastination indicates a mismatch between head, heart, hand: rationality, emotions, abilities. Don't shoot the messenger; listen to it. procrastination is not the enemy.
 	- Head: Redefine strategy
 	- Heart: Redesign the experience
 	- Hand: Request support (delegate) or get training
@@ -73,6 +74,7 @@ date:   2025-08-04 12:13:12 +0200
 - **Not all time is equal.** Objective vs subjective time (chronos vs kairos). One's objective lifetime is distinct from one's subjective lifetime — live big.
 ^
 - "8 weeks of rowing until you reach flow." Practices need a certain time until you reach flow; commit the course for a few weeks to reach flow, and then decide. (Lenar, [Flow]({% link 0-book-review/_posts/2025-07-05-flow-mihaly-csikszentmihalyi-summary.md %}))
+- Sprints (software development) as tiny experiments. Only ever knowing the next step (priority).
 ^
 - **Clear formats**: James Clear's 3-2-1 newsletter: 3 ideas from James, 2 quotes from others, 1 question for the reader to ponder.
 ^

@@ -30,7 +30,7 @@ date:   2025-07-01 12:13:12 +0200
 	- By acting bravely, we remind ourselves of our freedom and agency. (× [Pavlina](https://www.youtube.com/watch?v=8hFdmt9omBE): "Be a do-er"; [The Courage to Live Consciously](https://stevepavlina.com/blog/2004/10/the-courage-to-live-consciously/)  ["jump!"](https://thedolectures.com/talks/buckle-up-you-re-in-for-a-whirlwind/))
 	- Accept feedback only from people also in the arena.
 ^
-- **Shame vs guilt:** "I am bad" vs "I did something bad".
+- <a name="^shame-vs-guilt"></a>**Shame vs guilt:** "I am bad" vs "I did something bad".
 	- ([All About Love]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^shame-love): "That which is rendered separate or strange through fear (or shame) is made whole through perfect love."; ["Love knows no shame."]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^shame); The antidote to shame is not sympathy or pity — "Poor you"; it is empathy — "Me too." ([Improvise]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^shame-empathy-sympathy)); "Shame needs secrecy and judgment to thrive" (Brené Brown) ([Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^secrecy-judgment)); Conspiracy of Silence ([Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^conspiracy-of-silence)))
 	- **We all have shame.** Shame is human. You are not alone.
 	- **Shame is the fear of disconnection.**

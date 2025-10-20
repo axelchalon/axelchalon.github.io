@@ -110,6 +110,7 @@ date:   2024-12-30 11:10:09 +0200
 ^
 # Post-Notes
 - **Gatherings are intentional hangouts.**
+- A performance is a gathering — the experience begins the moment the audience steps in (if not earlier).
 - <a name="^long-hangouts"></a>**Long hangouts:** spend a whole day with friends — something emerges.
 * <a name="^worrying-about-things"></a>"One woman shared her mother's words on her deathbed: "I spent 90 percent of my time worrying about things that didn't matter. Don't do that.""
 ^
