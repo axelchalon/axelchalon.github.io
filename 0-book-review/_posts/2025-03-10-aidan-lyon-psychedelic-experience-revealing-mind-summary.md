@@ -16,7 +16,7 @@ date:   2025-03-10 14:13:12 +0200
 # Psychedelic experience
 - 'Psychedelic' in this book is meant in its etymological sense: **"mind-revealing"** (≠ psyche-cryptic), i.e. revealing in our awareness hidden parts of our mind, broadly construed (thoughts, sensations, emotions, etc.)
 ^
-- **Inference vs experience** (analytic vs psychedelic philosophy) (theory vs practice)
+- <a name="^inference-vs-experience"></a>**Inference vs experience** (analytic vs psychedelic philosophy) (theory vs practice)
 	- **Learning through inference vs through experience**:
 		- Learning about our mind through inference is like **trying to understand a stranger's mind**: we observe its patterns and behaviour and try to induce its inner workings
 	- **Reasoning abstractly vs feeling the generalized emotions**. In an ethical case involving the suffering of distant people, we could abstract away our emotional biases (replace e.g. England, Russia, Germany with A, B, C); or feel the generalized emotions. (× "blood of people conveniently far away", [At the Existentialist Café]({% link 0-book-review/_posts/2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md %}#^conveniently-far-away))

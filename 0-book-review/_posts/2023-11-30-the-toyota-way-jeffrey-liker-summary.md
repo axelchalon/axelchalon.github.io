@@ -208,7 +208,7 @@ _Those are my personal notes on Jeffrey Liker's book "The Toyota Way" (insert Am
 	* "We accept challenges with a creative spirit and the courage to realize our own dreams without losing drive or energy."
 * <a name="^gemba"></a>Managers should be at the "gemba" often (the place where the actual work is done, e.g. manufacturing), and be familiar with it, even be able to replace workers if necessary. Management decisions shouldn't take place in an ivory tower but very much in contact with the shop floor.
 	* Likewise, team supervisors should spend a large amount of their time doing the work that their team is doing.
-* Talk to people, gather feedback, get their ideas and approval even before you formally propose the idea (nemawashi).
+* <a name="^nemawashi"></a>Talk to people, gather feedback, get their ideas and approval even before you formally propose the idea (nemawashi).
 - Respect, trust, **challenge** and grow your people.
 	* Respect to people extends to customers, suppliers and business partners as well.
 		* Work very closely with your key suppliers, letting them take part in your design process. Challenge/develop your suppliers on quality, reliability, cost and processes.

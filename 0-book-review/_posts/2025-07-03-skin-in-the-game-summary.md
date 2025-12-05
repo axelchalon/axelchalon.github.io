@@ -20,7 +20,7 @@ date:   2025-07-03 12:13:12 +0200
 		- - e.g. bailouts — skin in the game of other people (taxpayers' in banks, × [abusing fallbacks (Money)]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^abusing-fallbacks)). It's the government, not the markets, that make bailouts possible. (× [bailouts (Money)]({% link 0-book-review/_posts/2024-05-09-money-unauthorized-biography-felix-martin-summary.md %}#^bailout))
 - **Bureaucracy is a machine for no skin in the game.** "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." (× [Shop Class as Soulcraft]({% link 0-book-review/_posts/2024-10-23-shop-class-as-soulcraft-summary.md %})
 	- Bureaucracy promotes **searching for complicated solutions**. More complicated (or more technology) doesn't mean better.
-		- **Theories looking for applications -vs- applications looking for theories**. Start in the real world — answer real problems.
+		- <a name="^theories-looking-for-applications"></a>**Theories looking for applications -vs- applications looking for theories**. Start in the real world — answer real problems.
 - Coaches/therapists tend to have no skin in the game (Ana) (NF).
 - **Regulatory capture**: making law, leaving office, getting hired at a company to work around the laws one created. (Conflict of interests; corruption.)
 ^

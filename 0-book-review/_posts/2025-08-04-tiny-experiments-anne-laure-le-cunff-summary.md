@@ -78,7 +78,7 @@ date:   2025-08-04 12:13:12 +0200
 ^
 - **Clear formats**: James Clear's 3-2-1 newsletter: 3 ideas from James, 2 quotes from others, 1 question for the reader to ponder.
 ^
-- Meta: Elements of Book Writing:
+- <a name="^book-writing"></a>Meta: Elements of Book Writing:
 	- Named concepts
 	- Method (× [I Will Teach You To Be Rich]({% link 0-book-review/_posts/2025-07-02-i-will-teach-you-to-be-rich-summary.md %}))
 	- Quotes

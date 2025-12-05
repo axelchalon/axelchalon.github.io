@@ -124,7 +124,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-09-29-feng-shui-that-makes-sense-cathleen-mccandless-summary.md",
   
   "The Erotic Mind":
-    "2025-10-20-erotic-mind-jack-morin-summary.md"
+    "2025-10-20-erotic-mind-jack-morin-summary.md",
+  
+  "The Culture Map":
+    "2025-12-05-culture-map-erin-meyer-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

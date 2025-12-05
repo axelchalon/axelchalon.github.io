@@ -22,37 +22,11 @@ date:   2025-09-12 12:13:12 +0200
 		- Blog (creates leads for customer interviews)
 - **Is the person you're interviewing the target audience?**
 	- **Unaided questioning:** "What are your big goals and focusses right now?" and checking if our target answer is in their priority list, instead of "forcing onto" (× brand recall / brand awareness). Not pushing one's agenda onto a person. Being curious about the person's POV ([How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %})) and seeing if it's a match.
-	- Not your target audience: can they refer you to somebody?
-		- "The goal of cold approaches is to stop having cold approaches."
+	- Not your target audience: can they refer you to somebody? (Also if they are; after an interview.)
+		- <a name="^cold-approaches"></a>"The goal of cold approaches is to stop having cold approaches."
 			- Leads (customer e-mails) are a way to reach out and strike customer conversations (warm intros).
 		- If cold intros are difficult or not fruitful, focus your efforts on generating warm intros instead. (e.g. going to meetups, homebases, etc.)
 		- (× 6 Degrees of separation)
-- **Interview your audience.**
-	- Plan 3 things you want to learn from each audience segment. Update as you go. "What do we want to learn from these guys?"
-	- **Make it informal.** Have beers at industry meetups, etc.
-		- Jot down insights directly after the fact (especially at pubs, etc.)
-		- Prefer real-life over phone — chance for relaxation & informality ("you cannot simply "hang out" on the phone — in real life it can still be a chill moment)
-		- Respond humanely, informally. "It's crazy, right? My wallet is like two feet thick." (act like a human)
-	- People are OK with being recorded by voice. ~~Just don't tell them.~~ AI transcripts.
-	- Interview with two people ideally. One notices what the other one misses. (Or helps out digging deeper, recovering from bad questions, noticing cues/emotions — × dating sidecoaching 2on2)
-	- **Emoji shorthands** / codifying non-verbal cues. Make note of the non-verbal through symbols.
-		- Their life
-			- ☇ Pain or problem (symbol is a lightning bolt)
-			- ⨅ Goal or job-to-be-done (symbol is a soccer/football goal)
-			- ☐ Obstacle
-			- 㽉 Workaround (symbol is an arrow around)
-			- ^ Background or context (symbol is a distant mountain)
-		- Specifics
-			- ☑ Feature request or purchasing criteria (understand why)
-			- $ Money or budgets or purchasing process
-			- ♀ Mentioned a specific person or company (ask for intro)
-			- ☆ Follow-up task 
-	- Alternatively (when taking notes digitally), add emotion tags to notes (e.g. #emotions/embarrassed) (semantic note-taking)
-	- **Instant first date:** don't set up a meeting if you can have your conversation right now. This is already the date. (× [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer))
-		- **Date everywhere.** "Over-reliance on formal meetings leads us to overlook perfectly good chances for serendipitous learning." (× Play everywhere, rather than just on dates, etc.) (Be your dating self all the time.)
-		- "If you keep it casual, you'll find customer conversations appearing out of nowhere and catching you by surprise." Embody.
-	- **Undercover interview** (people don't need to know they're getting interviewed): "she left the party thinking I was a nice guy who was super interested in her career and I left with a bunch of useful customer insight" Not having to know you're in the business.
-		- "The only thing people love talking about more than themselves is their problems. By taking an interest in the problems and minutiae of their day, you're already more interesting than 99% of the people they've ever met." (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}); a Person's POV)
 - **Is it a problem at all for the person?** (assuming they're your target audience)
 	- **Problems people have but don't care about.** Ask how much effort they're putting into it — if they've searched for solutions — anchor it. Watch for emotions.
 	- It takes maximum five minutes to find out if the person is your target audience, and if the problem is important to them.
@@ -67,10 +41,36 @@ date:   2025-09-12 12:13:12 +0200
 			- **A good conversation: not what you want to hear; but the truth.** (also characterizes a bad conversation)
 			- "It's not anyone else's responsibility to show us the truth. It's our responsibility to find it." (× Proactivity; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}); no-bs; Antifragile; etc.; taking responsibility and cutting through bullshit — × rels)
 		- At the same time: "**People want to help you. Give them an excuse to do so.**"
+	- **Interview your audience.**
+		- Plan 3 things you want to learn from each audience segment. Update as you go. "What do we want to learn from these guys?"
+		- **Make it informal.** Have beers at industry meetups, etc.
+			- Jot down insights directly after the fact (especially at pubs, etc.)
+			- Prefer real-life over phone — chance for relaxation & informality ("you cannot simply "hang out" on the phone — in real life it can still be a chill moment)
+			- Respond humanely, informally. "It's crazy, right? My wallet is like two feet thick." (act like a human)
+			- **Instant first date:** don't set up a meeting if you can have your conversation right now. This is already the date. (× [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer))
+				- **Date everywhere.** "Over-reliance on formal meetings leads us to overlook perfectly good chances for serendipitous learning." (× Play everywhere, rather than just on dates, etc.) (Be your dating self all the time.)
+				- "If you keep it casual, you'll find customer conversations appearing out of nowhere and catching you by surprise." Embody.
+		- People are OK with being recorded by voice. ~~Just don't tell them.~~ AI transcripts.
+		- Interview with two people ideally. One notices what the other one misses. (Or helps out digging deeper, recovering from bad questions, noticing cues/emotions — × dating sidecoaching 2on2)
+		- **Emoji shorthands** / codifying non-verbal cues. Make note of the non-verbal through symbols.
+			- Their life
+				- ☇ Pain or problem (symbol is a lightning bolt)
+				- ⨅ Goal or job-to-be-done (symbol is a soccer/football goal)
+				- ☐ Obstacle
+				- 㽉 Workaround (symbol is an arrow around)
+				- ^ Background or context (symbol is a distant mountain)
+			- Specifics
+				- ☑ Feature request or purchasing criteria (understand why)
+				- $ Money or budgets or purchasing process
+				- ♀ Mentioned a specific person or company (ask for intro)
+				- ☆ Follow-up task 
+		- Alternatively (when taking notes digitally), add emotion tags to notes (e.g. #emotions/embarrassed) (semantic note-taking)
+		- **Undercover interview** (people don't need to know they're getting interviewed): "she left the party thinking I was a nice guy who was super interested in her career and I left with a bunch of useful customer insight" Not having to know you're in the business.
+			- "The only thing people love talking about more than themselves is their problems. By taking an interest in the problems and minutiae of their day, you're already more interesting than 99% of the people they've ever met." (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}); a Person's POV)
 	- **Confidence is domain-specific. It will stop being so awkward as you do it more.** (Exposure therapy.)
 		- "I never consider rejection to be a real failure. **But not asking certainly is**."
 		- "The rejection rate is irrelevant." The more you try, the more your chances at jackpots. And jackpots are lifelong. (Every jackpot has its jill(s) (or crackpots)) **Absolute returns.**
-		- **Frame as research/insights ([Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) rather than focussing on the immediate outcome.** One-shots vs investments. "If you have $50k and spend $5k to learn you're running down a dead end, that's awesome. If you have only one shot, that's bad news." ⇒ **Commit a few years to a path, have clear takeaways.** (× The Game; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}) — clear decisions; [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) **<mark>Invest into knowing what doesn't work</mark>** (and what does — but **invest in having getting answers**, × [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}))
+		- **Frame as research/insights ([Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) rather than focussing on the immediate outcome.** One-shots vs investments. "If you have $50k and spend $5k to learn you're running down a dead end, that's awesome. If you have only one shot, that's bad news." ⇒ **Commit a few years to a path, have clear takeaways.** (× The Game; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}) — clear decisions; [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) **<mark>Invest into knowing what doesn't work</mark>** (and what does — but **invest in getting answers**, × [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}))
 			 - "**Scary ideas/questions save you time and money.**" Tackle important questions now to waste less time pursuing unimportant things or pursuing dead ends ("start earlier to benefit longer" (Lucy JC))
 			 - Discovering you're wrong is frustrating, but it's progress. "Learning that your beliefs are wrong **is frustrating, but it's progress**." **Know which of your beliefs are wrong.** Be open to being corrected. **Strong beliefs, loosely held.**
 			 - Inconclusive customer interviews are a good thing — you subsequently don't invest time on something that will fail. "You just saved yourself however much time and money it would have cost to try building and selling it."

@@ -5,7 +5,7 @@ intentions:
 - ideas for La
 - big-picture ideas on sex / psychology/meaning of sex
 layout: post
-title:  '**"The Erotic Mind"** by Jack Morin (personal notes)'
+title:  '**"The Erotic Mind"** by Jack Morin (personal notes) ♫'
 date:   2025-10-20 12:13:12 +0200
 ---
 ^
@@ -20,7 +20,7 @@ See also [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-m
 - **Every turn-off can become a turn-on.**
 - **Every turn-on, past a point, can become a turn-off.** (e.g. anxiety/excitement)
 - **Arousal is the antidote to performance.** Pleasure (through arousal) instead of performance. 
-- Attraction + obstacles = excitement. (e.g. physical/geographical/emotional distance, × [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer)) Yearning renews passion. ("The sexual equation")
+- Attraction + obstacles = excitement. (e.g. physical/geographical/emotional distance, × [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer)) Yearning renews passion. ("The sexual equation") (Obstacles: cf appeal of scarcity — marketing)
 	- Received ambivalence increases excitement. Ambivalence is an obstacle and thereby increases excitement (hence dynamics around playing hard to get; push & pull).
 		- Resolving the other's ambivalence can be seen as a win, a conquest ("search for power").
 	- It's not the ambivalence but the resolution of ambivalence that turns on — overcoming doubt.
@@ -58,6 +58,7 @@ See also [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-m
 	- **In limerence, one is simultaneously over-receptive to the partner's good sides & non-receptive to their bad sides.** 
 - <a name="^import-export"></a>**Import vs export.** Attraction is made of both. Import (characteristics of the other that we lack or wish for ourselves); export (own characteristics that are appreciated and validated by the other). (Dr. Tripp — often seen on a bicycle) (["qu'importe, l'amour s'exporte"](https://www.youtube.com/watch?v=9wflvuzLm2o))
 	- Nurture the qualities you like by bonding with people who have them. "Through our attachments we can gradually cultivate within ourselves the very characteristics we find so appealing in our partners." (Become rich one partner at a time.)
+	- (e.g. reading fiction books to import what is missing in your life (Katie))
 - **After limerence (NRE), sex life usually flounders.** The merging erases the separateness/individuality that was the base for attraction. Love-lust conflict (& love-lust overlap).
 	- Excitation + safety, for arousal. "Tantric practitioners believe that ecstasy is most likely to occur when relaxation and high states of excitement are combined." "Relaxing into arousal."
 	- **Loss of desire is not a problem but a message.** (× [procrastination is the messenger (Tiny Experiments)]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}#^procrastination-messenger))
@@ -69,7 +70,7 @@ See also [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-m
 - **Arousal/attraction as a spark — you have to be neither too close nor too far.** "In both love and lust, the challenge is to find an optimal distance — neither too close nor too far."
 - **"Companionate lovers"** (very similar) — not with passionate sex, but just getting along really well (soul friends). **"Warm sex."**
 	- **"In most cases, an awareness of similarity is friendship, whereas an awareness of difference is passion."**
-- Sex Talks: re-state intentions explicitly (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %})). E.g. "I value our sexual relationship so much that I've been thinking baout how to make it even better." (× Culture Map)
+- Sex Talks: re-state intentions explicitly (× [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %})). E.g. "I value our sexual relationship so much that I've been thinking about how to make it even better." (× [Culture Map]({% link 0-book-review/_posts/2025-12-05-culture-map-erin-meyer-summary.md %}#^meta))
 - Recall (together) past peak turn-ons.
 ^
 - **Sensual touching activity** (sensate focus) — goal-less, not performance-based. Reconnecting with pleasure (e.g. taking turn massaging). As an activity to counter performance pressure.
