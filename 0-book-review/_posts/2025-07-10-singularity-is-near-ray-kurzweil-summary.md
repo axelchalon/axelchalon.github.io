@@ -196,7 +196,7 @@ date:   2025-08-03 12:13:12 +0200
 	- "Other people (such as your romantic partner) will be able to select a different body for you than you might select for yourself (and vice versa)" 
 	- "So I could have a biological body at one time and not at another, then have it again, then change it, and so on."
 	- "Romantic couples can choose whom they wish to be, even to become each other."
-	- **Having different bodies to different people.** "We can select different bodies at the same time for different people. So your parents may see you as one person, while your girlfriend will experience you as another. However, the other person may choose to override your selections, preferring to see you differently than the body you have chosen for yourself." (× avatars)
+	- <a name="^different-bodies-to-different-people"></a>**Having different bodies to different people.** "We can select different bodies at the same time for different people. So your parents may see you as one person, while your girlfriend will experience you as another. However, the other person may choose to override your selections, preferring to see you differently than the body you have chosen for yourself." (× avatars)
 	- **Choosing different bodies for others.** Picking body projections. "You could pick different body projections for different people: Ben Franklin for a wise uncle, a clown for an annoying coworker."
 	- (× ROAMance)
 	- You will be able to upload a brain and download it with its virtual body.

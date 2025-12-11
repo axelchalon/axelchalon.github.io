@@ -42,8 +42,8 @@ _Those are my personal notes on Max Dickins's book "Improvise!" (insert Amazon a
 	* <a name="^culture"></a>Create a culture of safety.
 		* **Permission slip: Encourage people to take risks and respond positively to it.**
 		* **"I've got your back."** Before shows, improvisers go around every player on the team, look them in the eyes, pat them on the back and say: "I've got your back."
-			* **"If you do something weird, I'll do something weirder."** In improvisation, you take risks knowing that you'll be supported by your fellow players.
-* Authenticity
+			* <a name="^weird-weirder"></a>**"If you do something weird, I'll do something weirder."** In improvisation, you take risks knowing that you'll be supported by your fellow players.
+* <a name="^authenticity"></a>Authenticity
 	* **Do not plan.** Do not have a script.
 * Listening
 	* Pay attention, tweak your behaviour accordingly.

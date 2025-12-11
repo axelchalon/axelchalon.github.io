@@ -16,7 +16,7 @@ date:   2025-05-20 14:13:12 +0200
 - "**Shift the ratio of activity to meaning"** (× busy-work) (× [OKRs (output instead of activity)]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}#^output-instead-of-activity); [Naval (be paid for your output, not your input)]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^paid-for-output-not-input))
 - <a name="^most-important-knowing"></a>**If you don't know what's the most important, then the most important is to figure it out.**
 ^
-- <a name="^endowment"></a>**Endowment effect** — we value things we own more than they are worth.
+- <a name="^endowment"></a>**Endowment effect (Loss aversion)** — we value things we own more than they are worth.
 	- **"If I didn't own this, how much would I pay for it?"**, to reduce possessions. ([The Life-Changing Magic of Tidying up]({% link 0-book-review/_posts/2022-10-15-the-life-changing-magic-of-tidying-up-summary.md %}); [The Laws of Simplicity]({% link 0-book-review/_posts/2025-05-19-laws-simplicity-john-maeda.md %}) (reducing)). 
 	- **"If I wasn't involved in this project, how hard would I work to get on it?"** The endowment effect happens for projects we own as well (clinging to them). Uncommit from non-essential projects you are responsible for.
 - **Sunk-cost bias: continuing down the path because you've invested a lot in it already** — even though you should ditch it (e.g. personal projects).
@@ -24,7 +24,7 @@ date:   2025-05-20 14:13:12 +0200
 	- **Zero-based life review:** periodically questioning all of your habits, projects, use of your time and of your energy.
 	- **Zero-based scheduling:** **"If I didn't have this commitment, how much would I want it?"** (applied to one's calendar)
 		- **Dream Week**: "Start with a blank one-week calendar. Design your Dream Week: what's most important each day."
-- **[Reverse pilot](https://www.aerotime.aero/images/Wings-over-Baltics-Airshow-2019.jpg):** remove something suspected unessential, see if there is a (negative) response. If not, congratulations, you've removed something unessential. (to prevent status quo bias)
+- **[Reverse pilot](https://www.aerotime.aero/images/Wings-over-Baltics-Airshow-2019.jpg):** remove something suspected unessential, see if there is a (negative) response. If not, congratulations, you've removed something unessential. (to prevent status quo bias) (× [Clear Thinking (trial decisions)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^trial-decision))
 - **External advice helps with getting untrapped from the endowment effect.**
 ^
 - **You can always choose** — even if you cannot control the options. Deciding is an action. If you don't decide, someone else will do it for you (or your past self will (× [Debt]({% link 0-book-review/_posts/2025-04-20-debt-first-5000-years-david-graeber-summary.md %}#^tied-to-past))). (× [At the Existentialist Café]({% link 0-book-review/_posts/2024-05-22-at-the-existentialist-cafe-sarah-bakewell-summary.md %}); Frankl) Choices vs options. **"Choose choice, in every area of your life."** (intentionality) (× [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}); [Psycho-Cybernetics (tackle your issues)]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^tackle-problems))

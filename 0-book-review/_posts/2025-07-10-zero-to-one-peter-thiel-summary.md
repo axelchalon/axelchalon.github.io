@@ -7,6 +7,7 @@ intentions:
 layout: post
 title:  '**"Zero to One"** by Peter Thiel (personal notes)'
 date:   2025-07-10 12:13:12 +0200
+tags: business
 ---
 ^
 *Here are my notes on* Zero to One *by Peter Thiel.*

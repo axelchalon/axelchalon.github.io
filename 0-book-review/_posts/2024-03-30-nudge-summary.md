@@ -15,7 +15,7 @@ date: 2024-03-30 14:13:12 +0200
 	* <a name="^not-own-best-interest"></a>Nudges counteract the fact that people do not typically act in their best interest (as judged by them).
 		* Good choices are hard to come by, as they require experience (hence: wisdom of elders), good information (requiring targeted research) and quick feedback (to learn from one's decisions).
 	* Nudging people (in the direction they wish) is a way of loving them. General wishes just signify positive inclination towards strategies or action plans that would go towards them. Influencing others "for the better", knowing what is good for them (× Wlad; × [love; nurturing one's growth]({% link 0-book-review/_posts/2023-10-25-all-about-love-bell-hooks-summary.md %}#^love-nurture-growth))
-- **No true preference.** People's decisions are predicated on the way the options are offered to them. There is no such thing as a "neutral" way of presenting things. "There is no such thing as a "neutral" design." (× architecture) Architecture/design as the medium/framework/brain.
+- **No true preference.** People's decisions are predicated on the way the options are offered to them. There is no such thing as a "neutral" way of presenting things. "There is no such thing as a "neutral" design. (× architecture) Architecture/design as the medium/framework/brain.
 	* "Choice architecture" is the consequential task of designing the way options are presented.
 		* Choice architecture is a lot of responsibility.
 		* Choice architects are everywhere: bar managers, doctors offering treatments, merchandising.
@@ -60,7 +60,7 @@ date: 2024-03-30 14:13:12 +0200
 	* We do not want to face the disapproval of others (peer pressure)
 	* **Leverage conformity with (imposed) self-image / Imposed self-confomity**: "Are you ok? You're never late!" ("Oh, that's true, I'm the kind of person who's never late...")
 	- Belgian busses: "96 of 100 people let others step out before they step in. It's almost perfect."
-* **Leverage identity conscience** For example, the "Proud to be Texan" / "Don't mess with Texas" anti-littering campaign
+* <a name="^texans"></a>**Leverage identity conscience** For example, the "Proud to be Texan" / "Don't mess with Texas" anti-littering campaign
 	* Combining identity conscience and social influence: "Montanans always wear masks"
 * <a name="^create-clubs"></a>**Create clubs.** Agree on measures to take together and on "in-group" privileges, in order to tackle problems that need global synchronized action (e.g. climate change).
 * **Disclose others' thoughts and opinions**; provide a sharing platform for people, breeding grounds.

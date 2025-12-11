@@ -21,7 +21,7 @@ See also [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-m
 - **Every turn-on, past a point, can become a turn-off.** (e.g. anxiety/excitement)
 - **Arousal is the antidote to performance.** Pleasure (through arousal) instead of performance. 
 - Attraction + obstacles = excitement. (e.g. physical/geographical/emotional distance, × [sex drive simmer (Sex Talks)]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-marin-summary.md %}#^sex-drive-simmer)) Yearning renews passion. ("The sexual equation") (Obstacles: cf appeal of scarcity — marketing)
-	- Received ambivalence increases excitement. Ambivalence is an obstacle and thereby increases excitement (hence dynamics around playing hard to get; push & pull).
+	- <a name="^ambivalence"></a>Received ambivalence increases excitement. Ambivalence is an obstacle and thereby increases excitement (hence dynamics around playing hard to get; push & pull).
 		- Resolving the other's ambivalence can be seen as a win, a conquest ("search for power").
 	- It's not the ambivalence but the resolution of ambivalence that turns on — overcoming doubt.
 - **Four cornerstones of excitement:** anticipation/longing, naughtiness, overcoming ambivalence, power.
@@ -101,6 +101,6 @@ See also [Sex Talks]({% link 0-book-review/_posts/2023-06-15-sex-talks-vanessa-m
 - **Start an erotic journal.**
 - **Talk about stuff.**
 - **Turn setbacks into opportunities for growth.**
-- **Break character.**
+- <a name="^break-character"></a>**Break character.**
 - **Be proactive.**
 - **[Try stuff.]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})**

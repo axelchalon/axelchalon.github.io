@@ -1,11 +1,13 @@
 ---
 publish-status: published
 intentions:
-- Knowing how to gather feedback for NFN
-- Knowing how to cut through bullshit / invite honesty in interpersonal relations
+  - Knowing how to gather feedback for NFN
+  - Knowing how to cut through bullshit / invite honesty in interpersonal relations
 layout: post
-title:  '**"The Mom Test"** by Rob Fitzpatrick (personal notes)'
-date:   2025-09-12 12:13:12 +0200
+title: '**"The Mom Test"** by Rob Fitzpatrick (personal notes)'
+date: 2025-09-12 12:13:12 +0200
+tags:
+  - business
 ---
 ^
 
@@ -81,7 +83,7 @@ date:   2025-09-12 12:13:12 +0200
 	- **Deflect Woulds** like a lumberjack (e.g. "I would use that")
 		- Not what they "would" do — but how they currently (or recently) act. Make the decision for them, based on knowing about them. (Now knowing the person, if you were them, would you then use the product?) Don't trust their judgment.
 	- **Turn generics\<G\> into ~~fractals~~ factuals.** Anchor generics ("anchor the fluff"). "Huh yeah, you never do it? So when was the last time you X?"
-		- **Ask for counterexamples.** "—I always X —When did you last not X?"
+		- **<mark>Ask for counterexamples.</mark>** "—I always X —When did you last not X?"
 	- Bad customer conversations are not just useless but dangerous — convince you that you're on the right path. Delusional. "**Convincing a drunk that he's sober**." "When we don't know we tend to be careful. When we think we know, then things go to shit."
 	- **Convert into commitment/advancement.** (Escalate ~~de porc~~)
 		- **Ask for money, time or risk/reputation** (e.g. introducing to team) to screen for serious interest.

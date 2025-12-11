@@ -1,14 +1,16 @@
 ---
 publish-status: published
 intentions:
- - Book club
- - General advice on life
- - General advice on money/wealth
+  - Book club
+  - General advice on life
+  - General advice on money/wealth
 aliases:
   - Naval
 layout: post
-title:  '**"The Almanack of Naval Ravikant"** by Eric Jorgenson (personal notes)'
-date:   2024-07-25 14:13:12 +0200
+title: '**"The Almanack of Naval Ravikant"** by Eric Jorgenson (personal notes)'
+date: 2024-07-25 14:13:12 +0200
+tags:
+  - business
 ---
 ^
 Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](https://www.navalmanack.com/ "Sponsored link")

@@ -9,7 +9,7 @@ date:   2025-05-19 14:13:12 +0200
 ^
 In *The Laws of Simplicity*, John Maeda (of Depeche Mode remixing fame) lays out principles and weird acronyms for making our life easier. Favourite quote: "At the end of the day, there is an end of the day." (See also: [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}), [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}))
 ^
-- **To simplify, either reduce, or hide.**
+- **To simplify, either reduce or hide.**
 	- Reduce: (× [Creative Act]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^remove-to-perfection))
 		- **Reduce features.** (iPod)
 		- Reduce size. **Small but mighty.** Make things small (or light) to let them exceed expectations. We don't expect much from small things. Counterbalance smallness (fragility) with projected quality.
@@ -18,7 +18,7 @@ In *The Laws of Simplicity*, John Maeda (of Depeche Mode remixing fame) lays out
 		- **Organize in order to reduce.** Groupings turn many into few.
 			* **Fewer groups.** Group together similar things, then group together similar groups ("slip"). 
 				* Create a high-priority list (group) across groups.
-	- Hide complexity:
+	- Hide complexity: (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}))
 		- **Advanced mode.** Hide non-essential features (if you decide to keep them).
 		- **Simplify by abstracting (hiding)**: e.g. cloud syncing services.
 		- **Put it far away.** Make it "bottom-of-mind". More appears like less by simply moving it far, far away.

@@ -25,7 +25,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 		* Place the controls on their object; otherwise next to it.
 		* Else, let the arrangement of the controls mimic the arrangement of their objects.
 		* Else, let the controls share a defining characteristic with their object (color, shape)
-	* Obviate the need for manuals, especially for simple objects. Manuals should only be necessary for complex objects.
+	* **Obviate the need for manuals, especially for simple objects.** Manuals should only be necessary for complex objects.
 		* Make the manual or help section easily discoverable.
 * **Signs can be used to override misleading signifiers** (a sign "Push" on a door can counteract a handle that signifies pulling).
 * **Experience design addresses the emotions arising from the use of the product** (when things go as planned — and when they don't).
@@ -90,13 +90,13 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 			- <a name="^be-exposed-then-understand"></a>**Learning by being exposed to things we do not understand — in order to upgrade our conceptual model thereof.**
 		* The (right) conceptual models play an essential role in how intuitive or logical something seems.
 			- The product is the only point of contact between the designer and the end user; the only place where the designer's (accurate) conceptual model of the product can be conveyed to the end user.
-				* It is the designer's responsibility to convey an accurate conceptual model of the product to the user, by means e.g. of intuitive interface design.
-	* "People create mental models of themselves, others, the environment." (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}))
-		- The understanding of how one works, how others work, can be more or less shallow (transactional) or deep (emotional relating and understanding, insight at the person's spiritual life path).
+				* **It is the designer's responsibility to convey an accurate conceptual model of the product to the user**, by means e.g. of intuitive interface design.
+	* "People create mental models of themselves, others, the environment." (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %})) (× [Your Symphony of Selves]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}))
+		- The understanding of how one works, how others work, can be more or less shallow (transactional) or deep (emotional relating and understanding, insight at the person's spiritual life path — × [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %})).
 			* The conceptual model we have of ourselves might not be accurate.
 * **To simplify thought, use simplified models** — approximations to the true underlying state of affairs.
 	* Science is about accuracy and absolute truths; the practical world is about quick results and "good enough" measurements.
-	* **Start with simplified mental models and un-simplify them as the circumstances demand.**
+	* <a name="^simplified-models"></a>**Start with simplified mental models and un-simplify them as the circumstances demand.**
 		* Simplified conceptual models founder when the situation gets more complex, requiring an updated un-simplification of the mental model, i.e. one degree of abstraction less, or one degree of depth more (× incremental reading; "... explained in 5 levels of difficulty").
 ^
 # <a name="^errors"></a>Reducing errors

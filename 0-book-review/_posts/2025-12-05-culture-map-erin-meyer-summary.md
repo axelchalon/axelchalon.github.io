@@ -59,7 +59,7 @@ date:   2025-12-05 12:13:12 +0200
 		- Shows in:
 			- Theoretical vs practical schooling
 			- Common Law (USA/UK), practical first (setting a precedent) vs civil law (EU), principles-first.
-	- **Holistic vs specific**
+	- <a name="^holistic-specific"></a>**Holistic vs specific**
 		- Asian cultures & religions tend to be more holistic (reflexology, [feng shui]({% link 0-book-review/_posts/2025-09-29-feng-shui-that-makes-sense-cathleen-mccandless-summary.md %}), etc.)
 		- **Micro-to-macro (West), vs macro-to-micro (JP, CN)**
 			- Profile picture as a close-up face shot (West) vs whole-body-in-context shot (Japan).

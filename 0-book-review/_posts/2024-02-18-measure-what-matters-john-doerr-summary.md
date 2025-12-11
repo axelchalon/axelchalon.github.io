@@ -8,12 +8,13 @@ aliases:
 layout: post
 title:  '**"Measure What Matters"** by John Doerr (personal notes)'
 date:   2024-02-18 14:13:12 +0200
+tags: business
 ---
 ^
 _Those are my personal notes on John Doerr's book “Measure What Matters — OKRs: The Simple Idea that Drives 10x Growth"._
 ^
 Nota: OKR = Objective & Key Results: a clear impact-focussed goal with a deadline, along with measurable steps necessary to reach it.
-# Core values, mission statement
+# <a name="^mission-statement"></a>Core values, mission statement
 * A company's mission statement, vision, and core values are a general guideline for behaviour and decision-making.
 	* Examples of mission statements:
 		* "We envision a world where anyone, anywhere, can transform their lives by accessing the world's best learning experience."

@@ -58,7 +58,7 @@ date:   2025-08-04 12:13:12 +0200
 ^
 - **The personal is the universal.** Both personal and universal (e.g. hero's journey, [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %})).
 - **A community gives you access to extra knowledge, skills and physical assets that vastly exceed your own.** (× [extended intelligence (The Singularity is Near)]({% link 0-book-review/_posts/2025-07-10-singularity-is-near-ray-kurzweil-summary.md %}))
-- **Breaking the Game**: Asking users how to monetize the website.
+- <a name="^ask-users-monetize"></a>**Breaking the Game**: Asking users how to monetize the website.
 	- (Open Startup movement — writing about your learnings as you are building your product (e.g. analytics))
 - **Personal reviews in team meetings.** Plus Minus Next: What went well, what didn't, action steps.
 ^
