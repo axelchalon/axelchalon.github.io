@@ -47,7 +47,7 @@ date:   2025-08-04 12:13:12 +0200
 	- Heart: Redesign the experience
 	- Hand: Request support (delegate) or get training
 ^
-- **Partnered experiments.** Partnered pacts. (Partnered commitments.)
+- <a name="^partnered"></a>**Partnered experiments.** Partnered pacts. (Partnered commitments.)
 	- Commit with a partner on trying out something for a set period of time. E.g. with romantic or sexual partners.
 		- "Let's get married for one year." "Let's have a fake wedding and see how it feels." "Let's live together for a week." (e.g. handfasting (temporary marriage))
 	- **Trial period.** "You cannot know if you would like to live in a city by spending one afternoon there." (× [trial decisions (Clear Thinking)]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}#^trial-decision))

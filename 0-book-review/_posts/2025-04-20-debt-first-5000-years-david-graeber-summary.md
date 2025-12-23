@@ -28,7 +28,7 @@ date: 2025-04-20 14:13:12 +0200
 ^
 # Exchange & credit
 - **Exchanges pre-suppose & imply equality.** One cannot engage in trade or exchanges in a hierarchical relationship (with somebody below or above one's league).
-	- **Special gifts vs gifts from character.** Give once and reciprocity is likely. Give repeatedly and this is seen as part of your character, and reciprocity is less likely. Being seen as equal is the basis for reciprocity. 
+	- <a name="^irregularity-for-reciprocity"></a>**Special gifts vs gifts from character.** Give once and reciprocity is likely. Give repeatedly and this is seen as part of your character, and reciprocity is less likely. Being seen as equal is the basis for reciprocity.
 	- **Hierarchical relationships work with customs.** In hierarchical relationships, precedents form the basis of reference for fairness or what is to be expected. Especially in hierarchical relationships, any action can set a precedent and be dangerous because of it.
 - "Spheres of exchanges": categories of objects deemed of comparable value, that can be traded with each other (e.g. pig & shoes; cloths & spears...)
 ^

@@ -29,7 +29,7 @@ date:   2025-12-10 12:13:12 +0200
 			- Spend 80% of your efforts on the lead.
 		- Commander's Intent (× [Culture Map (holistic cultures)]({% link 0-book-review/_posts/2025-12-05-culture-map-erin-meyer-summary.md %}#^holistic-specific)): goal for the action (becomes more concrete as you go down the hierarchy). "To do X in order to do Y." When X is made impossible, you know to become creative to do Y.
 		- **More good choice is less good choice.** Irrelevant uncertainty: two good alternatives and you're more likely to pick the bad one.
-	- **Unexpected**
+	- <a name="^unexpected"></a>**Unexpected**
 		- Use surprise — an emotion whose function is to increase alertness and cause focus — to grab people's attention.
 			- All emotions have a purpose. **The purpose of surprise is to jolt us to attention.** (Surprise: eyebrows going up, widening are eyes to see better — as opposed to anger: narrowing our eyes so we can focus on a known problem.)
 		- To get attention: **Go off the script.** Break a pattern. (× hospitality) — the stuff that humanity is made of. (× [The Erotic Mind (break character)]({% link 0-book-review/_posts/2025-10-20-erotic-mind-jack-morin-summary.md %}#^break-character); [Improvise (Authenticity: Do not plan, do not have a script)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^authenticity); [Improvise ("If you do something weird, I'll do something weirder")]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^weird-weirder); [Tiny Experiments (breaking the game, asking users how to monetize)]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}#^ask-users-monetize)) (× Enclave mini-van car safety ad; + "Didn't see that one coming? No one ever does" — × [let people come to the conclusion themselves, experience the insight for themselves]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}#^own-conclusion)) (× Gal.) (× Liberators International; FIT (Ekman); The Statement (Crystal Pite); Bad Nature; asking out directly instead of playing games in relationships, etc.)
@@ -37,7 +37,7 @@ date:   2025-12-10 12:13:12 +0200
 		- **Find what is counter-intuitive about your message** — leverage it (for surprise). Find unexpected implications. **Common sense is the enemy of stickiness.** ("the best customer service in industry" — make it more vivid or extreme, tell stories)
 		- **Use [concrete]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}#^concrete) thought experiments to unexpected effect.** "If everyone in the US gave up one soft drink a month, we could double our current aid to Africa." (× The Wikipedia Move™)
 		- **Surprise needs to be relevant.** (Just as Simple needs to be substantial.) Surprise doesn't last — you need to generate interest and curiosity.
-			- **Post-dictable:** surprising, but that, in hindsight, you could have seen coming.
+			- **Post-dictable:** ("you could have seen it coming") surprising, but that, in hindsight, you could have seen coming.
 		- **Open loops.** Open gaps in people's knowledge. First "Huh?", then "Aha!". Leverage curiosity — the intellectual need to answer questions and close open patterns. Start your class with a mystery, solve it at the end. **Open loops to hold people's interest.** "What questions do I want my audience to ask?" Set the context and give people enough backstory that they start to care about the gaps in their knowledge.
 			- **All sticky media relies on open loops.** (× Hooked)
 				- Movies: What will happen? (also: Teasers)
@@ -82,7 +82,7 @@ date:   2025-12-10 12:13:12 +0200
 	- **Emotional**
 		- **Piggy-back on things people feel emotional about.**
 		- **Leverage self-interest** in your communication — how your customers' life will improve. Emphasize benefits instead of features ("what's in it for me"). (× [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}))
-			- "Spell out the benifit of the benefit" — not drill bits, not holes, but a way to hang their children's pictures.
+			- "Spell out the benefit of the benefit" — not drill bits, not holes, but a way to hang their children's pictures.
 		- Two models for making decisions (James March, Stanford): consequences, or identity. Identity: "What would someone like me do?" (also × "Texans don't litter", cf [Nudge]({% link 0-book-review/_posts/2024-03-30-nudge-summary.md %}#^texans))
 		- We care more about an individual than about the mass.
 		- Primed to feel vs primed to calculate (e.g. relationally).
@@ -107,12 +107,12 @@ date:   2025-12-10 12:13:12 +0200
 ^
 - Plan your days precisely. By simulating the next day, you become aware of things you might have overlooked.
 ^
-- Meta: Elements of Book-Writing ([Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}#^book-writing))
+- Meta: Elements of Book-Writing (× [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}#^book-writing))
 	- Start with a strong story.
 	- Use sticky mnemonics (SUCCESs, etc. — cf also "Very Few Wizards Ask Properly" ([The Mom Test]({% link 0-book-review/_posts/2025-08-04-mom-test-rob-fitzpatrick-summary.md %})), etc.)
 	- Provide a clear method/framework/model, then go through each element chapter by chapter.
 	- Use cliff-hangers at the end of chapters or in the introduction of the chapter. (Open loops — build anticipation.) (× Clickbait)
-	- Have asides throughout the book (cf practical case studies ("Clinics") in [Made to Stick]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}) and Power of Moments; blurbs in [I Will Teach You To Be Rich]({% link 0-book-review/_posts/2025-07-02-i-will-teach-you-to-be-rich-summary.md %})). Parallel plots. To hammer the point home.
+	- Have asides throughout the book (cf practical case studies ("Clinics") in [Made to Stick]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}) and [The Power of Moments]({% link 0-book-review/_posts/2025-12-22-power-of-moments-chip-dan-heath-summary.md %}); blurbs in [I Will Teach You To Be Rich]({% link 0-book-review/_posts/2025-07-02-i-will-teach-you-to-be-rich-summary.md %})). Parallel plots. To hammer the point home.
 	- Hammer the point home with many examples and coming at it from different approaches and fields. Also stories.
 	- Funny names for ideas (The Sinatra Test) ­— but with reason.
 	- Short-ish chapters. (You could write a book out of standalone blog posts.)

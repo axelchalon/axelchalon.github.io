@@ -41,7 +41,8 @@ const obsidianFileToWebsiteFile = {
     "Feng Shui That Makes Sense": "2025-09-29-feng-shui-that-makes-sense-cathleen-mccandless-summary.md",
     "The Erotic Mind": "2025-10-20-erotic-mind-jack-morin-summary.md",
     "The Culture Map": "2025-12-05-culture-map-erin-meyer-summary.md",
-    "Made to Stick": "2025-12-10-made-to-stick-chip-dan-heath-summary.md"
+    "Made to Stick": "2025-12-10-made-to-stick-chip-dan-heath-summary.md",
+    "The Power of Moments": "2025-12-22-power-of-moments-chip-dan-heath-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {
