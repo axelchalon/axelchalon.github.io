@@ -43,7 +43,8 @@ const obsidianFileToWebsiteFile = {
     "The Culture Map": "2025-12-05-culture-map-erin-meyer-summary.md",
     "Made to Stick": "2025-12-10-made-to-stick-chip-dan-heath-summary.md",
     "The Power of Moments": "2025-12-22-power-of-moments-chip-dan-heath-summary.md",
-    "Kitchen Confidential": "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md"
+    "Kitchen Confidential": "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md",
+    "All the Living and the Dead": "2025-12-22-all-the-living-and-the-dead-hayley-campbell-summary.md"
 };
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
 function obsidianToJekyll(obsidian) {

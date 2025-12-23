@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**Xiu Xiu**, Takeaway Shows and Improvisation"
+title:  "Xiu Xiu, Takeaway Shows and Improvisation"
 date:   2014-12-30 14:13:12 +0200
 ---
 

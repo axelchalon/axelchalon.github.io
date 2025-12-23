@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**Animal Collective** and improvisation"
+title:  "Animal Collective and improvisation"
 date:   2014-12-30 14:13:12 +0200
 ---
 Lately, I've been looking for improvised music.

@@ -136,7 +136,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-12-22-power-of-moments-chip-dan-heath-summary.md",
   
   "Kitchen Confidential":
-    "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md"
+    "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md",
+  
+  "All the Living and the Dead":
+    "2025-12-22-all-the-living-and-the-dead-hayley-campbell-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

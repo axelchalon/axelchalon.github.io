@@ -21,7 +21,7 @@ Here are some scraps from my reading of Anthony Bourdain's very entertaining, in
 - **Quoting staggering prices**: "the more it cost, the more people wanted it" — "business was suddenly very, very good."
 - Ingredients: savoir-faire, partners, drugs, opportunities.
 - Dirty toilet, dirty kitchen.
-- "**Your body is *not* a temple. It's an amusement park. Enjoy the ride.**"
+- <a name="^amusement-park"></a>"**Your body is *not* a temple. It's an amusement park. Enjoy the ride.**"
 - Pros don't pivot — redouble efforts on original vision, know how much they're willing to lose before pulling the plug.
 - **Character trumps skills or employment history.** "Skills can be taught. Character you either have or don't have."
 - Bigfoot — paragon of integrity and values.

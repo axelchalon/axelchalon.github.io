@@ -16,7 +16,7 @@ date:   2025-12-22 12:13:12 +0200
 ---
 <br>
 - **Life is measured in moments.** (× [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) Moments give shape to time.
-	- **A few minutes can change a life.**
+	- <a name="^minutes"></a>**A few minutes can change a life.**
 - **Understand when special moments are needed.*** Mark special occasions with a special moment. Transitions, decisions, milestones.
 	- Couch to 5k: many milestones. (Same for Duolingo, drum textbooks, etc. — × [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) — "many intermediate "finish lines"".
 - **You can deliberately create moments with people.** Terminal cancer patient organizing special dinners with each of his close friends.
@@ -30,9 +30,9 @@ date:   2025-12-22 12:13:12 +0200
 	- **Moments make a transformation official.** Make a moment to mark your transition to others — for there to be a "before" and an "after". Team meeting to apologize as a boss, to allow to call out on bad behaviour and distinguish between "old me" and "new me".
 		- **Create a reset point (make a moment) for others to notice change.** — or nudge them to behave differently.
 	- **Moments signify a transformation to your subconscious** (× [symbolic rituals (Psycho-Cybernetics)]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^symbolic-rituals)) – cf Hero's Journey ([The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %})). 
-- **Treasure chest**: collection of artefacts of the moments that defined us (× "thousand of meaningless things filled with meaning for someone unknown" (All The Living and The Dead))
+- **Treasure chest**: collection of artefacts of the moments that defined us (× "thousand of meaningless things filled with meaning for someone unknown" ([All the Living and the Dead]({% link 0-book-review/_posts/2025-12-22-all-the-living-and-the-dead-hayley-campbell-summary.md %})))
 - Defining moments can be positive (pride) or negative (humiliation, anger, trauma, etc. – × Tyrone ([Kitchen Confidential]({% link 0-book-review/_posts/2025-12-22-kitchen-confidential-anthony-bourdain-summary.md %})))
-	- **Moments of pride are moments that define us** – moments of achievement, courage.
+	- <a name="^o78o2g"></a>**Moments of pride are moments that define us** – moments of achievement, courage. ^glt48x
 ^
 - **EPIC**: Elevation (boost sensory appeal — nice dinner, massage, environment, etc.), Pride, Insight (Self-insight), Connection
 ^
