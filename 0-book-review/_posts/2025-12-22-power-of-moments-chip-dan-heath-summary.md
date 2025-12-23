@@ -31,7 +31,7 @@ date:   2025-12-22 12:13:12 +0200
 		- **Create a reset point (make a moment) for others to notice change.** — or nudge them to behave differently.
 	- **Moments signify a transformation to your subconscious** (× [symbolic rituals (Psycho-Cybernetics)]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^symbolic-rituals)) – cf Hero's Journey ([The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %})). 
 - **Treasure chest**: collection of artefacts of the moments that defined us (× "thousand of meaningless things filled with meaning for someone unknown" (All The Living and The Dead))
-- Defining moments can be positive (pride) or negative (humiliation, anger, trauma, etc. – × Tyrone (Kitchen Confidential))
+- Defining moments can be positive (pride) or negative (humiliation, anger, trauma, etc. – × Tyrone ([Kitchen Confidential]({% link 0-book-review/_posts/2025-12-22-kitchen-confidential-anthony-bourdain-summary.md %})))
 	- **Moments of pride are moments that define us** – moments of achievement, courage.
 ^
 - **EPIC**: Elevation (boost sensory appeal — nice dinner, massage, environment, etc.), Pride, Insight (Self-insight), Connection

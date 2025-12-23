@@ -18,7 +18,7 @@ date:   2025-12-05 12:13:12 +0200
 - **Communication style: explicit/implicit** (direct/indirect).
 	- **Implicit cultures** (Asia, to a lesser extent France (Jean de la Fontaine, rewriting letters politely, etc.))
 		- **Implicit cultures emerge from a long shared history, often relationship-based.**
-			- (× Kitchen Confidential, [Shop Class as Soulcraft]({% link 0-book-review/_posts/2024-10-23-shop-class-as-soulcraft-summary.md %}): time spent together making for inside jokes etc.; subcultures (TPOT))
+			- (× [Kitchen Confidential]({% link 0-book-review/_posts/2025-12-22-kitchen-confidential-anthony-bourdain-summary.md %}), [Shop Class as Soulcraft]({% link 0-book-review/_posts/2024-10-23-shop-class-as-soulcraft-summary.md %}): time spent together making for inside jokes etc.; subcultures (TPOT))
 			- Long-term couples know each other well, pick up on subtle cues; high context cultures (implicit) as requiring emotional intelligence.
 			- Insular history: e.g. Japan (no overseas contact for a long time)
 		- **<span style="position:relative; top: 10px;">"No"</span> is said between the lines.** (Asia — especially to clients/bosses)

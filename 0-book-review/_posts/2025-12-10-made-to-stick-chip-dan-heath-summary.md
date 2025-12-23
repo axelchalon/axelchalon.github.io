@@ -105,7 +105,7 @@ date:   2025-12-10 12:13:12 +0200
 - When a concept has been diluted, give it a new name. ("Honoring the Game" instead of sportsmanship, etc.) — × [Art of Gathering (invent a name to remove associations)]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^name))
 - **Chapels.** Ask locals to help locally, and the whole land is covered. Sweeping in front of one's doorstep — we wouldn't need street sweepers.
 ^
-- Plan your days precisely. By simulating the next day, you become aware of things you might have overlooked.
+- <a name="^plan-day-ahead"></a>Plan your days precisely. By simulating the next day, you become aware of things you might have overlooked.
 ^
 - Meta: Elements of Book-Writing (× [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}#^book-writing))
 	- Start with a strong story.

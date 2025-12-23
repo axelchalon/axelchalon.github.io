@@ -133,7 +133,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-12-10-made-to-stick-chip-dan-heath-summary.md",
   
   "The Power of Moments":
-    "2025-12-22-power-of-moments-chip-dan-heath-summary.md"
+    "2025-12-22-power-of-moments-chip-dan-heath-summary.md",
+  
+  "Kitchen Confidential":
+    "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
