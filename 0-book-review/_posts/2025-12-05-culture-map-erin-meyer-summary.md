@@ -45,7 +45,7 @@ date:   2025-12-05 12:13:12 +0200
 			- The Chinese are relatively more direct than the Japanese.
 	- Indirectness can be overruled by hierarchy (Asia, Russia): indirect towards the boss but direct towards subordinates.
 	- **Your culture determines whether you can hear the negative feedback given to you.** (× emotional intelligence; reading the room, Japanese "reading the air", KY/kuuki yomenai, "someone who cannot read the air", who doesn't pick up on social cues)
-- **Persuasion** (principles/practical ; theory/practice)
+- <a name="^persuasion"></a>**Persuasion** (principles/practical ; theory/practice)
 	- **Principles vs practice**
 		- **Principles:** (DE, FR)
 			- **Start with philosophy, principles, the big picture.** Start with the abstract.

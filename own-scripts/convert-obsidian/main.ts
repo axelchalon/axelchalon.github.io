@@ -139,7 +139,11 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-12-22-kitchen-confidential-anthony-bourdain-summary.md",
   
   "All the Living and the Dead":
-    "2025-12-22-all-the-living-and-the-dead-hayley-campbell-summary.md"
+    "2025-12-22-all-the-living-and-the-dead-hayley-campbell-summary.md",
+
+  "The 2-Hour Cocktail Party":
+    "2025-12-23-the-two-hour-cocktail-party-nick-gray-summary.md"
+
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

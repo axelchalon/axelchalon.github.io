@@ -19,7 +19,7 @@ tags:
 	- **Go to industry meetups**
 		- Be in the arena together with your customer base. Give free talks to hang out with speech givers (your target audience).
 	- Or pull: (× dating; Pavlina)
-		- **Create your own industry meetup**
+		- <a name="^create-own-meetup"></a>**Create your own industry meetup**
 		- Teach/Speak (also on YouTube, etc.). Teach to gain credibility and attract future customers.
 		- Blog (creates leads for customer interviews)
 - **Is the person you're interviewing the target audience?**
@@ -73,7 +73,7 @@ tags:
 		- "I never consider rejection to be a real failure. **But not asking certainly is**."
 		- "The rejection rate is irrelevant." The more you try, the more your chances at jackpots. And jackpots are lifelong. (Every jackpot has its jill(s) (or crackpots)) **Absolute returns.**
 		- **Frame as research/insights ([Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) rather than focussing on the immediate outcome.** One-shots vs investments. "If you have $50k and spend $5k to learn you're running down a dead end, that's awesome. If you have only one shot, that's bad news." ⇒ **Commit a few years to a path, have clear takeaways.** (× The Game; [Clear Thinking]({% link 0-book-review/_posts/2025-04-26-clear-thinking-shane-parrish-summary.md %}) — clear decisions; [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) **<mark>Invest into knowing what doesn't work</mark>** (and what does — but **invest in getting answers**, × [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %}))
-			 - "**Scary ideas/questions save you time and money.**" Tackle important questions now to waste less time pursuing unimportant things or pursuing dead ends ("start earlier to benefit longer" (Lucy JC))
+			 - <a name="^benefit-longer"></a>"**Scary ideas/questions save you time and money.**" Tackle important questions now to waste less time pursuing unimportant things or pursuing dead ends ("start earlier to benefit longer" (Lucy JC))
 			 - Discovering you're wrong is frustrating, but it's progress. "Learning that your beliefs are wrong **is frustrating, but it's progress**." **Know which of your beliefs are wrong.** Be open to being corrected. **Strong beliefs, loosely held.**
 			 - Inconclusive customer interviews are a good thing — you subsequently don't invest time on something that will fail. "You just saved yourself however much time and money it would have cost to try building and selling it."
 	- **Deflect compliments** like Neo.
@@ -114,7 +114,7 @@ tags:
 	- **Personalized pitch, each time.** Don't pitch blind; do your research on the customer, figure out this particular customer's unique situation (also × dating/asking out — why that person specifically, or why it's such a great match etc)
 - Asking for advice/advisors (× wingman/wingwoman)
 	- Secretly screen them for your advisory board — tell them afterwards.
-	- **"Very Few Wizards Ask Properly"** (VFWAP) (in any order) ⇒
+	- <a name="^vfwap"></a>**"Very Few Wizards Ask Properly"** (VFWAP) (in any order) ⇒
 		- Vision (intro: what you're trying to solve — without mentioning your idea; "half-sentence of how you're making the world better" — your spiritual quest (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %})))
 		- Frame (explain and clarify intention: e.g. not trying to sell to the person) (× asking out)
 			- (× [The Art of Gathering]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}): make it clear what the meeting is for)
