@@ -133,8 +133,8 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - **Record and document everything when improvising**, to come back to the ideas generated. "We're constantly generating detailed notes on focus points and experiments to test to prevent special moments from getting lost in the churn of excitement." Take notes in the moment; review them shortly after.
 - **Maintain momentum. Temporarily skip hurdles.** "A bridge is easier to build when it's clear what's on either side of it." You know where a center puzzle piece should go if it's the only piece missing (vs on an empty tabletop).
 ^
-- **Distill a fully-fleshed work to its essence.**
-- <a name="^remove-to-perfection"></a>**Perfection is stripping down, not adding up.**
+- <a name="^distill"></a>**Distill a fully-fleshed work to its essence.**
+- <a name="^remove-to-perfection"></a>**Perfection is stripping down, not adding up.** Remove to perfection.
 	- **"Perfection happens when there's nothing more to remove, not nothing more to add."** (Antoine de Saint-Exupéry) 
 	- **Ruthless edits:** strip the piece down to less than the essentials; add back and see if the additions actually make the piece better or are just fillers.
 	- **Not more for the sake of more, but more for the sake of better.**
@@ -148,11 +148,11 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - **When making art, the audience comes last.**
 - When receiving feedback from an audience, **listen to understand the person, not the work** (not what they're talking about) — empathetic listening (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}))
 ^
-# Completion & release time
+# <a name="^release"></a>Completion & release time
 - **Complete projects** so you can move on to the next one. Being impatient to begin the next project: **"a good problem to have."**
 	- **Complete art fast or it loses relevance.** Art captures a moment in the life of an artist.
 ^
-- **Once completed, a work of art gets released (into the world)**
+- <a name="^52a314"></a>**Once completed, a work of art gets released (into the world)**
 - **Fear of completion (perfectionism) is fear of permanence** — "commitment phobia"
 - **We only get to experience works of art that have been completed** — maybe some artists made even greater art than today's masterpieces, but they never completed it.
 - Declare the work completed, or it goes on forever. **There are forever changes to be made — every work of art is simply an iteration.** (× [The Art of Gathering: an event should end, not stop]({% link 0-book-review/_posts/2024-12-30-priya-parker-art-of-gathering-summary.md %}#^end-not-stop))

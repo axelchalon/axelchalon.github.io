@@ -49,7 +49,7 @@ date:   2024-12-30 11:10:09 +0200
 - When people sign up is when the gathering begins.
 - **Gather intelligence on your guests ahead of the meeting**, using e.g. one-on-ones or (possibly anonymous) pre-game workbooks (prompts). (× [The Design of Everyday Things]({% link 0-book-review/_posts/2024-02-07-design-everyday-things-personal-notes.md %}#^understand-people))
 	* Let people contribute to the gathering as pre-game.
-- **Prepare people, not things.**
+- <a name="^prepare-people"></a>**Prepare people, not things.**
 ^
 # Anteroom
 * **Make use of the "waiting-room" time**, e.g. to let guests connect with each other.

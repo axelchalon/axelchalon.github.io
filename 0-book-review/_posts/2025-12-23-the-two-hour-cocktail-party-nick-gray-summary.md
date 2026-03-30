@@ -118,7 +118,7 @@ Hello human. Here is method to make connection with other humans. See also [The 
 	- **Group photo + <mark>Third ice-breaker</mark>** at 20.20
 		- Group photo (selfie) becomes **social proof** that can be used to promote your next event.
 		- Re-state the Why of your icebreakers. "I'm so happy to have you all here. The reason I like to do these icebreakers is that I want you all to meet and talk to more people at my party. Maybe you'll hear something neat that inspires you to strike up a new conversation."
-		- Name, what you do, +advanced question (best thing you purchased this year / great piece of media you consumed recently / one habit you're proud of and how you developed it).
+		- Name, what you do, +advanced question (best thing you purchased this year / great piece of media you consumed recently / one habit you're proud of and how you developed it / what's your current projects).
 	- **Last Call** at 20.50 — gives 10 minutes for people to leave.
 		- "What a great group tonight. I am so happy with how things turned out. It brings me great joy to see so many of my friends talking together. But the time now is 8:50. I said that this party would go until 9:00. I'm going to respect your time because I know it's a school night, and I want you to come back when I host another party. We're going to finish up soon. There are about ten minutes left if you want to grab one more drink and say your goodbyes. Thank you for all coming."
 		- (Optional closing circle/cheer.)

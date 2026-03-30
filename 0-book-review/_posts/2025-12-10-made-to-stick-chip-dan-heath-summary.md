@@ -52,7 +52,7 @@ date:   2025-12-10 12:13:12 +0200
 		- Use sticky analogies.
 		- **Use analogies to aid understanding.** "A pomelo is basically a supersized grapefruit with a very thick and soft rind." "Automobiles are horseless carriages." Use what people already know or are familiar with.
 			- "**Basically...**"
-				- In film: "**high-concept pitches**" (*Speed* is "*Die Hard* on a bus", *13 Going on 30* is "*Big* for girls" Alien is "*Jaws* on a spaceship")
+				- <a name="^high-concept-pitches"></a>In film: "**high-concept pitches**" (*Speed* is "*Die Hard* on a bus", *13 Going on 30* is "*Big* for girls" Alien is "*Jaws* on a spaceship")
 				- (× Music Menu Meeting: e.g. "Basically Animal Collective's Strawberry Jam album but with strings" — starting from common reference points; describing as a mix of influences (cf band descriptions); describing your band by its influences when searching for band members)
 				- Starting from something existing & then editing (carving) — rather than starting from scratch (cf mixing through a bus)
 			- <a name="^generative-analogies"></a>Generative analogies: **Analogies become springboards for creative thinking.** (Music making; the brain as a computer (mental models)) (× Steve Pavlina's thought experiments)
