@@ -13,12 +13,12 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 ^
 # Life, art and creativity
 - <a name="^living-is-creating"></a>**We are all creative simply by means of living.** Living, we are constantly creating our reality. Living is a creative act. We exist as creative beings in a creative universe. Life is creation.
-	- **Creatives vs artists.** Creatives make things happen more generally.
+	- **Creatives vs artists.** Creatives create, artists create art. Creatives make things happen.
 	- We are constantly designing our experience of reality — **whether we do so consciously or unconsciously.**
-	- **We are immersed in a field of undifferentiated matter.** We can go any which way at any moment; we can call forth anything at any moment.
+	- <a name="^undifferentiated-matter"></a>**We are immersed in a field of undifferentiated matter.** We can go any which way at any moment; we can call forth anything at any moment.
 - <a name="^art-the-fruit-of-humans"></a>**Art is the fruit of humanity.** Humans produce art, just as trees produce flowers and fruits.
 - **Art is beyond utilitarianism** — we do not create a work of art for it to be useful to somebody else; only to express who we are. 
-- **Artistic creations are externalized dreams** — creations of the subconscious, not fully understood by the person, and revealing them.
+- **Artistic creations are externalized dreams** — creations of the subconscious, not fully understood by the person, and revealing them. (× [On Writing]({% link 0-book-review/_posts/2026-03-30-on-writing-stephen-king-summary.md %}) – art as telepathy)
 ^
 - Reason for making art: "**When we're making things we love, our mission is accomplished. There's nothing at all to figure out.**"
 - **Be near what you love.** Work in adjacent spheres.
@@ -26,7 +26,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - <a name="^unique-fruits"></a>**Every production, every work of art, is unique and different — incomparable.** Just like the different fruits and flowers of a tree. We are all producing art as so many different trees bearing fruit.
 - <a name="^unique-channel"></a>**Every person is a unique channel to a higher wisdom.**
 - **We're all different and we're all imperfect.**
-	- **The imperfections are what makes each of us and our work interesting.**
+	- **The imperfections are what makes each of us and our work interesting.** (× [How to Know a Person]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}))
 - **If you're not up for it, no one else can do it.** (No one else can create your art.) Your work is representative of your self. You're the only person who can create the works that can come out of you. You are the only person who can do your art.
 - **"The personal is the universal"** (Carl Rogers) (× [The Hero With a Thousand Faces]({% link 0-book-review/_posts/2025-03-02-joseph-campbell-hero-thousand-faces-summary.md %}))
 - **"The true instrument is you":** "No matter what tools you use to create, the true instrument is you." We are the instruments of the universe.
@@ -38,16 +38,16 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 - **"The familiar coming back to us in an unfamiliar form"** — art that strikes us.
 - **You either go with the trends, or against them.**
 ^
-- **"Some things are too important to be taken seriously."** (Oscar Wilde) Goof around with art.
+- **"Some things are too important to be taken seriously."** (Oscar Wilde) Goof around with art. Play.
 ^
 - **Detached living**: "I wasn't expecting that plot twist. I wonder what's going to happen to our hero next."
 - **There is always a next scene,** and that next scene may be one of great beauty and fulfillment.
 - **"Scope of life":** how broadly are you living?
 ^
 # Creativity, life and art
-- **Creativity is always present. You just choose not to engage**. (× [Improvise: out of everything, not out of nothing]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^out-of-everything)).
+- **Creativity is always present. You just choose not to engage**. (× [Improvise: out of everything, not out of nothing]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^out-of-everything)) (× [undifferentiated matter]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^undifferentiated-matter))
 - **We are blessed to be able to create.** It's a privilege.
-- **Inspiration is a river: if we contain it, it stops flowing.** By producing and sharing our work, we allow the river of inspiration to continue flowing. By hoarding our ideas, we receive fewer ideas.
+- **Inspiration is a river: if we contain it, it stops flowing.** (Also for life paradigms, not blocking the spontaneous behaviour.) By producing and sharing our work, we allow the river of inspiration to continue flowing. By hoarding our ideas, we receive fewer ideas.
 ^
 - <a name="^artistic-community"></a>**Be part of an artistic community.**
 - **The same thing done by different people yields different results** — because people are different. Emulation is adaptation. (× Chekhov "If you were to ask two equally talented artists to paint the same landscape with the utmost exactitude, the result would be two markedly different pictures."; × [Chekhov (same things done differently)]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}#^same-thing-differently); )
@@ -97,7 +97,7 @@ Here are my 78 bullet points on Rick Rubin's *The Creative Act: A Way of Being* 
 		- Contexts for loudness — contexts for quietness. Public speaking — sacred dance spaces.
 		- (× <a href="#^contrasts-amplify">Juxtaposition</a>: successive contrasts amplify differences; [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}))
 		- (× [Psychedelics Revealing]({% link 0-book-review/_posts/2025-03-10-aidan-lyon-psychedelic-experience-revealing-mind-summary.md %}#^turn-up-music-turn-down-noise): "Turn up the music or turn down the noise")
-	- **Create a piece for your favourite artist to perform it** — or for an artist very different from you to perform it.
+	- **Create a piece for your favourite artist to perform** — or for an artist very different from you to perform.
 		- (× <a href="#^delegate-execution">Delegate execution</a>) (× "à la manière de")
 		- (× Being temporarily in somebody else's mind: read memoirs.)
 	- **Paint a picture.** Use different senses to inspire. Start from the atmosphere (× [Chekhov]({% link 0-book-review/_posts/2025-03-18-michael-chekhov-to-the-actor-summary.md %}))

@@ -145,7 +145,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2025-12-23-the-two-hour-cocktail-party-nick-gray-summary.md",
 
   "On Writing":
-    "2026-03-30-on-writing-stephen-king-summary.md"
+    "2026-03-30-on-writing-stephen-king-summary.md",
+
+  "Unreasonable Hospitality": 
+    "2026-04-12-unreasonable-hospitality-will-guidara-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];

@@ -89,7 +89,7 @@ date:   2025-04-26 14:13:12 +0200
 ^
 - **Quantify tradeoffs.** How would of X to make it worth sacrificing Y? (Is this certification worth spending 10 hours on? Do I want to pay €20 to save five hours of work?)
 ^
-- <a name="^rules-to-prevent-decision-fatigue"></a>**Rules to prevent decision fatigue.** (× [XPs](https://x.com/axelchalon/status/1867018534360060146); × [Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)) — knowing your priorities help (× communicating your criteria when delegating)
+- <a name="^rules-to-prevent-decision-fatigue"></a>**Rules in order to prevent decision fatigue.** (× [XPs](https://x.com/axelchalon/status/1867018534360060146); × [Ulysses Pact]({% link 0-book-review/_posts/2023-03-15-your-symphony-of-selves-summary.md %}#^ulysses)) — knowing your priorities help (× communicating your criteria when delegating)
 - **Tripwires** (conditional rules) — prevents clouded judgment in the moment. "When/if X happens, we do Y" (e.g. Mt. Everest: if this point is not reached by that time, we abort the climb.)
 - <a name="^criteria"></a>**Communicate your criteria when delegating decision-making.** Explain how you make your decisions. (× AI automations; Wouter van den Bijgaart's talk at PKM Summmit 2025)
 	- Have it be clear for everyone what's the most important thing (e.g. the customer). (× [OKR]({% link 0-book-review/_posts/2024-02-18-measure-what-matters-john-doerr-summary.md %}) — picking the right metrics)

@@ -71,7 +71,7 @@ date:   2025-12-22 12:13:12 +0200
 	- **Preloading.** Planning the next day lets you notice ways to optimize it ahead of time, sleeping over it.
 	- **Role-play.** Don't just read about it. (e.g. conflict de-escalation; emergency response)
 - Connection
-	- Home visits of teachers to parents. "What matters to me" prompt to patients, for their well-being in the hospital.
+	- <a name="^home-visit"></a>Home visits of teachers to parents. "What matters to me" prompt to patients, for their well-being in the hospital.
 	- **Baggage-handling, not baggage-ignoring**: in customer support, acknowledge past calls & difficulties.
 	- Humour defuses.
 	- Teambuilding: create a synchronized moment, invite shared struggle, connect to meaning.

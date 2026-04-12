@@ -53,7 +53,7 @@ Here are some notes on Eric Jorgensons's ["The Almanack of Naval Ravikant"](http
 ^
 # General life 
 * "Almost all biases are time-saving heuristics. For important decisions, discard memory and identity, and focus on the problem."
-- Favour choices with short-term pain, by default (they are the ones with the long-term benefits)
+- <a name="^short-term-pain"></a>Favour choices with short-term pain, by default (they are the ones with the long-term benefits)
 * <a name="^alumni"></a>Be mindful of who you live with, who you surround yourself with and spend time with, and **which company you work for.** **"The single most important thing about a company is the alumni network you're going to build."** (× [Creative Being (artistic community)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^artistic-community)
 * You can only make progress and change when you're starting with the truth; when you're being honest with yourself. (× [Psycho-Cybernetics]({% link 0-book-review/_posts/2023-08-15-the-new-psycho-cybernetics-summary.md %}#^acknowledge))
 * "The greatest superpower is the ability to change yourself." Do not cling to your identity too much.

@@ -26,7 +26,7 @@ finished: 2026-03-11
 - **Consume a lot & create a lot** — to become a good writer.
 	- **"I don't read in order to study the craft; I read because I like to read."** "Yet there is a learning process going on." 70-80 books a year (as a "slow reader").
 		- **Enjoy everything** — **take inspiration from everything** (that you enjoy). "Chris and I liked just about any horror movie."
-	- **You cannot wow unless you've been wowed.**
+	- <a name="^wowed"></a>**You cannot wow unless you've been wowed.** You cannot blow minds unless you've been mindblown yourself (by others)
 	- **It doesn't feel like work if it's your calling.** "Four to six hours a day, every day, will not seem strenuous if you really enjoy doing these things and have an aptitude for them."
 	- "**Working hard and having fun.**" "Practice is invaluable (and should feel good, really not like practice at all)"
 - **Construct your toolbox and** build enough muscle to **carry it with you** (× drumming).
@@ -46,7 +46,7 @@ finished: 2026-03-11
 		- It will feel like reading a stranger's work — better so. Easier to kill someone else's darlings than your own.
 		- **Begin with a story, end with a theme.**
 			- Rewrite, having understood what your piece is actually about — and double in on it. (× [Creative Being (distill)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^distill))
-		- **Leave out the boring parts.** (× [Creative Being (remove to perfection)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^remove-to-perfection)) (× [Made to Stick (high-concept pitches)]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}#^high-concept-pitches)).
+		- <a name="^boring"></a>**Leave out the boring parts.** (× [Creative Being (remove to perfection)]({% link 0-book-review/_posts/2025-03-22-creative-act-way-being-rick-rubin-summary.md %}#^remove-to-perfection)) (× [Made to Stick (high-concept pitches)]({% link 0-book-review/_posts/2025-12-10-made-to-stick-chip-dan-heath-summary.md %}#^high-concept-pitches)).
 			- "Everyone has a history; and most of it isn't very interesting."
 ^
 - Find niche places to publish your work (or show yourself — communities, × TPOT)
@@ -56,7 +56,7 @@ finished: 2026-03-11
 - You cannot turn a bad writer into a competent writer — though you can turn a competent writer into a good writer.
 ^
 - No passive voice.
-- No adverbs.
+- <a name="^no-adverbs"></a>No adverbs.
 - No fancy words. Use the first word that comes to your mind, if it is appropriate and colorful.
 ^
 # Life

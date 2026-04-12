@@ -15,7 +15,7 @@ Here are some scraps from my reading of Anthony Bourdain's very entertaining, in
 ^
 --
 ^
-- **Impactful moments as a kid — that will shape one's whole life.** (× [core desire line (How to Know a Person)]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}#^core-desire-line)) (Anthony Bourdain's cold soup "wow moment"; AnCo).
+- <a name="^childhood"></a>**Impactful moments as a kid — that will shape one's whole life.** (× [core desire line (How to Know a Person)]({% link 0-book-review/_posts/2025-06-01-how-to-know-person-david-brooks-summary.md %}#^core-desire-line)) (Anthony Bourdain's cold soup "wow moment"; AnCo).
 - "**Whatever had the most shock value became my meal of choice"** — deliberately going for the experimental (music).
 - **"He knew, I think, that I had already been humiliated"** — nothing more to break; being "broken" by somebody as an curricular experience for a chef.
 - **Quoting staggering prices**: "the more it cost, the more people wanted it" — "business was suddenly very, very good."
