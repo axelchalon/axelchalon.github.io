@@ -117,7 +117,7 @@ _Those are my personal notes on Donald A. Norman’s book “The Design of Every
 		* **Design machines on the assumption that people will make errors.**
 			* **Minimize the opportunities for errors.**
 		* **Emphasize what the user could be mistaken about.**
-			* **Sensibility checks: equip machines with common-sense safeguards to prevent and detect unusual behaviour** (e.g. charging someone an inordinate amount of money).
+			* **Sensibility checks: equip machines with common-sense safeguards to prevent and detect unusual behaviour** (e.g. charging someone an inordinate amount of money). (cf P12)
 		* **Make it harder to do what cannot be reversed.**
 		* **Sterile Cockpit Configuration:** momentarily limit all communication to only what is relevant to the current situation, to prevent slips. "Sterile periods."
 			-  Create a system that minimizes or altogether precludes interruptions.

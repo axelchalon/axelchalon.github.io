@@ -11,7 +11,7 @@ date:   2024-05-22 14:13:12 +0200
 Some sparse personal notes on "At the Existentialist Café" by Sarah Bakewell, a very digestible introduction to existentialism and biography of its leading figures — also the most vivid depiction of not being self-conscious (Sartre) of any biography I've come across.
 ^
 * One's life project is elucidated by one's actions. **Through one's actions, the "fundamental project" of one's life slowly emerges.** (Sartre)
-	* **Our actions form a shape over time** (our life's "fundamental project"). Actions (over a lifetime) surface one's big project or theme.
+	* <a name="^shape-over-time"></a>**Our actions form a shape over time** (our life's "fundamental project"). Actions (over a lifetime) surface one's big project or theme.
 - "Life must be understood backwards, but lived forwards." (Kierkegaard)
 * <a name="^context"></a>**Freedom is contingent on a context.** ("The context for decisions") Freedom is contingent on a situation, in which to exert that freedom.
 	* Good news: life is fraught w/ them (× Frankl)

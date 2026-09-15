@@ -148,7 +148,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2026-03-30-on-writing-stephen-king-summary.md",
 
   "Unreasonable Hospitality": 
-    "2026-04-12-unreasonable-hospitality-will-guidara-summary.md"
+    "2026-04-12-unreasonable-hospitality-will-guidara-summary.md",
+
+  "The 12-Week Year": 
+    "2026-09-15-twelve-week-year-brian-moran-summary.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
@@ -189,7 +192,7 @@ function obsidianToJekyll(obsidian: string) {
 }
 
 Object.keys(obsidianFileToWebsiteFile).forEach(async obsFile => {
-  var obs = (await fs.readFile("/home/xenya/notes/obsidian/Life management/Notes and archives/Notes/Book notes/" + obsFile + ".md")).toString();
+  var obs = (await fs.readFile("/Users/axel/Obsidian/Life management/Notes and archives/Notes/Book notes/" + obsFile + ".md")).toString();
   var jk = obsidianToJekyll(obs);
   console.log(`Updating ${obsFile}...`);
   await fs.writeFile("../../0-book-review/_posts/" + obsidianFileToWebsiteFile[obsFile],jk);
