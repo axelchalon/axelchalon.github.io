@@ -58,7 +58,7 @@ finished: 2026-09-10
 ^
 - **Fear (of the new)**; aversion to the new: the amygdala makes us shy away from novelty, risk and uncertainty. For change to happen, we need to override it.
 	- Emotional cycle of change
-		- ![](https://xaxel.cc/assets/12wk/emotionalcycle.png)
+		- <img src="https://xaxel.cc/assets/12wk/emotionalcycle.png" alt="" style="width: 350px;">
 		- **Focus on your compelling vision when at the dip.**
 - **"Without a compelling reason, people will choose comfortable actions over uncomfortable ones.** People avoid short-term pain by default (× [Naval]({% link 0-book-review/_posts/2024-07-25-almanack-naval-ravikant-summary.md %}#^short-term-pain)). **Have a vision for the future that you want more than your short-term comfort.**
 - Make progress based on your vision every day. **"Did this day move me forward?"**
@@ -77,8 +77,8 @@ finished: 2026-09-10
 - **Track and record your progress each week** — good for motivation.
 	- Measurement builds self-esteem and confidence because it documents progress and achievement.
 	- **Lead & lag indicators.** Lead: measures of your execution; lag: measures of the results (dependent on the efficacy of the strategy).
-	- ![](https://xaxel.cc/assets/12wk/measuring1.png)
-	- ![](https://xaxel.cc/assets/12wk/measuring2.png)
+	- <img src="https://xaxel.cc/assets/12wk/measuring1.png" alt="" style="width: 230px;">
+	- <img src="https://xaxel.cc/assets/12wk/measuring2.png" style="width: 500px;">
 - **Problem of strategy vs execution.** Only by following through on a strategy (× [Tiny Experiments]({% link 0-book-review/_posts/2025-08-04-tiny-experiments-anne-laure-le-cunff-summary.md %})) can you gather clear data about the strategy. All failure is information. (× [failure (Improvise)]({% link 0-book-review/_posts/2022-12-15-improvise-max-dickins-summary.md %}#^failure))
 ^
 # Commitment
@@ -117,6 +117,6 @@ finished: 2026-09-10
 ^
 # Other 
 - Sample 12-week plan
-	- ![](https://xaxel.cc/assets/12wk/12wk1.png)
-	- ![](https://xaxel.cc/assets/12wk/12wk2.png)
-	- ![](https://xaxel.cc/assets/12wk/12wk3.png)
+	- <img src="https://xaxel.cc/assets/12wk/12wk1.png" alt="" style=" width: 470px; ">
+	- <img src="https://xaxel.cc/assets/12wk/12wk2.png" alt="" style=" width: 470px; ">
+	- <img src="https://xaxel.cc/assets/12wk/12wk3.png" alt="" style=" width: 470px; ">
