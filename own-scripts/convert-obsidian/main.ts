@@ -151,7 +151,10 @@ const obsidianFileToWebsiteFile: pr = {
     "2026-04-12-unreasonable-hospitality-will-guidara-summary.md",
 
   "The 12-Week Year": 
-    "2026-09-15-twelve-week-year-brian-moran-summary.md"
+    "2026-09-15-twelve-week-year-brian-moran-summary.md",
+
+  "Die with Zero":
+    "2026-10-06-die-with-zero-bill-perkins.md"
 };
 
 const privateNotes = ['Microsolidarity', 'Light the Music with a Beat'];
